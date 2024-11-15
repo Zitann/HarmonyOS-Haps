@@ -40,6 +40,7 @@
 | 电脑端安装器        | [点击下载](https://github.com/likuai2010/auto-installer/releases/download/1.2.4/AutoInstaller.Setup.1.2.4.exe) | [Link](https://github.com/likuai2010/auto-installer/releases) | [likuai2010 (xiaobai)](https://github.com/likuai2010) | Auto-Installer是基于开源OpenHarmony项目的Hdc工具。该项目致力于为简化开发调试体验。我们正在积极开发中，以满足鸿蒙开发者随时调试应用需求。 |
 | 鸿蒙调试助手        | [点击下载](https://github.com/likuai2010/auto-installer/releases/download/1.4.0/auto-installer.hap) | [Link](https://github.com/likuai2010/auto-installer/releases) | [likuai2010 (xiaobai)](https://github.com/likuai2010) | Auto-Installer是基于开源OpenHarmony项目的Hdc工具。该项目致力于为简化开发调试体验。我们正在积极开发中，以满足鸿蒙开发者随时调试应用需求。 |
 | Clash for HarmonyOS | [点击下载](https://github.com/likuai2010/ClashMeta/releases/download/1.2.2/ClashForHarmonyOS-default-unsigned.hap) | [Link](https://github.com/likuai2010/ClashMeta/releases)     | [likuai2010 (xiaobai)](https://github.com/likuai2010) | HarmonyOS Next 首款GoLang开源移植应用 仅学习使用             |
+| 网易云音乐社区版    | [点击下载](https://github.com/Zitann/HarmonyOS-Haps/raw/refs/heads/main/haps/NetEase-community-default-unsigned.hap) | 暂无                                                         | [Okysu (Jin & Hai.)](https://github.com/Okysu) | 因为想听Dota2音乐，做了鸿蒙Next版的网易云客户端              |
 | 开源阅读            | [点击下载](https://github.com/mgz0227/legado-Harmony/releases/download/Beta1028/Legado-unsigned.hap) | [Link](https://github.com/mgz0227/legado-Harmony/releases)   | [mgz0227 (miaogongzi)](https://github.com/mgz0227)    | 开源阅读鸿蒙版仓库                                           |
 | Web-Telegram        | [点击下载](https://github.com/XHXYT/Web-Telegram-for-OpenHarmony/releases/download/1.3.5/Web-Telegram-for-HarmonyOS-NEXT_1.3.5-unsigned.hap) | [Link](https://github.com/XHXYT/Web-Telegram-for-OpenHarmony/releases) | [XHXYT (XHXYT)](https://github.com/XHXYT)             | 使用网页版电报封装的一个OpenHarmony平台应用，支持文件的下载与上传等功能。绝赞开发中(≧∇≦)/ |
 | ppsspp              | [点击下载](https://github.com/likuai2010/auto-installer/releases/download/0.0.0/ppsspp-default-unsigned.hap) | [Link](https://github.com/likuai2010/auto-installer/releases) | [likuai2010 (xiaobai)](https://github.com/likuai2010) | PPSSPP是一个自由、开源、跨平台的相较于JPCSP等其他同类模拟器，PPSSPP更专注性能与可移植性的提升。 |
@@ -56,12 +57,13 @@
 
 如果您在使用过程中遇到无法使用的HAP安装包，或者发现有其他有用的HAP安装包，欢迎在issue中进行说明。我们将尽快处理您的反馈，确保资源的有效性和更新。同时，我们非常感谢您的贡献，帮助我们不断改进和丰富本仓库的内容。
 
-### 鸣谢
+### 鸣谢(不分先后)
 
 
 - [likuai2010 (xiaobai)](https://github.com/likuai2010)
 - [mgz0227 (miaogongzi)](https://github.com/mgz0227)
 - [XHXYT (XHXYT)](https://github.com/XHXYT)
+- [Okysu (Jin & Hai.)](https://github.com/Okysu)
 
 <!-- links -->
 
