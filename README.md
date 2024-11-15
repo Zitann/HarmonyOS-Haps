@@ -22,17 +22,10 @@
 
 ## 目录
 
-- [上手指南](#上手指南)
-  - [开发前的配置要求](#开发前的配置要求)
-  - [安装步骤](#安装步骤)
-- [文件目录说明](#文件目录说明)
-- [开发的架构](#开发的架构)
-- [部署](#部署)
-- [使用到的框架](#使用到的框架)
-- [贡献者](#贡献者)
-  - [如何参与开源项目](#如何参与开源项目)
-- [版本控制](#版本控制)
-- [作者](#作者)
+- [声明](#声明)
+- [Hap安装包列表](#Hap安装包列表)
+- [使用教程](#使用教程)
+- [反馈](#反馈)
 - [鸣谢](#鸣谢)
 
 ### 声明
@@ -56,7 +49,7 @@
 
 开启手机开发者模式，并打开无限调试，使用[电脑端安装器](https://github.com/likuai2010/auto-installer/releases/download/1.2.4/AutoInstaller.Setup.1.2.4.exe)安装hap包，[点击查看教程](https://www.bilibili.com/video/BV1jM1QYbEb4/)
 
-使用电脑端安装器安装鸿蒙调试助手后，可以直接在手机上安装hap包，[点击查看教程](https://www.bilibili.com/video/BV17YSLYgECd/)
+使用电脑端安装器安装[鸿蒙调试助手](https://github.com/likuai2010/auto-installer/releases/download/1.4.0/auto-installer.hap)后，可以直接在手机上安装hap包，[点击查看教程](https://www.bilibili.com/video/BV17YSLYgECd/)
 
 ### 反馈
 
