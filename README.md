@@ -33,6 +33,29 @@
 
 本仓库的所有内容仅供学习交流使用。如果您认为该内容侵犯了您的权益，请在 issue 中与我们联系，我们将立即删除相关内容。
 
+### 使用教程
+
+1. 连续点击关于本机页面的“**软件版本**”，输入锁屏密码打开开发者模式
+   ![1](assets\1.jpg)
+2. 进入设置，点击“**系统**”，在最下方倒数第三个有“**开发者选项**”，打开“**USB调试**”和“**无线调试**”
+   ![2](assets\2.jpg)
+
+#### 电脑端
+
+1. 下载[电脑端安装器](https://github.com/likuai2010/auto-installer/releases/download/1.2.4/AutoInstaller.Setup.1.2.4.exe)并安装
+2. 在无线安装栏输入手机上的无限调试信息（IP：Port）
+   ![3](assets\3.png)
+3. 上传要安装的hap包
+4. 按照软件下方的步骤，点击下一步，登陆华为账号，最后安装
+
+[点击查看视频](https://www.bilibili.com/video/BV1jM1QYbEb4/)
+
+#### 手机版
+
+使用前需使用电脑端安装器安装[鸿蒙调试助手](https://github.com/likuai2010/auto-installer/releases/download/1.4.0/auto-installer.hap)
+
+安装后操作类似电脑端[点击查看视频](https://www.bilibili.com/video/BV17YSLYgECd/)
+
 ### Hap安装包列表
 
 | 软件                | 下载链接 | 仓库                                                         | 作者                                                  | 描述                                                         |
@@ -40,18 +63,12 @@
 | 电脑端安装器        | [点击下载](https://github.com/likuai2010/auto-installer/releases/download/1.2.4/AutoInstaller.Setup.1.2.4.exe) | [Link](https://github.com/likuai2010/auto-installer/releases) | [likuai2010 (xiaobai)](https://github.com/likuai2010) | Auto-Installer是基于开源OpenHarmony项目的Hdc工具。该项目致力于为简化开发调试体验。我们正在积极开发中，以满足鸿蒙开发者随时调试应用需求。 |
 | 鸿蒙调试助手        | [点击下载](https://github.com/likuai2010/auto-installer/releases/download/1.4.0/auto-installer.hap) | [Link](https://github.com/likuai2010/auto-installer/releases) | [likuai2010 (xiaobai)](https://github.com/likuai2010) | Auto-Installer是基于开源OpenHarmony项目的Hdc工具。该项目致力于为简化开发调试体验。我们正在积极开发中，以满足鸿蒙开发者随时调试应用需求。 |
 | Clash for HarmonyOS | [点击下载](https://github.com/likuai2010/ClashMeta/releases/download/1.2.2/ClashForHarmonyOS-default-unsigned.hap) | [Link](https://github.com/likuai2010/ClashMeta/releases)     | [likuai2010 (xiaobai)](https://github.com/likuai2010) | HarmonyOS Next 首款GoLang开源移植应用 仅学习使用             |
-| 网易云音乐社区版（云享社） | [点击下载](https://github.com/Zitann/HarmonyOS-Haps/raw/refs/heads/main/haps/NetEase-community-default-unsigned.hap) | 暂无                                                         | [Okysu (Jin & Hai.)](https://github.com/Okysu) | 因为想听Dota2音乐，做了鸿蒙Next版的网易云客户端              |
+| 网易云音乐社区版（云享社） | [点击下载](https://github.com/Zitann/HarmonyOS-Haps/raw/refs/heads/main/haps/NetEase-community-default-unsigned.hap) | [Link](https://github.com/Okysu/harmony-next-music-sharing) | [Okysu (Jin & Hai.)](https://github.com/Okysu) | 这是基于Harmony OS Next API12 版本的网易云第三方客户端 |
 | 开源阅读            | [点击下载](https://github.com/mgz0227/legado-Harmony/releases/download/Beta1028/Legado-unsigned.hap) | [Link](https://github.com/mgz0227/legado-Harmony/releases)   | [mgz0227 (miaogongzi)](https://github.com/mgz0227)    | 开源阅读鸿蒙版仓库                                           |
 | Web-Telegram        | [点击下载](https://github.com/XHXYT/Web-Telegram-for-OpenHarmony/releases/download/1.3.5/Web-Telegram-for-HarmonyOS-NEXT_1.3.5-unsigned.hap) | [Link](https://github.com/XHXYT/Web-Telegram-for-OpenHarmony/releases) | [XHXYT (XHXYT)](https://github.com/XHXYT)             | 使用网页版电报封装的一个OpenHarmony平台应用，支持文件的下载与上传等功能。绝赞开发中(≧∇≦)/ |
 | ppsspp              | [点击下载](https://github.com/likuai2010/auto-installer/releases/download/0.0.0/ppsspp-default-unsigned.hap) | [Link](https://github.com/likuai2010/auto-installer/releases) | [likuai2010 (xiaobai)](https://github.com/likuai2010) | PPSSPP是一个自由、开源、跨平台的相较于JPCSP等其他同类模拟器，PPSSPP更专注性能与可移植性的提升。 |
 | RetroArch           | [点击下载](https://github.com/likuai2010/auto-installer/releases/download/0.0.0/RetroArch-default-unsigned.hap) | [Link](https://github.com/likuai2010/auto-installer/releases) | [likuai2010 (xiaobai)](https://github.com/likuai2010) | RetroArch，原名为SSNES是libretro API前端的实现，也是libretro项目重要的项目之一，是自由软件，开放源码采用GNU通用公共许可证。它支持多种平台，包含许多游戏主机，也能透过第三方固件破解后安装在诸多游戏主机上。 |
 | 冲浪喵 | [点击下载](https://github.com/awaLiny2333/LinysBrowser_NEXT/releases/download/v1.5.0-beta/HMOS-home-default-unsigned.hap) | [Link](https://github.com/awaLiny2333/LinysBrowser_NEXT) | [awaLiny2333 (awa Liny)](https://github.com/awaLiny2333) | Liny 的浏览器为 HarmonyOS NEXT 而构建，旨在为各种性能水平的设备提供一个浏览器的轻量之选。 |
-
-### 使用教程
-
-开启手机开发者模式，并打开无限调试，使用[电脑端安装器](https://github.com/likuai2010/auto-installer/releases/download/1.2.4/AutoInstaller.Setup.1.2.4.exe)安装hap包，[点击查看教程](https://www.bilibili.com/video/BV1jM1QYbEb4/)
-
-使用电脑端安装器安装[鸿蒙调试助手](https://github.com/likuai2010/auto-installer/releases/download/1.4.0/auto-installer.hap)后，可以直接在手机上安装hap包，[点击查看教程](https://www.bilibili.com/video/BV17YSLYgECd/)
 
 ### 反馈
 
