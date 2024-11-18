@@ -36,15 +36,15 @@
 ### 使用教程
 
 1. 连续点击关于本机页面的“**软件版本**”，输入锁屏密码打开开发者模式
-   ![1](assets\1.jpg)
+   ![1](https://github.com/Zitann/HarmonyOS-Haps/blob/main/assets/1.jpg?raw=true)
 2. 进入设置，点击“**系统**”，在最下方倒数第三个有“**开发者选项**”，打开“**USB调试**”和“**无线调试**”
-   ![2](assets\2.jpg)
+   ![2](https://github.com/Zitann/HarmonyOS-Haps/blob/main/assets/2.jpg?raw=true)
 
 #### 电脑端
 
 1. 下载[电脑端安装器](https://github.com/likuai2010/auto-installer/releases/download/1.2.4/AutoInstaller.Setup.1.2.4.exe)并安装
 2. 在无线安装栏输入手机上的无限调试信息（IP：Port）
-   ![3](assets\3.png)
+   ![3](https://github.com/Zitann/HarmonyOS-Haps/blob/main/assets/3.png?raw=true)
 3. 上传要安装的hap包
 4. 按照软件下方的步骤，点击下一步，登陆华为账号，最后安装
 
