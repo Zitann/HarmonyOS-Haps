@@ -24,10 +24,12 @@
 
 - [目录](#目录)
   - [声明](#声明)
-  - [Hap安装包列表](#hap安装包列表)
   - [使用教程](#使用教程)
+    - [电脑端](#电脑端)
+    - [手机版](#手机版)
+  - [Hap安装包列表](#hap安装包列表)
   - [反馈](#反馈)
-  - [鸣谢](#鸣谢)
+  - [鸣谢(不分先后)](#鸣谢不分先后)
 
 ### 声明
 
@@ -64,7 +66,7 @@
 | 鸿蒙调试助手        | [点击下载](https://github.com/likuai2010/auto-installer/releases/download/1.4.0/auto-installer.hap) | [Link](https://github.com/likuai2010/auto-installer/releases) | [likuai2010 (xiaobai)](https://github.com/likuai2010) | Auto-Installer是基于开源OpenHarmony项目的Hdc工具。该项目致力于为简化开发调试体验。我们正在积极开发中，以满足鸿蒙开发者随时调试应用需求。 |
 | Clash for HarmonyOS | [点击下载](https://github.com/likuai2010/ClashMeta/releases/download/1.2.2/ClashForHarmonyOS-default-unsigned.hap) | [Link](https://github.com/likuai2010/ClashMeta/releases)     | [likuai2010 (xiaobai)](https://github.com/likuai2010) | HarmonyOS Next 首款GoLang开源移植应用 仅学习使用             |
 | 网易云音乐社区版（云享社） | [点击下载](https://github.com/Zitann/HarmonyOS-Haps/raw/refs/heads/main/haps/NetEase-community-default-unsigned.hap) | [Link](https://github.com/Okysu/harmony-next-music-sharing) | [Okysu (Jin & Hai.)](https://github.com/Okysu) | 这是基于Harmony OS Next API12 版本的网易云第三方客户端 |
-| 开源阅读            | [点击下载](https://github.com/mgz0227/legado-Harmony/releases/download/Beta1028/Legado-unsigned.hap) | [Link](https://github.com/mgz0227/legado-Harmony/releases)   | [mgz0227 (miaogongzi)](https://github.com/mgz0227)    | 开源阅读鸿蒙版仓库                                           |
+| 开源阅读            | [点击下载](https://github.com/Zitann/HarmonyOS-Haps/raw/refs/heads/main/haps/开源阅读.hap) | [Link](https://github.com/mgz0227/legado-Harmony)   | [mgz0227 (miaogongzi)](https://github.com/mgz0227)    | 开源阅读鸿蒙版仓库                                           |
 | Web-Telegram        | [点击下载](https://github.com/XHXYT/Web-Telegram-for-OpenHarmony/releases/download/1.3.5/Web-Telegram-for-HarmonyOS-NEXT_1.3.5-unsigned.hap) | [Link](https://github.com/XHXYT/Web-Telegram-for-OpenHarmony/releases) | [XHXYT (XHXYT)](https://github.com/XHXYT)             | 使用网页版电报封装的一个OpenHarmony平台应用，支持文件的下载与上传等功能。绝赞开发中(≧∇≦)/ |
 | ppsspp              | [点击下载](https://github.com/likuai2010/auto-installer/releases/download/0.0.0/ppsspp-default-unsigned.hap) | [Link](https://github.com/likuai2010/auto-installer/releases) | [likuai2010 (xiaobai)](https://github.com/likuai2010) | PPSSPP是一个自由、开源、跨平台的相较于JPCSP等其他同类模拟器，PPSSPP更专注性能与可移植性的提升。 |
 | RetroArch           | [点击下载](https://github.com/likuai2010/auto-installer/releases/download/0.0.0/RetroArch-default-unsigned.hap) | [Link](https://github.com/likuai2010/auto-installer/releases) | [likuai2010 (xiaobai)](https://github.com/likuai2010) | RetroArch，原名为SSNES是libretro API前端的实现，也是libretro项目重要的项目之一，是自由软件，开放源码采用GNU通用公共许可证。它支持多种平台，包含许多游戏主机，也能透过第三方固件破解后安装在诸多游戏主机上。 |
