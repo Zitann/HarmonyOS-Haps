@@ -38,9 +38,13 @@
 ### 使用教程
 
 1. 连续点击关于本机页面的“**软件版本**”，输入锁屏密码打开开发者模式
-   <img src="https://github.com/Zitann/HarmonyOS-Haps/blob/main/assets/1.jpg?raw=true" alt="1" height="800"/>
+<div align="center">
+    <img src="https://github.com/Zitann/HarmonyOS-Haps/blob/main/assets/1.jpg?raw=true" alt="1" height="800"/>
+</div>
 2. 进入设置，点击“**系统**”，在最下方倒数第三个有“**开发者选项**”，打开“**USB调试**”和“**无线调试**”
-   <img src="https://github.com/Zitann/HarmonyOS-Haps/blob/main/assets/2.jpg?raw=true" alt="2" height="800"/>
+<div align="center">
+    <img src="https://github.com/Zitann/HarmonyOS-Haps/blob/main/assets/2.jpg?raw=true" alt="2" height="800"/>
+</div>
 
 #### 电脑端
 
