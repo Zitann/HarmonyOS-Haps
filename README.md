@@ -88,6 +88,8 @@
 - [likuai2010 (xiaobai)](https://github.com/likuai2010)
 - [mgz0227 (miaogongzi)](https://github.com/mgz0227)
 - [Okysu (Jin & Hai.)](https://github.com/Okysu)
+- [ErBWs (ErBW_s)](https://github.com/ErBWs)
+- [Predidit](https://github.com/Predidit)
 
 <!-- links -->
 
