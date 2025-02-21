@@ -21,12 +21,11 @@
 [![Issues][issues-shield]][issues-url]
 
 ## 目录
-- [本仓库不收录浏览器套壳软件](#本仓库不收录浏览器套壳软件)
-    - [使用教程](#使用教程)
-      - [电脑端](#电脑端)
-      - [手机版](#手机版)
-    - [反馈](#反馈)
-    - [鸣谢(不分先后)](#鸣谢不分先后)
+  - [使用教程](#使用教程)
+    - [电脑端](#电脑端)
+    - [手机版](#手机版)
+  - [反馈](#反馈)
+  - [鸣谢(不分先后)](#鸣谢不分先后)
 
 ### 声明
 
@@ -92,6 +91,10 @@
 - [ErBWs (ErBW_s)](https://github.com/ErBWs)
 - [Predidit](https://github.com/Predidit)
 - [Chenlvin](https://github.com/Chenlvin/)
+
+### Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Zitann/HarmonyOS-Haps&type=Date)](https://star-history.com/#Zitann/HarmonyOS-Haps&Date)
 
 <!-- links -->
 
