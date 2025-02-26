@@ -21,11 +21,13 @@
 [![Issues][issues-shield]][issues-url]
 
 ## 目录
-  - [使用教程](#使用教程)
-    - [电脑端](#电脑端)
-    - [手机版](#手机版)
-  - [反馈](#反馈)
-  - [鸣谢(不分先后)](#鸣谢不分先后)
+- [本仓库不收录浏览器套壳软件](#本仓库不收录浏览器套壳软件)
+    - [使用教程](#使用教程)
+      - [电脑端](#电脑端)
+      - [手机版](#手机版)
+    - [反馈](#反馈)
+    - [鸣谢(不分先后)](#鸣谢不分先后)
+    - [Star History](#star-history)
 
 ### 声明
 
@@ -40,7 +42,7 @@
 | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------------------------------------------------- | ------------------------------------------------------------ |
 | 电脑端安装器        | [点击下载](https://github.com/likuai2010/auto-installer/releases/download/1.2.4/AutoInstaller.Setup.1.2.4.exe) | [Link](https://github.com/likuai2010/auto-installer/releases) | [likuai2010 (xiaobai)](https://github.com/likuai2010) | Auto-Installer是基于开源OpenHarmony项目的Hdc工具。该项目致力于为简化开发调试体验。我们正在积极开发中，以满足鸿蒙开发者随时调试应用需求。 |
 | 鸿蒙调试助手        | [点击下载](https://github.com/likuai2010/auto-installer/releases/download/1.4.0/auto-installer.hap) | [Link](https://github.com/likuai2010/auto-installer/releases) | [likuai2010 (xiaobai)](https://github.com/likuai2010) | Auto-Installer是基于开源OpenHarmony项目的Hdc工具。该项目致力于为简化开发调试体验。我们正在积极开发中，以满足鸿蒙开发者随时调试应用需求。 |
-| Clash for HarmonyOS | [点击下载](https://github.com/Zitann/HarmonyOS-Haps/raw/refs/heads/main/haps/clash.hap) | [Link](https://github.com/likuai2010/ClashMeta/releases)     | [likuai2010 (xiaobai)](https://github.com/likuai2010) | HarmonyOS Next 首款GoLang开源移植应用 仅学习使用             |
+| Clash Next | [点击下载](https://github.com/Zitann/HarmonyOS-Haps/raw/refs/heads/main/haps\ClashNEXTbeta-1.2.3.hap) | [Link](https://github.com/likuai2010/ClashMeta/releases)     | [likuai2010 (xiaobai)](https://github.com/likuai2010) | HarmonyOS Next 首款GoLang开源移植应用 仅学习使用             |
 | 网易云音乐社区版（云享社） | [点击下载](https://github.com/Zitann/HarmonyOS-Haps/raw/refs/heads/main/haps/NetEase-community-default-unsigned.hap) | [Link](https://github.com/Okysu/harmony-next-music-sharing) | [Okysu (Jin & Hai.)](https://github.com/Okysu) | 这是基于Harmony OS Next API12 版本的网易云第三方客户端 |
 | 网易云音乐社区版（云音汇） | [点击下载](https://github.com/Chenlvin/CloudMusic-HarmonyOSNext/releases/download/v1.1.6/entry-default-unsigned.hap) | [Link](https://github.com/Chenlvin/CloudMusic-HarmonyOSNext) | [Chenlvin](https://github.com/Chenlvin/) | CloudMusic (云音汇) 是鸿蒙5.0上的网易云音乐三方客户端，该项目基于API 13，支持 HarmonyOS NEXT 5.0 |
 | 开源阅读            | [点击下载](https://github.com/Zitann/HarmonyOS-Haps/raw/refs/heads/main/haps/开源阅读.hap) | [Link](https://github.com/mgz0227/legado-Harmony)   | [mgz0227 (miaogongzi)](https://github.com/mgz0227)    | 开源阅读鸿蒙版仓库                                           |
@@ -91,6 +93,7 @@
 - [ErBWs (ErBW_s)](https://github.com/ErBWs)
 - [Predidit](https://github.com/Predidit)
 - [Chenlvin](https://github.com/Chenlvin/)
+- [smdsbz (smdsbz) - Gitee.com](https://gitee.com/smdsbz)
 
 ### Star History
 
