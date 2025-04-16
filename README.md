@@ -48,6 +48,8 @@
 | [Wake-HarmonyOS](https://github.com/azhuge233/Wake-HarmonyOS) | [Link](https://github.com/azhuge233/Wake-HarmonyOS/releases) | Simple Wake-on-LAN application for HarmonyOS NEXT (5.0+).<br />*Only tested on Mate 60 Pro.* |
 | [宝可梦图鉴 鸿蒙版](https://github.com/Luxcis/Pokedex_Next) | [Link](https://github.com/Luxcis/Pokedex_Next/releases) | 宝可梦图鉴鸿蒙Next客户端，界面使用ArkTS<br />所有数据全部是离线的，所以包比较大 |
 | [Harmonic](https://github.com/shanyan-wcx/Harmonic) | [Link](https://github.com/shanyan-wcx/Harmonic/releases) | Navidrome的鸿蒙Next客户端，适配手机、平板、车机。<br />（理论上兼容所有使用Subsonic Api的服务端，未经测试。） |
+| [流心视频](https://github.com/Yebingiscn/SweetVideo) | [Link](https://github.com/Yebingiscn/SweetVideo/releases) | 一款运行在 HarmonyOS Next 上精致、简约的视频（音乐）播放器，使用 ArkTS 语言开发，具有美观的设计和优雅的动画。 基于开源项目[流心视频](https://gitee.com/lqsxy/sweetvideo/tree/master)二次开发 |
+| [PixEz](https://github.com/bgli100/pixez-flutter-ohos) | [Link](https://github.com/bgli100/pixez-flutter-ohos/releases) | 一个支持免代理直连及查看动图的OpenHarmony平台第三方Pixiv flutter客户端 |
 ### 使用教程
 
 [点击下载教程文档](https://github.com/Zitann/HarmonyOS-Haps/raw/refs/heads/main/assets/guide.pdf)
