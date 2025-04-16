@@ -53,31 +53,9 @@
 | moonlight-ohos | [点击下载](https://gitee.com/smdsbz/moonlight-ohos/releases) | [Link](https://gitee.com/smdsbz/moonlight-ohos) | [smdsbz (smdsbz) - Gitee.com](https://gitee.com/smdsbz) | Yet another Sunshine client implementation on HarmonyOS Next. |
 ### 使用教程
 
-1. 连续点击关于本机页面的“**软件版本**”，输入锁屏密码打开开发者模式
-<div align="center">
-    <img src="https://github.com/Zitann/HarmonyOS-Haps/blob/main/assets/1.jpg?raw=true" alt="1" height="800"/>
-</div>
+[点击下载教程文档](https://github.com/Zitann/HarmonyOS-Haps/raw/refs/heads/main/assets/guide.pdf)
 
-2. 进入设置，点击“**系统**”，在最下方倒数第三个有“**开发者选项**”，打开“**USB调试**”和“**无线调试**”
-<div align="center">
-    <img src="https://github.com/Zitann/HarmonyOS-Haps/blob/main/assets/2.jpg?raw=true" alt="2" height="800"/>
-</div>
-
-#### 电脑端
-
-1. 下载[电脑端安装器](https://github.com/likuai2010/auto-installer/releases/download/1.2.4/AutoInstaller.Setup.1.2.4.exe)并安装
-2. 在无线安装栏输入手机上的无限调试信息（IP：Port）
-   ![3](https://github.com/Zitann/HarmonyOS-Haps/blob/main/assets/3.png?raw=true)
-3. 上传要安装的hap包
-4. 按照软件下方的步骤，点击下一步，登陆华为账号，最后安装
-
-[点击查看视频](https://www.bilibili.com/video/BV1jM1QYbEb4/)
-
-#### 手机版
-
-使用前需使用电脑端安装器安装[鸿蒙调试助手](https://github.com/likuai2010/auto-installer/releases/download/1.4.0/auto-installer.hap)
-
-安装后操作类似电脑端[点击查看视频](https://www.bilibili.com/video/BV17YSLYgECd/)
+[点击查看视频教程](https://www.bilibili.com/video/BV1hkZ7YnEMd/)
 
 
 ### 反馈
