@@ -43,7 +43,7 @@
 | [流心视频](https://github.com/Yebingiscn/SweetVideo) | [Link](https://github.com/Yebingiscn/SweetVideo/releases) | 一款运行在 HarmonyOS Next 上精致、简约的视频（音乐）播放器，使用 ArkTS 语言开发，具有美观的设计和优雅的动画。 基于开源项目[流心视频](https://gitee.com/lqsxy/sweetvideo/tree/master)二次开发 | 04-18|
 | [Harmonic](https://github.com/shanyan-wcx/Harmonic) | [Link](https://github.com/shanyan-wcx/Harmonic/releases) | Navidrome的鸿蒙Next客户端，适配手机、平板、车机。<br />（理论上兼容所有使用Subsonic Api的服务端，未经测试。） | 04-16|
 | [云享社](https://github.com/Edge-Music/Core) | [Link](https://github.com/Edge-Music/Core/releases) | 这是一个基于鸿蒙HarmonyOS Next API 15版本全新重构开发的网络音乐播放器统一UI容器。2.0版本带来了惊艳的UI设计和革命性的数据源架构，支持连接多个平台和私有数据源。我们致力于提供流畅的原生体验，同时保留并增强您喜爱的所有功能！ | 04-09|
-| [Wake-HarmonyOS](https://github.com/azhuge233/Wake-HarmonyOS) | [Link](https://github.com/azhuge233/Wake-HarmonyOS/releases) | 简单的 Wake-on-LAN 应用程序，适用于 HarmonyOS NEXT | 04-03|
+| [Wake](https://github.com/azhuge233/Wake-HarmonyOS) | [Link](https://github.com/azhuge233/Wake-HarmonyOS/releases) | 简单的 Wake-on-LAN 应用程序，适用于 HarmonyOS NEXT | 04-03|
 | [千维验证器](https://github.com/kdada/Authenticator) | [Link](https://github.com/kdada/Authenticator/releases) | 双因子认证（2FA）密码生成工具，支持 GitHub，Microsoft，Google 等站点的标准令牌，额外支持 Steam 5 位令牌。 | 04-03|
 | [moonlight-ohos](https://gitee.com/smdsbz/moonlight-ohos) | [Link](https://gitee.com/smdsbz/moonlight-ohos/releases) | 在 HarmonyOS Next 上的另一个 Sunshine 客户端实现。 | 04-03|
 | [Audiobookshelf](https://github.com/shanyan-wcx/Audiobookshelf-HarmonyOS) | [Link](https://github.com/shanyan-wcx/Audiobookshelf-HarmonyOS/releases) | Audiobookshelf的鸿蒙Next客户端。<br/>当前仅支持有声书，不支持播客。 | 03-06|
@@ -52,7 +52,7 @@
 | [RetroArch](https://github.com/likuai2010/auto-installer/releases) | [Link](https://github.com/likuai2010/auto-installer/releases/download/0.0.0/RetroArch-default-unsigned.hap) | RetroArch，原名为SSNES是libretro API前端的实现，也是libretro项目重要的项目之一，是自由软件，开放源码采用GNU通用公共许可证。它支持多种平台，包含许多游戏主机，也能透过第三方固件破解后安装在诸多游戏主机上。 | 2024<br />10-09 |
 | [ppsspp](https://github.com/likuai2010/auto-installer/releases) | [Link](https://github.com/likuai2010/auto-installer/releases/download/0.0.0/ppsspp-default-unsigned.hap) | PPSSPP是一个自由、开源、跨平台的相较于JPCSP等其他同类模拟器，PPSSPP更专注性能与可移植性的提升。 | 2024<br />10-09 |
 | [云音汇](https://github.com/Chenlvin/CloudMusic-HarmonyOSNext) | [Link](https://github.com/Chenlvin/CloudMusic-HarmonyOSNext/releases) | CloudMusic (云音汇) 是鸿蒙5.0上的网易云音乐三方客户端，该项目基于API 15，支持 HarmonyOS NEXT 5.0 | archived |
-| [宝可梦图鉴 鸿蒙版](https://github.com/Luxcis/Pokedex_Next) | [Link](https://github.com/Luxcis/Pokedex_Next/releases) | 宝可梦图鉴鸿蒙Next客户端，界面使用ArkTS<br />所有数据全部是离线的，所以包比较大 | archived |
+| [宝可梦图鉴](https://github.com/Luxcis/Pokedex_Next) | [Link](https://github.com/Luxcis/Pokedex_Next/releases) | 宝可梦图鉴鸿蒙Next客户端，界面使用ArkTS<br />所有数据全部是离线的，所以包比较大 | archived |
 ### 使用教程
 
 [点击下载教程文档](https://github.com/Zitann/HarmonyOS-Haps/raw/refs/heads/main/assets/guide.pdf)
