@@ -36,7 +36,7 @@
 | 软件     | 下载链接            | 描述                                                         | 更新                                                 |
 | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [小白调试助手2.0](https://github.com/likuai2010/auto-installer) | [Link](https://github.com/likuai2010/auto-installer/releases/tag/2.0.0) | Auto-Installer是基于开源OpenHarmony项目的Hdc工具。该项目致力于为简化开发调试体验。我们正在积极开发中，以满足鸿蒙开发者随时调试应用需求。 | 03-31 |
-| [Clash Next](https://github.com/xiaobaigroup/hapapp) | [Link](https://github.com/xiaobaigroup/hapapp/releases) | HarmonyOS Next 首款GoLang开源移植应用 仅学习使用             | 04-22|
+| [Clash Next](https://github.com/xiaobaigroup/hapapp) | [Link](https://github.com/xiaobaigroup/hapapp/releases) | HarmonyOS Next 首款GoLang开源移植应用 仅学习使用             | 04-27|
 | [COPI](https://github.com/niuhuan/copi-ohos) | [Link](https://github.com/niuhuan/copi-ohos/releases) | 鸿蒙NEXT上的漫画客户端 | 04-23|
 | [PixEz](https://github.com/bgli100/pixez-flutter-ohos) | [Link](https://github.com/bgli100/pixez-flutter-ohos/releases) | 一个支持免代理直连及查看动图的OpenHarmony平台第三方Pixiv flutter客户端 | 04-20|
 | [Kazumi](https://github.com/ErBWs/Kazumi) | [Link](https://github.com/ErBWs/Kazumi/releases) | 使用 flutter 开发的基于自定义规则的番剧采集与在线观看程序。使用最多五行基于 Xpath 语法的选择器构建自己的规则。支持规则导入与规则分享。绝赞开发中 (～￣▽￣)～ | 04-24|
