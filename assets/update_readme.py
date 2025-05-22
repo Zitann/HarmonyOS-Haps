@@ -2,8 +2,17 @@ import os
 import re
 import requests
 from datetime import datetime
+from dataclasses import dataclass
 
 README_PATH = os.path.join(os.path.dirname(os.path.dirname(__file__)), "README.md")
+
+
+@dataclass
+class Item:
+    name: str
+    url: str
+    desc: str
+    time: str
 
 
 def get_latest_release_time(url):
@@ -45,37 +54,52 @@ def format_time_mmdd(iso_time):
         return ""
 
 
-def update_readme_release_times():
+def update():
     with open(README_PATH, "r", encoding="utf-8") as f:
         content = f.read()
-
-    # 匹配格式: | [COPI](...) | [Link](.../releases) | ... | 时间 |
-    pattern = re.compile(
-        r"(\|\s*\[[^\]]+\]\([^\)]+\)\s*\|\s*\[Link\]\((https://.*?\.com/[^/\s]+/[^/\s\)]+/releases[^\)]*)\)\s*\|\s*[^\|]+\|\s*)([^\|]+)(\s*\|)"
+    table_match = re.search(r"### 鸿蒙项目列表\s*\n((?:\|.*\n)+)", content)
+    table = table_match.group(1)
+    title = table.split("\n")[0:4]
+    lines = table.strip().split("\n")[4:]
+    items = []
+    for line in lines:
+        cols = line.split("|")
+        if len(cols) >= 5:
+            item = Item(
+                name=cols[1].strip(),
+                url=cols[2].strip(),
+                desc=cols[3].strip(),
+                time=cols[4].strip(),
+            )
+            if item.time == "archived":
+                print(f"项目: {item.name}，已归档")
+            else:
+                latest_time = get_latest_release_time(
+                    item.url.replace("[Link](", "").replace(")", "")
+                )
+                latest_time_fmt = (
+                    format_time_mmdd(latest_time) if latest_time else item.time
+                )
+                print(
+                    f"项目: {item.name}，原时间: {item.time}，最新发布时间: {latest_time_fmt}"
+                )
+                item.time = latest_time_fmt
+            items.append(item)
+    items.sort(
+        key=lambda x: (
+            datetime.strptime(x.time, "%m-%d") if x.time != "archived" else datetime.min
+        ),
+        reverse=True,
     )
-
-    def repl(match):
-        prefix, url, old_time, suffix = match.groups()
-        if not url.rstrip("/").endswith("/releases"):
-            return match.group(0)
-        if old_time.strip().lower() == "archived":
-            return match.group(0)
-        latest_time = get_latest_release_time(url)
-        latest_time_fmt = (
-            format_time_mmdd(latest_time) if latest_time else old_time.strip()
-        )
-        print(
-            f"release地址: {url}，原时间: {old_time}，最新发布时间: {latest_time_fmt}"
-        )
-        return f"{prefix}{latest_time_fmt}{suffix}"
-
-    new_content = pattern.sub(repl, content)
-
+    new_table = title
+    for item in items:
+        new_table.append(f"| {item.name} | {item.url} | {item.desc} | {item.time} |")
+    new_table = "\n".join(new_table) + "\n\n"
+    new_content = content.replace(table, new_table)
     if new_content != content:
         with open(README_PATH, "w", encoding="utf-8") as f:
             f.write(new_content)
         print("README.md 已更新。")
-        # 新增：有更新时请求API
         try:
             api_url = "https://api.chuckfang.com/haps/GitHub%E4%BB%93%E5%BA%93/%E6%9C%89%E8%BD%AF%E4%BB%B6%E6%9B%B4%E6%96%B0?url=https://github.com/Zitann/HarmonyOS-Haps"
             requests.get(api_url, timeout=5)
@@ -87,4 +111,4 @@ def update_readme_release_times():
 
 
 if __name__ == "__main__":
-    update_readme_release_times()
+    update()
