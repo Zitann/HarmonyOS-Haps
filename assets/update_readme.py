@@ -94,7 +94,7 @@ def update():
     new_table = title
     for item in items:
         new_table.append(f"| {item.name} | {item.url} | {item.desc} | {item.time} |")
-    new_table = "\n".join(new_table) + "\n\n"
+    new_table = "\n".join(new_table) + "\n"
     new_content = content.replace(table, new_table)
     if new_content != content:
         with open(README_PATH, "w", encoding="utf-8") as f:
