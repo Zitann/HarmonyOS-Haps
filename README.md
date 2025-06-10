@@ -37,6 +37,7 @@
 | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [小白调试助手2.0](https://github.com/likuai2010/auto-installer) | [Link](https://github.com/likuai2010/auto-installer/releases/tag/2.0.0) | Auto-Installer是基于开源OpenHarmony项目的Hdc工具。该项目致力于为简化开发调试体验。我们正在积极开发中，以满足鸿蒙开发者随时调试应用需求。 | 03-31 |
 | [ClashBox](https://github.com/xiaobaigroup/hapapp) | [Link](https://github.com/xiaobaigroup/hapapp/releases) | HarmonyOS Next 首款GoLang开源移植应用 仅学习使用 | 05-22|
+| [localsend-ohos](https://github.com/Aloereed/localsend-ohos) | [Link](https://github.com/Aloereed/localsend-ohos/releases) | An open-source cross-platform alternative to AirDrop for HarmonyOS Next - Aloereed/localsend-ohos | 04-15 |
 | [COPI](https://github.com/niuhuan/copi-ohos) | [Link](https://github.com/niuhuan/copi-ohos/releases) | 鸿蒙NEXT上的漫画客户端 | 06-09 |
 | [微型课程表](https://github.com/SunboyTPB/Micro-Course) | [Link](https://github.com/SunboyTPB/Micro-Course/releases) | 微型课程表致力于为学生们打造一个方便管理课表的平台，而微型课程表为用户提供简洁好用的课表管理软件。核心代码都是公开的，开发者们可以将代码下载并进行二次开发，如集成自己的账号平台，从而实现多账号登录和同步功能等。 | 06-09 |
 | [Kazumi](https://github.com/ErBWs/Kazumi) | [Link](https://github.com/ErBWs/Kazumi/releases) | 使用 flutter 开发的基于自定义规则的番剧采集与在线观看程序。使用最多五行基于 Xpath 语法的选择器构建自己的规则。支持规则导入与规则分享。绝赞开发中 (～￣▽￣)～ | 06-07 |
@@ -72,25 +73,27 @@
 
 ### 鸣谢(不分先后)
 
-
-- [likuai2010 (xiaobai)](https://github.com/likuai2010)
-- [mgz0227 (miaogongzi)](https://github.com/mgz0227)
-- [Okysu (Jin & Hai.)](https://github.com/Okysu)
-- [ErBWs (ErBW_s)](https://github.com/ErBWs)
-- [Predidit](https://github.com/Predidit)
-- [Chenlvin](https://github.com/Chenlvin/)
-- [smdsbz (smdsbz)](https://gitee.com/smdsbz)
-- [azhuge233 (azhuge233)](https://github.com/azhuge233)
-- [Luxcis (Luxcis)](https://github.com/Luxcis)
-- [shanyan-wcx (嬗衍)](https://github.com/shanyan-wcx)
-- [kdada (Wei Guo)](https://github.com/kdada)
-- [niuhuan](https://github.com/niuhuan)
-- [Yebingiscn](https://github.com/Yebingiscn)
-- [SunboyTPB](https://github.com/SunboyTPB)
-- [bgli100](https://github.com/bgli100)
-- [qshh](https://gitee.com/qinshah)
+- [Aloereed](https://github.com/Aloereed)
 - [autobcb](https://github.com/autobcb)
-- [chachaochang](https://github.com/chashaochang)
+- [awaLiny2333](https://github.com/awaLiny2333)
+- [azhuge233](https://github.com/azhuge233)
+- [bgli100](https://github.com/bgli100)
+- [chashaochang](https://github.com/chashaochang)
+- [Chenlvin](https://github.com/Chenlvin)
+- [ErBWs](https://github.com/ErBWs)
+- [kdada](https://github.com/kdada)
+- [likuai2010](https://github.com/likuai2010)
+- [Luxcis](https://github.com/Luxcis)
+- [mgz0227](https://github.com/mgz0227)
+- [niuhuan](https://github.com/niuhuan)
+- [qshh (qinshah)](https://gitee.com/qinshah)
+- [shanyan-wcx](https://github.com/shanyan-wcx)
+- [smdsbz (smdsbz)](https://gitee.com/smdsbz)
+- [SunboyTPB](https://github.com/SunboyTPB)
+- [wly5556](https://github.com/wly5556)
+- [XiaobaiStudio](https://github.com/xiaobaigroup)
+- [Yebingiscn](https://github.com/Yebingiscn)
+- [云享社](https://github.com/Edge-Music)
 
 ### Star History
 
