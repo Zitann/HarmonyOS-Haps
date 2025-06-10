@@ -1,0 +1,77 @@
+name: Add Project
+
+on:
+  workflow_dispatch:
+    inputs:
+      repo_url:
+        description: '项目仓库URL (GitHub或Gitee)'
+        required: true
+        type: string
+        default: 'https://github.com/username/projectname'
+
+jobs:
+  add-project:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Validate repo URL
+        run: |
+          if [[ ! "${{ github.event.inputs.repo_url }}" =~ ^https://(github|gitee)\.com/.+/.+ ]]; then
+            echo "错误: 请提供有效的GitHub或Gitee仓库URL"
+            echo "格式: https://github.com/username/projectname"
+            echo "格式: https://gitee.com/username/projectname"
+            exit 1
+          fi
+
+      - name: Add project to README
+        run: python assets/add.py "${{ github.event.inputs.repo_url }}"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Check for changes
+        id: changes
+        run: |
+          if git diff --exit-code README.md; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+            echo "没有检测到变更，可能项目已存在或添加失败"
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+            echo "检测到README.md变更"
+          fi
+
+      - name: Show changes
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          echo "=== README.md 变更内容 ==="
+          git diff README.md
+
+      - name: Commit and push changes
+        if: steps.changes.outputs.changed == 'true'
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "添加项目: ${{ github.event.inputs.repo_url }}"
+          file_pattern: README.md
+
+      - name: Create summary
+        run: |
+          if [[ "${{ steps.changes.outputs.changed }}" == "true" ]]; then
+            echo "✅ 项目添加成功！" >> $GITHUB_STEP_SUMMARY
+            echo "📝 已更新 README.md" >> $GITHUB_STEP_SUMMARY
+            echo "🔗 添加的项目: ${{ github.event.inputs.repo_url }}" >> $GITHUB_STEP_SUMMARY
+          else
+            echo "❌ 项目添加失败或已存在" >> $GITHUB_STEP_SUMMARY
+            echo "🔗 尝试添加的项目: ${{ github.event.inputs.repo_url }}" >> $GITHUB_STEP_SUMMARY
+          fi
