@@ -1,9 +1,20 @@
+# /// script
+# dependencies = [
+#   "requests",
+# ]
+# ///
 import os
 import re
 import requests
 from datetime import datetime
 from dataclasses import dataclass
+import urllib3
+from urllib3.exceptions import InsecureRequestWarning
+import warnings
+from datetime import datetime
 
+warnings.filterwarnings("ignore", category=DeprecationWarning, message=".*Parsing dates involving a day of month without a year.*")
+urllib3.disable_warnings(InsecureRequestWarning)
 README_PATH = os.path.join(os.path.dirname(os.path.dirname(__file__)), "README.md")
 
 
@@ -20,7 +31,7 @@ def get_latest_release_time(url):
     token = os.environ.get("GITHUB_TOKEN")
     if token:
         headers["Authorization"] = f"Bearer {token}"
-    resp = requests.get(url, headers=headers)
+    resp = requests.get(url, headers=headers, verify=False)
     if resp.status_code == 200:
         html = resp.text
         # Github: <relative-time ... datetime="...">
