@@ -37,6 +37,7 @@
 | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [小白调试助手2.0](https://github.com/likuai2010/auto-installer) | [Link](https://github.com/likuai2010/auto-installer/releases/tag/2.0.0) | Auto-Installer是基于开源OpenHarmony项目的Hdc工具。该项目致力于为简化开发调试体验。我们正在积极开发中，以满足鸿蒙开发者随时调试应用需求。 | 03-31 |
 | [ClashBox](https://github.com/xiaobaigroup/hapapp) | [Link](https://github.com/xiaobaigroup/hapapp/releases) | HarmonyOS Next 首款GoLang开源移植应用 仅学习使用 | 05-22|
+| [aria2-ohos](https://github.com/SwimmingTiger/aria2-ohos) | [Link](https://github.com/SwimmingTiger/aria2-ohos/releases) | aria2 command line for OpenHarmony and Harmony Next 5.x - SwimmingTiger/aria2-ohos | 06-11 |
 | [Wake](https://github.com/azhuge233/Wake-HarmonyOS) | [Link](https://github.com/azhuge233/Wake-HarmonyOS/releases) | 简单的 Wake-on-LAN 应用程序，适用于 HarmonyOS NEXT | 06-11 |
 | [FinVideo](https://github.com/OHPG/FinVideo/releases) | [Link](https://github.com/OHPG/FinVideo/releases) | Jellyfin视频客户端，适用于 HarmonyOS NEXT | 06-10 |
 | [COPI](https://github.com/niuhuan/copi-ohos) | [Link](https://github.com/niuhuan/copi-ohos/releases) | 鸿蒙NEXT上的漫画客户端 | 06-09 |
@@ -87,10 +88,12 @@
 - [Luxcis](https://github.com/Luxcis)
 - [mgz0227](https://github.com/mgz0227)
 - [niuhuan](https://github.com/niuhuan)
+- [Open Harmony Play Ground](https://github.com/OHPG)
 - [qshh (qinshah)](https://gitee.com/qinshah)
 - [shanyan-wcx](https://github.com/shanyan-wcx)
 - [smdsbz (smdsbz)](https://gitee.com/smdsbz)
 - [SunboyTPB](https://github.com/SunboyTPB)
+- [SwimmingTiger](https://github.com/SwimmingTiger)
 - [wly5556](https://github.com/wly5556)
 - [XiaobaiStudio](https://github.com/xiaobaigroup)
 - [Yebingiscn](https://github.com/Yebingiscn)
