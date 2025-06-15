@@ -7,7 +7,7 @@ on:
         description: '项目仓库URL (GitHub或Gitee)'
         required: true
         type: string
-        default: 'https://github.com/username/projectname'
+        default: ''
 
 jobs:
   add-project:
