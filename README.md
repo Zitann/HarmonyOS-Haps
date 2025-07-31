@@ -38,6 +38,7 @@
 | [小白调试助手2.0](https://github.com/likuai2010/auto-installer) | [Link](https://github.com/likuai2010/auto-installer/releases/tag/2.0.0) | Auto-Installer是基于开源OpenHarmony项目的Hdc工具。该项目致力于为简化开发调试体验。我们正在积极开发中，以满足鸿蒙开发者随时调试应用需求。 | 03-31 |
 | [ClashBox](https://github.com/xiaobaigroup/hapapp) | [Link](https://github.com/xiaobaigroup/hapapp/releases) | HarmonyOS Next 首款GoLang开源移植应用 仅学习使用 | 05-22|
 | [Harmonic](https://github.com/shanyan-wcx/Harmonic) | [Link](https://github.com/shanyan-wcx/Harmonic/releases) | Navidrome的鸿蒙Next客户端，适配手机、平板、车机。<br />（理论上兼容所有使用Subsonic Api的服务端，未经测试。） | 07-30 |
+| [S1-Orange](https://github.com/wly5556/S1-Orange) | [Link](https://github.com/wly5556/S1-Orange/releases/) | 专为鸿蒙Next开发的 stage1st.com 移动客户端 | 07-30 |
 | [immich_ohos](https://github.com/dgh1818/immich_ohos) | [Link](https://github.com/dgh1818/immich_ohos/releases) | Immich for HarmonyOS NEXT. Contribute to dgh1818/immich_ohos development by creating an account on GitHub. | 07-29 |
 | [PixEz](https://github.com/bgli100/pixez-flutter-ohos) | [Link](https://github.com/bgli100/pixez-flutter-ohos/releases) | 一个支持免代理直连及查看动图的OpenHarmony平台第三方Pixiv flutter客户端 | 07-29 |
 | [Melotopia](https://github.com/Chenlvin/Melotopia-HMOS) | [Link](https://github.com/Chenlvin/Melotopia-HMOS/releases) | ✨ 鸿蒙原生音乐播放器｜🚀 全场景设备适配 本项目为第三方应用, 应用本身不提供在线服务, 仅提供UI界面 | 07-28 |
@@ -52,7 +53,6 @@
 | [FinVideo](https://github.com/OHPG/FinVideo/releases) | [Link](https://github.com/OHPG/FinVideo/releases) | Jellyfin视频客户端，适用于 HarmonyOS NEXT | 06-25 |
 | [包名解析](https://github.com/SummerKaze/AppBundleNameForShared) | [Link](https://github.com/SummerKaze/AppBundleNameForShared/releases) | 一个用于从华为应用商城分享链接中提取应用包名的 HarmonyOS 应用。智能提取应用包名，支持系统分享接入，一键复制到剪贴板。开发者快速获取应用包名的实用工具。 | 06-23 |
 | [COPI](https://github.com/niuhuan/copi-ohos) | [Link](https://github.com/niuhuan/copi-ohos/releases) | 鸿蒙NEXT上的漫画客户端 | 06-23 |
-| [S1-Orange](https://github.com/wly5556/S1-Orange) | [Link](https://github.com/wly5556/S1-Orange/releases/) | 专为鸿蒙Next开发的 stage1st.com 移动客户端 | 06-20 |
 | [Termony](https://github.com/jiegec/Termony) | [Link](https://github.com/jiegec/Termony/releases) | Termux for HarmonyOS Computer. Working in Progress. - jiegec/Termony | 06-15 |
 | [aria2-ohos](https://github.com/SwimmingTiger/aria2-ohos) | [Link](https://github.com/SwimmingTiger/aria2-ohos/releases) | 鸿蒙PC上的命令行版 Aria2（aria2c） | 06-11 |
 | [冲浪喵](https://github.com/awaLiny2333/LinysBrowser_NEXT) | [Link](https://github.com/awaLiny2333/LinysBrowser_NEXT/releases) | Liny 的浏览器为 HarmonyOS NEXT 而构建，旨在为各种性能水平的设备提供一个浏览器的轻量之选。 | 06-07 |
