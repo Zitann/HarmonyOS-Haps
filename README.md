@@ -107,6 +107,7 @@
 - [XiaobaiStudio](https://github.com/xiaobaigroup)
 - [Yebingiscn](https://github.com/Yebingiscn)
 - [云享社](https://github.com/Edge-Music)
+- [liluolinder](https://atomgit.com/liluolinder)
 
 ### Star History
 
