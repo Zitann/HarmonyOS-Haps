@@ -8,6 +8,16 @@ on:
         required: true
         type: string
         default: ''
+      name:
+        description: '项目名称'
+        required: true
+        type: string
+        default: ''
+      desc:
+        description: '项目描述'
+        required: true
+        type: string
+        default: ''
 
 jobs:
   add-project:
@@ -37,7 +47,7 @@ jobs:
           fi
 
       - name: Add project to README
-        run: python assets/add.py "${{ github.event.inputs.repo_url }}"
+        run: python assets/add.py "${{ github.event.inputs.repo_url }}" "${{ github.event.inputs.name }}" "${{ github.event.inputs.desc }}"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
