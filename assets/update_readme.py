@@ -13,7 +13,11 @@ from urllib3.exceptions import InsecureRequestWarning
 import warnings
 from datetime import datetime
 
-warnings.filterwarnings("ignore", category=DeprecationWarning, message=".*Parsing dates involving a day of month without a year.*")
+warnings.filterwarnings(
+    "ignore",
+    category=DeprecationWarning,
+    message=".*Parsing dates involving a day of month without a year.*",
+)
 urllib3.disable_warnings(InsecureRequestWarning)
 README_PATH = os.path.join(os.path.dirname(os.path.dirname(__file__)), "README.md")
 
@@ -26,46 +30,72 @@ class Item:
     time: str
 
 
-def get_latest_release_time(url):
-    headers = {"User-Agent": "update-readme-script"}
+def get_github_time(url):
     token = os.environ.get("GITHUB_TOKEN")
-    if token:
-        headers["Authorization"] = f"Bearer {token}"
+    headers = {"User-Agent": "update-readme-script", "Authorization": f"Bearer {token}"}
     resp = requests.get(url, headers=headers, verify=False)
     if resp.status_code == 200:
         html = resp.text
         # Github: <relative-time ... datetime="...">
         m = re.search(r'<relative-time[^>]+datetime="([^"]+)"', html)
         if m:
-            return m.group(1)
-        # Gitee: <div class='release-time' data-commit-date='2025-04-03 08:47:52 +0800'>
-        m2 = re.search(
-            r"<div class=['\"]release-time['\"][^>]*data-commit-date=['\"]([^'\"]+)['\"]",
-            html,
-        )
-        if m2:
-            return m2.group(1)
+            dt = datetime.strptime(m.group(1), "%Y-%m-%dT%H:%M:%SZ")
+            return dt.strftime("%m-%d")
     return None
 
 
-def format_time_mmdd(iso_time):
-    if not iso_time:
-        return ""
-    try:
-        # Github: 2024-06-01T12:34:56Z
-        if "T" in iso_time and iso_time.endswith("Z"):
-            dt = datetime.strptime(iso_time, "%Y-%m-%dT%H:%M:%SZ")
-        # Gitee: 2025-04-03 08:47:52 +0800
-        elif "+" in iso_time and "-" in iso_time and ":" in iso_time:
-            dt = datetime.strptime(iso_time.split(" +")[0], "%Y-%m-%d %H:%M:%S")
+def get_gitee_time(url):
+    headers = {"User-Agent": "update-readme-script"}
+    resp = requests.get(url, headers=headers, verify=False)
+    if resp.status_code == 200:
+        html = resp.text
+        # Gitee: <div class='release-time' data-commit-date='2025-04-03 08:47:52 +0800'>
+        m = re.search(
+            r"<div class=['\"]release-time['\"][^>]*data-commit-date=['\"]([^'\"]+)['\"]",
+            html,
+        )
+        if m:
+            dt = datetime.strptime(m.group(1).split(" +")[0], "%Y-%m-%d %H:%M:%S")
+            return dt.strftime("%m-%d")
+    return None
+
+
+def get_atomgit_time(url):
+    headers = {"User-Agent": "update-readme-script"}
+    url = url.replace("/tags?tab=release", "")
+    resp = requests.get(url, headers=headers, verify=False)
+    if resp.status_code == 200:
+        html = resp.text
+        m = re.search(r"type:\s*'PROJECT',\s*id:\s*'(\d+)'", html)
+        id = m.group(1) if m else None
+        if id:
+            url = f"https://atomgit.com/api/v3/projects/{id}?_input_charset=utf-8"
+            resp = requests.get(url, headers=headers, verify=False)
+            if resp.status_code == 200:
+                data = resp.json()
+                # 2025-08-03T23:05:59+08:00
+                dt = datetime.strptime(data["last_activity_at"], "%Y-%m-%dT%H:%M:%S%z")
+                return dt.strftime("%m-%d")
         else:
-            dt = datetime.fromisoformat(iso_time)
-        return dt.strftime("%m-%d")
-    except Exception:
-        return ""
+            print(f"无法从AtomGit链接中获取项目ID: {url}")
+            return None
+    return None
+
+
+def get_latest_release_time(url):
+    if "github.com" in url:
+        return get_github_time(url)
+    elif "gitee.com" in url:
+        return get_gitee_time(url)
+    elif "atomgit.com" in url:
+        return get_atomgit_time(url)
+    else:
+        print(f"不支持的链接: {url}")
+    return None
 
 
 def update():
+    updated_apps = []
     with open(README_PATH, "r", encoding="utf-8") as f:
         content = f.read()
     table_match = re.search(r"### 鸿蒙项目列表\s*\n((?:\|.*\n)+)", content)
@@ -82,19 +112,19 @@ def update():
                 desc=cols[3].strip(),
                 time=cols[4].strip(),
             )
+            old_time = item.time
             if item.time == "archived":
                 print(f"项目: {item.name}，已归档")
             else:
                 latest_time = get_latest_release_time(
                     item.url.replace("[Link](", "").replace(")", "")
                 )
-                latest_time_fmt = (
-                    format_time_mmdd(latest_time) if latest_time else item.time
-                )
                 print(
-                    f"项目: {item.name}，原时间: {item.time}，最新发布时间: {latest_time_fmt}"
+                    f"项目: {item.name.split('(')[0].strip()}，原时间: {item.time}，最新发布时间: {latest_time}"
                 )
-                item.time = latest_time_fmt
+                if latest_time and latest_time != old_time:
+                    item.time = latest_time
+                    updated_apps.append(item.name)
             items.append(item)
     items.sort(
         key=lambda x: (
@@ -110,16 +140,27 @@ def update():
     if new_content != content:
         with open(README_PATH, "w", encoding="utf-8") as f:
             f.write(new_content)
-        print("README.md 已更新。")
-        try:
-            api_url = "https://api.chuckfang.com/haps/GitHub%E4%BB%93%E5%BA%93/%E6%9C%89%E8%BD%AF%E4%BB%B6%E6%9B%B4%E6%96%B0?url=https://github.com/Zitann/HarmonyOS-Haps"
-            requests.get(api_url, timeout=5)
-            print("已通知API: 有软件更新")
-        except Exception as e:
-            print(f"通知API失败: {e}")
+        return updated_apps
     else:
-        print("README.md 无需更新。")
+        return []
+
+
+def report(updated_apps):
+    """报告更新状态"""
+    # 每一个都执行split('(')[0][1:-1] 并连接成字符串
+    apps_str = ", ".join([app.split("(")[0][1:-1] for app in updated_apps])
+    try:
+        api_url = f"https://api.chuckfang.com/haps/GitHub更新{apps_str}?url=https://github.com/Zitann/HarmonyOS-Haps"
+        requests.get(api_url, timeout=5)
+        print(f"已通知API: 有软件更新，更新应用: {apps_str}")
+    except Exception as e:
+        print(f"通知API失败: {e}")
 
 
 if __name__ == "__main__":
-    update()
+    updated_apps = update()
+    if updated_apps:
+        print("README已更新")
+        report(updated_apps)
+    else:
+        print("README无需更新")
