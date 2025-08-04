@@ -37,6 +37,7 @@
 | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [小白调试助手2.0](https://github.com/likuai2010/auto-installer) | [Link](https://github.com/likuai2010/auto-installer/releases/tag/2.0.0) | 小白调试助手（Auto-Installer）是一款免费、跨平台的鸿蒙应用开发调试工具。本仓库安装包均推荐使用此工具安装。 | 03-31 |
 | [ClashBox](https://github.com/xiaobaigroup/hapapp) | [Link](https://github.com/xiaobaigroup/hapapp/releases) | ClashBox 是首款为鸿蒙 HarmonyOS NEXT 平台打造的代理软件，基于 Mihomo 内核，致力于提供稳定、美观且支持多设备的一流代理体验。 | 05-22|
+| [植物大战僵尸杂交版](https://github.com/Kaiter-Plus/ohos-pvz_zj) | [Link](https://github.com/Kaiter-Plus/ohos-pvz_zj/releases) | 将热门PC游戏“植物大战僵尸杂交版”移植到鸿蒙平台的版本 | 08-04 |
 | [selineRead](https://atomgit.com/liluolinder/selineRead) | [Link](https://atomgit.com/liluolinder/selineRead/tags?tab=release) | SelineRead 是一款专为鸿蒙系统设计的开源电子书下载工具，让用户能便捷地从 Z-Library 等书源搜索并下载喜爱的书籍。 | 08-03 |
 | [JellyFin](https://github.com/chashaochang/JellyFin_HarmonyOS) | [Link](https://github.com/chashaochang/JellyFin_HarmonyOS/releases) | 非官方的 Jellyfin 客户端，将 Jellyfin 的体验带到鸿蒙设备上，能让你随心所欲地控制、管理和流媒体你的媒体资源。 | 08-02 |
 | [awesome_blbl](https://github.com/Luo-A-Chen/AwesomeResume) | [Link](https://github.com/Luo-A-Chen/AwesomeResume/releases) | 使用鸿蒙flutter3.22版本开发的第三方B站 | 08-02 |
@@ -90,13 +91,15 @@
 - [dgh1818](https://github.com/dgh1818)
 - [ErBWs](https://github.com/ErBWs)
 - [jiegec](https://github.com/jiegec)
+- [Kaiter-Plus](https://github.com/Kaiter-Plus)
 - [kdada](https://github.com/kdada)
 - [likuai2010](https://github.com/likuai2010)
+- [liluolinder](https://atomgit.com/liluolinder)
+- [Luo-A-Chen](https://github.com/Luo-A-Chen)
 - [Luxcis](https://github.com/Luxcis)
 - [mgz0227](https://github.com/mgz0227)
 - [niuhuan](https://github.com/niuhuan)
 - [Open Harmony Play Ground](https://github.com/OHPG)
-- [qshh (qinshah)](https://gitee.com/qinshah)
 - [shanyan-wcx](https://github.com/shanyan-wcx)
 - [shokakucarrier](https://github.com/shokakucarrier)
 - [smdsbz (smdsbz)](https://gitee.com/smdsbz)
@@ -107,7 +110,6 @@
 - [XiaobaiStudio](https://github.com/xiaobaigroup)
 - [Yebingiscn](https://github.com/Yebingiscn)
 - [云享社](https://github.com/Edge-Music)
-- [liluolinder](https://atomgit.com/liluolinder)
 
 ### Star History
 
