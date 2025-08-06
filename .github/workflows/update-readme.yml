@@ -15,6 +15,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Check main repo
+        run: |
+          if [[ "${{ github.repository }}" != "Zitann/HarmonyOS-Haps" ]]; then
+            echo "不是主仓库，跳过执行"
+            exit 0
+          fi
+
       - name: Checkout code
         uses: actions/checkout@v2
 
@@ -33,6 +40,15 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Get updated apps
+        run: |
+          if [ -f .apps_str.txt ]; then
+            apps_str=$(cat .apps_str.txt)
+            echo "apps_str=$apps_str" >> $GITHUB_ENV
+          else
+            echo "apps_str=" >> $GITHUB_ENV
+          fi
+
       - name: Check for changes
         id: changes
         run: |
@@ -42,4 +58,4 @@ jobs:
         if: steps.changes.outputs.changed == 'true'
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "自动更新项目 release 时间"
+          commit_message: "自动更新: ${{ env.apps_str }}"

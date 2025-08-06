@@ -150,7 +150,7 @@ def report(updated_apps):
     # 每一个都执行split('(')[0][1:-1] 并连接成字符串
     apps_str = ", ".join([app.split("(")[0][1:-1] for app in updated_apps])
     try:
-        api_url = f"https://api.chuckfang.com/haps/GitHub更新{apps_str}?url=https://github.com/Zitann/HarmonyOS-Haps"
+        api_url = f"https://api.chuckfang.com/github/GitHub更新{apps_str}?url=https://github.com/Zitann/HarmonyOS-Haps"
         requests.get(api_url, timeout=5)
         print(f"已通知API: 有软件更新，更新应用: {apps_str}")
     except Exception as e:
@@ -162,5 +162,8 @@ if __name__ == "__main__":
     if updated_apps:
         print("README已更新")
         report(updated_apps)
+        apps_str = ", ".join([app.split("(")[0][1:-1] for app in updated_apps])
+        with open(".apps_str.txt", "w", encoding="utf-8") as f:
+            f.write(apps_str)
     else:
         print("README无需更新")
