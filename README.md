@@ -37,6 +37,7 @@
 | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [小白调试助手2.0](https://github.com/likuai2010/auto-installer) | [Link](https://github.com/likuai2010/auto-installer/releases/tag/2.0.0) | 小白调试助手（Auto-Installer）是一款免费、跨平台的鸿蒙应用开发调试工具。本仓库安装包均推荐使用此工具安装。 | 03-31 |
 | [ClashBox](https://github.com/xiaobaigroup/hapapp) | [Link](https://github.com/xiaobaigroup/hapapp/releases) | ClashBox 是首款为鸿蒙 HarmonyOS NEXT 平台打造的代理软件，基于 Mihomo 内核，致力于提供稳定、美观且支持多设备的一流代理体验。 | 05-22|
+| [soc-search](https://github.com/Amview/soc-search) | [Link](https://github.com/Amview/soc-search/releases) | 一款可以搜索和查询安兔兔、Geekbench等主流平台SoC（处理器）性能跑分排行的工具。 | 08-07 |
 | [selineRead](https://atomgit.com/liluolinder/selineRead) | [Link](https://atomgit.com/liluolinder/selineRead/tags?tab=release) | SelineRead 是一款专为鸿蒙系统设计的开源电子书下载工具，让用户能便捷地从 Z-Library 等书源搜索并下载喜爱的书籍。 | 08-07 |
 | [immich](https://github.com/dgh1818/immich_ohos) | [Link](https://github.com/dgh1818/immich_ohos/releases) | 一款连接 Immich 私人照片和视频备份服务器的鸿蒙客户端，用于在鸿蒙设备上浏览和管理个人媒体库。 | 08-07 |
 | [Harmonic](https://github.com/shanyan-wcx/Harmonic) | [Link](https://github.com/shanyan-wcx/Harmonic/releases) | 一款连接 Navidrome 个人音乐服务器的鸿蒙原生客户端，用于在手机、平板、车机等设备上播放您的音乐库。 | 08-05 |
@@ -83,6 +84,7 @@
 ### 鸣谢(不分先后)
 
 - [Aloereed](https://github.com/Aloereed)
+- [Amview](https://github.com/Amview)
 - [autobcb](https://github.com/autobcb)
 - [awaLiny2333](https://github.com/awaLiny2333)
 - [azhuge233](https://github.com/azhuge233)
