@@ -45,8 +45,9 @@ jobs:
           if [ -f .apps_str.txt ]; then
             apps_str=$(cat .apps_str.txt)
             echo "apps_str=$apps_str" >> $GITHUB_ENV
+            rm -f .apps_str.txt
           else
-            echo "apps_str=" >> $GITHUB_ENV
+            echo "apps_str=列表排序" >> $GITHUB_ENV
           fi
 
       - name: Check for changes
