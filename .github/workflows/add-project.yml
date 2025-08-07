@@ -85,3 +85,11 @@ jobs:
             echo "❌ 项目添加失败或已存在" >> $GITHUB_STEP_SUMMARY
             echo "🔗 尝试添加的项目: ${{ github.event.inputs.repo_url }}" >> $GITHUB_STEP_SUMMARY
           fi
+
+      - name: Trigger update-readme workflow
+        if: steps.changes.outputs.changed == 'true'
+        uses: peter-evans/repository-dispatch@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          repository: Zitann/HarmonyOS-Haps
+          event-type: update-readme

@@ -1,4 +1,4 @@
-name: CI
+name: Update README
 on:
   push:
     branches:
@@ -9,6 +9,8 @@ on:
   schedule:
     - cron: '0 14 * * *'   # 每天UTC 14:00，即北京时间22:00
   workflow_dispatch:
+  repository_dispatch:
+    types: [update-readme]
 
 jobs:
   build:
