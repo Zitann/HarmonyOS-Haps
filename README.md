@@ -98,39 +98,9 @@
 
 如果您在使用过程中遇到无法使用的HAP安装包，或者发现有其他有用的HAP安装包，欢迎在issue中进行说明。我们将尽快处理您的反馈，确保资源的有效性和更新。同时，我们非常感谢您的贡献，帮助我们不断改进和丰富本仓库的内容。
 
-### 鸣谢(不分先后)
+### 鸣谢(按ASCII排序)
 
-- [Aloereed](https://github.com/Aloereed)
-- [Amview](https://github.com/Amview)
-- [autobcb](https://github.com/autobcb)
-- [awaLiny2333](https://github.com/awaLiny2333)
-- [azhuge233](https://github.com/azhuge233)
-- [bgli100](https://github.com/bgli100)
-- [chashaochang](https://github.com/chashaochang)
-- [Chenlvin](https://github.com/Chenlvin)
-- [dgh1818](https://github.com/dgh1818)
-- [ErBWs](https://github.com/ErBWs)
-- [jiegec](https://github.com/jiegec)
-- [Kaiter-Plus](https://github.com/Kaiter-Plus)
-- [kdada](https://github.com/kdada)
-- [likuai2010](https://github.com/likuai2010)
-- [liluolinder](https://atomgit.com/liluolinder)
-- [Luo-A-Chen](https://github.com/Luo-A-Chen)
-- [Luxcis](https://github.com/Luxcis)
-- [mgz0227](https://github.com/mgz0227)
-- [niuhuan](https://github.com/niuhuan)
-- [Open Harmony Play Ground](https://github.com/OHPG)
-- [shanyan-wcx](https://github.com/shanyan-wcx)
-- [shokakucarrier](https://github.com/shokakucarrier)
-- [smdsbz (smdsbz)](https://gitee.com/smdsbz)
-- [SolidFaker](https://github.com/SolidFaker)
-- [SummerKaze](https://github.com/SummerKaze)
-- [SunboyTPB](https://github.com/SunboyTPB)
-- [SwimmingTiger](https://github.com/SwimmingTiger)
-- [wly5556](https://github.com/wly5556)
-- [XiaobaiStudio](https://github.com/xiaobaigroup)
-- [Yebingiscn](https://github.com/Yebingiscn)
-- [云享社](https://github.com/Edge-Music)
+![Contributiors](assets/contributers.svg)
 
 ### Star History
 
