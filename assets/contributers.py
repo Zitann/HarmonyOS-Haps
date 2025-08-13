@@ -6,7 +6,7 @@ import sys
 from time import sleep
 
 CONTRIBUTERS_PATH = os.path.join(
-    os.path.dirname(os.path.dirname(__file__)), "Contributers.md"
+    os.path.dirname(os.path.dirname(__file__)), "CONTRIBUTING.md"
 )
 SVG_PATH = os.path.join(
     os.path.dirname(os.path.dirname(__file__)), "assets", "contributers.svg"

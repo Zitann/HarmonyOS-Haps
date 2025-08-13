@@ -100,7 +100,7 @@
 
 ### 鸣谢(按ASCII排序)
 
-![Contributiors](assets/contributers.svg)
+[![Contributiors](assets/contributers.svg)](https://github.com/Zitann/HarmonyOS-Haps/tree/main?tab=contributing-ov-file#)
 
 ### Star History
 
