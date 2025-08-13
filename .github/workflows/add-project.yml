@@ -18,7 +18,15 @@ on:
         required: true
         type: string
         default: ''
-
+      platform:
+        description: '平台类型'
+        required: true
+        type: choice
+        options:
+          - 一次开发，多端部署
+          - 鸿蒙手机/平板
+          - 鸿蒙电脑
+        default: 一次开发，多端部署
 jobs:
   add-project:
     runs-on: ubuntu-latest
