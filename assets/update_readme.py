@@ -94,14 +94,14 @@ def get_latest_release_time(url):
     return None
 
 
-def update():
+def update(title):
     updated_apps = []
     with open(README_PATH, "r", encoding="utf-8") as f:
         content = f.read()
-    table_match = re.search(r"### 鸿蒙项目列表\s*\n((?:\|.*\n)+)", content)
+    table_match = re.search(rf"### {re.escape(title)}\s*\n((?:\|.*\n)+)", content)
     table = table_match.group(1)
-    title = table.split("\n")[0:4]
-    lines = table.strip().split("\n")[4:]
+    title = table.split("\n")[0:2]
+    lines = table.strip().split("\n")[2:]
     items = []
     for line in lines:
         cols = line.split("|")
@@ -158,7 +158,10 @@ def report(updated_apps):
 
 
 if __name__ == "__main__":
-    updated_apps = update()
+    update_title = ["一次开发，多端部署", "鸿蒙手机/平板", "鸿蒙电脑"]
+    updated_apps = []
+    for title in update_title:
+        updated_apps.extend(update(title))
     if updated_apps:
         print("README已更新")
         report(updated_apps)
