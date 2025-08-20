@@ -19,6 +19,7 @@
 - [bgli100](https://github.com/bgli100)
 - [chashaochang](https://github.com/chashaochang)
 - [dgh1818](https://github.com/dgh1818)
+- [hackeris](https://github.com/hackeris)
 - [jiegec](https://github.com/jiegec)
 - [kdada](https://github.com/kdada)
 - [likuai2010](https://github.com/likuai2010)
