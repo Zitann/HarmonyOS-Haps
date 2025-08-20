@@ -53,4 +53,3 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "自动更新贡献者SVG"
-          file_pattern: assets/contributors.svg
