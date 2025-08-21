@@ -83,8 +83,8 @@
 | [KDAuth](https://github.com/kdada/Authenticator) | [Link](https://github.com/kdada/Authenticator/releases) | 一款支持标准和 Steam 令牌的双因子认证（2FA）密码生成工具。 | 06-28 |
 | [包名解析](https://github.com/SummerKaze/AppBundleNameForShared) | [Link](https://github.com/SummerKaze/AppBundleNameForShared/releases) | 一款用于从华为应用商城分享链接中提取应用包名的鸿蒙工具。 | 06-23 |
 | [LocalSend](https://github.com/Aloereed/localsend-ohos) | [Link](https://github.com/Aloereed/localsend-ohos/releases) | LocalSend鸿蒙NEXT实现，本地网络文件和消息分享工具，无需互联网连接即可安全传输。 | 04-15 |
-| [RetroArch](https://github.com/likuai2010/auto-installer/releases) | [Link](https://github.com/likuai2010/auto-installer/releases/download/0.0.0/RetroArch-default-unsigned.hap) | 一款能够在多种设备上流畅运行PSP游戏的高性能开源模拟器。 | archived |
-| [ppsspp](https://github.com/likuai2010/auto-installer/releases) | [Link](https://github.com/likuai2010/auto-installer/releases/download/0.0.0/ppsspp-default-unsigned.hap) | 一个能够让你在多种设备上运行大量经典游戏的多功能模拟器前端。 | archived |
+| [RetroArch](https://github.com/likuai2010/auto-installer/releases/tag/0.0.0) | [Link](https://github.com/likuai2010/auto-installer/releases/download/0.0.0/RetroArch-default-unsigned.hap) | 一款能够在多种设备上流畅运行PSP游戏的高性能开源模拟器。 | archived |
+| [ppsspp](https://github.com/likuai2010/auto-installer/releases/tag/0.0.0) | [Link](https://github.com/likuai2010/auto-installer/releases/download/0.0.0/ppsspp-default-unsigned.hap) | 一个能够让你在多种设备上运行大量经典游戏的多功能模拟器前端。 | archived |
 | [宝可梦图鉴](https://github.com/Luxcis/Pokedex_Next) | [Link](https://github.com/Luxcis/Pokedex_Next/releases) | 一款用于查询宝可梦、招式及特性详细信息的图鉴应用。 | archived |
 
 ### 鸿蒙电脑
