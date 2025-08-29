@@ -71,7 +71,7 @@
 
 | 软件     | 下载链接            | 描述                                                         | 更新                                                 |
 | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [immich](https://github.com/dgh1818/immich_ohos) | [Link](https://github.com/dgh1818/immich_ohos/releases) | 一款连接 Immich 私人照片和视频备份服务器的鸿蒙客户端，用于在鸿蒙设备上浏览和管理个人媒体库。 | 08-27 |
+| [immich](https://github.com/dgh1818/immich_ohos) | [Link](https://github.com/dgh1818/immich_ohos/releases) | 一款连接 Immich 私人照片和视频备份服务器的鸿蒙客户端，用于在鸿蒙设备上浏览和管理个人媒体库。 | 08-29 |
 | [KDAuth](https://github.com/kdada/Authenticator) | [Link](https://github.com/kdada/Authenticator/releases) | 一款支持标准和 Steam 令牌的双因子认证（2FA）密码生成工具。 | 08-25 |
 | [轻阅读](https://github.com/autobcb/read) | [Link](https://github.com/autobcb/read/releases) | 一款可通过自部署服务端，在手机、平板等多种设备上同步阅读进度的开源阅读应用。 | 08-23 |
 | [soc-search](https://github.com/Amview/soc-search) | [Link](https://github.com/Amview/soc-search/releases) | 一款可以搜索和查询安兔兔、Geekbench等主流平台SoC（处理器）性能跑分排行的工具。 | 08-07 |
