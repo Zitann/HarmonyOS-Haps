@@ -71,9 +71,10 @@
 
 | 软件     | 下载链接            | 描述                                                         | 更新                                                 |
 | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [HiSH](https://github.com/harmoninux/HiSH) | [Link](https://github.com/harmoninux/HiSH/releases) | 在鸿蒙手机、平板和PC上运行 Linux Shell | 09-06 |
+| [轻阅读](https://github.com/autobcb/read) | [Link](https://github.com/autobcb/read/releases) | 一款可通过自部署服务端，在手机、平板等多种设备上同步阅读进度的开源阅读应用。 | 09-05 |
 | [immich](https://github.com/dgh1818/immich_ohos) | [Link](https://github.com/dgh1818/immich_ohos/releases) | 一款连接 Immich 私人照片和视频备份服务器的鸿蒙客户端，用于在鸿蒙设备上浏览和管理个人媒体库。 | 08-31 |
 | [KDAuth](https://github.com/kdada/Authenticator) | [Link](https://github.com/kdada/Authenticator/releases) | 一款支持标准和 Steam 令牌的双因子认证（2FA）密码生成工具。 | 08-25 |
-| [轻阅读](https://github.com/autobcb/read) | [Link](https://github.com/autobcb/read/releases) | 一款可通过自部署服务端，在手机、平板等多种设备上同步阅读进度的开源阅读应用。 | 08-23 |
 | [soc-search](https://github.com/Amview/soc-search) | [Link](https://github.com/Amview/soc-search/releases) | 一款可以搜索和查询安兔兔、Geekbench等主流平台SoC（处理器）性能跑分排行的工具。 | 08-07 |
 | [awesome_blbl](https://github.com/Luo-A-Chen/AwesomeResume) | [Link](https://github.com/Luo-A-Chen/AwesomeResume/releases) | 使用鸿蒙flutter3.22版本开发的第三方B站 | 08-02 |
 | [PixEz](https://github.com/bgli100/pixez-flutter-ohos) | [Link](https://github.com/bgli100/pixez-flutter-ohos/releases) | 一款支持免代理直连及查看动图的第三方Pixiv flutter客户端 | 07-29 |
@@ -86,7 +87,6 @@
 | [RetroArch](https://github.com/likuai2010/auto-installer/releases/tag/0.0.0) | [Link](https://github.com/likuai2010/auto-installer/releases/download/0.0.0/RetroArch-default-unsigned.hap) | 一款能够在多种设备上流畅运行PSP游戏的高性能开源模拟器。 | archived |
 | [ppsspp](https://github.com/likuai2010/auto-installer/releases/tag/0.0.0) | [Link](https://github.com/likuai2010/auto-installer/releases/download/0.0.0/ppsspp-default-unsigned.hap) | 一个能够让你在多种设备上运行大量经典游戏的多功能模拟器前端。 | archived |
 | [宝可梦图鉴](https://github.com/Luxcis/Pokedex_Next) | [Link](https://github.com/Luxcis/Pokedex_Next/releases) | 一款用于查询宝可梦、招式及特性详细信息的图鉴应用。 | archived |
-| [HiSH](https://github.com/harmoninux/HiSH) | [Link](https://github.com/harmoninux/HiSH/releases) | 在鸿蒙手机、平板和PC上运行 Linux Shell | 09-06 |
 
 ### 鸿蒙电脑
 
