@@ -86,6 +86,7 @@
 | [RetroArch](https://github.com/likuai2010/auto-installer/releases/tag/0.0.0) | [Link](https://github.com/likuai2010/auto-installer/releases/download/0.0.0/RetroArch-default-unsigned.hap) | 一款能够在多种设备上流畅运行PSP游戏的高性能开源模拟器。 | archived |
 | [ppsspp](https://github.com/likuai2010/auto-installer/releases/tag/0.0.0) | [Link](https://github.com/likuai2010/auto-installer/releases/download/0.0.0/ppsspp-default-unsigned.hap) | 一个能够让你在多种设备上运行大量经典游戏的多功能模拟器前端。 | archived |
 | [宝可梦图鉴](https://github.com/Luxcis/Pokedex_Next) | [Link](https://github.com/Luxcis/Pokedex_Next/releases) | 一款用于查询宝可梦、招式及特性详细信息的图鉴应用。 | archived |
+| [HiSH](https://github.com/harmoninux/HiSH) | [Link](https://github.com/harmoninux/HiSH/releases) | 在鸿蒙手机、平板和PC上运行 Linux Shell | 09-06 |
 
 ### 鸿蒙电脑
 
