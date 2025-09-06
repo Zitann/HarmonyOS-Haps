@@ -2,6 +2,7 @@
 - [Amview](https://github.com/Amview)
 - [Chenlvin](https://github.com/Chenlvin)
 - [ErBWs](https://github.com/ErBWs)
+- [Harmoninux](https://github.com/harmoninux/HiSH)
 - [Kaiter-Plus](https://github.com/Kaiter-Plus)
 - [Luo-A-Chen](https://github.com/Luo-A-Chen)
 - [Luxcis](https://github.com/Luxcis)
