@@ -51,6 +51,7 @@
 | 软件     | 下载链接            | 描述                                                         | 更新                                                 |
 | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [selineRead](https://atomgit.com/liquid/openSelineRead) | [Link](https://atomgit.com/liquid/openSelineRead/tags?tab=release) | SelineRead 是一款专为鸿蒙系统设计的开源电子书下载工具，让用户能便捷地从 Z-Library 等书源搜索并下载喜爱的书籍。 | 09-09 |
+| [云宫](https://atomgit.com/liquid/CloudUI) | [Link](https://atomgit.com/liquid/CloudUI/tags?tab=release) | “云宫”是一个运行与HarmonyOS NEXT的基于 CangjieMagic 搭建的智能体（Agent）构建平台。 | 09-09 |
 | [HiSH](https://github.com/harmoninux/HiSH) | [Link](https://github.com/harmoninux/HiSH/releases) | 在鸿蒙手机、平板和PC上运行 Linux Shell | 09-08 |
 | [植物大战僵尸杂交版](https://github.com/Kaiter-Plus/ohos-pvz_zj) | [Link](https://github.com/Kaiter-Plus/ohos-pvz_zj/releases) | 将热门PC游戏“植物大战僵尸杂交版”移植到鸿蒙平台的版本 | 09-07 |
 | [Kazumi](https://github.com/ErBWs/Kazumi) | [Link](https://github.com/ErBWs/Kazumi/releases) | 一款基于自定义规则来采集番剧资源，并支持 Anime4K 实时超分辨率的在线观看应用。 | 09-05 |
@@ -67,7 +68,6 @@
 | [云享社](https://github.com/Edge-Music/Core) | [Link](https://github.com/Edge-Music/Core/releases) | 一个在鸿蒙NEXT上，可连接多个音乐平台和私有数据源的统一音乐播放器。 | 04-30 |
 | [Moonlight](https://gitee.com/smdsbz/moonlight-ohos) | [Link](https://gitee.com/smdsbz/moonlight-ohos/releases) | 在 HarmonyOS Next 上的另一个 Sunshine 客户端实现。 | 04-03 |
 | [Audiobookshelf](https://github.com/shanyan-wcx/Audiobookshelf-HarmonyOS) | [Link](https://github.com/shanyan-wcx/Audiobookshelf-HarmonyOS/releases) | 一款用于连接 Audiobookshelf 私人有声书服务器的鸿蒙Next客户端。暂不支持播客。 | 03-06 |
-| [云宫](https://atomgit.com/liquid/CloudUI) | [Link](https://atomgit.com/liquid/CloudUI/tags?tab=release) | “云宫”是一个运行与HarmonyOS NEXT的基于 CangjieMagic 搭建的智能体（Agent）构建平台。 | 03-06 |
 
 ### 鸿蒙手机/平板
 
