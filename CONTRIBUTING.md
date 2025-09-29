@@ -3,6 +3,7 @@
 - [Chenlvin](https://github.com/Chenlvin)
 - [ErBWs](https://github.com/ErBWs)
 - [Harmoninux](https://github.com/harmoninux/HiSH)
+- [Jonk](https://github.com/aimilin6688)
 - [Kaiter-Plus](https://github.com/Kaiter-Plus)
 - [Luo-A-Chen](https://github.com/Luo-A-Chen)
 - [Luxcis](https://github.com/Luxcis)
