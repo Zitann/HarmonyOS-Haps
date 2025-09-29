@@ -83,7 +83,7 @@ def add_project(repo_url, name, desc, platform):
 
 
 def main():
-    if len(sys.argv) != 5:
+    if len(sys.argv) != 4:
         print("用法: python add.py <项目仓库URL> <项目名称> <项目描述>")
         sys.exit(1)
     repo_url = sys.argv[1].strip()
