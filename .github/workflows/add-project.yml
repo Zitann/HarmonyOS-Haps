@@ -55,7 +55,7 @@ jobs:
           fi
 
       - name: Add project to README
-        run: python assets/add.py "${{ github.event.inputs.repo_url }}" "${{ github.event.inputs.name }}" "${{ github.event.inputs.desc }}"
+        run: python assets/add.py "${{ github.event.inputs.repo_url }}" "${{ github.event.inputs.name }}" "${{ github.event.inputs.desc }}" "${{ github.event.inputs.platform }}"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
