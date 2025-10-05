@@ -50,9 +50,9 @@
 
 | 软件     | 下载链接            | 描述                                                         | 更新                                                 |
 | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [植物大战僵尸杂交版](https://github.com/Kaiter-Plus/ohos-pvz_zj) | [Link](https://github.com/Kaiter-Plus/ohos-pvz_zj/releases) | 将热门PC游戏“植物大战僵尸杂交版”移植到鸿蒙平台的版本 | 10-05 |
 | [HiSH](https://github.com/harmoninux/HiSH) | [Link](https://github.com/harmoninux/HiSH/releases) | 在鸿蒙手机、平板和PC上运行 Linux Shell | 10-04 |
 | [Harmonic](https://github.com/shanyan-wcx/Harmonic) | [Link](https://github.com/shanyan-wcx/Harmonic/releases) | 一款连接 Navidrome 个人音乐服务器的鸿蒙原生客户端，用于在手机、平板、车机等设备上播放您的音乐库。 | 10-03 |
-| [植物大战僵尸杂交版](https://github.com/Kaiter-Plus/ohos-pvz_zj) | [Link](https://github.com/Kaiter-Plus/ohos-pvz_zj/releases) | 将热门PC游戏“植物大战僵尸杂交版”移植到鸿蒙平台的版本 | 10-01 |
 | [Melotopia](https://github.com/Chenlvin/Melotopia-HMOS) | [Link](https://github.com/Chenlvin/Melotopia-HMOS/releases) | ✨ 鸿蒙原生音乐播放器｜🚀 全场景设备适配 本项目为第三方应用, 应用本身不提供在线服务, 仅提供UI界面 | 09-30 |
 | [Kazumi](https://github.com/ErBWs/Kazumi) | [Link](https://github.com/ErBWs/Kazumi/releases) | 一款基于自定义规则来采集番剧资源，并支持 Anime4K 实时超分辨率的在线观看应用。 | 09-25 |
 | [OTP Token](https://github.com/SolidFaker/ohtotptoken) | [Link](https://github.com/SolidFaker/ohtotptoken/releases) | 一款支持TOTP、HOTP、Steam令牌和Forti令牌的开源双因素认证（2FA）令牌生成器。 | 09-22 |
