@@ -50,6 +50,7 @@
 
 | 软件     | 下载链接            | 描述                                                         | 更新                                                 |
 | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [云宫](https://atomgit.com/liquid/CloudUI) | [Link](https://atomgit.com/liquid/CloudUI/tags?tab=release) | “云宫”是一个运行与HarmonyOS NEXT的基于 CangjieMagic 搭建的智能体（Agent）构建平台。 | 10-06 |
 | [植物大战僵尸杂交版](https://github.com/Kaiter-Plus/ohos-pvz_zj) | [Link](https://github.com/Kaiter-Plus/ohos-pvz_zj/releases) | 将热门PC游戏“植物大战僵尸杂交版”移植到鸿蒙平台的版本 | 10-05 |
 | [HiSH](https://github.com/harmoninux/HiSH) | [Link](https://github.com/harmoninux/HiSH/releases) | 在鸿蒙手机、平板和PC上运行 Linux Shell | 10-04 |
 | [Harmonic](https://github.com/shanyan-wcx/Harmonic) | [Link](https://github.com/shanyan-wcx/Harmonic/releases) | 一款连接 Navidrome 个人音乐服务器的鸿蒙原生客户端，用于在手机、平板、车机等设备上播放您的音乐库。 | 10-03 |
@@ -58,7 +59,6 @@
 | [OTP Token](https://github.com/SolidFaker/ohtotptoken) | [Link](https://github.com/SolidFaker/ohtotptoken/releases) | 一款支持TOTP、HOTP、Steam令牌和Forti令牌的开源双因素认证（2FA）令牌生成器。 | 09-22 |
 | [冲浪喵](https://github.com/awaLiny2333/LinysBrowser_NEXT) | [Link](https://github.com/awaLiny2333/LinysBrowser_NEXT/releases) | 一款为鸿蒙NEXT开发的、轻量化的网页浏览器。 | 09-13 |
 | [selineRead](https://atomgit.com/liquid/openSelineRead) | [Link](https://atomgit.com/liquid/openSelineRead/tags?tab=release) | SelineRead 是一款专为鸿蒙系统设计的开源电子书下载工具，让用户能便捷地从 Z-Library 等书源搜索并下载喜爱的书籍。 | 09-09 |
-| [云宫](https://atomgit.com/liquid/CloudUI) | [Link](https://atomgit.com/liquid/CloudUI/tags?tab=release) | “云宫”是一个运行与HarmonyOS NEXT的基于 CangjieMagic 搭建的智能体（Agent）构建平台。 | 09-09 |
 | [JellyFin](https://github.com/chashaochang/JellyFin_HarmonyOS) | [Link](https://github.com/chashaochang/JellyFin_HarmonyOS/releases) | 非官方的 Jellyfin 客户端，将 Jellyfin 的体验带到鸿蒙设备上，能让你随心所欲地控制、管理和流媒体你的媒体资源。 | 08-02 |
 | [流心视频](https://github.com/Yebingiscn/SweetVideo) | [Link](https://github.com/Yebingiscn/SweetVideo/releases) | 一款运行在HarmonyOS Next上的原生视频播放器，支持播放多种视频、音频及字幕格式。基于开源项目[流心视频](https://gitee.com/lqsxy/sweetvideo/tree/master)二次开发 | 07-31 |
 | [S1-Orange](https://github.com/wly5556/S1-Orange) | [Link](https://github.com/wly5556/S1-Orange/releases/) | 一款专为鸿蒙Next平台开发的 stage1st.com 论坛移动客户端。 | 07-30 |
