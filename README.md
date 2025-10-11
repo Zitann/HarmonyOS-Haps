@@ -50,7 +50,7 @@
 
 | 软件     | 下载链接            | 描述                                                         | 更新                                                 |
 | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [云宫](https://atomgit.com/liquid/CloudUI) | [Link](https://atomgit.com/liquid/CloudUI/tags?tab=release) | “云宫”是一个运行与HarmonyOS NEXT的基于 CangjieMagic 搭建的智能体（Agent）构建平台。 | 10-10 |
+| [云宫](https://atomgit.com/liquid/CloudUI) | [Link](https://atomgit.com/liquid/CloudUI/tags?tab=release) | “云宫”是一个运行与HarmonyOS NEXT的基于 CangjieMagic 搭建的智能体（Agent）构建平台。 | 10-11 |
 | [植物大战僵尸杂交版](https://github.com/Kaiter-Plus/ohos-pvz_zj) | [Link](https://github.com/Kaiter-Plus/ohos-pvz_zj/releases) | 将热门PC游戏“植物大战僵尸杂交版”移植到鸿蒙平台的版本 | 10-05 |
 | [HiSH](https://github.com/harmoninux/HiSH) | [Link](https://github.com/harmoninux/HiSH/releases) | 在鸿蒙手机、平板和PC上运行 Linux Shell | 10-04 |
 | [Harmonic](https://github.com/shanyan-wcx/Harmonic) | [Link](https://github.com/shanyan-wcx/Harmonic/releases) | 一款连接 Navidrome 个人音乐服务器的鸿蒙原生客户端，用于在手机、平板、车机等设备上播放您的音乐库。 | 10-03 |
