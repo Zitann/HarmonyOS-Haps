@@ -72,8 +72,8 @@
 
 | 软件     | 下载链接            | 描述                                                         | 更新                                                 |
 | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [Kelivo](https://github.com/Chevey339/kelivo) | [Link](https://github.com/Chevey339/kelivo/releases) | 一个Flutter LLM聊天客户端。支持Android、iOS和Harmony Next。 | 10-11 |
 | [Wake](https://github.com/azhuge233/Wake-HarmonyOS) | [Link](https://github.com/azhuge233/Wake-HarmonyOS/releases) | 一款运行在鸿蒙Next平台上的网络唤醒（Wake-on-LAN）应用。 | 10-14 |
+| [Kelivo](https://github.com/Chevey339/kelivo) | [Link](https://github.com/Chevey339/kelivo/releases) | 一个Flutter LLM聊天客户端。支持Android、iOS和Harmony Next。 | 10-11 |
 | [轻阅读](https://github.com/autobcb/read) | [Link](https://github.com/autobcb/read/releases) | 一款可通过自部署服务端，在手机、平板等多种设备上同步阅读进度的开源阅读应用。 | 10-10 |
 | [PixEz](https://github.com/bgli100/pixez-flutter-ohos) | [Link](https://github.com/bgli100/pixez-flutter-ohos/releases) | 一款支持免代理直连及查看动图的第三方Pixiv flutter客户端 | 10-09 |
 | [KeePassHO](https://github.com/aimilin6688/KeePassHO) | [Link](https://github.com/aimilin6688/KeePassHO/releases) | 本地密码管理软件，支持 keepass 系列的数据库，现在已经实现了 密码管理和TOTP 功能。 | 09-26 |
