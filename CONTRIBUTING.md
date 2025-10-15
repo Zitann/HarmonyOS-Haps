@@ -8,6 +8,7 @@
 - [Luo-A-Chen](https://github.com/Luo-A-Chen)
 - [Luxcis](https://github.com/Luxcis)
 - [Open Harmony Play Ground](https://github.com/OHPG)
+- [Psyche](https://github.com/Chevey339)
 - [SolidFaker](https://github.com/SolidFaker)
 - [SummerKaze](https://github.com/SummerKaze)
 - [SunboyTPB](https://github.com/SunboyTPB)
