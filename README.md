@@ -95,6 +95,7 @@
 
 | 软件     | 下载链接            | 描述                                                         | 更新                                                 |
 | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [Servo](https://github.com/servo/servo) | [Link](https://github.com/servo/servo/releases) | Servo 是一个用 Rust 语言编写的浏览器内核的浏览器 | 10-20 |
 | [Harmonix](https://github.com/hackeris/Harmonix) | [Link](https://github.com/hackeris/Harmonix/releases) | 一个能在鸿蒙PC上运行 aarch64/x86_64/riscv64 Linux 程序的终端 | 08-30 |
 | [Termony](https://github.com/jiegec/Termony) | [Link](https://github.com/jiegec/Termony/releases) | 一款为鸿蒙操作系统提供的终端模拟器，允许用户运行常见的Linux命令和程序。 | 06-15 |
 | [aria2](https://github.com/SwimmingTiger/aria2-ohos) | [Link](https://github.com/SwimmingTiger/aria2-ohos/releases) | 一个能在鸿蒙PC上通过命令行使用的Aria2下载工具。 | 06-11 |
