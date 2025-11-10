@@ -50,6 +50,7 @@
 
 | 软件     | 下载链接            | 描述                                                         | 更新                                                 |
 | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [Audiobookshelf](https://github.com/shanyan-wcx/Audiobookshelf-HarmonyOS) | [Link](https://github.com/shanyan-wcx/Audiobookshelf-HarmonyOS/releases) | 一款用于连接 Audiobookshelf 私人有声书服务器的鸿蒙Next客户端。暂不支持播客。 | 11-10 |
 | [云宫](https://atomgit.com/liquid/CloudUI) | [Link](https://atomgit.com/liquid/CloudUI/tags?tab=release) | “云宫”是一个运行与HarmonyOS NEXT的基于 CangjieMagic 搭建的智能体（Agent）构建平台。 | 11-09 |
 | [Etohos](https://github.com/niuhuan/etohos) | [Link](https://github.com/niuhuan/etohos/releases) | 一个基于flutter的鸿蒙系统应用，用来接入EasyTier网络。 | 11-07 |
 | [植物大战僵尸杂交版](https://github.com/Kaiter-Plus/ohos-pvz_zj) | [Link](https://github.com/Kaiter-Plus/ohos-pvz_zj/releases) | 将热门PC游戏“植物大战僵尸杂交版”移植到鸿蒙平台的版本 | 11-06 |
@@ -67,7 +68,6 @@
 | [FinVideo](https://github.com/OHPG/FinVideo) | [Link](https://github.com/OHPG/FinVideo/releases) | 一款在鸿蒙Next上使用的 Jellyfin 视频播放器，用于连接和播放在线影音库。 | 06-25 |
 | [云享社](https://github.com/Edge-Music/Core) | [Link](https://github.com/Edge-Music/Core/releases) | 一个在鸿蒙NEXT上，可连接多个音乐平台和私有数据源的统一音乐播放器。 | 04-30 |
 | [Moonlight](https://gitee.com/smdsbz/moonlight-ohos) | [Link](https://gitee.com/smdsbz/moonlight-ohos/releases) | 在 HarmonyOS Next 上的另一个 Sunshine 客户端实现。 | 04-03 |
-| [Audiobookshelf](https://github.com/shanyan-wcx/Audiobookshelf-HarmonyOS) | [Link](https://github.com/shanyan-wcx/Audiobookshelf-HarmonyOS/releases) | 一款用于连接 Audiobookshelf 私人有声书服务器的鸿蒙Next客户端。暂不支持播客。 | 03-06 |
 
 ### 鸿蒙手机/平板
 
