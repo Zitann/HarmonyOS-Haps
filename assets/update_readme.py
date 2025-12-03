@@ -115,6 +115,10 @@ def update(title):
             old_time = item.time
             if item.time == "archived":
                 print(f"项目: {item.name}，已归档")
+            elif item.time == "updating":
+                print(f"项目: {item.name}，正在更新中，跳过")
+            elif item.time == "close-source":
+                print(f"项目: {item.name}，已关闭，跳过")
             else:
                 latest_time = get_latest_release_time(
                     item.url.replace("[Link](", "").replace(")", "")
@@ -128,7 +132,13 @@ def update(title):
             items.append(item)
     items.sort(
         key=lambda x: (
-            datetime.strptime(x.time, "%m-%d") if x.time != "archived" else datetime.min
+            datetime.min
+            if x.time in ("archived", "close-source")
+            else (
+                datetime.max
+                if x.time == "updating"
+                else datetime.strptime(x.time, "%m-%d")
+            )
         ),
         reverse=True,
     )
