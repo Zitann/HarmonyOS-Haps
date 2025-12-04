@@ -29,6 +29,7 @@
 - [jiegec](https://github.com/jiegec)
 - [kdada](https://github.com/kdada)
 - [likuai2010](https://github.com/likuai2010)
+- [lxdklp](https://github.com/lxdklp)
 - [mgz0227](https://github.com/mgz0227)
 - [niuhuan](https://github.com/niuhuan)
 - [qinshah](https://github.com/qinshah)
