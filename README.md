@@ -50,6 +50,7 @@
 
 | 软件     | 下载链接            | 描述                                                         | 更新                                                 |
 | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [自由文档](https://github.com/qinshah/free_book) | [Link](https://github.com/qinshah/free_book/releases) | 一款简单、自由好用的轻量级富文本文档编辑器 | 10-17 |
 | [Gramony](https://github.com/Gramony/Gramony) | [Link](https://t.me/GramonyApp) | ✈ 鸿蒙版，下载地址为 ✈ 群组 | updating |
 | [Audiobookshelf](https://github.com/shanyan-wcx/Audiobookshelf-HarmonyOS) | [Link](https://github.com/shanyan-wcx/Audiobookshelf-HarmonyOS/releases) | 一款用于连接 Audiobookshelf 私人有声书服务器的鸿蒙Next客户端。暂不支持播客。 | 12-02 |
 | [HiSH](https://github.com/harmoninux/HiSH) | [Link](https://github.com/harmoninux/HiSH/releases) | 在鸿蒙手机、平板和PC上运行 Linux Shell | 12-02 |
