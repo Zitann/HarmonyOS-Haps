@@ -31,6 +31,7 @@
 - [likuai2010](https://github.com/likuai2010)
 - [mgz0227](https://github.com/mgz0227)
 - [niuhuan](https://github.com/niuhuan)
+- [qinshah](https://github.com/qinshah)
 - [shanyan-wcx](https://github.com/shanyan-wcx)
 - [shokakucarrier](https://github.com/shokakucarrier)
 - [smdsbz](https://gitee.com/smdsbz)
