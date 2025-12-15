@@ -76,6 +76,7 @@
 
 | 软件     | 下载链接            | 描述                                                         | 更新                                                 |
 | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [影视猫](https://github.com/CatPawApp/CatPawOpen) | [Link](https://github.com/CatPawApp/CatPawOpen/releases) | 影视猫，与 TVBox 类似的聚合类影视播放工具，靠配置接口拉取第三方视频源。 | 01-15 |
 | [Pica Comic](https://github.com/nimmi-ai/PicaComic_ohos.git) | [Link](https://github.com/nimmi-ai/PicaComic_ohos.git/releases) | 一款使用 Flutter 构建的多源漫画应用。 | None |
 | [Kelivo](https://github.com/Chevey339/kelivo) | [Link](https://github.com/Chevey339/kelivo/releases) | 一个Flutter LLM聊天客户端。支持Android、iOS和Harmony Next。 | 12-13 |
 | [immich](https://github.com/dgh1818/immich_ohos) | [Link](https://github.com/dgh1818/immich_ohos/releases) | 一款连接 Immich 私人照片和视频备份服务器的鸿蒙客户端，用于在鸿蒙设备上浏览和管理个人媒体库。 | 12-10 |
