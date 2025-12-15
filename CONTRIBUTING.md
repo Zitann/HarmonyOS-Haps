@@ -31,6 +31,7 @@
 - [likuai2010](https://github.com/likuai2010)
 - [lxdklp](https://github.com/lxdklp)
 - [mgz0227](https://github.com/mgz0227)
+- [nimmi-ai](https://github.com/nimmi-ai)
 - [niuhuan](https://github.com/niuhuan)
 - [qinshah](https://github.com/qinshah)
 - [shanyan-wcx](https://github.com/shanyan-wcx)
