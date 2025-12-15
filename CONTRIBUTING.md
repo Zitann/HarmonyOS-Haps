@@ -1,5 +1,6 @@
 - [Aloereed](https://github.com/Aloereed)
 - [Amview](https://github.com/Amview)
+- [CatPawApp](https://github.com/CatPawApp)
 - [Chenlvin](https://github.com/Chenlvin)
 - [ErBWs](https://github.com/ErBWs)
 - [Gramony](https://github.com/Gramony)
