@@ -70,7 +70,7 @@
 | [S1-Orange](https://github.com/wly5556/S1-Orange) | [Link](https://github.com/wly5556/S1-Orange/releases/) | 一款专为鸿蒙Next平台开发的 stage1st.com 论坛移动客户端。 | 07-30 |
 | [ClashBox](https://github.com/xiaobaigroup/hapapp) | [Link](https://github.com/xiaobaigroup/hapapp/releases) | ClashBox 是首款为鸿蒙 HarmonyOS NEXT 平台打造的代理软件，基于 Mihomo 内核，致力于提供稳定、美观且支持多设备的一流代理体验。 | 07-08 |
 | [Moonlight](https://gitee.com/smdsbz/moonlight-ohos) | [Link](https://gitee.com/smdsbz/moonlight-ohos/releases) | 在 HarmonyOS Next 上的另一个 Sunshine 客户端实现。 | 04-03 |
-| [HiSH](https://github.com/harmoninux/HiSH) | [Link](https://github.com/harmoninux/HiSH/releases) | 在鸿蒙手机、平板和PC上运行 Linux Shell | 01-01 |
+| [HiSH](https://github.com/harmoninux/HiSH) | [Link](https://github.com/harmoninux/HiSH/releases) | 在鸿蒙手机、平板和PC上运行 Linux Shell | 01-03 |
 | [云享社](https://github.com/Edge-Music/Core) | [Link](https://github.com/Edge-Music/Core/releases) | 一个在鸿蒙NEXT上，可连接多个音乐平台和私有数据源的统一音乐播放器。 | close-source |
 
 ### 鸿蒙手机/平板
