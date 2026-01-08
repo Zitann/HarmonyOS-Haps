@@ -69,7 +69,7 @@
 | [ClashBox](https://github.com/xiaobaigroup/hapapp) | [Link](https://github.com/xiaobaigroup/hapapp/releases) | ClashBox 是首款为鸿蒙 HarmonyOS NEXT 平台打造的代理软件，基于 Mihomo 内核，致力于提供稳定、美观且支持多设备的一流代理体验。 | 07-08 |
 | [Moonlight](https://gitee.com/smdsbz/moonlight-ohos) | [Link](https://gitee.com/smdsbz/moonlight-ohos/releases) | 在 HarmonyOS Next 上的另一个 Sunshine 客户端实现。 | 04-03 |
 | [HiSH](https://github.com/harmoninux/HiSH) | [Link](https://github.com/harmoninux/HiSH/releases) | 在鸿蒙手机、平板和PC上运行 Linux Shell | 01-06 |
-| [Etohos](https://github.com/niuhuan/etohos) | [Link](https://github.com/niuhuan/etohos/releases) | 一个基于flutter的鸿蒙系统应用，用来接入EasyTier网络。 | 01-05 |
+| [Etohos](https://github.com/collaborative-creation/etohos) | [Link](https://github.com/collaborative-creation/etohos/releases) | 一个基于flutter的鸿蒙系统应用，用来接入EasyTier网络。 | 01-05 |
 | [PiliPlus](https://github.com/qinshah/PiliPlus) | [Link](https://github.com/qinshah/PiliPlus/releases) | BiliBili第三方客户端 | 01-03 |
 | [云享社](https://github.com/Edge-Music/Core) | [Link](https://github.com/Edge-Music/Core/releases) | 一个在鸿蒙NEXT上，可连接多个音乐平台和私有数据源的统一音乐播放器。 | close-source |
 
