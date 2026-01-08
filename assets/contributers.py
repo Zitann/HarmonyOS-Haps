@@ -1,3 +1,8 @@
+# /// script
+# dependencies = [
+#   "requests",
+# ]
+# ///
 import os
 import re
 import requests

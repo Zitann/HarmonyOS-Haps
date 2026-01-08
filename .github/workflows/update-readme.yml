@@ -7,7 +7,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: '0 14 * * *'   # 每天UTC 14:00，即北京时间22:00
+    - cron: '0 14 * * *'
   workflow_dispatch:
   repository_dispatch:
     types: [update-readme]
@@ -38,7 +38,7 @@ jobs:
           pip install requests
 
       - name: Update README
-        run: python assets/update_readme.py
+        run: python assets/update.py
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
