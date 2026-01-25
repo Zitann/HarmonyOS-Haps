@@ -28,7 +28,7 @@ class Item:
     url: str
     desc: str
     time: str
-    time_dt: datetime | None = None
+    time_dt: datetime = None
 
 
 def get_remote_time(url):
