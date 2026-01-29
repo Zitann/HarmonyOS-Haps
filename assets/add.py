@@ -12,7 +12,7 @@ from dataclasses import dataclass
 import urllib3
 from urllib3.exceptions import InsecureRequestWarning
 import warnings
-from update_readme import get_latest_release_time
+from update import get_remote_time, format_display_time
 
 warnings.filterwarnings(
     "ignore",
@@ -40,8 +40,8 @@ def add_project(repo_url, name, desc, platform):
     releases_url = f"{repo_url}/releases"
 
     # 获取最新发布时间
-    latest_time = get_latest_release_time(releases_url)
-
+    latest_time = get_remote_time(releases_url)
+    latest_time = format_display_time(latest_time)
     print(f"最新发布时间: {latest_time}")
 
     # 读取README
