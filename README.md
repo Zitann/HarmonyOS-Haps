@@ -51,8 +51,8 @@
 | 软件     | 下载链接            | 描述                                                         | 更新                                                 |
 | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [Gramony](https://github.com/Gramony/Gramony) | [Link](https://t.me/GramonyApp) | ✈ 鸿蒙版，下载地址为 ✈ 群组 | 更新中 |
+| [Kazumi](https://github.com/ErBWs/Kazumi) | [Link](https://github.com/ErBWs/Kazumi/releases) | 一款基于自定义规则来采集番剧资源，并支持 Anime4K 实时超分辨率的在线观看应用。 | 02-01 |
 | [冲浪喵](https://github.com/awaLiny2333/LinysBrowser_NEXT) | [Link](https://github.com/awaLiny2333/LinysBrowser_NEXT/releases) | 一款为鸿蒙NEXT开发的、轻量化的网页浏览器。 | 01-30 |
-| [Kazumi](https://github.com/ErBWs/Kazumi) | [Link](https://github.com/ErBWs/Kazumi/releases) | 一款基于自定义规则来采集番剧资源，并支持 Anime4K 实时超分辨率的在线观看应用。 | 01-28 |
 | [PiliPlus](https://github.com/qinshah/PiliPlus) | [Link](https://github.com/qinshah/PiliPlus/releases) | BiliBili第三方客户端 | 01-27 |
 | [植物大战僵尸杂交版](https://github.com/Kaiter-Plus/ohos-pvz_zj) | [Link](https://github.com/Kaiter-Plus/ohos-pvz_zj/releases) | 将热门PC游戏“植物大战僵尸杂交版”移植到鸿蒙平台的版本 | 01-21 |
 | [HiSH](https://github.com/harmoninux/HiSH) | [Link](https://github.com/harmoninux/HiSH/releases) | 在鸿蒙手机、平板和PC上运行 Linux Shell | 01-18 |
@@ -76,8 +76,8 @@
 
 | 软件     | 下载链接            | 描述                                                         | 更新                                                 |
 | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [轻阅读](https://github.com/autobcb/read) | [Link](https://github.com/autobcb/read/releases) | 一款可通过自部署服务端，在手机、平板等多种设备上同步阅读进度的开源阅读应用。 | 01-31 |
 | [immich](https://github.com/dgh1818/immich_ohos) | [Link](https://github.com/dgh1818/immich_ohos/releases) | 一款连接 Immich 私人照片和视频备份服务器的鸿蒙客户端，用于在鸿蒙设备上浏览和管理个人媒体库。 | 01-30 |
-| [轻阅读](https://github.com/autobcb/read) | [Link](https://github.com/autobcb/read/releases) | 一款可通过自部署服务端，在手机、平板等多种设备上同步阅读进度的开源阅读应用。 | 01-29 |
 | [KeePassHO](https://github.com/aimilin6688/KeePassHO) | [Link](https://github.com/aimilin6688/KeePassHO/releases) | 本地密码管理软件，支持 keepass 系列的数据库，现在已经实现了 密码管理和TOTP 功能。 | 01-26 |
 | [Wake](https://github.com/azhuge233/Wake-HarmonyOS) | [Link](https://github.com/azhuge233/Wake-HarmonyOS/releases) | 一款运行在鸿蒙Next平台上的网络唤醒（Wake-on-LAN）应用。 | 01-24 |
 | [Harflix播放器](https://github.com/Actrlq/Harflix) | [Link](https://github.com/Actrlq/Harflix/releases) | 一款支持Emby协议的播放器 | 01-11 |
