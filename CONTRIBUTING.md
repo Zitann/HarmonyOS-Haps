@@ -3,6 +3,7 @@
 - [Amview](https://github.com/Amview)
 - [CatPawApp](https://github.com/CatPawApp)
 - [Chenlvin](https://github.com/Chenlvin)
+- [DreamistW](https://github.com/DreamistW)
 - [ErBWs](https://github.com/ErBWs)
 - [Gramony](https://github.com/Gramony)
 - [Harmoninux](https://github.com/harmoninux/HiSH)
