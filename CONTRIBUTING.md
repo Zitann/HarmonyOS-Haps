@@ -42,4 +42,5 @@
 - [shokakucarrier](https://github.com/shokakucarrier)
 - [smdsbz](https://gitee.com/smdsbz)
 - [wly5556](https://github.com/wly5556)
+- [xiaobaigroup](https://github.com/xiaobaigroup)
 - [云享社](https://github.com/Edge-Music)
