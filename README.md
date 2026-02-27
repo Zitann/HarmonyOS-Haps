@@ -62,7 +62,6 @@
 | [Etohos](https://github.com/collaborative-creation/etohos) | [Link](https://github.com/collaborative-creation/etohos/releases) | 一个基于flutter的鸿蒙系统应用，用来接入EasyTier网络。 | 01-05 |
 | [CanPlayerHap](https://github.com/Merryou6/CanPlayerHap) | [Link](https://github.com/Merryou6/CanPlayerHap/releases) | 鸿蒙NEXT上基于web运行ons galgame 演示视频 https://b23.tv/rNW0GNB | 2025-11-26 |
 | [Harmonic](https://github.com/shanyan-wcx/Harmonic) | [Link](https://github.com/shanyan-wcx/Harmonic/releases) | 一款连接 Navidrome 个人音乐服务器的鸿蒙原生客户端，用于在手机、平板、车机等设备上播放您的音乐库。 | 2025-10-26 |
-| [自由文档](https://github.com/qinshah/free_book) | [Link](https://github.com/qinshah/free_book/releases) | 一款简单、自由好用的轻量级富文本文档编辑器 | 2025-10-17 |
 | [Minecraft Box](https://github.com/lxdklp/MCB_OHOS) | [Link](https://github.com/lxdklp/MCB_OHOS/releases) | Minecraft Java 服务器管理工具 | 2025-10-11 |
 | [OTP Token](https://github.com/SolidFaker/ohtotptoken) | [Link](https://github.com/SolidFaker/ohtotptoken/releases) | 一款支持TOTP、HOTP、Steam令牌和Forti令牌的开源双因素认证（2FA）令牌生成器。 | 2025-09-22 |
 | [JellyFin](https://github.com/chashaochang/JellyFin_HarmonyOS) | [Link](https://github.com/chashaochang/JellyFin_HarmonyOS/releases) | 非官方的 Jellyfin 客户端，将 Jellyfin 的体验带到鸿蒙设备上，能让你随心所欲地控制、管理和流媒体你的媒体资源。 | 2025-08-02 |
