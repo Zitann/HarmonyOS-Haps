@@ -75,6 +75,7 @@
 
 | 软件     | 下载链接            | 描述                                                         | 更新                                                 |
 | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [niceleep](https://github.com/qinshah/niceleep) | [Link](https://github.com/qinshah/niceleep/releases) | 一个专注于白噪音播放的应用，帮助你放松、专注和入眠。 | 02-11 |
 | [Kelivo](https://github.com/Chevey339/kelivo) | [Link](https://github.com/Chevey339/kelivo/releases) | 一个Flutter LLM聊天客户端。支持Android、iOS和Harmony Next。 | 02-26 |
 | [轻阅读](https://github.com/autobcb/read) | [Link](https://github.com/autobcb/read/releases) | 一款可通过自部署服务端，在手机、平板等多种设备上同步阅读进度的开源阅读应用。 | 02-21 |
 | [immich](https://github.com/dgh1818/immich_ohos) | [Link](https://github.com/dgh1818/immich_ohos/releases) | 一款连接 Immich 私人照片和视频备份服务器的鸿蒙客户端，用于在鸿蒙设备上浏览和管理个人媒体库。 | 02-13 |
