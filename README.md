@@ -76,7 +76,7 @@
 
 | 软件     | 下载链接            | 描述                                                         | 更新                                                 |
 | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [immich](https://github.com/dgh1818/immich_ohos) | [Link](https://github.com/dgh1818/immich_ohos/releases) | 一款连接 Immich 私人照片和视频备份服务器的鸿蒙客户端，用于在鸿蒙设备上浏览和管理个人媒体库。 | 03-30 |
+| [immich](https://github.com/dgh1818/immich_ohos) | [Link](https://github.com/dgh1818/immich_ohos/releases) | 一款连接 Immich 私人照片和视频备份服务器的鸿蒙客户端，用于在鸿蒙设备上浏览和管理个人媒体库。 | 04-03 |
 | [KeePassHO](https://github.com/aimilin6688/KeePassHO) | [Link](https://github.com/aimilin6688/KeePassHO/releases) | 本地密码管理软件，支持 keepass 系列的数据库，现在已经实现了 密码管理和TOTP 功能。 | 03-30 |
 | [Kelivo](https://github.com/Chevey339/kelivo) | [Link](https://github.com/Chevey339/kelivo/releases) | 一个Flutter LLM聊天客户端。支持Android、iOS和Harmony Next。 | 03-29 |
 | [轻阅读](https://github.com/autobcb/read) | [Link](https://github.com/autobcb/read/releases) | 一款可通过自部署服务端，在手机、平板等多种设备上同步阅读进度的开源阅读应用。 | 03-29 |
