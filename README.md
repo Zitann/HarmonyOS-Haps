@@ -91,7 +91,6 @@
 | [包名解析](https://github.com/SummerKaze/AppBundleNameForShared) | [Link](https://github.com/SummerKaze/AppBundleNameForShared/releases) | 一款用于从华为应用商城分享链接中提取应用包名的鸿蒙工具。 | 2025-09-14 |
 | [KDAuth](https://github.com/kdada/Authenticator) | [Link](https://github.com/kdada/Authenticator/releases) | 一款支持标准和 Steam 令牌的双因子认证（2FA）密码生成工具。 | 2025-08-25 |
 | [awesome_blbl](https://github.com/Luo-A-Chen/AwesomeResume) | [Link](https://github.com/Luo-A-Chen/AwesomeResume/releases) | 使用鸿蒙flutter3.22版本开发的第三方B站 | 2025-08-02 |
-| [微型课程表](https://github.com/SunboyTPB/Micro-Course) | [Link](https://github.com/SunboyTPB/Micro-Course/releases) | 一款基于 ArkUI-X 开发的、用于轻松管理课程表的开源应用。 | 2025-07-09 |
 | [Neon](https://github.com/shokakucarrier/neon-ohos) | [Link](https://github.com/shokakucarrier/neon-ohos/releases) | 一个使用 Flutter 构建融合、跨平台 Nextcloud 客户端的开发框架。 | 2025-07-01 |
 | [LocalSend](https://github.com/Aloereed/localsend-ohos) | [Link](https://github.com/Aloereed/localsend-ohos/releases) | LocalSend鸿蒙NEXT实现，本地网络文件和消息分享工具，无需互联网连接即可安全传输。 | 2025-04-15 |
 | [影视猫](https://github.com/CatPawApp/CatPawOpen) | [Link](https://github.com/CatPawApp/CatPawOpen/releases) | 影视猫，与 TVBox 类似的聚合类影视播放工具，靠配置接口拉取第三方视频源。 | 2025-01-15 |
