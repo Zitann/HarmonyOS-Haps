@@ -31,6 +31,7 @@
 - [hackeris](https://github.com/hackeris)
 - [iMerryou](https://github.com/Merryou6)
 - [jiegec](https://github.com/jiegec)
+- [jonas-pi](https://github.com/jonas-pi)
 - [kdada](https://github.com/kdada)
 - [likuai2010](https://github.com/likuai2010)
 - [lxdklp](https://github.com/lxdklp)
