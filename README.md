@@ -76,6 +76,7 @@
 
 | 软件     | 下载链接            | 描述                                                         | 更新                                                 |
 | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [FMphoto](https://github.com/jonas-pi/FMphoto) | [Link](https://github.com/jonas-pi/FMphoto/releases) | 用于在手机上连接飞牛 NAS，使用相册、网页入口及常见图库能力。 | 04-01 |
 | [PixEz](https://github.com/bgli100/pixez-flutter-ohos) | [Link](https://github.com/bgli100/pixez-flutter-ohos/releases) | 一款支持免代理直连及查看动图的第三方Pixiv flutter客户端 | 04-07 |
 | [Pica Comic](https://github.com/nimmi-ai/PicaComic_ohos) | [Link](https://github.com/nimmi-ai/PicaComic_ohos/releases) | 一款使用 Flutter 构建的多源漫画应用。 | 04-06 |
 | [immich](https://github.com/dgh1818/immich_ohos) | [Link](https://github.com/dgh1818/immich_ohos/releases) | 一款连接 Immich 私人照片和视频备份服务器的鸿蒙客户端，用于在鸿蒙设备上浏览和管理个人媒体库。 | 04-03 |
