@@ -59,6 +59,7 @@ jobs:
 
       - name: Commit changes
         if: steps.changes.outputs.changed == 'true'
-        uses: stefanzweifel/git-auto-commit-action@v5
+        uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: "自动更新: ${{ env.apps_str }}"
+          commit_author: "github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
