@@ -33,10 +33,10 @@ jobs:
 
     steps:
       - name: Checkout code
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v6
         with:
           python-version: '3.9'
 
@@ -78,7 +78,7 @@ jobs:
 
       - name: Commit and push changes
         if: steps.changes.outputs.changed == 'true'
-        uses: stefanzweifel/git-auto-commit-action@v5
+        uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: "添加项目: ${{ github.event.inputs.repo_url }}"
           file_pattern: README.md
@@ -96,7 +96,7 @@ jobs:
 
       - name: Trigger update-readme workflow
         if: steps.changes.outputs.changed == 'true'
-        uses: peter-evans/repository-dispatch@v3
+        uses: peter-evans/repository-dispatch@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           repository: Zitann/HarmonyOS-Haps
