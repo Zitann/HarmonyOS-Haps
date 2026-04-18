@@ -51,16 +51,16 @@
 | 软件     | 下载链接            | 描述                                                         | 更新                                                 |
 | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [Gramony](https://github.com/Gramony/Gramony) | [Link](https://t.me/GramonyApp) | ✈ 鸿蒙版，下载地址为 ✈ 群组 | 更新中 |
-| [栖云盾](https://github.com/Tlntin/home-cloud-shield) | [Link](https://github.com/Tlntin/home-cloud-shield/releases) | 一款面向 HarmonyOS 6.0+ 的本地 DNS 过滤实验应用，支持手机、平板与 2in1 设备，通过本地 VPN 接管 DNS 流量，支持 AdGuard 风格规则管理、日志查看与原生桥接能力验证。 | 04-16 |
+| [PiliPlus](https://github.com/qinshah/PiliPlus) | [Link](https://github.com/qinshah/PiliPlus/releases) | BiliBili第三方客户端 | 04-18 |
+| [HiSH](https://github.com/harmoninux/HiSH) | [Link](https://github.com/harmoninux/HiSH/releases) | 在鸿蒙手机、平板和PC上运行 Linux Shell | 04-18 |
+| [栖云盾](https://github.com/Tlntin/home-cloud-shield) | [Link](https://github.com/Tlntin/home-cloud-shield/releases) | 一款面向 HarmonyOS 6.0+ 的本地 DNS 过滤实验应用，支持手机、平板与 2in1 设备，通过本地 VPN 接管 DNS 流量，支持 AdGuard 风格规则管理、日志查看与原生桥接能力验证。 | 04-18 |
 | [Melotopia](https://github.com/Chenlvin/Melotopia-HMOS) | [Link](https://github.com/Chenlvin/Melotopia-HMOS/releases) | ✨ 鸿蒙原生音乐播放器｜🚀 全场景设备适配 本项目为第三方应用, 应用本身不提供在线服务, 仅提供UI界面 | 04-15 |
 | [Kazumi](https://github.com/ErBWs/Kazumi) | [Link](https://github.com/ErBWs/Kazumi/releases) | 一款基于自定义规则来采集番剧资源，并支持 Anime4K 实时超分辨率的在线观看应用。 | 04-10 |
 | [Phira](https://github.com/TeamFlos/phira) | [Link](https://github.com/TeamFlos/phira/releases) | Phira 是一款基于社区的音乐游戏 | 04-08 |
 | [ClashBox](https://github.com/xiaobaigroup/hapapp) | [Link](https://github.com/xiaobaigroup/hapapp/releases) | ClashBox 是首款为鸿蒙 HarmonyOS NEXT 平台打造的代理软件，基于 Mihomo 内核，致力于提供稳定、美观且支持多设备的一流代理体验。 | 04-02 |
 | [Etohos](https://github.com/collaborative-creation/etohos) | [Link](https://github.com/collaborative-creation/etohos/releases) | 一个基于flutter的鸿蒙系统应用，用来接入EasyTier网络。 | 03-31 |
 | [植物大战僵尸杂交版](https://github.com/Kaiter-Plus/ohos-pvz_zj) | [Link](https://github.com/Kaiter-Plus/ohos-pvz_zj/releases) | 将热门PC游戏“植物大战僵尸杂交版”移植到鸿蒙平台的版本 | 03-14 |
-| [HiSH](https://github.com/harmoninux/HiSH) | [Link](https://github.com/harmoninux/HiSH/releases) | 在鸿蒙手机、平板和PC上运行 Linux Shell | 03-07 |
 | [HOML启动器](https://github.com/xiaobaigroup/HOML) | [Link](https://github.com/xiaobaigroup/HOML/releases) | 首个鸿蒙原生MCJava版HOML启动器 | 02-27 |
-| [PiliPlus](https://github.com/qinshah/PiliPlus) | [Link](https://github.com/qinshah/PiliPlus/releases) | BiliBili第三方客户端 | 02-26 |
 | [Audiobookshelf](https://github.com/shanyan-wcx/Audiobookshelf-HarmonyOS) | [Link](https://github.com/shanyan-wcx/Audiobookshelf-HarmonyOS/releases) | 一款用于连接 Audiobookshelf 私人有声书服务器的鸿蒙Next客户端。暂不支持播客。 | 02-06 |
 | [冲浪喵](https://github.com/awaLiny2333/LinysBrowser_NEXT) | [Link](https://github.com/awaLiny2333/LinysBrowser_NEXT/releases) | 一款为鸿蒙NEXT开发的、轻量化的网页浏览器。 | 01-30 |
 | [FinVideo](https://github.com/OHPG/FinVideo) | [Link](https://github.com/OHPG/FinVideo/releases) | 一款在鸿蒙Next上使用的 Jellyfin 视频播放器，用于连接和播放在线影音库。 | 01-17 |
