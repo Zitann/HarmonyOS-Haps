@@ -51,7 +51,7 @@
 | 软件     | 下载链接            | 描述                                                         | 更新                                                 |
 | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [Gramony](https://github.com/Gramony/Gramony) | [Link](https://t.me/GramonyApp) | ✈ 鸿蒙版，下载地址为 ✈ 群组 | 更新中 |
-| [PiliPlus](https://github.com/qinshah/PiliPlus) | [Link](https://github.com/qinshah/PiliPlus/releases) | BiliBili第三方客户端 | 04-18 |
+| [PiliPlus](https://github.com/qinshah/PiliPlus) | [Link](https://github.com/qinshah/PiliPlus/releases) | BiliBili第三方客户端 | 04-22 |
 | [HiSH](https://github.com/harmoninux/HiSH) | [Link](https://github.com/harmoninux/HiSH/releases) | 在鸿蒙手机、平板和PC上运行 Linux Shell | 04-18 |
 | [栖云盾](https://github.com/Tlntin/home-cloud-shield) | [Link](https://github.com/Tlntin/home-cloud-shield/releases) | 一款面向 HarmonyOS 6.0+ 的本地 DNS 过滤实验应用，支持手机、平板与 2in1 设备，通过本地 VPN 接管 DNS 流量，支持 AdGuard 风格规则管理、日志查看与原生桥接能力验证。 | 04-18 |
 | [Melotopia](https://github.com/Chenlvin/Melotopia-HMOS) | [Link](https://github.com/Chenlvin/Melotopia-HMOS/releases) | ✨ 鸿蒙原生音乐播放器｜🚀 全场景设备适配 本项目为第三方应用, 应用本身不提供在线服务, 仅提供UI界面 | 04-15 |
@@ -78,6 +78,7 @@
 
 | 软件     | 下载链接            | 描述                                                         | 更新                                                 |
 | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [Wake](https://github.com/azhuge233/Wake-HarmonyOS) | [Link](https://github.com/azhuge233/Wake-HarmonyOS/releases) | 一款运行在鸿蒙Next平台上的网络唤醒（Wake-on-LAN）应用。 | 04-21 |
 | [Kelivo](https://github.com/Chevey339/kelivo) | [Link](https://github.com/Chevey339/kelivo/releases) | 一个Flutter LLM聊天客户端。支持Android、iOS和Harmony Next。 | 04-18 |
 | [immich](https://github.com/dgh1818/immich_ohos) | [Link](https://github.com/dgh1818/immich_ohos/releases) | 一款连接 Immich 私人照片和视频备份服务器的鸿蒙客户端，用于在鸿蒙设备上浏览和管理个人媒体库。 | 04-16 |
 | [Pica Comic](https://github.com/nimmi-ai/PicaComic_ohos) | [Link](https://github.com/nimmi-ai/PicaComic_ohos/releases) | 一款使用 Flutter 构建的多源漫画应用。 | 04-11 |
@@ -89,7 +90,6 @@
 | [开源阅读](https://github.com/mgz0227/legado-Harmony) | [Link](https://github.com/mgz0227/legado-Harmony/releases) | 一款支持自定义书源规则，可抓取任意网页内容进行阅读的开源应用。 | 03-13 |
 | [Homowarden](https://github.com/DreamistW/Homowarden) | [Link](https://github.com/DreamistW/Homowarden/releases) | Homowarden 是一款专为 HarmonyOS 打造的密码管理应用，它是跨平台开源密码管理应用 Bitwarden 的鸿蒙平台实现。 | 02-12 |
 | [niceleep](https://github.com/qinshah/niceleep) | [Link](https://github.com/qinshah/niceleep/releases) | 一个专注于白噪音播放的应用，帮助你放松、专注和入眠。 | 02-11 |
-| [Wake](https://github.com/azhuge233/Wake-HarmonyOS) | [Link](https://github.com/azhuge233/Wake-HarmonyOS/releases) | 一款运行在鸿蒙Next平台上的网络唤醒（Wake-on-LAN）应用。 | 02-03 |
 | [soc-search](https://github.com/Amview/soc-search) | [Link](https://github.com/Amview/soc-search/releases) | 一款可以搜索和查询安兔兔、Geekbench等主流平台SoC（处理器）性能跑分排行的工具。 | 2025-09-23 |
 | [包名解析](https://github.com/SummerKaze/AppBundleNameForShared) | [Link](https://github.com/SummerKaze/AppBundleNameForShared/releases) | 一款用于从华为应用商城分享链接中提取应用包名的鸿蒙工具。 | 2025-09-14 |
 | [KDAuth](https://github.com/kdada/Authenticator) | [Link](https://github.com/kdada/Authenticator/releases) | 一款支持标准和 Steam 令牌的双因子认证（2FA）密码生成工具。 | 2025-08-25 |
