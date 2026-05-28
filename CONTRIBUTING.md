@@ -11,6 +11,7 @@
 - [Kaiter-Plus](https://github.com/Kaiter-Plus)
 - [Luo-A-Chen](https://github.com/Luo-A-Chen)
 - [Luxcis](https://github.com/Luxcis)
+- [MI XmHM](https://github.com/xiaomoHM)
 - [Open Harmony Play Ground](https://github.com/OHPG)
 - [Psyche](https://github.com/Chevey339)
 - [Servo](https://github.com/servo)
