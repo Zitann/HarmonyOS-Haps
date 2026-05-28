@@ -23,6 +23,7 @@
 - [Tlntin](https://github.com/Tlntin)
 - [XiaobaiStudio](https://github.com/xiaobaigroup)
 - [Yebingiscn](https://github.com/Yebingiscn)
+- [YuanChu-Tec](https://github.com/YuanChu-Tec)
 - [Zitann](https://github.com/Zitann)
 - [autobcb](https://github.com/autobcb)
 - [awaLiny2333](https://github.com/awaLiny2333)
