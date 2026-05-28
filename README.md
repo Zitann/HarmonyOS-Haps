@@ -50,6 +50,7 @@
 
 | 软件     | 下载链接            | 描述                                                         | 更新                                                 |
 | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [HMTG](https://github.com/YuanChu-Tec/HMTG) | [Link](https://github.com/YuanChu-Tec/HMTG/releases) | ✈ 鸿蒙版 | 05-25 |
 | [影视链](https://github.com/xiaomoHM/videoJX/) | [Link](https://github.com/xiaomoHM/videoJX//releases) | 影视链是一款基于 HarmonyOS Next 开发的视频解析播放器应用。它通过集成多个第三方解析接口，帮助用户突破各大视频网站的限制，实现一站式搜索、解析和播放全网视频内容。 | 05-28 |
 | [JMComic](https://github.com/YuanChu-Tec/JMComic-HarmonyOS) | [Link](https://github.com/YuanChu-Tec/JMComic-HarmonyOS/releases) | 漫画阅读工具 | 05-26 |
 | [Audiobookshelf](https://github.com/shanyan-wcx/Audiobookshelf-HarmonyOS) | [Link](https://github.com/shanyan-wcx/Audiobookshelf-HarmonyOS/releases) | 一款用于连接 Audiobookshelf 私人有声书服务器的鸿蒙Next客户端。暂不支持播客。 | 05-24 |
