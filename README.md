@@ -50,10 +50,11 @@
 
 | 软件     | 下载链接            | 描述                                                         | 更新                                                 |
 | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [Kazumi](https://github.com/ErBWs/Kazumi) | [Link](https://github.com/ErBWs/Kazumi/releases) | 一款基于自定义规则来采集番剧资源，并支持 Anime4K 实时超分辨率的在线观看应用。 | 06-07 |
+| [JMComic](https://github.com/YuanChu-Tec/JMComic-HarmonyOS) | [Link](https://github.com/YuanChu-Tec/JMComic-HarmonyOS/releases) | 漫画阅读工具 | 06-07 |
+| [栖云盾](https://github.com/Tlntin/home-cloud-shield) | [Link](https://github.com/Tlntin/home-cloud-shield/releases) | 一款面向 HarmonyOS 6.0+ 的本地 DNS 过滤实验应用，支持手机、平板与 2in1 设备，通过本地 VPN 接管 DNS 流量，支持 AdGuard 风格规则管理、日志查看与原生桥接能力验证。 | 06-07 |
 | [Melotopia](https://github.com/Chenlvin/Melotopia-HMOS) | [Link](https://github.com/Chenlvin/Melotopia-HMOS/releases) | ✨ 鸿蒙原生音乐播放器｜🚀 全场景设备适配 本项目为第三方应用, 应用本身不提供在线服务, 仅提供UI界面 | 06-05 |
 | [Audiobookshelf](https://github.com/shanyan-wcx/Audiobookshelf-HarmonyOS) | [Link](https://github.com/shanyan-wcx/Audiobookshelf-HarmonyOS/releases) | 一款用于连接 Audiobookshelf 私人有声书服务器的鸿蒙Next客户端。暂不支持播客。 | 06-04 |
-| [JMComic](https://github.com/YuanChu-Tec/JMComic-HarmonyOS) | [Link](https://github.com/YuanChu-Tec/JMComic-HarmonyOS/releases) | 漫画阅读工具 | 06-01 |
-| [Kazumi](https://github.com/ErBWs/Kazumi) | [Link](https://github.com/ErBWs/Kazumi/releases) | 一款基于自定义规则来采集番剧资源，并支持 Anime4K 实时超分辨率的在线观看应用。 | 05-29 |
 | [冲浪喵](https://github.com/awaLiny2333/LinysBrowser_NEXT) | [Link](https://github.com/awaLiny2333/LinysBrowser_NEXT/releases) | 一款为鸿蒙NEXT开发的、轻量化的网页浏览器。 | 05-29 |
 | [影视链](https://github.com/xiaomoHM/videoJX/) | [Link](https://github.com/xiaomoHM/videoJX//releases) | 影视链是一款基于 HarmonyOS Next 开发的视频解析播放器应用。它通过集成多个第三方解析接口，帮助用户突破各大视频网站的限制，实现一站式搜索、解析和播放全网视频内容。 | 05-28 |
 | [HMTG](https://github.com/YuanChu-Tec/HMTG) | [Link](https://github.com/YuanChu-Tec/HMTG/releases) | ✈ 鸿蒙版 | 05-25 |
@@ -61,7 +62,6 @@
 | [OTP Token](https://github.com/SolidFaker/ohtotptoken) | [Link](https://github.com/SolidFaker/ohtotptoken/releases) | 一款支持TOTP、HOTP、Steam令牌和Forti令牌的开源双因素认证（2FA）令牌生成器。 | 05-19 |
 | [HiSH](https://github.com/harmoninux/HiSH) | [Link](https://github.com/harmoninux/HiSH/releases) | 在鸿蒙手机、平板和PC上运行 Linux Shell | 05-16 |
 | [PiliPlusX](https://github.com/cnctem/PiliPlusX) | [Link](https://github.com/cnctem/PiliPlusX/releases) | PiliPlusX | 05-04 |
-| [栖云盾](https://github.com/Tlntin/home-cloud-shield) | [Link](https://github.com/Tlntin/home-cloud-shield/releases) | 一款面向 HarmonyOS 6.0+ 的本地 DNS 过滤实验应用，支持手机、平板与 2in1 设备，通过本地 VPN 接管 DNS 流量，支持 AdGuard 风格规则管理、日志查看与原生桥接能力验证。 | 04-18 |
 | [Phira](https://github.com/TeamFlos/phira) | [Link](https://github.com/TeamFlos/phira/releases) | Phira 是一款基于社区的音乐游戏 | 04-08 |
 | [ClashBox](https://github.com/xiaobaigroup/hapapp) | [Link](https://github.com/xiaobaigroup/hapapp/releases) | ClashBox 是首款为鸿蒙 HarmonyOS NEXT 平台打造的代理软件，基于 Mihomo 内核，致力于提供稳定、美观且支持多设备的一流代理体验。 | 04-02 |
 | [Etohos](https://github.com/collaborative-creation/etohos) | [Link](https://github.com/collaborative-creation/etohos/releases) | 一个基于flutter的鸿蒙系统应用，用来接入EasyTier网络。 | 03-31 |
