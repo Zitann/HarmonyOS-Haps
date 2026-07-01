@@ -9,7 +9,7 @@
 - [Harmoninux](https://github.com/harmoninux/HiSH)
 - [Ibukitofu](https://github.com/Ibukitofu)
 - [Jonk](https://github.com/aimilin6688)
-- [Kaiter-Plus](https://github.com/Kaiter-Plus)
+
 - [LambdaYH](https://github.com/LambdaYH)
 - [Luo-A-Chen](https://github.com/Luo-A-Chen)
 - [Luxcis](https://github.com/Luxcis)
