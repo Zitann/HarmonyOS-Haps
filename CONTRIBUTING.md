@@ -6,6 +6,7 @@
 - [DreamistW](https://github.com/DreamistW)
 - [ErBWs](https://github.com/ErBWs)
 - [Gramony](https://github.com/Gramony)
+- [HanversionOvO](https://github.com/HanversionOvO)
 - [Harmoninux](https://github.com/harmoninux/HiSH)
 - [Ibukitofu](https://github.com/Ibukitofu)
 - [Jonk](https://github.com/aimilin6688)
