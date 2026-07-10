@@ -10,7 +10,6 @@
 - [Harmoninux](https://github.com/harmoninux/HiSH)
 - [Ibukitofu](https://github.com/Ibukitofu)
 - [Jonk](https://github.com/aimilin6688)
-
 - [LambdaYH](https://github.com/LambdaYH)
 - [Luo-A-Chen](https://github.com/Luo-A-Chen)
 - [Luxcis](https://github.com/Luxcis)
@@ -51,6 +50,7 @@
 - [shanyan-wcx](https://github.com/shanyan-wcx)
 - [shokakucarrier](https://github.com/shokakucarrier)
 - [smdsbz](https://gitee.com/smdsbz)
+- [wpixel](https://github.com/1055235342)
 - [wly5556](https://github.com/wly5556)
 - [систем](https://github.com/cnctem)
 - [云享社](https://github.com/Edge-Music)
