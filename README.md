@@ -50,8 +50,9 @@
 
 | 软件     | 下载链接            | 描述                                                         | 更新                                                 |
 | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [Gramony](https://github.com/Gramony/Gramony) | [Link](https://t.me/GramonyApp) | 第三方✈鸿蒙版，下载地址为✈群组 | 更新中 |
+| [PiliPlusX](https://github.com/cnctem/PiliPlusX) | [Link](https://github.com/cnctem/PiliPlusX/releases) | PiliPlusX | 07-10 |
 | [Kazumi](https://github.com/ErBWs/Kazumi) | [Link](https://github.com/ErBWs/Kazumi/releases) | 一款基于自定义规则来采集番剧资源，并支持 Anime4K 实时超分辨率的在线观看应用。 | 07-09 |
-| [PiliPlusX](https://github.com/cnctem/PiliPlusX) | [Link](https://github.com/cnctem/PiliPlusX/releases) | PiliPlusX | 07-09 |
 | [S1-Orange](https://github.com/wly5556/S1-Orange) | [Link](https://github.com/wly5556/S1-Orange/releases/) | 一款专为鸿蒙Next平台开发的 stage1st.com 论坛移动客户端。 | 07-05 |
 | [PiliPlus](https://github.com/qinshah/PiliPlus) | [Link](https://github.com/qinshah/PiliPlus/releases) | BiliBili第三方客户端 | 07-03 |
 | [Wpixelgram](https://github.com/1055235342/Wpixelgram-for-HarmonyOS) | [Link](https://github.com/1055235342/Wpixelgram-for-HarmonyOS/releases) | 第三方✈鸿蒙版Wpixelgram | 07-03 |
@@ -77,16 +78,15 @@
 | [JellyFin](https://github.com/chashaochang/JellyFin_HarmonyOS) | [Link](https://github.com/chashaochang/JellyFin_HarmonyOS/releases) | 非官方的 Jellyfin 客户端，将 Jellyfin 的体验带到鸿蒙设备上，能让你随心所欲地控制、管理和流媒体你的媒体资源。 | 2025-08-02 |
 | [流心视频](https://github.com/Yebingiscn/SweetVideo) | [Link](https://github.com/Yebingiscn/SweetVideo/releases) | 一款运行在HarmonyOS Next上的原生视频播放器，支持播放多种视频、音频及字幕格式。基于开源项目[流心视频](https://gitee.com/lqsxy/sweetvideo/tree/master)二次开发 | 2025-07-31 |
 | [Moonlight](https://gitee.com/smdsbz/moonlight-ohos) | [Link](https://gitee.com/smdsbz/moonlight-ohos/releases) | 在 HarmonyOS Next 上的另一个 Sunshine 客户端实现。 | 2025-04-03 |
-| [Gramony](https://github.com/Gramony/Gramony) | [Link](https://t.me/GramonyApp) | 第三方✈鸿蒙版，下载地址为✈群组 | 更新中 |
 | [云享社](https://github.com/Edge-Music/Core) | [Link](https://github.com/Edge-Music/Core/releases) | 一个在鸿蒙NEXT上，可连接多个音乐平台和私有数据源的统一音乐播放器。 | 闭源 |
 
 ### 鸿蒙手机/平板
 
 | 软件     | 下载链接            | 描述                                                         | 更新                                                 |
 | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [NextE](https://github.com/erosTeam/NextE) | [Link](https://github.com/erosTeam/NextE/releases) | 一款原生 HarmonyOS NEXT 的 E-Hentai / ExHentai 客户端，支持画廊浏览、多种布局阅读、标签翻译、下载队列及 WebDAV 云同步。 | 07-10 |
 | [ScrcpyForHarmonyOS](https://github.com/LambdaYH/ScrcpyForHarmonyOS) | [Link](https://github.com/LambdaYH/ScrcpyForHarmonyOS/releases) | 一款运行在 HarmonyOS 上的第三方 scrcpy 客户端，通过网络 ADB 或无线调试连接并控制 Android 设备，支持视频镜像、触控与音频转发。 | 07-08 |
 | [Pica Comic](https://github.com/nimmi-ai/PicaComic_ohos) | [Link](https://github.com/nimmi-ai/PicaComic_ohos/releases) | 一款使用 Flutter 构建的多源漫画应用。 | 07-07 |
-| [NextE](https://github.com/erosTeam/NextE) | [Link](https://github.com/erosTeam/NextE/releases) | 一款原生 HarmonyOS NEXT 的 E-Hentai / ExHentai 客户端，支持画廊浏览、多种布局阅读、标签翻译、下载队列及 WebDAV 云同步。 | 07-07 |
 | [FMphoto](https://github.com/jonas-pi/FMphoto) | [Link](https://github.com/jonas-pi/FMphoto/releases) | 用于在手机上连接飞牛 NAS，使用相册、网页入口及常见图库能力。 | 07-06 |
 | [immich](https://github.com/dgh1818/immich_ohos) | [Link](https://github.com/dgh1818/immich_ohos/releases) | 一款连接 Immich 私人照片和视频备份服务器的鸿蒙客户端，用于在鸿蒙设备上浏览和管理个人媒体库。 | 07-05 |
 | [Wake](https://github.com/azhuge233/Wake-HarmonyOS) | [Link](https://github.com/azhuge233/Wake-HarmonyOS/releases) | 一款运行在鸿蒙Next平台上的网络唤醒（Wake-on-LAN）应用。 | 06-30 |
