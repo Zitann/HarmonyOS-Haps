@@ -51,10 +51,11 @@
 | 软件     | 下载链接            | 描述                                                         | 更新                                                 |
 | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [Gramony](https://github.com/Gramony/Gramony) | [Link](https://t.me/GramonyApp) | 第三方✈鸿蒙版，下载地址为✈群组 | 更新中 |
+| [Phira](https://github.com/TeamFlos/phira) | [Link](https://github.com/TeamFlos/phira/releases) | Phira 是一款基于社区的音乐游戏 | 07-17 |
+| [Kazumi](https://github.com/ErBWs/Kazumi) | [Link](https://github.com/ErBWs/Kazumi/releases) | 一款基于自定义规则来采集番剧资源，并支持 Anime4K 实时超分辨率的在线观看应用。 | 07-16 |
 | [PiliPlus](https://github.com/qinshah/PiliPlus) | [Link](https://github.com/qinshah/PiliPlus/releases) | BiliBili第三方客户端 | 07-13 |
 | [AniCh](https://github.com/Sle2p/AniCh) | [Link](https://github.com/Sle2p/AniCh/releases) | 一款支持超分辨率的在线动漫弹幕应用，多番剧源、多弹幕、高清无广告，支持离线缓存与追番管理。 | 07-13 |
 | [PiliPlusX](https://github.com/cnctem/PiliPlusX) | [Link](https://github.com/cnctem/PiliPlusX/releases) | PiliPlusX | 07-10 |
-| [Kazumi](https://github.com/ErBWs/Kazumi) | [Link](https://github.com/ErBWs/Kazumi/releases) | 一款基于自定义规则来采集番剧资源，并支持 Anime4K 实时超分辨率的在线观看应用。 | 07-09 |
 | [S1-Orange](https://github.com/wly5556/S1-Orange) | [Link](https://github.com/wly5556/S1-Orange/releases/) | 一款专为鸿蒙Next平台开发的 stage1st.com 论坛移动客户端。 | 07-05 |
 | [Wpixelgram](https://github.com/1055235342/Wpixelgram-for-HarmonyOS) | [Link](https://github.com/1055235342/Wpixelgram-for-HarmonyOS/releases) | 第三方✈鸿蒙版Wpixelgram | 07-03 |
 | [Melotopia](https://github.com/Chenlvin/Melotopia-HMOS) | [Link](https://github.com/Chenlvin/Melotopia-HMOS/releases) | ✨ 鸿蒙原生音乐播放器｜🚀 全场景设备适配 本项目为第三方应用, 应用本身不提供在线服务, 仅提供UI界面 | 07-02 |
@@ -68,7 +69,6 @@
 | [HMTG](https://github.com/YuanChu-Tec/HMTG) | [Link](https://github.com/YuanChu-Tec/HMTG/releases) | 第三方✈鸿蒙版HMTG | 05-25 |
 | [OTP Token](https://github.com/SolidFaker/ohtotptoken) | [Link](https://github.com/SolidFaker/ohtotptoken/releases) | 一款支持TOTP、HOTP、Steam令牌和Forti令牌的开源双因素认证（2FA）令牌生成器。 | 05-19 |
 | [HiSH](https://github.com/harmoninux/HiSH) | [Link](https://github.com/harmoninux/HiSH/releases) | 在鸿蒙手机、平板和PC上运行 Linux Shell | 05-16 |
-| [Phira](https://github.com/TeamFlos/phira) | [Link](https://github.com/TeamFlos/phira/releases) | Phira 是一款基于社区的音乐游戏 | 04-08 |
 | [ClashBox](https://github.com/xiaobaigroup/hapapp) | [Link](https://github.com/xiaobaigroup/hapapp/releases) | ClashBox 是首款为鸿蒙 HarmonyOS NEXT 平台打造的代理软件，基于 Mihomo 内核，致力于提供稳定、美观且支持多设备的一流代理体验。 | 04-02 |
 | [Etohos](https://github.com/collaborative-creation/etohos) | [Link](https://github.com/collaborative-creation/etohos/releases) | 一个基于flutter的鸿蒙系统应用，用来接入EasyTier网络。 | 03-31 |
 | [HOML启动器](https://github.com/xiaobaigroup/HOML) | [Link](https://github.com/xiaobaigroup/HOML/releases) | 首个鸿蒙原生MCJava版HOML启动器 | 02-27 |
@@ -84,7 +84,7 @@
 
 | 软件     | 下载链接            | 描述                                                         | 更新                                                 |
 | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [NextE](https://github.com/erosTeam/NextE) | [Link](https://github.com/erosTeam/NextE/releases) | 一款原生 HarmonyOS NEXT 的 E-Hentai / ExHentai 客户端，支持画廊浏览、多种布局阅读、标签翻译、下载队列及 WebDAV 云同步。 | 07-15 |
+| [NextE](https://github.com/erosTeam/NextE) | [Link](https://github.com/erosTeam/NextE/releases) | 一款原生 HarmonyOS NEXT 的 E-Hentai / ExHentai 客户端，支持画廊浏览、多种布局阅读、标签翻译、下载队列及 WebDAV 云同步。 | 07-17 |
 | [immich](https://github.com/dgh1818/immich_ohos) | [Link](https://github.com/dgh1818/immich_ohos/releases) | 一款连接 Immich 私人照片和视频备份服务器的鸿蒙客户端，用于在鸿蒙设备上浏览和管理个人媒体库。 | 07-15 |
 | [TiebaLite](https://github.com/137458/tieba-lite-harmony) | [Link](https://github.com/137458/tieba-lite-harmony/releases) | 第三方百度贴吧客户端 HarmonyOS NEXT 移植版，支持帖子浏览、搜索、详情查看、回帖、图片上传及主题换肤等核心功能。 | 07-13 |
 | [Karing](https://github.com/ks-lm-kf/harmony-kslmkf-karing-hap) | [Link](https://github.com/ks-lm-kf/harmony-kslmkf-karing-hap/releases) | 一款基于 Karing / sing-box 核心的 HarmonyOS 代理软件，支持多种协议、订阅导入与规则分流。 | 07-13 |
