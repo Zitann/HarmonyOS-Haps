@@ -84,6 +84,7 @@
 
 | 软件     | 下载链接            | 描述                                                         | 更新                                                 |
 | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [Homowarden](https://github.com/DreamistW/Homowarden) | [Link](https://github.com/DreamistW/Homowarden/releases) | Homowarden 是一款专为 HarmonyOS 打造的密码管理应用，它是跨平台开源密码管理应用 Bitwarden 的鸿蒙平台实现。 | 07-17 |
 | [NextE](https://github.com/erosTeam/NextE) | [Link](https://github.com/erosTeam/NextE/releases) | 一款原生 HarmonyOS NEXT 的 E-Hentai / ExHentai 客户端，支持画廊浏览、多种布局阅读、标签翻译、下载队列及 WebDAV 云同步。 | 07-17 |
 | [immich](https://github.com/dgh1818/immich_ohos) | [Link](https://github.com/dgh1818/immich_ohos/releases) | 一款连接 Immich 私人照片和视频备份服务器的鸿蒙客户端，用于在鸿蒙设备上浏览和管理个人媒体库。 | 07-15 |
 | [TiebaLite](https://github.com/137458/tieba-lite-harmony) | [Link](https://github.com/137458/tieba-lite-harmony/releases) | 第三方百度贴吧客户端 HarmonyOS NEXT 移植版，支持帖子浏览、搜索、详情查看、回帖、图片上传及主题换肤等核心功能。 | 07-13 |
@@ -101,7 +102,6 @@
 | [KeePassHO](https://github.com/aimilin6688/KeePassHO) | [Link](https://github.com/aimilin6688/KeePassHO/releases) | 本地密码管理软件，支持 keepass 系列的数据库，现在已经实现了 密码管理和TOTP 功能。 | 03-30 |
 | [Harflix播放器](https://github.com/Actrlq/Harflix) | [Link](https://github.com/Actrlq/Harflix/releases) | 一款支持Emby协议的播放器 | 03-15 |
 | [开源阅读](https://github.com/mgz0227/legado-Harmony) | [Link](https://github.com/mgz0227/legado-Harmony/releases) | 一款支持自定义书源规则，可抓取任意网页内容进行阅读的开源应用。 | 03-11 |
-| [Homowarden](https://github.com/DreamistW/Homowarden) | [Link](https://github.com/DreamistW/Homowarden/releases) | Homowarden 是一款专为 HarmonyOS 打造的密码管理应用，它是跨平台开源密码管理应用 Bitwarden 的鸿蒙平台实现。 | 02-12 |
 | [niceleep](https://github.com/qinshah/niceleep) | [Link](https://github.com/qinshah/niceleep/releases) | 一个专注于白噪音播放的应用，帮助你放松、专注和入眠。 | 02-11 |
 | [soc-search](https://github.com/Amview/soc-search) | [Link](https://github.com/Amview/soc-search/releases) | 一款可以搜索和查询安兔兔、Geekbench等主流平台SoC（处理器）性能跑分排行的工具。 | 2025-09-23 |
 | [包名解析](https://github.com/SummerKaze/AppBundleNameForShared) | [Link](https://github.com/SummerKaze/AppBundleNameForShared/releases) | 一款用于从华为应用商城分享链接中提取应用包名的鸿蒙工具。 | 2025-09-14 |
