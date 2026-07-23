@@ -53,6 +53,7 @@
 | [Gramony](https://github.com/Gramony/Gramony) | [Link](https://t.me/GramonyApp) | 第三方✈鸿蒙版，下载地址为✈群组 | 更新中 |
 | [Phira](https://github.com/TeamFlos/phira) | [Link](https://github.com/TeamFlos/phira/releases) | Phira 是一款基于社区的音乐游戏 | 07-19 |
 | [Kazumi](https://github.com/ErBWs/Kazumi) | [Link](https://github.com/ErBWs/Kazumi/releases) | 一款基于自定义规则来采集番剧资源，并支持 Anime4K 实时超分辨率的在线观看应用。 | 07-16 |
+| [Tailscale](https://github.com/flypigJ/Tailscale-OHOS) | [Link](https://github.com/flypigJ/Tailscale-OHOS/releases) | 一款零配置的组网工具，让你的设备安全地互联。 | 07-16 |
 | [PiliPlus](https://github.com/qinshah/PiliPlus) | [Link](https://github.com/qinshah/PiliPlus/releases) | BiliBili第三方客户端 | 07-13 |
 | [AniCh](https://github.com/Sle2p/AniCh) | [Link](https://github.com/Sle2p/AniCh/releases) | 一款支持超分辨率的在线动漫弹幕应用，多番剧源、多弹幕、高清无广告，支持离线缓存与追番管理。 | 07-13 |
 | [PiliPlusX](https://github.com/cnctem/PiliPlusX) | [Link](https://github.com/cnctem/PiliPlusX/releases) | PiliPlusX | 07-10 |

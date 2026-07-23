@@ -9,6 +9,7 @@
 - [HanversionOvO](https://github.com/HanversionOvO)
 - [Harmoninux](https://github.com/harmoninux/HiSH)
 - [Ibukitofu](https://github.com/Ibukitofu)
+- [Jerry Zhu](https://github.com/flypigJ)
 - [Jonk](https://github.com/aimilin6688)
 - [LambdaYH](https://github.com/LambdaYH)
 - [Luo-A-Chen](https://github.com/Luo-A-Chen)
