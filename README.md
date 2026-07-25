@@ -51,6 +51,7 @@
 | 软件     | 下载链接            | 描述                                                         | 更新                                                 |
 | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [Gramony](https://github.com/Gramony/Gramony) | [Link](https://t.me/GramonyApp) | 第三方✈鸿蒙版，下载地址为✈群组 | 更新中 |
+| [冲浪喵](https://github.com/awaLiny2333/LinysBrowser_NEXT) | [Link](https://github.com/awaLiny2333/LinysBrowser_NEXT/releases) | 一款为鸿蒙NEXT开发的、轻量化的网页浏览器。 | 07-25 |
 | [Kazumi](https://github.com/ErBWs/Kazumi) | [Link](https://github.com/ErBWs/Kazumi/releases) | 一款基于自定义规则来采集番剧资源，并支持 Anime4K 实时超分辨率的在线观看应用。 | 07-23 |
 | [Phira](https://github.com/TeamFlos/phira) | [Link](https://github.com/TeamFlos/phira/releases) | Phira 是一款基于社区的音乐游戏 | 07-19 |
 | [Tailscale](https://github.com/flypigJ/Tailscale-OHOS) | [Link](https://github.com/flypigJ/Tailscale-OHOS/releases) | 一款零配置的组网工具，让你的设备安全地互联。 | 07-16 |
@@ -65,7 +66,6 @@
 | [栖云盾](https://github.com/Tlntin/home-cloud-shield) | [Link](https://github.com/Tlntin/home-cloud-shield/releases) | 一款面向 HarmonyOS 6.0+ 的本地 DNS 过滤实验应用，支持手机、平板与 2in1 设备，通过本地 VPN 接管 DNS 流量，支持 AdGuard 风格规则管理、日志查看与原生桥接能力验证。 | 06-15 |
 | [Harmonic](https://github.com/shanyan-wcx/Harmonic) | [Link](https://github.com/shanyan-wcx/Harmonic/releases) | 一款连接 Navidrome 个人音乐服务器的鸿蒙原生客户端，用于在手机、平板、车机等设备上播放您的音乐库。 | 06-14 |
 | [OHsidian](https://github.com/HanversionOvO/OHSidian) | [Link](https://github.com/HanversionOvO/OHSidian/releases) | 在鸿蒙设备上运行 Obsidian 笔记应用的非官方移植项目，通过构建 Electron 兼容层让原版 Obsidian 运行于 HarmonyOS，支持多窗口、华为账号登录与华为云同步。 | 05-30 |
-| [冲浪喵](https://github.com/awaLiny2333/LinysBrowser_NEXT) | [Link](https://github.com/awaLiny2333/LinysBrowser_NEXT/releases) | 一款为鸿蒙NEXT开发的、轻量化的网页浏览器。 | 05-29 |
 | [影视链](https://github.com/xiaomoHM/videoJX/) | [Link](https://github.com/xiaomoHM/videoJX//releases) | 影视链是一款基于 HarmonyOS Next 开发的视频解析播放器应用。它通过集成多个第三方解析接口，帮助用户突破各大视频网站的限制，实现一站式搜索、解析和播放全网视频内容。 | 05-28 |
 | [HMTG](https://github.com/YuanChu-Tec/HMTG) | [Link](https://github.com/YuanChu-Tec/HMTG/releases) | 第三方✈鸿蒙版HMTG | 05-25 |
 | [OTP Token](https://github.com/SolidFaker/ohtotptoken) | [Link](https://github.com/SolidFaker/ohtotptoken/releases) | 一款支持TOTP、HOTP、Steam令牌和Forti令牌的开源双因素认证（2FA）令牌生成器。 | 05-19 |
