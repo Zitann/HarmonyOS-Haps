@@ -85,7 +85,7 @@
 
 | 软件     | 下载链接            | 描述                                                         | 更新                                                 |
 | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [TiebaLite](https://github.com/137458/tieba-lite-harmony) | [Link](https://github.com/137458/tieba-lite-harmony/releases) | 第三方百度贴吧客户端 HarmonyOS NEXT 移植版，支持帖子浏览、搜索、详情查看、回帖、图片上传及主题换肤等核心功能。 | 07-26 |
+| [TiebaLite](https://github.com/137458/tieba-lite-harmony) | [Link](https://github.com/137458/tieba-lite-harmony/releases) | 第三方百度贴吧客户端 HarmonyOS NEXT 移植版，支持帖子浏览、搜索、详情查看、回帖、图片上传及主题换肤等核心功能。 | 07-27 |
 | [FMphoto](https://github.com/jonas-pi/FMphoto) | [Link](https://github.com/jonas-pi/FMphoto/releases) | 用于在手机上连接飞牛 NAS，使用相册、网页入口及常见图库能力。 | 07-20 |
 | [NextE](https://github.com/erosTeam/NextE) | [Link](https://github.com/erosTeam/NextE/releases) | 一款原生 HarmonyOS NEXT 的 E-Hentai / ExHentai 客户端，支持画廊浏览、多种布局阅读、标签翻译、下载队列及 WebDAV 云同步。 | 07-20 |
 | [Pica Comic](https://github.com/nimmi-ai/PicaComic_ohos) | [Link](https://github.com/nimmi-ai/PicaComic_ohos/releases) | 一款使用 Flutter 构建的多源漫画应用。 | 07-19 |
