@@ -51,9 +51,9 @@
 | 软件     | 下载链接            | 描述                                                         | 更新                                                 |
 | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [Gramony](https://github.com/Gramony/Gramony) | [Link](https://t.me/GramonyApp) | 第三方✈鸿蒙版，下载地址为✈群组 | 更新中 |
+| [Kazumi](https://github.com/ErBWs/Kazumi) | [Link](https://github.com/ErBWs/Kazumi/releases) | 一款基于自定义规则来采集番剧资源，并支持 Anime4K 实时超分辨率的在线观看应用。 | 07-30 |
 | [Phira](https://github.com/TeamFlos/phira) | [Link](https://github.com/TeamFlos/phira/releases) | Phira 是一款基于社区的音乐游戏 | 07-30 |
 | [冲浪喵](https://github.com/awaLiny2333/LinysBrowser_NEXT) | [Link](https://github.com/awaLiny2333/LinysBrowser_NEXT/releases) | 一款为鸿蒙NEXT开发的、轻量化的网页浏览器。 | 07-25 |
-| [Kazumi](https://github.com/ErBWs/Kazumi) | [Link](https://github.com/ErBWs/Kazumi/releases) | 一款基于自定义规则来采集番剧资源，并支持 Anime4K 实时超分辨率的在线观看应用。 | 07-23 |
 | [Tailscale](https://github.com/flypigJ/Tailscale-OHOS) | [Link](https://github.com/flypigJ/Tailscale-OHOS/releases) | 一款零配置的组网工具，让你的设备安全地互联。 | 07-16 |
 | [PiliPlus](https://github.com/qinshah/PiliPlus) | [Link](https://github.com/qinshah/PiliPlus/releases) | BiliBili第三方客户端 | 07-13 |
 | [AniCh](https://github.com/Sle2p/AniCh) | [Link](https://github.com/Sle2p/AniCh/releases) | 一款支持超分辨率的在线动漫弹幕应用，多番剧源、多弹幕、高清无广告，支持离线缓存与追番管理。 | 07-13 |
@@ -85,13 +85,13 @@
 
 | 软件     | 下载链接            | 描述                                                         | 更新                                                 |
 | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [Karing](https://github.com/ks-lm-kf/harmony-kslmkf-karing-hap) | [Link](https://github.com/ks-lm-kf/harmony-kslmkf-karing-hap/releases) | 一款基于 Karing / sing-box 核心的 HarmonyOS 代理软件，支持多种协议、订阅导入与规则分流。 | 07-31 |
+| [NextE](https://github.com/erosTeam/NextE) | [Link](https://github.com/erosTeam/NextE/releases) | 一款原生 HarmonyOS NEXT 的 E-Hentai / ExHentai 客户端，支持画廊浏览、多种布局阅读、标签翻译、下载队列及 WebDAV 云同步。 | 07-31 |
 | [FMphoto](https://github.com/jonas-pi/FMphoto) | [Link](https://github.com/jonas-pi/FMphoto/releases) | 用于在手机上连接飞牛 NAS，使用相册、网页入口及常见图库能力。 | 07-30 |
-| [Karing](https://github.com/ks-lm-kf/harmony-kslmkf-karing-hap) | [Link](https://github.com/ks-lm-kf/harmony-kslmkf-karing-hap/releases) | 一款基于 Karing / sing-box 核心的 HarmonyOS 代理软件，支持多种协议、订阅导入与规则分流。 | 07-30 |
 | [Homowarden](https://github.com/DreamistW/Homowarden) | [Link](https://github.com/DreamistW/Homowarden/releases) | Homowarden 是一款专为 HarmonyOS 打造的密码管理应用，它是跨平台开源密码管理应用 Bitwarden 的鸿蒙平台实现。 | 07-30 |
 | [TiebaLite](https://github.com/137458/tieba-lite-harmony) | [Link](https://github.com/137458/tieba-lite-harmony/releases) | 第三方百度贴吧客户端 HarmonyOS NEXT 移植版，支持帖子浏览、搜索、详情查看、回帖、图片上传及主题换肤等核心功能。 | 07-30 |
 | [PixEz](https://github.com/bgli100/pixez-flutter-ohos) | [Link](https://github.com/bgli100/pixez-flutter-ohos/releases) | 一款支持免代理直连及查看动图的第三方Pixiv flutter客户端 | 07-30 |
 | [immich](https://github.com/dgh1818/immich_ohos) | [Link](https://github.com/dgh1818/immich_ohos/releases) | 一款连接 Immich 私人照片和视频备份服务器的鸿蒙客户端，用于在鸿蒙设备上浏览和管理个人媒体库。 | 07-28 |
-| [NextE](https://github.com/erosTeam/NextE) | [Link](https://github.com/erosTeam/NextE/releases) | 一款原生 HarmonyOS NEXT 的 E-Hentai / ExHentai 客户端，支持画廊浏览、多种布局阅读、标签翻译、下载队列及 WebDAV 云同步。 | 07-20 |
 | [Pica Comic](https://github.com/nimmi-ai/PicaComic_ohos) | [Link](https://github.com/nimmi-ai/PicaComic_ohos/releases) | 一款使用 Flutter 构建的多源漫画应用。 | 07-19 |
 | [ScrcpyForHarmonyOS](https://github.com/LambdaYH/ScrcpyForHarmonyOS) | [Link](https://github.com/LambdaYH/ScrcpyForHarmonyOS/releases) | 一款运行在 HarmonyOS 上的第三方 scrcpy 客户端，通过网络 ADB 或无线调试连接并控制 Android 设备，支持视频镜像、触控与音频转发。 | 07-08 |
 | [Wake](https://github.com/azhuge233/Wake-HarmonyOS) | [Link](https://github.com/azhuge233/Wake-HarmonyOS/releases) | 一款运行在鸿蒙Next平台上的网络唤醒（Wake-on-LAN）应用。 | 06-30 |
@@ -119,7 +119,7 @@
 
 | 软件     | 下载链接            | 描述                                                         | 更新                                                 |
 | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [Servo](https://github.com/servo/servo) | [Link](https://github.com/servo/servo/releases) | Servo 是一个用 Rust 语言编写的浏览器内核的浏览器 | 07-06 |
+| [Servo](https://github.com/servo/servo) | [Link](https://github.com/servo/servo/releases) | Servo 是一个用 Rust 语言编写的浏览器内核的浏览器 | 07-31 |
 | [aria2](https://github.com/SwimmingTiger/aria2-ohos) | [Link](https://github.com/SwimmingTiger/aria2-ohos/releases) | 一个能在鸿蒙PC上通过命令行使用的Aria2下载工具。 | 01-20 |
 | [Harmonix](https://github.com/hackeris/Harmonix) | [Link](https://github.com/hackeris/Harmonix/releases) | 一个能在鸿蒙PC上运行 aarch64/x86_64/riscv64 Linux 程序的终端 | 2025-08-30 |
 | [Termony](https://github.com/jiegec/Termony) | [Link](https://github.com/jiegec/Termony/releases) | 一款为鸿蒙操作系统提供的终端模拟器，允许用户运行常见的Linux命令和程序。 | 无release |
