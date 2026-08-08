@@ -84,7 +84,7 @@
 | [流心视频](https://github.com/Yebingiscn/SweetVideo) | [Link](https://github.com/Yebingiscn/SweetVideo/releases) | 一款运行在HarmonyOS Next上的原生视频播放器，支持播放多种视频、音频及字幕格式。基于开源项目[流心视频](https://gitee.com/lqsxy/sweetvideo/tree/master)二次开发 | 2025-07-31 |
 | [Moonlight](https://gitee.com/smdsbz/moonlight-ohos) | [Link](https://gitee.com/smdsbz/moonlight-ohos/releases) | 在 HarmonyOS Next 上的另一个 Sunshine 客户端实现。 | 2025-04-03 |
 | [云享社](https://github.com/Edge-Music/Core) | [Link](https://github.com/Edge-Music/Core/releases) | 一个在鸿蒙NEXT上，可连接多个音乐平台和私有数据源的统一音乐播放器。 | 闭源 |
-| [WineHua][https://github.com/winehua/WineHua] | [Link](https://github.com/winehua/WineHua) | 在 HarmonyOS 上运行 Windows 程序 | 2026-08-04 |
+| [WineHua][https://github.com/winehua/WineHua] | [Link](https://github.com/winehua/WineHua/releases) | 在 HarmonyOS 上运行 Windows 程序 | 08-05 |
 
 ### 鸿蒙手机/平板
 
