@@ -124,6 +124,7 @@
 
 | 软件     | 下载链接            | 描述                                                         | 更新                                                 |
 | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [VLC播放器](https://github.com/Aloereed/vlc-qt6-ohos) | [Link](https://github.com/Aloereed/vlc-qt6-ohos/releases) | 基于QT移植的VLC播放器 | 08-02 |
 | [Servo](https://github.com/servo/servo) | [Link](https://github.com/servo/servo/releases) | Servo 是一个用 Rust 语言编写的浏览器内核的浏览器 | 08-04 |
 | [aria2](https://github.com/SwimmingTiger/aria2-ohos) | [Link](https://github.com/SwimmingTiger/aria2-ohos/releases) | 一个能在鸿蒙PC上通过命令行使用的Aria2下载工具。 | 01-20 |
 | [Harmonix](https://github.com/hackeris/Harmonix) | [Link](https://github.com/hackeris/Harmonix/releases) | 一个能在鸿蒙PC上运行 aarch64/x86_64/riscv64 Linux 程序的终端 | 2025-08-30 |
