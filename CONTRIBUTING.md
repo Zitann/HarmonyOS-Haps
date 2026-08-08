@@ -27,6 +27,7 @@
 - [SwimmingTiger](https://github.com/SwimmingTiger)
 - [TeamFlos](https://github.com/TeamFlos)
 - [Tlntin](https://github.com/Tlntin)
+- [WineHua](https://github.com/winehua)
 - [XiaobaiStudio](https://github.com/xiaobaigroup)
 - [Yebingiscn](https://github.com/Yebingiscn)
 - [YuanChu-Tec](https://github.com/YuanChu-Tec)
