@@ -52,6 +52,7 @@
 | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [Gramony](https://github.com/Gramony/Gramony) | [Link](https://t.me/GramonyApp) | 第三方✈鸿蒙版，下载地址为✈群组 | 更新中 |
 | [YourPipe](https://github.com/Ember5843/YourPipe) | [Link](https://github.com/Ember5843/YourPipe/releases) | 基于NewPipe Extractor的鸿蒙YouTube客户端 | 08-06 |
+| [WineHua][https://github.com/winehua/WineHua] | [Link](https://github.com/winehua/WineHua/releases) | 在 HarmonyOS 上运行 Windows 程序 | 08-04 |
 | [S1-Orange](https://github.com/wly5556/S1-Orange) | [Link](https://github.com/wly5556/S1-Orange/releases/) | 一款专为鸿蒙Next平台开发的 stage1st.com 论坛移动客户端。 | 08-03 |
 | [Kazumi](https://github.com/ErBWs/Kazumi) | [Link](https://github.com/ErBWs/Kazumi/releases) | 一款基于自定义规则来采集番剧资源，并支持 Anime4K 实时超分辨率的在线观看应用。 | 08-01 |
 | [FlClash](https://github.com/tljk/FlClash-ohos) | [Link](https://github.com/tljk/FlClash-ohos/releases) | 基于ClashMeta的多平台代理客户端。 | 08-01 |
@@ -84,7 +85,6 @@
 | [流心视频](https://github.com/Yebingiscn/SweetVideo) | [Link](https://github.com/Yebingiscn/SweetVideo/releases) | 一款运行在HarmonyOS Next上的原生视频播放器，支持播放多种视频、音频及字幕格式。基于开源项目[流心视频](https://gitee.com/lqsxy/sweetvideo/tree/master)二次开发 | 2025-07-31 |
 | [Moonlight](https://gitee.com/smdsbz/moonlight-ohos) | [Link](https://gitee.com/smdsbz/moonlight-ohos/releases) | 在 HarmonyOS Next 上的另一个 Sunshine 客户端实现。 | 2025-04-03 |
 | [云享社](https://github.com/Edge-Music/Core) | [Link](https://github.com/Edge-Music/Core/releases) | 一个在鸿蒙NEXT上，可连接多个音乐平台和私有数据源的统一音乐播放器。 | 闭源 |
-| [WineHua][https://github.com/winehua/WineHua] | [Link](https://github.com/winehua/WineHua/releases) | 在 HarmonyOS 上运行 Windows 程序 | 08-05 |
 
 ### 鸿蒙手机/平板
 
