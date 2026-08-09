@@ -51,12 +51,12 @@
 | 软件     | 下载链接            | 描述                                                         | 更新                                                 |
 | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [Gramony](https://github.com/Gramony/Gramony) | [Link](https://t.me/GramonyApp) | 第三方✈鸿蒙版，下载地址为✈群组 | 更新中 |
+| [FlClash](https://github.com/tljk/FlClash-ohos) | [Link](https://github.com/tljk/FlClash-ohos/releases) | 基于ClashMeta的多平台代理客户端。 | 08-09 |
+| [Kazumi](https://github.com/ErBWs/Kazumi) | [Link](https://github.com/ErBWs/Kazumi/releases) | 一款基于自定义规则来采集番剧资源，并支持 Anime4K 实时超分辨率的在线观看应用。 | 08-08 |
 | [amcl](https://github.com/LZZLHY/amcl) | [Link](https://github.com/LZZLHY/amcl/releases) | 鸿蒙版全量Java版我的世界启动器 | 08-08 |
 | [YourPipe](https://github.com/Ember5843/YourPipe) | [Link](https://github.com/Ember5843/YourPipe/releases) | 基于NewPipe Extractor的鸿蒙YouTube客户端 | 08-06 |
 | [WineHua](https://github.com/winehua/WineHua) | [Link](https://github.com/winehua/WineHua/releases) | 在 HarmonyOS 上运行 Windows 程序 | 08-04 |
 | [S1-Orange](https://github.com/wly5556/S1-Orange) | [Link](https://github.com/wly5556/S1-Orange/releases/) | 一款专为鸿蒙Next平台开发的 stage1st.com 论坛移动客户端。 | 08-03 |
-| [Kazumi](https://github.com/ErBWs/Kazumi) | [Link](https://github.com/ErBWs/Kazumi/releases) | 一款基于自定义规则来采集番剧资源，并支持 Anime4K 实时超分辨率的在线观看应用。 | 08-01 |
-| [FlClash](https://github.com/tljk/FlClash-ohos) | [Link](https://github.com/tljk/FlClash-ohos/releases) | 基于ClashMeta的多平台代理客户端。 | 08-01 |
 | [PiliPlus](https://github.com/dev4harmony/PiliPlus) | [Link](https://github.com/dev4harmony/PiliPlus/releases) | BiliBili第三方客户端 | 08-01 |
 | [Phira](https://github.com/TeamFlos/phira) | [Link](https://github.com/TeamFlos/phira/releases) | Phira 是一款基于社区的音乐游戏 | 07-30 |
 | [冲浪喵](https://github.com/awaLiny2333/LinysBrowser_NEXT) | [Link](https://github.com/awaLiny2333/LinysBrowser_NEXT/releases) | 一款为鸿蒙NEXT开发的、轻量化的网页浏览器。 | 07-25 |
@@ -90,6 +90,7 @@
 
 | 软件     | 下载链接            | 描述                                                         | 更新                                                 |
 | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [Next2V](https://github.com/honjow/Next2V) | [Link](https://github.com/honjow/Next2V/releases) | 一款面向 HarmonyOS 的原生 V2EX 第三方客户端，支持主题浏览、回复发帖、节点发现与搜索。 | 08-09 |
 | [TiebaLite](https://github.com/137458/tieba-lite-harmony) | [Link](https://github.com/137458/tieba-lite-harmony/releases) | 第三方百度贴吧客户端 HarmonyOS NEXT 移植版，支持帖子浏览、搜索、详情查看、回帖、图片上传及主题换肤等核心功能。 | 08-08 |
 | [PixEz](https://github.com/bgli100/pixez-flutter-ohos) | [Link](https://github.com/bgli100/pixez-flutter-ohos/releases) | 一款支持免代理直连及查看动图的第三方Pixiv flutter客户端 | 08-06 |
 | [NextE](https://github.com/erosTeam/NextE) | [Link](https://github.com/erosTeam/NextE/releases) | 一款原生 HarmonyOS NEXT 的 E-Hentai / ExHentai 客户端，支持画廊浏览、多种布局阅读、标签翻译、下载队列及 WebDAV 云同步。 | 08-06 |
@@ -102,7 +103,6 @@
 | [ScrcpyForHarmonyOS](https://github.com/LambdaYH/ScrcpyForHarmonyOS) | [Link](https://github.com/LambdaYH/ScrcpyForHarmonyOS/releases) | 一款运行在 HarmonyOS 上的第三方 scrcpy 客户端，通过网络 ADB 或无线调试连接并控制 Android 设备，支持视频镜像、触控与音频转发。 | 07-08 |
 | [Kelivo](https://github.com/Chevey339/kelivo) | [Link](https://github.com/Chevey339/kelivo/releases) | 一个Flutter LLM聊天客户端。支持Android、iOS和Harmony Next。 | 06-18 |
 | [Ohentai](https://github.com/Ibukitofu/Ohentai) | [Link](https://github.com/Ibukitofu/Ohentai/releases) | 一款专为鸿蒙原生开发的 E-Hentai 浏览工具，支持画廊浏览、阅读与标签翻译。 | 06-13 |
-| [Next2V](https://github.com/honjow/Next2V) | [Link](https://github.com/honjow/Next2V/releases) | 一款面向 HarmonyOS 的原生 V2EX 第三方客户端，支持主题浏览、回复发帖、节点发现与搜索。 | 06-10 |
 | [刷题宝](https://github.com/xiaomoHM/ShuaTi) | [Link](https://github.com/xiaomoHM/ShuaTi/releases) | 一款离线开源的鸿蒙刷题应用，支持多套试卷导入、顺序/随机练习、错题本与自动评分。 | 06-10 |
 | [轻阅读](https://github.com/autobcb/read) | [Link](https://github.com/autobcb/read/releases) | 一款可通过自部署服务端，在手机、平板等多种设备上同步阅读进度的开源阅读应用。 | 05-14 |
 | [KeePassHO](https://github.com/aimilin6688/KeePassHO) | [Link](https://github.com/aimilin6688/KeePassHO/releases) | 本地密码管理软件，支持 keepass 系列的数据库，现在已经实现了 密码管理和TOTP 功能。 | 03-30 |
