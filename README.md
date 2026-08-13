@@ -36,7 +36,7 @@
 
 ### 安装工具
 
-**小白调试助手**
+#### **小白调试助手**
 
 **下载链接：**[Link](https://github.com/likuai2010/auto-installer/releases/latest)
 
@@ -45,6 +45,12 @@
 [点击下载教程文档](https://github.com/Zitann/HarmonyOS-Haps/raw/refs/heads/main/assets/guide.pdf)
 
 [点击查看视频教程](https://www.bilibili.com/video/BV1hkZ7YnEMd/)
+
+#### **HoKit**
+
+**下载链接：**[Link](https://github.com/yabi-zzh/HoKit/releases/latest)
+
+一站式 HarmonyOS NEXT 应用开发辅助工具：低延迟设备投屏、实时性能监控、应用解析、一键重签名、文件管理等，支持 Windows、macOS 与 Linux。
 
 ### 一次开发，多端部署
 

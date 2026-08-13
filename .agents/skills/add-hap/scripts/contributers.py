@@ -10,12 +10,11 @@ import base64
 import sys
 from time import sleep
 
-CONTRIBUTERS_PATH = os.path.join(
-    os.path.dirname(os.path.dirname(__file__)), "CONTRIBUTING.md"
+ROOT_DIR = os.path.dirname(
+    os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(__file__))))
 )
-SVG_PATH = os.path.join(
-    os.path.dirname(os.path.dirname(__file__)), "assets", "contributers.svg"
-)
+CONTRIBUTERS_PATH = os.path.join(ROOT_DIR, "CONTRIBUTING.md")
+SVG_PATH = os.path.join(ROOT_DIR, "assets", "contributers.svg")
 
 
 class Contributer:
@@ -31,11 +30,11 @@ def get_github_avatar_base64(url: str) -> str:
         "Authorization": f"Bearer {token}",
     }
     info_url = url.replace("https://github.com/", "https://api.github.com/users/")
-    response = requests.get(info_url, headers=headers)
+    response = requests.get(info_url, headers=headers, timeout=15)
     if response.status_code == 200:
         avatar_url = response.json().get("avatar_url", "")
         if avatar_url:
-            img_response = requests.get(avatar_url)
+            img_response = requests.get(avatar_url, timeout=15)
             if img_response.status_code == 200:
                 return "data:image/png;base64," + base64.b64encode(
                     img_response.content
@@ -47,11 +46,11 @@ def get_github_avatar_base64(url: str) -> str:
 def get_gitee_avatar_base64(url: str) -> str:
     headers = {"User-Agent": "update-readme-script"}
     info_url = url.replace("https://gitee.com/", "https://gitee.com/api/v5/users/")
-    response = requests.get(info_url, headers=headers)
+    response = requests.get(info_url, headers=headers, timeout=15)
     if response.status_code == 200:
         avatar_url = response.json().get("avatar_url", "")
         if avatar_url:
-            img_response = requests.get(avatar_url)
+            img_response = requests.get(avatar_url, timeout=15)
             if img_response.status_code == 200:
                 return "data:image/png;base64," + base64.b64encode(
                     img_response.content
@@ -65,11 +64,11 @@ def get_atomgit_avatar_base64(url: str) -> str:
     info_url = url.replace(
         "https://atomgit.com/", "https://atomgit.com/api/user/v1/un/detail?path="
     )
-    response = requests.get(info_url, headers=headers)
+    response = requests.get(info_url, headers=headers, timeout=15)
     if response.status_code == 200:
         avatar_url = "https://file.atomgit.com/" + response.json().get("photo", "")
         if avatar_url:
-            img_response = requests.get(avatar_url)
+            img_response = requests.get(avatar_url, timeout=15)
             if img_response.status_code == 200:
                 return "data:image/png;base64," + base64.b64encode(
                     img_response.content
@@ -89,13 +88,35 @@ def get_contributers():
     return matches
 
 
+def get_existing_svg_images() -> dict:
+    """从现有 SVG 中提取已缓存的用户头像，键为主页链接"""
+    if not os.path.exists(SVG_PATH):
+        return {}
+    with open(SVG_PATH, "r", encoding="utf-8") as f:
+        content = f.read()
+    matches = re.findall(
+        r'<a href="([^"]+)"[^>]*><image[^>]*href="([^"]*)"[^>]*><title>([^<]*)</title>',
+        content,
+    )
+    return {
+        url: image for url, image, _ in matches if image.startswith("data:image")
+    }
+
+
 def get_contributer_info(contributers):
+    cached_images = get_existing_svg_images()
     contributers_info = []
     for name, url in contributers:
-        print(f"作者: {name}, 主页: {url}")
         contributer = Contributer()
         contributer.name = name
         contributer.url = url
+        # 已存在于 SVG 中的用户直接复用缓存头像，只下载新增用户
+        if url in cached_images:
+            print(f"作者: {name}, 主页: {url} (使用缓存)")
+            contributer.image = cached_images[url]
+            contributers_info.append(contributer)
+            continue
+        print(f"作者: {name}, 主页: {url} (下载头像)")
         while True:
             try:
                 if "github.com" in url:
@@ -105,7 +126,7 @@ def get_contributer_info(contributers):
                 elif "atomgit.com" in url:
                     contributer.image = get_atomgit_avatar_base64(url)
                 break
-            except requests.RequestException as e:
+            except requests.RequestException:
                 sleep(5)
         contributers_info.append(contributer)
     return contributers_info

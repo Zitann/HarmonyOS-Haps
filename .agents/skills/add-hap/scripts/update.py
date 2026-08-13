@@ -19,7 +19,12 @@ warnings.filterwarnings(
 )
 urllib3.disable_warnings(InsecureRequestWarning)
 
-README_PATH = os.path.join(os.path.dirname(os.path.dirname(__file__)), "README.md")
+README_PATH = os.path.join(
+    os.path.dirname(
+        os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(__file__))))
+    ),
+    "README.md",
+)
 
 
 @dataclass

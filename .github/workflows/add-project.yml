@@ -4,22 +4,22 @@ on:
   workflow_dispatch:
     inputs:
       repo_url:
-        description: '项目仓库URL (GitHub或Gitee)'
+        description: "项目仓库URL (GitHub或Gitee)"
         required: true
         type: string
-        default: ''
+        default: ""
       name:
-        description: '项目名称'
+        description: "项目名称"
         required: true
         type: string
-        default: ''
+        default: ""
       desc:
-        description: '项目描述'
+        description: "项目描述"
         required: true
         type: string
-        default: ''
+        default: ""
       platform:
-        description: '平台类型'
+        description: "平台类型"
         required: true
         type: choice
         options:
@@ -38,7 +38,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v6
         with:
-          python-version: '3.9'
+          python-version: "3.9"
 
       - name: Install dependencies
         run: |
@@ -55,7 +55,7 @@ jobs:
           fi
 
       - name: Add project to README
-        run: python assets/add.py "${{ github.event.inputs.repo_url }}" "${{ github.event.inputs.name }}" "${{ github.event.inputs.desc }}" "${{ github.event.inputs.platform }}"
+        run: python .agents/skills/add-hap/scripts/add.py "${{ github.event.inputs.repo_url }}" "${{ github.event.inputs.name }}" "${{ github.event.inputs.desc }}" "${{ github.event.inputs.platform }}"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 

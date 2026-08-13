@@ -7,7 +7,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: '0 14 * * *'
+    - cron: "0 14 * * *"
   workflow_dispatch:
   repository_dispatch:
     types: [update-readme]
@@ -30,7 +30,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v6
         with:
-          python-version: '3.9'
+          python-version: "3.9"
 
       - name: Install dependencies
         run: |
@@ -38,7 +38,7 @@ jobs:
           pip install requests
 
       - name: Update README
-        run: python assets/update.py
+        run: python .agents/skills/add-hap/scripts/update.py
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 

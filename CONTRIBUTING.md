@@ -58,6 +58,7 @@
 - [smdsbz](https://gitee.com/smdsbz)
 - [wly5556](https://github.com/wly5556)
 - [wpixel](https://github.com/1055235342)
+- [yabi-zzh](https://github.com/yabi-zzh)
 - [систем](https://github.com/cnctem)
 - [云享社](https://github.com/Edge-Music)
 - [𝓡𝓸𝓼𝓮𝓶𝓪𝓻𝔂](https://github.com/137458)

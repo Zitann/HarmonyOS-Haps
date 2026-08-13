@@ -4,15 +4,15 @@ on:
   workflow_dispatch:
     inputs:
       name:
-        description: '新增贡献者名称（可为空）'
+        description: "新增贡献者名称（可为空）"
         required: false
         type: string
-        default: ''
+        default: ""
       url:
-        description: '新增贡献者主页URL（可为空）'
+        description: "新增贡献者主页URL（可为空）"
         required: false
         type: string
-        default: ''
+        default: ""
 
 jobs:
   update-contributers:
@@ -32,7 +32,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v6
         with:
-          python-version: '3.9'
+          python-version: "3.9"
 
       - name: Install dependencies
         run: |
@@ -42,9 +42,9 @@ jobs:
       - name: Update contributers SVG
         run: |
           if [[ -n "${{ github.event.inputs.name }}" && -n "${{ github.event.inputs.url }}" ]]; then
-            python assets/contributers.py "${{ github.event.inputs.name }}" "${{ github.event.inputs.url }}"
+            python .agents/skills/add-hap/scripts/contributers.py "${{ github.event.inputs.name }}" "${{ github.event.inputs.url }}"
           else
-            python assets/contributers.py
+            python .agents/skills/add-hap/scripts/contributers.py
           fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
