@@ -96,7 +96,7 @@
 
 | 软件     | 下载链接            | 描述                                                         | 更新                                                 |
 | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [Kelivo](https://github.com/Chevey339/kelivo) | [Link](https://github.com/Chevey339/kelivo/releases) | 一个Flutter LLM聊天客户端。支持Android、iOS和Harmony Next。 | 08-11 |
+| [Kelivo](https://github.com/Chevey339/kelivo) | [Link](https://github.com/Chevey339/kelivo/releases) | 一个Flutter LLM聊天客户端。支持Android、iOS和Harmony Next。 | 08-12 |
 | [Pica Comic](https://github.com/nimmi-ai/PicaComic_ohos) | [Link](https://github.com/nimmi-ai/PicaComic_ohos/releases) | 一款使用 Flutter 构建的多源漫画应用。 | 08-10 |
 | [Next2V](https://github.com/honjow/Next2V) | [Link](https://github.com/honjow/Next2V/releases) | 一款面向 HarmonyOS 的原生 V2EX 第三方客户端，支持主题浏览、回复发帖、节点发现与搜索。 | 08-09 |
 | [TiebaLite](https://github.com/137458/tieba-lite-harmony) | [Link](https://github.com/137458/tieba-lite-harmony/releases) | 第三方百度贴吧客户端 HarmonyOS NEXT 移植版，支持帖子浏览、搜索、详情查看、回帖、图片上传及主题换肤等核心功能。 | 08-08 |
