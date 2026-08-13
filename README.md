@@ -56,19 +56,19 @@
 
 | 软件     | 下载链接            | 描述                                                         | 更新                                                 |
 | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [Gramony](https://github.com/Gramony/Gramony) | [Link](https://t.me/GramonyApp) | 第三方✈鸿蒙版，下载地址为✈群组 | 2025-01-01 |
 | [PiliPlus](https://github.com/dev4harmony/PiliPlus) | [Link](https://github.com/dev4harmony/PiliPlus/releases) | BiliBili第三方客户端 | 08-10 |
 | [FlClash](https://github.com/tljk/FlClash-ohos) | [Link](https://github.com/tljk/FlClash-ohos/releases) | 基于ClashMeta的多平台代理客户端。 | 08-09 |
 | [Kazumi](https://github.com/ErBWs/Kazumi) | [Link](https://github.com/ErBWs/Kazumi/releases) | 一款基于自定义规则来采集番剧资源，并支持 Anime4K 实时超分辨率的在线观看应用。 | 08-08 |
 | [amcl](https://github.com/LZZLHY/amcl) | [Link](https://github.com/LZZLHY/amcl/releases) | 鸿蒙版全量Java版我的世界启动器 | 08-08 |
 | [YourPipe](https://github.com/Ember5843/YourPipe) | [Link](https://github.com/Ember5843/YourPipe/releases) | 基于NewPipe Extractor的鸿蒙YouTube客户端 | 08-06 |
+| [冲浪喵](https://github.com/awaLiny2333/LinysBrowser_NEXT) | [Link](https://github.com/awaLiny2333/LinysBrowser_NEXT/releases) | 一款为鸿蒙NEXT开发的、轻量化的网页浏览器。 | 08-05 |
 | [WineHua](https://github.com/winehua/WineHua) | [Link](https://github.com/winehua/WineHua/releases) | 在 HarmonyOS 上运行 Windows 程序 | 08-04 |
+| [PiliPlus](https://github.com/qinshah/PiliPlus) | [Link](https://github.com/qinshah/PiliPlus/releases) | BiliBili第三方客户端 | 08-03 |
 | [S1-Orange](https://github.com/wly5556/S1-Orange) | [Link](https://github.com/wly5556/S1-Orange/releases/) | 一款专为鸿蒙Next平台开发的 stage1st.com 论坛移动客户端。 | 08-03 |
+| [OTP Token](https://github.com/SolidFaker/ohtotptoken) | [Link](https://github.com/SolidFaker/ohtotptoken/releases) | 一款支持TOTP、HOTP、Steam令牌和Forti令牌的开源双因素认证（2FA）令牌生成器。 | 08-02 |
 | [Phira](https://github.com/TeamFlos/phira) | [Link](https://github.com/TeamFlos/phira/releases) | Phira 是一款基于社区的音乐游戏 | 07-30 |
-| [冲浪喵](https://github.com/awaLiny2333/LinysBrowser_NEXT) | [Link](https://github.com/awaLiny2333/LinysBrowser_NEXT/releases) | 一款为鸿蒙NEXT开发的、轻量化的网页浏览器。 | 07-25 |
 | [Tailscale](https://github.com/flypigJ/Tailscale-OHOS) | [Link](https://github.com/flypigJ/Tailscale-OHOS/releases) | 一款零配置的组网工具，让你的设备安全地互联。 | 07-16 |
 | [AniCh](https://github.com/Sle2p/AniCh) | [Link](https://github.com/Sle2p/AniCh/releases) | 一款支持超分辨率的在线动漫弹幕应用，多番剧源、多弹幕、高清无广告，支持离线缓存与追番管理。 | 07-15 |
-| [PiliPlus](https://github.com/qinshah/PiliPlus) | [Link](https://github.com/qinshah/PiliPlus/releases) | BiliBili第三方客户端 | 07-13 |
 | [JMComic](https://github.com/YuanChu-Tec/JMComic-HarmonyOS) | [Link](https://github.com/YuanChu-Tec/JMComic-HarmonyOS/releases) | 漫画阅读工具 | 07-09 |
 | [Wpixelgram](https://github.com/1055235342/Wpixelgram-for-HarmonyOS) | [Link](https://github.com/1055235342/Wpixelgram-for-HarmonyOS/releases) | 第三方✈鸿蒙版Wpixelgram | 07-03 |
 | [Melotopia](https://github.com/Chenlvin/Melotopia-HMOS) | [Link](https://github.com/Chenlvin/Melotopia-HMOS/releases) | ✨ 鸿蒙原生音乐播放器｜🚀 全场景设备适配 本项目为第三方应用, 应用本身不提供在线服务, 仅提供UI界面 | 07-02 |
@@ -78,19 +78,19 @@
 | [OHsidian](https://github.com/HanversionOvO/OHSidian) | [Link](https://github.com/HanversionOvO/OHSidian/releases) | 在鸿蒙设备上运行 Obsidian 笔记应用的非官方移植项目，通过构建 Electron 兼容层让原版 Obsidian 运行于 HarmonyOS，支持多窗口、华为账号登录与华为云同步。 | 05-30 |
 | [影视链](https://github.com/xiaomoHM/videoJX/) | [Link](https://github.com/xiaomoHM/videoJX//releases) | 影视链是一款基于 HarmonyOS Next 开发的视频解析播放器应用。它通过集成多个第三方解析接口，帮助用户突破各大视频网站的限制，实现一站式搜索、解析和播放全网视频内容。 | 05-28 |
 | [HMTG](https://github.com/YuanChu-Tec/HMTG) | [Link](https://github.com/YuanChu-Tec/HMTG/releases) | 第三方✈鸿蒙版HMTG | 05-25 |
-| [OTP Token](https://github.com/SolidFaker/ohtotptoken) | [Link](https://github.com/SolidFaker/ohtotptoken/releases) | 一款支持TOTP、HOTP、Steam令牌和Forti令牌的开源双因素认证（2FA）令牌生成器。 | 05-19 |
 | [HiSH](https://github.com/harmoninux/HiSH) | [Link](https://github.com/harmoninux/HiSH/releases) | 在鸿蒙手机、平板和PC上运行 Linux Shell | 05-16 |
 | [PiliPlusX](https://github.com/cnctem/PiliPlusX) | [Link](https://github.com/cnctem/PiliPlusX/releases) | PiliPlusX | 05-04 |
 | [ClashBox](https://github.com/xiaobaigroup/hapapp) | [Link](https://github.com/xiaobaigroup/hapapp/releases) | ClashBox 是首款为鸿蒙 HarmonyOS NEXT 平台打造的代理软件，基于 Mihomo 内核，致力于提供稳定、美观且支持多设备的一流代理体验。 | 04-02 |
 | [Etohos](https://github.com/collaborative-creation/etohos) | [Link](https://github.com/collaborative-creation/etohos/releases) | 一个基于flutter的鸿蒙系统应用，用来接入EasyTier网络。 | 03-31 |
+| [云享社](https://github.com/Edge-Music/Core) | [Link](https://github.com/Edge-Music/Core/releases) | 一个在鸿蒙NEXT上，可连接多个音乐平台和私有数据源的统一音乐播放器。 | 03-18 |
 | [HOML启动器](https://github.com/xiaobaigroup/HOML) | [Link](https://github.com/xiaobaigroup/HOML/releases) | 首个鸿蒙原生MCJava版HOML启动器 | 02-27 |
 | [FinVideo](https://github.com/OHPG/FinVideo) | [Link](https://github.com/OHPG/FinVideo/releases) | 一款在鸿蒙Next上使用的 Jellyfin 视频播放器，用于连接和播放在线影音库。 | 01-17 |
+| [Gramony](https://github.com/Gramony/Gramony) | [Link](https://t.me/GramonyApp) | 第三方✈鸿蒙版，下载地址为✈群组 | 01-15 |
 | [CanPlayerHap](https://github.com/Merryou6/CanPlayerHap) | [Link](https://github.com/Merryou6/CanPlayerHap/releases) | 鸿蒙NEXT上基于web运行ons galgame 演示视频 https://b23.tv/rNW0GNB | 2025-11-26 |
 | [Minecraft Box](https://github.com/lxdklp/MCB_OHOS) | [Link](https://github.com/lxdklp/MCB_OHOS/releases) | Minecraft Java 服务器管理工具 | 2025-10-11 |
 | [JellyFin](https://github.com/chashaochang/JellyFin_HarmonyOS) | [Link](https://github.com/chashaochang/JellyFin_HarmonyOS/releases) | 非官方的 Jellyfin 客户端，将 Jellyfin 的体验带到鸿蒙设备上，能让你随心所欲地控制、管理和流媒体你的媒体资源。 | 2025-08-02 |
 | [流心视频](https://github.com/Yebingiscn/SweetVideo) | [Link](https://github.com/Yebingiscn/SweetVideo/releases) | 一款运行在HarmonyOS Next上的原生视频播放器，支持播放多种视频、音频及字幕格式。基于开源项目[流心视频](https://gitee.com/lqsxy/sweetvideo/tree/master)二次开发 | 2025-07-31 |
 | [Moonlight](https://gitee.com/smdsbz/moonlight-ohos) | [Link](https://gitee.com/smdsbz/moonlight-ohos/releases) | 在 HarmonyOS Next 上的另一个 Sunshine 客户端实现。 | 2025-04-03 |
-| [云享社](https://github.com/Edge-Music/Core) | [Link](https://github.com/Edge-Music/Core/releases) | 一个在鸿蒙NEXT上，可连接多个音乐平台和私有数据源的统一音乐播放器。 | 2025-01-01 |
 
 ### 鸿蒙手机/平板
 
@@ -121,8 +121,8 @@
 | [awesome_blbl](https://github.com/Luo-A-Chen/AwesomeResume) | [Link](https://github.com/Luo-A-Chen/AwesomeResume/releases) | 使用鸿蒙flutter3.22版本开发的第三方B站 | 2025-08-02 |
 | [Neon](https://github.com/shokakucarrier/neon-ohos) | [Link](https://github.com/shokakucarrier/neon-ohos/releases) | 一个使用 Flutter 构建融合、跨平台 Nextcloud 客户端的开发框架。 | 2025-07-01 |
 | [LocalSend](https://github.com/Aloereed/localsend-ohos) | [Link](https://github.com/Aloereed/localsend-ohos/releases) | LocalSend鸿蒙NEXT实现，本地网络文件和消息分享工具，无需互联网连接即可安全传输。 | 2025-04-15 |
-| [影视猫](https://github.com/CatPawApp/CatPawOpen) | [Link](https://github.com/CatPawApp/CatPawOpen/releases) | 影视猫，与 TVBox 类似的聚合类影视播放工具，靠配置接口拉取第三方视频源。 | 2025-01-15 |
-| [宝可梦图鉴](https://github.com/Luxcis/Pokedex_Next) | [Link](https://github.com/Luxcis/Pokedex_Next/releases) | 一款用于查询宝可梦、招式及特性详细信息的图鉴应用。 | 2025-01-01 |
+| [影视猫](https://github.com/CatPawApp/CatPawOpen) | [Link](https://github.com/CatPawApp/CatPawOpen/releases) | 影视猫，与 TVBox 类似的聚合类影视播放工具，靠配置接口拉取第三方视频源。 | 2025-01-17 |
+| [宝可梦图鉴](https://github.com/Luxcis/Pokedex_Next) | [Link](https://github.com/Luxcis/Pokedex_Next/releases) | 一款用于查询宝可梦、招式及特性详细信息的图鉴应用。 | 2025-01-07 |
 
 ### 鸿蒙电脑
 
@@ -130,9 +130,9 @@
 | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [Servo](https://github.com/servo/servo) | [Link](https://github.com/servo/servo/releases) | Servo 是一个用 Rust 语言编写的浏览器内核的浏览器 | 08-04 |
 | [VLC播放器](https://github.com/Aloereed/vlc-qt6-ohos) | [Link](https://github.com/Aloereed/vlc-qt6-ohos/releases) | 基于QT移植的VLC播放器 | 08-02 |
+| [Termony](https://github.com/jiegec/Termony) | [Link](https://github.com/jiegec/Termony/releases) | 一款为鸿蒙操作系统提供的终端模拟器，允许用户运行常见的Linux命令和程序。 | 07-07 |
 | [aria2](https://github.com/SwimmingTiger/aria2-ohos) | [Link](https://github.com/SwimmingTiger/aria2-ohos/releases) | 一个能在鸿蒙PC上通过命令行使用的Aria2下载工具。 | 01-20 |
 | [Harmonix](https://github.com/hackeris/Harmonix) | [Link](https://github.com/hackeris/Harmonix/releases) | 一个能在鸿蒙PC上运行 aarch64/x86_64/riscv64 Linux 程序的终端 | 2025-08-30 |
-| [Termony](https://github.com/jiegec/Termony) | [Link](https://github.com/jiegec/Termony/releases) | 一款为鸿蒙操作系统提供的终端模拟器，允许用户运行常见的Linux命令和程序。 | 2025-01-01 |
 
 ### 反馈
 
