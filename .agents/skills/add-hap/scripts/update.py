@@ -99,11 +99,28 @@ def update(section_title: str) -> list:
 
 
 def report(updated_apps: list):
-    apps_str = ", ".join(app.split("(")[0][1:-1] for app in updated_apps)
+    """通过 MeoW Push API 推送更新通知，失败不阻断主流程。"""
+    apps = [app.split("(")[0][1:-1] for app in updated_apps]
+    apps_str = ", ".join(apps)
+
+    msg = f"本次更新 {len(apps)} 个应用：{apps_str}，点击查看详情"
+
     try:
-        api_url = f"https://api.chuckfang.com/github/GitHub更新{apps_str}?url=https://github.com/Zitann/HarmonyOS-Haps"
-        requests.get(api_url, timeout=5)
-        print(f"已通知API: 有软件更新，更新应用: {apps_str}")
+        resp = requests.post(
+            "https://api.chuckfang.com/github",
+            json={
+                "title": "HarmonyOS-Haps更新",
+                "msg": msg,
+                "url": "https://github.com/Zitann/HarmonyOS-Haps",
+                "imgUrl": "https://cdn.nlark.com/yuque/0/2026/svg/39012018/1786611479438-8b896944-d79f-451c-9f90-1d4709b88af8.svg",
+            },
+            timeout=5,
+        )
+        data = resp.json()
+        if resp.status_code == 200 and data.get("status") == 200:
+            print(f"已推送更新通知，更新应用: {apps_str}")
+        else:
+            print(f"通知API返回异常: {resp.status_code} {data}")
     except Exception as e:
         print(f"通知API失败: {e}")
 
