@@ -9,7 +9,7 @@ from common import (
     read_table,
     write_table,
     split_row,
-    get_remote_time,
+    get_project_time,
     format_display_time,
     parse_old_time_str,
     SKIP_STATES,
@@ -46,8 +46,11 @@ def add_project(repo_url: str, name: str, desc: str, platform: str) -> bool:
     print(f"项目名称: {name}")
     print(f"项目描述: {desc}")
 
-    latest_dt = get_remote_time(f"{repo_url}/releases")
-    latest_time = format_display_time(latest_dt) or "无release"
+    latest_dt = get_project_time(repo_url)
+    latest_time = format_display_time(latest_dt)
+    if not latest_time:
+        print("警告: 未能获取 release 或 commit 时间")
+        latest_time = "无release"
     print(f"最新发布时间: {latest_time}")
 
     with open(README_PATH, "r", encoding="utf-8") as f:

@@ -56,7 +56,7 @@
 
 | 软件     | 下载链接            | 描述                                                         | 更新                                                 |
 | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [Gramony](https://github.com/Gramony/Gramony) | [Link](https://t.me/GramonyApp) | 第三方✈鸿蒙版，下载地址为✈群组 | 更新中 |
+| [Gramony](https://github.com/Gramony/Gramony) | [Link](https://t.me/GramonyApp) | 第三方✈鸿蒙版，下载地址为✈群组 | 2025-01-01 |
 | [PiliPlus](https://github.com/dev4harmony/PiliPlus) | [Link](https://github.com/dev4harmony/PiliPlus/releases) | BiliBili第三方客户端 | 08-10 |
 | [FlClash](https://github.com/tljk/FlClash-ohos) | [Link](https://github.com/tljk/FlClash-ohos/releases) | 基于ClashMeta的多平台代理客户端。 | 08-09 |
 | [Kazumi](https://github.com/ErBWs/Kazumi) | [Link](https://github.com/ErBWs/Kazumi/releases) | 一款基于自定义规则来采集番剧资源，并支持 Anime4K 实时超分辨率的在线观看应用。 | 08-08 |
@@ -90,7 +90,7 @@
 | [JellyFin](https://github.com/chashaochang/JellyFin_HarmonyOS) | [Link](https://github.com/chashaochang/JellyFin_HarmonyOS/releases) | 非官方的 Jellyfin 客户端，将 Jellyfin 的体验带到鸿蒙设备上，能让你随心所欲地控制、管理和流媒体你的媒体资源。 | 2025-08-02 |
 | [流心视频](https://github.com/Yebingiscn/SweetVideo) | [Link](https://github.com/Yebingiscn/SweetVideo/releases) | 一款运行在HarmonyOS Next上的原生视频播放器，支持播放多种视频、音频及字幕格式。基于开源项目[流心视频](https://gitee.com/lqsxy/sweetvideo/tree/master)二次开发 | 2025-07-31 |
 | [Moonlight](https://gitee.com/smdsbz/moonlight-ohos) | [Link](https://gitee.com/smdsbz/moonlight-ohos/releases) | 在 HarmonyOS Next 上的另一个 Sunshine 客户端实现。 | 2025-04-03 |
-| [云享社](https://github.com/Edge-Music/Core) | [Link](https://github.com/Edge-Music/Core/releases) | 一个在鸿蒙NEXT上，可连接多个音乐平台和私有数据源的统一音乐播放器。 | 闭源 |
+| [云享社](https://github.com/Edge-Music/Core) | [Link](https://github.com/Edge-Music/Core/releases) | 一个在鸿蒙NEXT上，可连接多个音乐平台和私有数据源的统一音乐播放器。 | 2025-01-01 |
 
 ### 鸿蒙手机/平板
 
@@ -122,9 +122,7 @@
 | [Neon](https://github.com/shokakucarrier/neon-ohos) | [Link](https://github.com/shokakucarrier/neon-ohos/releases) | 一个使用 Flutter 构建融合、跨平台 Nextcloud 客户端的开发框架。 | 2025-07-01 |
 | [LocalSend](https://github.com/Aloereed/localsend-ohos) | [Link](https://github.com/Aloereed/localsend-ohos/releases) | LocalSend鸿蒙NEXT实现，本地网络文件和消息分享工具，无需互联网连接即可安全传输。 | 2025-04-15 |
 | [影视猫](https://github.com/CatPawApp/CatPawOpen) | [Link](https://github.com/CatPawApp/CatPawOpen/releases) | 影视猫，与 TVBox 类似的聚合类影视播放工具，靠配置接口拉取第三方视频源。 | 2025-01-15 |
-| [RetroArch](https://github.com/likuai2010/auto-installer/releases/tag/0.0.0) | [Link](https://github.com/likuai2010/auto-installer/releases/download/0.0.0/RetroArch-default-unsigned.hap) | 一款能够在多种设备上流畅运行PSP游戏的高性能开源模拟器。 | 已归档 |
-| [ppsspp](https://github.com/likuai2010/auto-installer/releases/tag/0.0.0) | [Link](https://github.com/likuai2010/auto-installer/releases/download/0.0.0/ppsspp-default-unsigned.hap) | 一个能够让你在多种设备上运行大量经典游戏的多功能模拟器前端。 | 已归档 |
-| [宝可梦图鉴](https://github.com/Luxcis/Pokedex_Next) | [Link](https://github.com/Luxcis/Pokedex_Next/releases) | 一款用于查询宝可梦、招式及特性详细信息的图鉴应用。 | 已归档 |
+| [宝可梦图鉴](https://github.com/Luxcis/Pokedex_Next) | [Link](https://github.com/Luxcis/Pokedex_Next/releases) | 一款用于查询宝可梦、招式及特性详细信息的图鉴应用。 | 2025-01-01 |
 
 ### 鸿蒙电脑
 
@@ -134,7 +132,7 @@
 | [VLC播放器](https://github.com/Aloereed/vlc-qt6-ohos) | [Link](https://github.com/Aloereed/vlc-qt6-ohos/releases) | 基于QT移植的VLC播放器 | 08-02 |
 | [aria2](https://github.com/SwimmingTiger/aria2-ohos) | [Link](https://github.com/SwimmingTiger/aria2-ohos/releases) | 一个能在鸿蒙PC上通过命令行使用的Aria2下载工具。 | 01-20 |
 | [Harmonix](https://github.com/hackeris/Harmonix) | [Link](https://github.com/hackeris/Harmonix/releases) | 一个能在鸿蒙PC上运行 aarch64/x86_64/riscv64 Linux 程序的终端 | 2025-08-30 |
-| [Termony](https://github.com/jiegec/Termony) | [Link](https://github.com/jiegec/Termony/releases) | 一款为鸿蒙操作系统提供的终端模拟器，允许用户运行常见的Linux命令和程序。 | 无release |
+| [Termony](https://github.com/jiegec/Termony) | [Link](https://github.com/jiegec/Termony/releases) | 一款为鸿蒙操作系统提供的终端模拟器，允许用户运行常见的Linux命令和程序。 | 2025-01-01 |
 
 ### 反馈
 

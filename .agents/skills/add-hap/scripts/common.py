@@ -28,7 +28,7 @@ SVG_PATH = os.path.join(ROOT_DIR, "assets", "contributers.svg")
 UA_HEADERS = {"User-Agent": "update-readme-script"}
 
 # README 时间列中无需联网查询的特殊状态
-SKIP_STATES = ("已归档", "更新中", "闭源", "无release")
+SKIP_STATES = ("已归档",)
 
 
 def http_get(url: str, headers: dict = None, timeout: int = 15, retries: int = 3):
@@ -163,6 +163,49 @@ def get_remote_time(url: str):
         return None
     print(f"不支持的链接: {url}")
     return None
+
+
+def get_latest_commit_time(repo_url: str):
+    """获取默认分支最新 commit 时间，用于无 release 的项目。"""
+    if "github.com" in repo_url:
+        m = re.search(r"github\.com/([^/]+/[^/]+)", repo_url)
+        if not m:
+            return None
+        api = f"https://api.github.com/repos/{m.group(1)}/commits?per_page=1"
+        resp = http_get(api, headers=github_headers())
+        if resp is None or resp.status_code != 200:
+            return None
+        data = resp.json()
+        if data:
+            return datetime.strptime(
+                data[0]["commit"]["committer"]["date"], "%Y-%m-%dT%H:%M:%SZ"
+            )
+        return None
+    if "gitee.com" in repo_url:
+        m = re.search(r"gitee\.com/([^/]+/[^/]+)", repo_url)
+        if not m:
+            return None
+        api = f"https://gitee.com/api/v5/repos/{m.group(1)}/commits?per_page=1"
+        resp = http_get(api)
+        if resp is None or resp.status_code != 200:
+            return None
+        data = resp.json()
+        if data:
+            return normalize_dt(
+                datetime.strptime(
+                    data[0]["commit"]["committer"]["date"], "%Y-%m-%dT%H:%M:%S%z"
+                )
+            )
+        return None
+    return None
+
+
+def get_project_time(repo_url: str):
+    """优先取最新 release 时间，无 release 时取默认分支最新 commit 时间。"""
+    t = get_remote_time(f"{repo_url}/releases")
+    if t is not None:
+        return t
+    return get_latest_commit_time(repo_url)
 
 
 def read_table(content: str, section_title: str):

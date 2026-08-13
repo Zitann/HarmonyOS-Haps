@@ -3,6 +3,7 @@
 #   "requests",
 # ]
 # ///
+import re
 from datetime import datetime
 from dataclasses import dataclass
 
@@ -13,9 +14,9 @@ from common import (
     write_table,
     split_row,
     get_remote_time,
+    get_latest_commit_time,
     format_display_time,
     parse_old_time_str,
-    SKIP_STATES,
     README_PATH,
 )
 
@@ -30,9 +31,7 @@ class Item:
 
 
 def sort_key(item: Item):
-    """“更新中”置顶，“已归档/闭源/无release”沉底，其余按日期倒序。"""
-    if item.time == "更新中":
-        return datetime.max
+    """有时间按日期倒序，已归档及无法获取时间的沉底。"""
     if item.time_dt:
         return item.time_dt
     return datetime.min
@@ -56,15 +55,23 @@ def update(section_title: str) -> list:
             continue
         item = Item(name=cols[0], url=cols[1], desc=cols[2], time=cols[3])
 
-        if item.time in SKIP_STATES:
-            print(f"项目: {item.name}，{item.time}，跳过")
+        if item.time == "已归档":
+            print(f"项目: {item.name}，已归档，跳过")
         else:
             old_dt = parse_old_time_str(item.time)
             link = item.url.removeprefix("[Link](").removesuffix(")")
             latest = get_remote_time(link)
+            source = "release"
+            if latest is None:
+                # 无 release 时，用仓库默认分支最新 commit 时间兜底
+                m = re.search(r"\(([^)]+)\)", item.name)
+                latest = (
+                    get_latest_commit_time(m.group(1)) if m else None
+                )
+                source = "commit"
             print(
                 f"项目: {item.name.split('(')[0].strip()}，原时间: {item.time}，"
-                f"最新发布时间: {format_display_time(latest) if latest else '无'}"
+                f"最新{source}时间: {format_display_time(latest) if latest else '无'}"
             )
             if latest and (old_dt is None or latest.date() != old_dt.date()):
                 item.time_dt = latest
@@ -77,8 +84,8 @@ def update(section_title: str) -> list:
 
     new_lines = []
     for it in items:
-        if it.time in SKIP_STATES:
-            disp = it.time
+        if it.time == "已归档":
+            disp = "已归档"
         else:
             disp = format_display_time(it.time_dt) if it.time_dt else it.time
         new_lines.append(f"| {it.name} | {it.url} | {it.desc} | {disp} |")
