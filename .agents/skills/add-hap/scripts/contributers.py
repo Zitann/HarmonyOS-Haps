@@ -5,16 +5,9 @@
 # ///
 import os
 import re
-import requests
-import base64
 import sys
-from time import sleep
 
-ROOT_DIR = os.path.dirname(
-    os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(__file__))))
-)
-CONTRIBUTERS_PATH = os.path.join(ROOT_DIR, "CONTRIBUTING.md")
-SVG_PATH = os.path.join(ROOT_DIR, "assets", "contributers.svg")
+from common import CONTRIBUTERS_PATH, SVG_PATH, fetch_avatar
 
 
 class Contributer:
@@ -23,73 +16,17 @@ class Contributer:
     image: str
 
 
-def get_github_avatar_base64(url: str) -> str:
-    token = os.environ.get("GITHUB_TOKEN")
-    headers = {
-        "Accept": "application/vnd.github.v3+json",
-        "Authorization": f"Bearer {token}",
-    }
-    info_url = url.replace("https://github.com/", "https://api.github.com/users/")
-    response = requests.get(info_url, headers=headers, timeout=15)
-    if response.status_code == 200:
-        avatar_url = response.json().get("avatar_url", "")
-        if avatar_url:
-            img_response = requests.get(avatar_url, timeout=15)
-            if img_response.status_code == 200:
-                return "data:image/png;base64," + base64.b64encode(
-                    img_response.content
-                ).decode("utf-8")
-        return ""
-    return ""
-
-
-def get_gitee_avatar_base64(url: str) -> str:
-    headers = {"User-Agent": "update-readme-script"}
-    info_url = url.replace("https://gitee.com/", "https://gitee.com/api/v5/users/")
-    response = requests.get(info_url, headers=headers, timeout=15)
-    if response.status_code == 200:
-        avatar_url = response.json().get("avatar_url", "")
-        if avatar_url:
-            img_response = requests.get(avatar_url, timeout=15)
-            if img_response.status_code == 200:
-                return "data:image/png;base64," + base64.b64encode(
-                    img_response.content
-                ).decode("utf-8")
-        return ""
-    return ""
-
-
-def get_atomgit_avatar_base64(url: str) -> str:
-    headers = {"User-Agent": "update-readme-script"}
-    info_url = url.replace(
-        "https://atomgit.com/", "https://atomgit.com/api/user/v1/un/detail?path="
-    )
-    response = requests.get(info_url, headers=headers, timeout=15)
-    if response.status_code == 200:
-        avatar_url = "https://file.atomgit.com/" + response.json().get("photo", "")
-        if avatar_url:
-            img_response = requests.get(avatar_url, timeout=15)
-            if img_response.status_code == 200:
-                return "data:image/png;base64," + base64.b64encode(
-                    img_response.content
-                ).decode("utf-8")
-        return ""
-    return ""
-
-
-def get_contributers():
+def get_contributers() -> list:
+    """解析 CONTRIBUTING.md 中的作者列表，返回 (显示名, 主页链接) 列表。"""
     with open(CONTRIBUTERS_PATH, "r", encoding="utf-8") as f:
         content = f.read()
-
-    # 匹配所有作者链接
-    matches = re.findall(
+    return re.findall(
         r"- \[([^\]]+)\]\((https?://(?:github|gitee|atomgit)\.com/[^)]+)\)", content
     )
-    return matches
 
 
 def get_existing_svg_images() -> dict:
-    """从现有 SVG 中提取已缓存的用户头像，键为主页链接"""
+    """从现有 SVG 中提取已缓存的用户头像，键为主页链接。"""
     if not os.path.exists(SVG_PATH):
         return {}
     with open(SVG_PATH, "r", encoding="utf-8") as f:
@@ -98,41 +35,28 @@ def get_existing_svg_images() -> dict:
         r'<a href="([^"]+)"[^>]*><image[^>]*href="([^"]*)"[^>]*><title>([^<]*)</title>',
         content,
     )
-    return {
-        url: image for url, image, _ in matches if image.startswith("data:image")
-    }
+    return {url: image for url, image, _ in matches if image.startswith("data:image")}
 
 
-def get_contributer_info(contributers):
+def get_contributer_info(contributers: list) -> list:
+    """组装作者信息与头像；已存在于 SVG 中的用户复用缓存，只下载新增用户。"""
     cached_images = get_existing_svg_images()
     contributers_info = []
     for name, url in contributers:
         contributer = Contributer()
         contributer.name = name
         contributer.url = url
-        # 已存在于 SVG 中的用户直接复用缓存头像，只下载新增用户
         if url in cached_images:
             print(f"作者: {name}, 主页: {url} (使用缓存)")
             contributer.image = cached_images[url]
-            contributers_info.append(contributer)
-            continue
-        print(f"作者: {name}, 主页: {url} (下载头像)")
-        while True:
-            try:
-                if "github.com" in url:
-                    contributer.image = get_github_avatar_base64(url)
-                elif "gitee.com" in url:
-                    contributer.image = get_gitee_avatar_base64(url)
-                elif "atomgit.com" in url:
-                    contributer.image = get_atomgit_avatar_base64(url)
-                break
-            except requests.RequestException:
-                sleep(5)
+        else:
+            print(f"作者: {name}, 主页: {url} (下载头像)")
+            contributer.image = fetch_avatar(url)
         contributers_info.append(contributer)
     return contributers_info
 
 
-def generate_svg(contributers_info):
+def generate_svg(contributers_info: list) -> str:
     size = 64  # 头像尺寸
     gap = 16  # 间距
     cols = 8  # 每行数量
@@ -143,7 +67,6 @@ def generate_svg(contributers_info):
     svg = [
         f'<svg width="{width}" height="{height}" xmlns="http://www.w3.org/2000/svg">'
     ]
-
     for idx, contributer in enumerate(contributers_info):
         x = gap + (idx % cols) * (size + gap)
         y = gap + (idx // cols) * (size + gap)
@@ -153,12 +76,12 @@ def generate_svg(contributers_info):
             f'<image x="{x}" y="{y}" width="{size}" height="{size}" href="{contributer.image}">'
             f"<title>{contributer.name}</title></image></a>"
         )
-
     svg.append("</svg>")
     return "\n".join(svg)
 
 
 def add_contributer(name: str, url: str):
+    """向 CONTRIBUTING.md 添加作者并按显示名排序。"""
     contributers = get_contributers()
     contributers.append((name, url))
     contributers.sort(key=lambda x: x[0])
@@ -169,16 +92,8 @@ def add_contributer(name: str, url: str):
 
 if __name__ == "__main__":
     if len(sys.argv) == 3:
-        name = sys.argv[1]
-        url = sys.argv[2]
-        add_contributer(name, url)
-        print(f"已添加作者: {name}, 主页: {url}")
-    contributers = get_contributers()
-    contributers_info = get_contributer_info(contributers)
-    svg_code = generate_svg(contributers_info)
-    with open(
-        SVG_PATH,
-        "w",
-        encoding="utf-8",
-    ) as f:
-        f.write(svg_code)
+        add_contributer(sys.argv[1], sys.argv[2])
+        print(f"已添加作者: {sys.argv[1]}, 主页: {sys.argv[2]}")
+    contributers_info = get_contributer_info(get_contributers())
+    with open(SVG_PATH, "w", encoding="utf-8") as f:
+        f.write(generate_svg(contributers_info))
