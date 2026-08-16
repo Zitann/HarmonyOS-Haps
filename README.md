@@ -56,13 +56,13 @@
 
 | 软件     | 下载链接            | 描述                                                         | 更新                                                 |
 | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [WineHua](https://github.com/winehua/WineHua) | [Link](https://github.com/winehua/WineHua/releases) | 在 HarmonyOS 上运行 Windows 程序 | 08-15 |
 | [FlClash](https://github.com/tljk/FlClash-ohos) | [Link](https://github.com/tljk/FlClash-ohos/releases) | 基于ClashMeta的多平台代理客户端。 | 08-15 |
 | [Kazumi](https://github.com/ErBWs/Kazumi) | [Link](https://github.com/ErBWs/Kazumi/releases) | 一款基于自定义规则来采集番剧资源，并支持 Anime4K 实时超分辨率的在线观看应用。 | 08-15 |
 | [PiliPlus](https://github.com/dev4harmony/PiliPlus) | [Link](https://github.com/dev4harmony/PiliPlus/releases) | BiliBili第三方客户端 | 08-10 |
 | [amcl](https://github.com/LZZLHY/amcl) | [Link](https://github.com/LZZLHY/amcl/releases) | 鸿蒙版全量Java版我的世界启动器 | 08-08 |
 | [YourPipe](https://github.com/Ember5843/YourPipe) | [Link](https://github.com/Ember5843/YourPipe/releases) | 基于NewPipe Extractor的鸿蒙YouTube客户端 | 08-06 |
 | [冲浪喵](https://github.com/awaLiny2333/LinysBrowser_NEXT) | [Link](https://github.com/awaLiny2333/LinysBrowser_NEXT/releases) | 一款为鸿蒙NEXT开发的、轻量化的网页浏览器。 | 08-05 |
-| [WineHua](https://github.com/winehua/WineHua) | [Link](https://github.com/winehua/WineHua/releases) | 在 HarmonyOS 上运行 Windows 程序 | 08-04 |
 | [PiliPlus](https://github.com/qinshah/PiliPlus) | [Link](https://github.com/qinshah/PiliPlus/releases) | BiliBili第三方客户端 | 08-03 |
 | [S1-Orange](https://github.com/wly5556/S1-Orange) | [Link](https://github.com/wly5556/S1-Orange/releases/) | 一款专为鸿蒙Next平台开发的 stage1st.com 论坛移动客户端。 | 08-03 |
 | [OTP Token](https://github.com/SolidFaker/ohtotptoken) | [Link](https://github.com/SolidFaker/ohtotptoken/releases) | 一款支持TOTP、HOTP、Steam令牌和Forti令牌的开源双因素认证（2FA）令牌生成器。 | 08-02 |
