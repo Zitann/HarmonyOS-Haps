@@ -56,6 +56,7 @@
 
 | 软件     | 下载链接            | 描述                                                         | 更新                                                 |
 | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [NextN](https://github.com/erosTeam/NextN) | [Link](https://github.com/erosTeam/NextN/releases) | 一款原生 HarmonyOS NEXT 的 nhentai 非官方客户端，支持画廊浏览、搜索、标签翻译与下载。 | 08-20 |
 | [YourPipe](https://github.com/Ember5843/YourPipe) | [Link](https://github.com/Ember5843/YourPipe/releases) | 基于NewPipe Extractor的鸿蒙YouTube客户端 | 08-18 |
 | [WineHua](https://github.com/winehua/WineHua) | [Link](https://github.com/winehua/WineHua/releases) | 在 HarmonyOS 上运行 Windows 程序 | 08-17 |
 | [FlClash](https://github.com/tljk/FlClash-ohos) | [Link](https://github.com/tljk/FlClash-ohos/releases) | 基于ClashMeta的多平台代理客户端。 | 08-15 |
@@ -96,8 +97,10 @@
 
 | 软件     | 下载链接            | 描述                                                         | 更新                                                 |
 | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [Petrelgram](https://github.com/miramira8295/Petrelgram) | [Link](https://github.com/miramira8295/Petrelgram/releases) | 第三方✈鸿蒙版，基于 TDLib 的 Telegram 客户端，支持多账号与音视频通话。 | 08-21 |
 | [Kelivo](https://github.com/Chevey339/kelivo) | [Link](https://github.com/Chevey339/kelivo/releases) | 一个Flutter LLM聊天客户端。支持Android、iOS和Harmony Next。 | 08-20 |
 | [ScrcpyForHarmonyOS](https://github.com/LambdaYH/ScrcpyForHarmonyOS) | [Link](https://github.com/LambdaYH/ScrcpyForHarmonyOS/releases) | 一款运行在 HarmonyOS 上的第三方 scrcpy 客户端，通过网络 ADB 或无线调试连接并控制 Android 设备，支持视频镜像、触控与音频转发。 | 08-18 |
+| [Hey](https://github.com/popsiclelmlm/Hey) | [Link](https://github.com/xiaoli8571/Hey/releases) | 基于 Xray/sing-box 内核的鸿蒙原生代理客户端，安装包由第三方 fork 提供。 | 08-17 |
 | [FMphoto](https://github.com/jonas-pi/FMphoto) | [Link](https://github.com/jonas-pi/FMphoto/releases) | 用于在手机上连接飞牛 NAS，使用相册、网页入口及常见图库能力。 | 08-16 |
 | [PixEz](https://github.com/bgli100/pixez-flutter-ohos) | [Link](https://github.com/bgli100/pixez-flutter-ohos/releases) | 一款支持免代理直连及查看动图的第三方Pixiv flutter客户端 | 08-13 |
 | [Next2V](https://github.com/honjow/Next2V) | [Link](https://github.com/honjow/Next2V/releases) | 一款面向 HarmonyOS 的原生 V2EX 第三方客户端，支持主题浏览、回复发帖、节点发现与搜索。 | 08-09 |
@@ -107,6 +110,7 @@
 | [Karing](https://github.com/ks-lm-kf/harmony-kslmkf-karing-hap) | [Link](https://github.com/ks-lm-kf/harmony-kslmkf-karing-hap/releases) | 一款基于 Karing / sing-box 核心的 HarmonyOS 代理软件，支持多种协议、订阅导入与规则分流。 | 08-02 |
 | [Homowarden](https://github.com/DreamistW/Homowarden) | [Link](https://github.com/DreamistW/Homowarden/releases) | Homowarden 是一款专为 HarmonyOS 打造的密码管理应用，它是跨平台开源密码管理应用 Bitwarden 的鸿蒙平台实现。 | 07-30 |
 | [immich](https://github.com/dgh1818/immich_ohos) | [Link](https://github.com/dgh1818/immich_ohos/releases) | 一款连接 Immich 私人照片和视频备份服务器的鸿蒙客户端，用于在鸿蒙设备上浏览和管理个人媒体库。 | 07-28 |
+| [ArkDO](https://github.com/EnjoySR/ArkDO) | [Link](https://github.com/EnjoySR/ArkDO/releases) | LINUX DO 社区的第三方鸿蒙原生客户端。 | 07-20 |
 | [Pica Comic](https://github.com/nimmi-ai/PicaComic_ohos) | [Link](https://github.com/nimmi-ai/PicaComic_ohos/releases) | 一款使用 Flutter 构建的多源漫画应用。 | 07-07 |
 | [Ohentai](https://github.com/Ibukitofu/Ohentai) | [Link](https://github.com/Ibukitofu/Ohentai/releases) | 一款专为鸿蒙原生开发的 E-Hentai 浏览工具，支持画廊浏览、阅读与标签翻译。 | 06-13 |
 | [刷题宝](https://github.com/xiaomoHM/ShuaTi) | [Link](https://github.com/xiaomoHM/ShuaTi/releases) | 一款离线开源的鸿蒙刷题应用，支持多套试卷导入、顺序/随机练习、错题本与自动评分。 | 06-10 |
