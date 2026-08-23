@@ -56,10 +56,10 @@
 
 | 软件     | 下载链接            | 描述                                                         | 更新                                                 |
 | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [FlClash](https://github.com/tljk/FlClash-ohos) | [Link](https://github.com/tljk/FlClash-ohos/releases) | 基于ClashMeta的多平台代理客户端。 | 08-23 |
+| [WineHua](https://github.com/winehua/WineHua) | [Link](https://github.com/winehua/WineHua/releases) | 在 HarmonyOS 上运行 Windows 程序 | 08-22 |
 | [NextN](https://github.com/erosTeam/NextN) | [Link](https://github.com/erosTeam/NextN/releases) | 一款原生 HarmonyOS NEXT 的 nhentai 非官方客户端，支持画廊浏览、搜索、标签翻译与下载。 | 08-20 |
 | [YourPipe](https://github.com/Ember5843/YourPipe) | [Link](https://github.com/Ember5843/YourPipe/releases) | 基于NewPipe Extractor的鸿蒙YouTube客户端 | 08-18 |
-| [WineHua](https://github.com/winehua/WineHua) | [Link](https://github.com/winehua/WineHua/releases) | 在 HarmonyOS 上运行 Windows 程序 | 08-17 |
-| [FlClash](https://github.com/tljk/FlClash-ohos) | [Link](https://github.com/tljk/FlClash-ohos/releases) | 基于ClashMeta的多平台代理客户端。 | 08-15 |
 | [Kazumi](https://github.com/ErBWs/Kazumi) | [Link](https://github.com/ErBWs/Kazumi/releases) | 一款基于自定义规则来采集番剧资源，并支持 Anime4K 实时超分辨率的在线观看应用。 | 08-15 |
 | [PiliPlus](https://github.com/dev4harmony/PiliPlus) | [Link](https://github.com/dev4harmony/PiliPlus/releases) | BiliBili第三方客户端 | 08-10 |
 | [amcl](https://github.com/LZZLHY/amcl) | [Link](https://github.com/LZZLHY/amcl/releases) | 鸿蒙版全量Java版我的世界启动器 | 08-08 |
