@@ -135,6 +135,7 @@
 | [Servo](https://github.com/servo/servo) | [Link](https://github.com/servo/servo/releases) | Servo 是一个用 Rust 语言编写的浏览器内核的浏览器 | 08-04 |
 | [VLC播放器](https://github.com/Aloereed/vlc-qt6-ohos) | [Link](https://github.com/Aloereed/vlc-qt6-ohos/releases) | 基于QT移植的VLC播放器 | 08-02 |
 | [Termony](https://github.com/jiegec/Termony) | [Link](https://github.com/jiegec/Termony/releases) | 一款为鸿蒙操作系统提供的终端模拟器，允许用户运行常见的Linux命令和程序。 | 07-07 |
+| [OHBittorrent](https://github.com/HanversionOvO/OHBittorrent) | [Link](https://github.com/HanversionOvO/OHBittorrent/releases) | qBittorrent 鸿蒙原生移植版，基于 Qt 6 的桌面级 BT 下载客户端。 | 06-12 |
 | [aria2](https://github.com/SwimmingTiger/aria2-ohos) | [Link](https://github.com/SwimmingTiger/aria2-ohos/releases) | 一个能在鸿蒙PC上通过命令行使用的Aria2下载工具。 | 01-20 |
 | [Harmonix](https://github.com/hackeris/Harmonix) | [Link](https://github.com/hackeris/Harmonix/releases) | 一个能在鸿蒙PC上运行 aarch64/x86_64/riscv64 Linux 程序的终端 | 2025-08-30 |
 
