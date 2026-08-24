@@ -56,6 +56,7 @@
 
 | 软件     | 下载链接            | 描述                                                         | 更新                                                 |
 | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [AniCh](https://github.com/Sle2p/AniCh) | [Link](https://github.com/Sle2p/AniCh/releases) | 一款支持超分辨率的在线动漫弹幕应用，多番剧源、多弹幕、高清无广告，支持离线缓存与追番管理。 | 08-24 |
 | [WineHua](https://github.com/winehua/WineHua) | [Link](https://github.com/winehua/WineHua/releases) | 在 HarmonyOS 上运行 Windows 程序 | 08-23 |
 | [FlClash](https://github.com/tljk/FlClash-ohos) | [Link](https://github.com/tljk/FlClash-ohos/releases) | 基于ClashMeta的多平台代理客户端。 | 08-23 |
 | [NextN](https://github.com/erosTeam/NextN) | [Link](https://github.com/erosTeam/NextN/releases) | 一款原生 HarmonyOS NEXT 的 nhentai 非官方客户端，支持画廊浏览、搜索、标签翻译与下载。 | 08-20 |
@@ -69,7 +70,6 @@
 | [OTP Token](https://github.com/SolidFaker/ohtotptoken) | [Link](https://github.com/SolidFaker/ohtotptoken/releases) | 一款支持TOTP、HOTP、Steam令牌和Forti令牌的开源双因素认证（2FA）令牌生成器。 | 08-02 |
 | [Phira](https://github.com/TeamFlos/phira) | [Link](https://github.com/TeamFlos/phira/releases) | Phira 是一款基于社区的音乐游戏 | 07-30 |
 | [Tailscale](https://github.com/flypigJ/Tailscale-OHOS) | [Link](https://github.com/flypigJ/Tailscale-OHOS/releases) | 一款零配置的组网工具，让你的设备安全地互联。 | 07-16 |
-| [AniCh](https://github.com/Sle2p/AniCh) | [Link](https://github.com/Sle2p/AniCh/releases) | 一款支持超分辨率的在线动漫弹幕应用，多番剧源、多弹幕、高清无广告，支持离线缓存与追番管理。 | 07-15 |
 | [JMComic](https://github.com/YuanChu-Tec/JMComic-HarmonyOS) | [Link](https://github.com/YuanChu-Tec/JMComic-HarmonyOS/releases) | 漫画阅读工具 | 07-09 |
 | [Wpixelgram](https://github.com/1055235342/Wpixelgram-for-HarmonyOS) | [Link](https://github.com/1055235342/Wpixelgram-for-HarmonyOS/releases) | 第三方✈鸿蒙版Wpixelgram | 07-03 |
 | [Melotopia](https://github.com/Chenlvin/Melotopia-HMOS) | [Link](https://github.com/Chenlvin/Melotopia-HMOS/releases) | ✨ 鸿蒙原生音乐播放器｜🚀 全场景设备适配 本项目为第三方应用, 应用本身不提供在线服务, 仅提供UI界面 | 07-02 |
@@ -97,9 +97,9 @@
 
 | 软件     | 下载链接            | 描述                                                         | 更新                                                 |
 | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [Petrelgram](https://github.com/miramira8295/Petrelgram) | [Link](https://github.com/miramira8295/Petrelgram/releases) | 第三方✈鸿蒙版，基于 TDLib 的 Telegram 客户端，支持多账号与音视频通话。 | 08-24 |
 | [开源阅读](https://github.com/mgz0227/legado-Harmony) | [Link](https://github.com/mgz0227/legado-Harmony/releases) | 一款支持自定义书源规则，可抓取任意网页内容进行阅读的开源应用。 | 08-23 |
 | [FMphoto](https://github.com/jonas-pi/FMphoto) | [Link](https://github.com/jonas-pi/FMphoto/releases) | 用于在手机上连接飞牛 NAS，使用相册、网页入口及常见图库能力。 | 08-22 |
-| [Petrelgram](https://github.com/miramira8295/Petrelgram) | [Link](https://github.com/miramira8295/Petrelgram/releases) | 第三方✈鸿蒙版，基于 TDLib 的 Telegram 客户端，支持多账号与音视频通话。 | 08-22 |
 | [NextE](https://github.com/erosTeam/NextE) | [Link](https://github.com/erosTeam/NextE/releases) | 一款原生 HarmonyOS NEXT 的 E-Hentai / ExHentai 客户端，支持画廊浏览、多种布局阅读、标签翻译、下载队列及 WebDAV 云同步。 | 08-20 |
 | [Kelivo](https://github.com/Chevey339/kelivo) | [Link](https://github.com/Chevey339/kelivo/releases) | 一个Flutter LLM聊天客户端。支持Android、iOS和Harmony Next。 | 08-20 |
 | [ScrcpyForHarmonyOS](https://github.com/LambdaYH/ScrcpyForHarmonyOS) | [Link](https://github.com/LambdaYH/ScrcpyForHarmonyOS/releases) | 一款运行在 HarmonyOS 上的第三方 scrcpy 客户端，通过网络 ADB 或无线调试连接并控制 Android 设备，支持视频镜像、触控与音频转发。 | 08-18 |
