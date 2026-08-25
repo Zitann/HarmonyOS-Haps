@@ -24,6 +24,7 @@
 - [Servo](https://github.com/servo)
 - [Sle2p](https://github.com/Sle2p)
 - [SolidFaker](https://github.com/SolidFaker)
+- [StarHeartY](https://github.com/StarHeartY)
 - [SummerKaze](https://github.com/SummerKaze)
 - [SwimmingTiger](https://github.com/SwimmingTiger)
 - [TeamFlos](https://github.com/TeamFlos)

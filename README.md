@@ -98,6 +98,7 @@
 | 软件     | 下载链接            | 描述                                                         | 更新                                                 |
 | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [Petrelgram](https://github.com/miramira8295/Petrelgram) | [Link](https://github.com/miramira8295/Petrelgram/releases) | 第三方✈鸿蒙版，基于 TDLib 的 Telegram 客户端，支持多账号与音视频通话。 | 08-24 |
+| [CalculatorX](https://github.com/StarHeartY/CalculatorX) | [Link](https://github.com/StarHeartY/CalculatorX/releases) | 一款支持符号计算、微积分、矩阵、方程求解与函数图像的原生科学计算器。 | 08-23 |
 | [开源阅读](https://github.com/mgz0227/legado-Harmony) | [Link](https://github.com/mgz0227/legado-Harmony/releases) | 一款支持自定义书源规则，可抓取任意网页内容进行阅读的开源应用。 | 08-23 |
 | [FMphoto](https://github.com/jonas-pi/FMphoto) | [Link](https://github.com/jonas-pi/FMphoto/releases) | 用于在手机上连接飞牛 NAS，使用相册、网页入口及常见图库能力。 | 08-22 |
 | [NextE](https://github.com/erosTeam/NextE) | [Link](https://github.com/erosTeam/NextE/releases) | 一款原生 HarmonyOS NEXT 的 E-Hentai / ExHentai 客户端，支持画廊浏览、多种布局阅读、标签翻译、下载队列及 WebDAV 云同步。 | 08-20 |
