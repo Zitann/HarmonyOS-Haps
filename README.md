@@ -97,6 +97,7 @@
 
 | 软件     | 下载链接            | 描述                                                         | 更新                                                 |
 | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [存好](https://github.com/xiaobingtech/SaveAny) | [Link](https://github.com/xiaobingtech/SaveAny/releases/) | 一款存储社交平台内容的应用。 | 08-30 |
 | [开源阅读](https://github.com/mgz0227/legado-Harmony) | [Link](https://github.com/mgz0227/legado-Harmony/releases) | 一款支持自定义书源规则，可抓取任意网页内容进行阅读的开源应用。 | 08-29 |
 | [CalculatorX](https://github.com/StarHeartY/CalculatorX) | [Link](https://github.com/StarHeartY/CalculatorX/releases) | 一款支持符号计算、微积分、矩阵、方程求解与函数图像的原生科学计算器。 | 08-29 |
 | [FMphoto](https://github.com/jonas-pi/FMphoto) | [Link](https://github.com/jonas-pi/FMphoto/releases) | 用于在手机上连接飞牛 NAS，使用相册、网页入口及常见图库能力。 | 08-28 |
