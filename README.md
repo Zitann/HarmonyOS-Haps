@@ -98,6 +98,7 @@
 | 软件     | 下载链接            | 描述                                                         | 更新                                                 |
 | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [存好](https://github.com/xiaobingtech/SaveAny) | [Link](https://github.com/xiaobingtech/SaveAny/releases/) | 一款存储社交平台内容的应用。 | 08-30 |
+| [Pica Comic](https://github.com/nimmi-ai/PicaComic_ohos) | [Link](https://github.com/nimmi-ai/PicaComic_ohos/releases) | 一款使用 Flutter 构建的多源漫画应用。 | 08-29 |
 | [开源阅读](https://github.com/mgz0227/legado-Harmony) | [Link](https://github.com/mgz0227/legado-Harmony/releases) | 一款支持自定义书源规则，可抓取任意网页内容进行阅读的开源应用。 | 08-29 |
 | [CalculatorX](https://github.com/StarHeartY/CalculatorX) | [Link](https://github.com/StarHeartY/CalculatorX/releases) | 一款支持符号计算、微积分、矩阵、方程求解与函数图像的原生科学计算器。 | 08-29 |
 | [FMphoto](https://github.com/jonas-pi/FMphoto) | [Link](https://github.com/jonas-pi/FMphoto/releases) | 用于在手机上连接飞牛 NAS，使用相册、网页入口及常见图库能力。 | 08-28 |
@@ -114,7 +115,6 @@
 | [Karing](https://github.com/ks-lm-kf/harmony-kslmkf-karing-hap) | [Link](https://github.com/ks-lm-kf/harmony-kslmkf-karing-hap/releases) | 一款基于 Karing / sing-box 核心的 HarmonyOS 代理软件，支持多种协议、订阅导入与规则分流。 | 08-02 |
 | [Homowarden](https://github.com/DreamistW/Homowarden) | [Link](https://github.com/DreamistW/Homowarden/releases) | Homowarden 是一款专为 HarmonyOS 打造的密码管理应用，它是跨平台开源密码管理应用 Bitwarden 的鸿蒙平台实现。 | 07-30 |
 | [immich](https://github.com/dgh1818/immich_ohos) | [Link](https://github.com/dgh1818/immich_ohos/releases) | 一款连接 Immich 私人照片和视频备份服务器的鸿蒙客户端，用于在鸿蒙设备上浏览和管理个人媒体库。 | 07-28 |
-| [Pica Comic](https://github.com/nimmi-ai/PicaComic_ohos) | [Link](https://github.com/nimmi-ai/PicaComic_ohos/releases) | 一款使用 Flutter 构建的多源漫画应用。 | 07-07 |
 | [Ohentai](https://github.com/Ibukitofu/Ohentai) | [Link](https://github.com/Ibukitofu/Ohentai/releases) | 一款专为鸿蒙原生开发的 E-Hentai 浏览工具，支持画廊浏览、阅读与标签翻译。 | 06-13 |
 | [刷题宝](https://github.com/xiaomoHM/ShuaTi) | [Link](https://github.com/xiaomoHM/ShuaTi/releases) | 一款离线开源的鸿蒙刷题应用，支持多套试卷导入、顺序/随机练习、错题本与自动评分。 | 06-10 |
 | [轻阅读](https://github.com/autobcb/read) | [Link](https://github.com/autobcb/read/releases) | 一款可通过自部署服务端，在手机、平板等多种设备上同步阅读进度的开源阅读应用。 | 05-14 |
