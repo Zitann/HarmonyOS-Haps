@@ -62,6 +62,7 @@
 - [smdsbz](https://gitee.com/smdsbz)
 - [wly5556](https://github.com/wly5556)
 - [wpixel](https://github.com/1055235342)
+- [xiaobingtech](https://github.com/xiaobingtech)
 - [xiaoli8571](https://github.com/xiaoli8571)
 - [yabi-zzh](https://github.com/yabi-zzh)
 - [систем](https://github.com/cnctem)
