@@ -43,6 +43,7 @@
 - [dev4harmony](https://github.com/dev4harmony)
 - [dgh1818](https://github.com/dgh1818)
 - [erosTeam](https://github.com/erosTeam)
+- [fe-spark](https://github.com/fe-spark)
 - [hackeris](https://github.com/hackeris)
 - [honjow](https://github.com/honjow)
 - [iMerryou](https://github.com/Merryou6)
