@@ -66,6 +66,7 @@
 - [xiaobingtech](https://github.com/xiaobingtech)
 - [xiaoli8571](https://github.com/xiaoli8571)
 - [yabi-zzh](https://github.com/yabi-zzh)
+- [zhuoyi233](https://github.com/zhuoyi233)
 - [систем](https://github.com/cnctem)
 - [云享社](https://github.com/Edge-Music)
 - [𝓡𝓸𝓼𝓮𝓶𝓪𝓻𝔂](https://github.com/137458)

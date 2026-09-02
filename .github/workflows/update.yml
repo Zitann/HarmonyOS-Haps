@@ -1,4 +1,4 @@
-name: Update README
+name: Update
 on:
   push:
     branches:
@@ -9,8 +9,6 @@ on:
   schedule:
     - cron: "0 14 * * *"
   workflow_dispatch:
-  repository_dispatch:
-    types: [update-readme]
 
 jobs:
   build:

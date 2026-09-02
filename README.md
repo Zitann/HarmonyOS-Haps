@@ -58,6 +58,7 @@
 | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [NextN](https://github.com/erosTeam/NextN) | [Link](https://github.com/erosTeam/NextN/releases) | 一款原生 HarmonyOS NEXT 的 nhentai 非官方客户端，支持画廊浏览、搜索、标签翻译与下载。 | 09-01 |
 | [WineHua](https://github.com/winehua/WineHua) | [Link](https://github.com/winehua/WineHua/releases) | 在 HarmonyOS 上运行 Windows 程序 | 09-01 |
+| [Zhihu++](https://github.com/zhuoyi233/zhihu-plus-plus-HMOS) | [Link](https://github.com/zhuoyi233/zhihu-plus-plus-HMOS/releases) | Zhihu++ 鸿蒙原生版，注重隐私与去广告的知乎客户端。 | 08-31 |
 | [Melotopia](https://github.com/Chenlvin/Melotopia-HMOS) | [Link](https://github.com/Chenlvin/Melotopia-HMOS/releases) | ✨ 鸿蒙原生音乐播放器｜🚀 全场景设备适配 本项目为第三方应用, 应用本身不提供在线服务, 仅提供UI界面 | 08-31 |
 | [PiliPlusX](https://github.com/cnctem/PiliPlusX) | [Link](https://github.com/cnctem/PiliPlusX/releases) | PiliPlusX | 08-31 |
 | [冲浪喵](https://github.com/awaLiny2333/LinysBrowser_NEXT) | [Link](https://github.com/awaLiny2333/LinysBrowser_NEXT/releases) | 一款为鸿蒙NEXT开发的、轻量化的网页浏览器。 | 08-30 |
@@ -102,6 +103,7 @@
 | [NextE](https://github.com/erosTeam/NextE) | [Link](https://github.com/erosTeam/NextE/releases) | 一款原生 HarmonyOS NEXT 的 E-Hentai / ExHentai 客户端，支持画廊浏览、多种布局阅读、标签翻译、下载队列及 WebDAV 云同步。 | 09-01 |
 | [Kelivo](https://github.com/Chevey339/kelivo) | [Link](https://github.com/Chevey339/kelivo/releases) | 一个Flutter LLM聊天客户端。支持Android、iOS和Harmony Next。 | 08-31 |
 | [Petrelgram](https://github.com/miramira8295/Petrelgram) | [Link](https://github.com/miramira8295/Petrelgram/releases) | 第三方✈鸿蒙版，基于 TDLib 的 Telegram 客户端，支持多账号与音视频通话。 | 08-31 |
+| [NekoBox4Harmony](https://github.com/xiaoli8571/NekoBox4Harmony) | [Link](https://github.com/xiaoli8571/NekoBox4Harmony/releases) | 参考 NekoBoxForAndroid 架构、基于 sing-box 内核的 HarmonyOS 原生 VPN 客户端。 | 08-31 |
 | [存好](https://github.com/xiaobingtech/SaveAny) | [Link](https://github.com/xiaobingtech/SaveAny/releases/) | 一款存储社交平台内容的应用。 | 08-30 |
 | [Pica Comic](https://github.com/nimmi-ai/PicaComic_ohos) | [Link](https://github.com/nimmi-ai/PicaComic_ohos/releases) | 一款使用 Flutter 构建的多源漫画应用。 | 08-29 |
 | [开源阅读](https://github.com/mgz0227/legado-Harmony) | [Link](https://github.com/mgz0227/legado-Harmony/releases) | 一款支持自定义书源规则，可抓取任意网页内容进行阅读的开源应用。 | 08-29 |
