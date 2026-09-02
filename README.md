@@ -56,13 +56,13 @@
 
 | 软件     | 下载链接            | 描述                                                         | 更新                                                 |
 | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [冲浪喵](https://github.com/awaLiny2333/LinysBrowser_NEXT) | [Link](https://github.com/awaLiny2333/LinysBrowser_NEXT/releases) | 一款为鸿蒙NEXT开发的、轻量化的网页浏览器。 | 09-02 |
+| [PiliPlus](https://github.com/dev4harmony/PiliPlus) | [Link](https://github.com/dev4harmony/PiliPlus/releases) | BiliBili第三方客户端 | 09-02 |
 | [NextN](https://github.com/erosTeam/NextN) | [Link](https://github.com/erosTeam/NextN/releases) | 一款原生 HarmonyOS NEXT 的 nhentai 非官方客户端，支持画廊浏览、搜索、标签翻译与下载。 | 09-01 |
 | [WineHua](https://github.com/winehua/WineHua) | [Link](https://github.com/winehua/WineHua/releases) | 在 HarmonyOS 上运行 Windows 程序 | 09-01 |
 | [Zhihu++](https://github.com/zhuoyi233/zhihu-plus-plus-HMOS) | [Link](https://github.com/zhuoyi233/zhihu-plus-plus-HMOS/releases) | Zhihu++ 鸿蒙原生版，注重隐私与去广告的知乎客户端。 | 08-31 |
 | [Melotopia](https://github.com/Chenlvin/Melotopia-HMOS) | [Link](https://github.com/Chenlvin/Melotopia-HMOS/releases) | ✨ 鸿蒙原生音乐播放器｜🚀 全场景设备适配 本项目为第三方应用, 应用本身不提供在线服务, 仅提供UI界面 | 08-31 |
 | [PiliPlusX](https://github.com/cnctem/PiliPlusX) | [Link](https://github.com/cnctem/PiliPlusX/releases) | PiliPlusX | 08-31 |
-| [冲浪喵](https://github.com/awaLiny2333/LinysBrowser_NEXT) | [Link](https://github.com/awaLiny2333/LinysBrowser_NEXT/releases) | 一款为鸿蒙NEXT开发的、轻量化的网页浏览器。 | 08-30 |
-| [PiliPlus](https://github.com/dev4harmony/PiliPlus) | [Link](https://github.com/dev4harmony/PiliPlus/releases) | BiliBili第三方客户端 | 08-29 |
 | [FlClash](https://github.com/tljk/FlClash-ohos) | [Link](https://github.com/tljk/FlClash-ohos/releases) | 基于ClashMeta的多平台代理客户端。 | 08-29 |
 | [Kazumi](https://github.com/ErBWs/Kazumi) | [Link](https://github.com/ErBWs/Kazumi/releases) | 一款基于自定义规则来采集番剧资源，并支持 Anime4K 实时超分辨率的在线观看应用。 | 08-28 |
 | [YourPipe](https://github.com/Ember5843/YourPipe) | [Link](https://github.com/Ember5843/YourPipe/releases) | 基于NewPipe Extractor的鸿蒙YouTube客户端 | 08-26 |
@@ -98,7 +98,7 @@
 
 | 软件     | 下载链接            | 描述                                                         | 更新                                                 |
 | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [EcoHub](https://github.com/fe-spark/EcoHub-for-OHOS) | [Link](https://github.com/fe-spark/EcoHub-for-OHOS/releases) | 自托管影视聚合服务 EcoHub 的鸿蒙客户端，连接自建服务观看影视。 | 09-01 |
+| [EcoHub](https://github.com/fe-spark/EcoHub-for-OHOS) | [Link](https://github.com/fe-spark/EcoHub-for-OHOS/releases) | 自托管影视聚合服务 EcoHub 的鸿蒙客户端，连接自建服务观看影视。 | 09-02 |
 | [Homowarden](https://github.com/DreamistW/Homowarden) | [Link](https://github.com/DreamistW/Homowarden/releases) | Homowarden 是一款专为 HarmonyOS 打造的密码管理应用，它是跨平台开源密码管理应用 Bitwarden 的鸿蒙平台实现。 | 09-01 |
 | [NextE](https://github.com/erosTeam/NextE) | [Link](https://github.com/erosTeam/NextE/releases) | 一款原生 HarmonyOS NEXT 的 E-Hentai / ExHentai 客户端，支持画廊浏览、多种布局阅读、标签翻译、下载队列及 WebDAV 云同步。 | 09-01 |
 | [Kelivo](https://github.com/Chevey339/kelivo) | [Link](https://github.com/Chevey339/kelivo/releases) | 一个Flutter LLM聊天客户端。支持Android、iOS和Harmony Next。 | 08-31 |
