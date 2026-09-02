@@ -58,6 +58,7 @@
 | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [冲浪喵](https://github.com/awaLiny2333/LinysBrowser_NEXT) | [Link](https://github.com/awaLiny2333/LinysBrowser_NEXT/releases) | 一款为鸿蒙NEXT开发的、轻量化的网页浏览器。 | 09-02 |
 | [PiliPlus](https://github.com/dev4harmony/PiliPlus) | [Link](https://github.com/dev4harmony/PiliPlus/releases) | BiliBili第三方客户端 | 09-02 |
+| [amcl](https://github.com/LZZLHY/amcl) | [Link](https://github.com/LZZLHY/amcl/releases) | 鸿蒙版全量Java版我的世界启动器 | 09-02 |
 | [NextN](https://github.com/erosTeam/NextN) | [Link](https://github.com/erosTeam/NextN/releases) | 一款原生 HarmonyOS NEXT 的 nhentai 非官方客户端，支持画廊浏览、搜索、标签翻译与下载。 | 09-01 |
 | [WineHua](https://github.com/winehua/WineHua) | [Link](https://github.com/winehua/WineHua/releases) | 在鸿蒙上运行Windows程序的兼容层工具。 | 09-01 |
 | [Zhihu++](https://github.com/zhuoyi233/zhihu-plus-plus-HMOS) | [Link](https://github.com/zhuoyi233/zhihu-plus-plus-HMOS/releases) | Zhihu++ 鸿蒙原生版，注重隐私与去广告的知乎客户端。 | 08-31 |
@@ -67,7 +68,6 @@
 | [Kazumi](https://github.com/ErBWs/Kazumi) | [Link](https://github.com/ErBWs/Kazumi/releases) | 基于自定义规则的番剧聚合观看应用，支持Anime4K超分辨率。 | 08-28 |
 | [YourPipe](https://github.com/Ember5843/YourPipe) | [Link](https://github.com/Ember5843/YourPipe/releases) | 基于NewPipe Extractor的鸿蒙YouTube客户端 | 08-26 |
 | [AniCh](https://github.com/Sle2p/AniCh) | [Link](https://github.com/Sle2p/AniCh/releases) | 多番剧源的在线动漫弹幕应用，支持超分辨率与离线缓存。 | 08-24 |
-| [amcl](https://github.com/LZZLHY/amcl) | [Link](https://github.com/LZZLHY/amcl/releases) | 鸿蒙版全量Java版我的世界启动器 | 08-08 |
 | [PiliPlus](https://github.com/qinshah/PiliPlus) | [Link](https://github.com/qinshah/PiliPlus/releases) | BiliBili第三方客户端 | 08-03 |
 | [S1-Orange](https://github.com/wly5556/S1-Orange) | [Link](https://github.com/wly5556/S1-Orange/releases) | 一款专为鸿蒙Next平台开发的 stage1st.com 论坛移动客户端。 | 08-03 |
 | [OTP Token](https://github.com/SolidFaker/ohtotptoken) | [Link](https://github.com/SolidFaker/ohtotptoken/releases) | 开源双因素认证令牌器，支持TOTP、HOTP与Steam令牌。 | 08-02 |
@@ -100,7 +100,7 @@
 | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [TiebaLite](https://github.com/137458/tieba-lite-harmony) | [Link](https://github.com/137458/tieba-lite-harmony/releases) | 鸿蒙第三方百度贴吧客户端，支持浏览、搜索与回帖。 | 09-02 |
 | [EcoHub](https://github.com/fe-spark/EcoHub-for-OHOS) | [Link](https://github.com/fe-spark/EcoHub-for-OHOS/releases) | 自托管影视聚合服务 EcoHub 的鸿蒙客户端，连接自建服务观看影视。 | 09-02 |
-| [Homowarden](https://github.com/DreamistW/Homowarden) | [Link](https://github.com/DreamistW/Homowarden/releases) | 鸿蒙版Bitwarden密码管理器，支持自托管服务器。 | 09-01 |
+| [Homowarden](https://github.com/DreamistW/Homowarden) | [Link](https://github.com/DreamistW/Homowarden/releases) | 鸿蒙版Bitwarden密码管理器，支持自托管服务器。 | 09-02 |
 | [NextE](https://github.com/erosTeam/NextE) | [Link](https://github.com/erosTeam/NextE/releases) | 鸿蒙原生E-Hentai/ExHentai客户端，支持画廊浏览与下载。 | 09-01 |
 | [Kelivo](https://github.com/Chevey339/kelivo) | [Link](https://github.com/Chevey339/kelivo/releases) | 一个Flutter LLM聊天客户端。支持Android、iOS和Harmony Next。 | 08-31 |
 | [Petrelgram](https://github.com/miramira8295/Petrelgram) | [Link](https://github.com/miramira8295/Petrelgram/releases) | 第三方✈鸿蒙版，基于 TDLib 的 Telegram 客户端，支持多账号与音视频通话。 | 08-31 |
