@@ -71,7 +71,7 @@ uv run .agents/skills/add-hap/scripts/generate_readme.py
 ## 第 6 步：更新贡献者名单并生成 SVG
 
 1. 检查项目的开发者（仓库 owner 的用户名）是否已在 `CONTRIBUTING.md` 中（该文件每行格式为 `- [显示名](https://github.com/用户名)`，列表按首字母排序）。
-2. 如果已存在，流程结束。
+2. 如果已存在，跳到下一步。
 3. 如果不存在，将该开发者按 `- [用户名](https://github.com/用户名)` 格式插入到 `CONTRIBUTING.md` 的正确排序位置，然后在项目根目录用终端运行：
 
 ```sh
@@ -79,3 +79,17 @@ uv run .agents/skills/add-hap/scripts/contributers.py
 ```
 
 （`uv` 不带参数运行，脚本需要 `GITHUB_TOKEN` 环境变量来获取头像。如果运行失败，报告错误并告知用户。）
+
+## 第 7 步：回复并关闭 issue
+
+确认 `apps.yaml`、`README.md`（及 `CONTRIBUTING.md`/SVG）的变更已提交后，如果本次收录的项目来自第 1 步发现的某个 issue，用终端运行以下命令回复该 issue 并关闭它（需设置 `GITHUB_TOKEN` 环境变量）：
+
+```sh
+uv run .agents/skills/add-hap/scripts/close_issue.py <issue编号>
+```
+
+脚本会向该 issue 发表评论「已收录，感谢分享」并将其置为 closed。
+
+注意：
+- 仅当项目是从 issue 中获取的才需要本步；如果用户直接提供了项目链接、没有对应 issue，则跳过本步。
+- 如果回复或关闭失败（如评论已存在、issue 已被关闭），报告错误并告知用户。
