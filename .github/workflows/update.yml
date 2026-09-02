@@ -33,7 +33,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests
+          pip install requests pyyaml
 
       - name: Update README
         run: python .agents/skills/add-hap/scripts/update.py
@@ -53,7 +53,7 @@ jobs:
       - name: Check for changes
         id: changes
         run: |
-          git diff --exit-code README.md || echo "changed=true" >> $GITHUB_OUTPUT
+          git diff --exit-code README.md apps.yaml || echo "changed=true" >> $GITHUB_OUTPUT
 
       - name: Commit changes
         if: steps.changes.outputs.changed == 'true'

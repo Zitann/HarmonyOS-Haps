@@ -43,23 +43,30 @@ uv run .agents/skills/add-hap/scripts/fetch_issues.py
 
 访问项目的 releases 页面（`https://github.com/<owner>/<repo>/releases`），获取最新一次 release 的发布日期，格式化为 `MM-DD`（如 `07-31`）。如果最新 release 是去年发布的，使用 `YYYY-MM-DD` 格式。
 
-## 第 5 步：写入 README 表格
+## 第 5 步：写入 apps.yaml 数据源并生成 README
 
-在 `README.md` 对应分类的表格中追加一行，格式为：
+在项目根目录的 `apps.yaml` 中对应该项目的分类列表下追加一条记录（缩进 4 空格加 `- name:`，后续字段缩进 6 空格），格式为：
 
-```markdown
-| [项目名](项目链接) | [Link](releases链接) | 一句话描述。 | MM-DD |
+```yaml
+    - name: 项目名
+      url: https://github.com/<owner>/<repo>
+      link: https://github.com/<owner>/<repo>/releases
+      desc: 一句话描述。
+      time: MM-DD
 ```
 
-示例：
+字段说明：
+- `link` 通常等于 `url` + `/releases`；如果项目没有 release（如用 Telegram 群组分发），`link` 填实际下载地址。
+- `time` 用第 4 步获取的日期：今年发布用 `MM-DD`，去年及更早发布用 `YYYY-MM-DD`。
+- 下载链接若以 `/releases/` 结尾需去掉末尾斜杠。
 
-```markdown
-| [FlClash](https://github.com/tljk/FlClash-ohos) | [Link](https://github.com/tljk/FlClash-ohos/releases) | 基于ClashMeta的多平台代理客户端。 | 07-31 |
+然后在项目根目录用终端运行以下命令生成 README（生成器会自动按日期倒序排序，无需手动插行）：
+
+```sh
+uv run .agents/skills/add-hap/scripts/generate_readme.py
 ```
 
-注意：
-- 表格按更新日期**倒序**排列（新的在前），将新行插入到日期正确的位置，不要直接追加到表尾。
-- 保持表格列对齐风格与现有条目一致。
+生成后应同时提交 `apps.yaml` 与 `README.md` 两个文件的变更。
 
 ## 第 6 步：更新贡献者名单并生成 SVG
 

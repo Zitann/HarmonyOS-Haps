@@ -1,0 +1,392 @@
+# HarmonyOS HAP 应用数据源
+# 结构：categories.<分类名> 为应用列表，每项含 name/url/link/desc/time
+# - name: 显示名  url: 项目主页  link: 下载页  desc: 一句话描述  time: 更新时间(MM-DD 或 YYYY-MM-DD)
+categories:
+  一次开发，多端部署:
+    - name: 冲浪喵
+      url: https://github.com/awaLiny2333/LinysBrowser_NEXT
+      link: https://github.com/awaLiny2333/LinysBrowser_NEXT/releases
+      desc: 一款为鸿蒙NEXT开发的、轻量化的网页浏览器。
+      time: 09-02
+    - name: PiliPlus
+      url: https://github.com/dev4harmony/PiliPlus
+      link: https://github.com/dev4harmony/PiliPlus/releases
+      desc: BiliBili第三方客户端
+      time: 09-02
+    - name: NextN
+      url: https://github.com/erosTeam/NextN
+      link: https://github.com/erosTeam/NextN/releases
+      desc: 一款原生 HarmonyOS NEXT 的 nhentai 非官方客户端，支持画廊浏览、搜索、标签翻译与下载。
+      time: 09-01
+    - name: WineHua
+      url: https://github.com/winehua/WineHua
+      link: https://github.com/winehua/WineHua/releases
+      desc: 在鸿蒙上运行Windows程序的兼容层工具。
+      time: 09-01
+    - name: Zhihu++
+      url: https://github.com/zhuoyi233/zhihu-plus-plus-HMOS
+      link: https://github.com/zhuoyi233/zhihu-plus-plus-HMOS/releases
+      desc: Zhihu++ 鸿蒙原生版，注重隐私与去广告的知乎客户端。
+      time: 08-31
+    - name: Melotopia
+      url: https://github.com/Chenlvin/Melotopia-HMOS
+      link: https://github.com/Chenlvin/Melotopia-HMOS/releases
+      desc: 鸿蒙原生音乐播放器，支持本地曲库与在线播放。
+      time: 08-31
+    - name: PiliPlusX
+      url: https://github.com/cnctem/PiliPlusX
+      link: https://github.com/cnctem/PiliPlusX/releases
+      desc: 基于Flutter开发的B站第三方客户端
+      time: 08-31
+    - name: FlClash
+      url: https://github.com/tljk/FlClash-ohos
+      link: https://github.com/tljk/FlClash-ohos/releases
+      desc: 基于ClashMeta的多平台代理客户端。
+      time: 08-29
+    - name: Kazumi
+      url: https://github.com/ErBWs/Kazumi
+      link: https://github.com/ErBWs/Kazumi/releases
+      desc: 基于自定义规则的番剧聚合观看应用，支持Anime4K超分辨率。
+      time: 08-28
+    - name: YourPipe
+      url: https://github.com/Ember5843/YourPipe
+      link: https://github.com/Ember5843/YourPipe/releases
+      desc: 基于NewPipe Extractor的鸿蒙YouTube客户端
+      time: 08-26
+    - name: AniCh
+      url: https://github.com/Sle2p/AniCh
+      link: https://github.com/Sle2p/AniCh/releases
+      desc: 多番剧源的在线动漫弹幕应用，支持超分辨率与离线缓存。
+      time: 08-24
+    - name: amcl
+      url: https://github.com/LZZLHY/amcl
+      link: https://github.com/LZZLHY/amcl/releases
+      desc: 鸿蒙版全量Java版我的世界启动器
+      time: 08-08
+    - name: PiliPlus
+      url: https://github.com/qinshah/PiliPlus
+      link: https://github.com/qinshah/PiliPlus/releases
+      desc: BiliBili第三方客户端
+      time: 08-03
+    - name: S1-Orange
+      url: https://github.com/wly5556/S1-Orange
+      link: https://github.com/wly5556/S1-Orange/releases
+      desc: 一款专为鸿蒙Next平台开发的 stage1st.com 论坛移动客户端。
+      time: 08-03
+    - name: OTP Token
+      url: https://github.com/SolidFaker/ohtotptoken
+      link: https://github.com/SolidFaker/ohtotptoken/releases
+      desc: 开源双因素认证令牌器，支持TOTP、HOTP与Steam令牌。
+      time: 08-02
+    - name: Phira
+      url: https://github.com/TeamFlos/phira
+      link: https://github.com/TeamFlos/phira/releases
+      desc: Phira 是一款基于社区的音乐游戏
+      time: 07-30
+    - name: Tailscale
+      url: https://github.com/flypigJ/Tailscale-OHOS
+      link: https://github.com/flypigJ/Tailscale-OHOS/releases
+      desc: 一款零配置的组网工具，让你的设备安全地互联。
+      time: 07-16
+    - name: JMComic
+      url: https://github.com/YuanChu-Tec/JMComic-HarmonyOS
+      link: https://github.com/YuanChu-Tec/JMComic-HarmonyOS/releases
+      desc: 漫画阅读工具
+      time: 07-09
+    - name: Wpixelgram
+      url: https://github.com/1055235342/Wpixelgram-for-HarmonyOS
+      link: https://github.com/1055235342/Wpixelgram-for-HarmonyOS/releases
+      desc: 第三方✈鸿蒙版Wpixelgram
+      time: 07-03
+    - name: Harmonic
+      url: https://github.com/shanyan-wcx/Harmonic
+      link: https://github.com/shanyan-wcx/Harmonic/releases
+      desc: 连接 Navidrome 音乐服务器的鸿蒙原生客户端。
+      time: 06-21
+    - name: Audiobookshelf
+      url: https://github.com/shanyan-wcx/Audiobookshelf-HarmonyOS
+      link: https://github.com/shanyan-wcx/Audiobookshelf-HarmonyOS/releases
+      desc: 连接 Audiobookshelf 私人有声书服务器的鸿蒙客户端。
+      time: 06-16
+    - name: 栖云盾
+      url: https://github.com/Tlntin/home-cloud-shield
+      link: https://github.com/Tlntin/home-cloud-shield/releases
+      desc: 鸿蒙本地DNS过滤应用，支持AdGuard风格规则拦截广告。
+      time: 06-15
+    - name: OHsidian
+      url: https://github.com/HanversionOvO/OHSidian
+      link: https://github.com/HanversionOvO/OHSidian/releases
+      desc: 鸿蒙Obsidian笔记移植版，通过Electron兼容层运行。
+      time: 05-30
+    - name: 影视链
+      url: https://github.com/xiaomoHM/videoJX
+      link: https://github.com/xiaomoHM/videoJX/releases
+      desc: 集成多个解析接口，搜索播放全网视频的解析播放器。
+      time: 05-28
+    - name: HMTG
+      url: https://github.com/YuanChu-Tec/HMTG
+      link: https://github.com/YuanChu-Tec/HMTG/releases
+      desc: 第三方✈鸿蒙版HMTG
+      time: 05-25
+    - name: HiSH
+      url: https://github.com/harmoninux/HiSH
+      link: https://github.com/harmoninux/HiSH/releases
+      desc: 在鸿蒙手机、平板和PC上运行 Linux Shell
+      time: 05-16
+    - name: ClashBox
+      url: https://github.com/xiaobaigroup/hapapp
+      link: https://github.com/xiaobaigroup/hapapp/releases
+      desc: 基于Mihomo内核的鸿蒙代理软件。
+      time: 04-02
+    - name: Etohos
+      url: https://github.com/collaborative-creation/etohos
+      link: https://github.com/collaborative-creation/etohos/releases
+      desc: 基于Flutter的鸿蒙应用，用于接入EasyTier组网。
+      time: 03-31
+    - name: 云享社
+      url: https://github.com/Edge-Music/Core
+      link: https://github.com/Edge-Music/Core/releases
+      desc: 可连接多个音乐平台与私有源的音乐播放器。
+      time: 03-18
+    - name: HOML启动器
+      url: https://github.com/xiaobaigroup/HOML
+      link: https://github.com/xiaobaigroup/HOML/releases
+      desc: 首个鸿蒙原生MCJava版HOML启动器
+      time: 02-27
+    - name: FinVideo
+      url: https://github.com/OHPG/FinVideo
+      link: https://github.com/OHPG/FinVideo/releases
+      desc: 鸿蒙视频播放器，支持Jellyfin/Emby/Plex多服务器。
+      time: 01-17
+    - name: Gramony
+      url: https://github.com/Gramony/Gramony
+      link: https://t.me/GramonyApp
+      desc: 第三方✈鸿蒙版，下载地址为✈群组
+      time: 01-15
+    - name: CanPlayerHap
+      url: https://github.com/Merryou6/CanPlayerHap
+      link: https://github.com/Merryou6/CanPlayerHap/releases
+      desc: 鸿蒙NEXT上基于web运行ONS引擎Galgame。
+      time: 2025-11-26
+    - name: Minecraft Box
+      url: https://github.com/lxdklp/MCB_OHOS
+      link: https://github.com/lxdklp/MCB_OHOS/releases
+      desc: 鸿蒙版Minecraft Java服务器管理工具。
+      time: 2025-10-11
+    - name: JellyFin
+      url: https://github.com/chashaochang/JellyFin_HarmonyOS
+      link: https://github.com/chashaochang/JellyFin_HarmonyOS/releases
+      desc: 鸿蒙非官方 Jellyfin 客户端，支持播放、字幕与投屏。
+      time: 2025-08-02
+    - name: 流心视频
+      url: https://github.com/Yebingiscn/SweetVideo
+      link: https://github.com/Yebingiscn/SweetVideo/releases
+      desc: 鸿蒙原生视频音乐播放器，支持多格式与外挂字幕。
+      time: 2025-07-31
+    - name: Moonlight
+      url: https://gitee.com/smdsbz/moonlight-ohos
+      link: https://gitee.com/smdsbz/moonlight-ohos/releases
+      desc: 在 HarmonyOS Next 上的另一个 Sunshine 客户端实现。
+      time: 2025-04-03
+  鸿蒙手机/平板:
+    - name: TiebaLite
+      url: https://github.com/137458/tieba-lite-harmony
+      link: https://github.com/137458/tieba-lite-harmony/releases
+      desc: 鸿蒙第三方百度贴吧客户端，支持浏览、搜索与回帖。
+      time: 09-02
+    - name: EcoHub
+      url: https://github.com/fe-spark/EcoHub-for-OHOS
+      link: https://github.com/fe-spark/EcoHub-for-OHOS/releases
+      desc: 自托管影视聚合服务 EcoHub 的鸿蒙客户端，连接自建服务观看影视。
+      time: 09-02
+    - name: Homowarden
+      url: https://github.com/DreamistW/Homowarden
+      link: https://github.com/DreamistW/Homowarden/releases
+      desc: 鸿蒙版Bitwarden密码管理器，支持自托管服务器。
+      time: 09-01
+    - name: NextE
+      url: https://github.com/erosTeam/NextE
+      link: https://github.com/erosTeam/NextE/releases
+      desc: 鸿蒙原生E-Hentai/ExHentai客户端，支持画廊浏览与下载。
+      time: 09-01
+    - name: Kelivo
+      url: https://github.com/Chevey339/kelivo
+      link: https://github.com/Chevey339/kelivo/releases
+      desc: 一个Flutter LLM聊天客户端。支持Android、iOS和Harmony Next。
+      time: 08-31
+    - name: Petrelgram
+      url: https://github.com/miramira8295/Petrelgram
+      link: https://github.com/miramira8295/Petrelgram/releases
+      desc: 第三方✈鸿蒙版，基于 TDLib 的 Telegram 客户端，支持多账号与音视频通话。
+      time: 08-31
+    - name: NekoBox4Harmony
+      url: https://github.com/xiaoli8571/NekoBox4Harmony
+      link: https://github.com/xiaoli8571/NekoBox4Harmony/releases
+      desc: 基于sing-box内核的鸿蒙VPN客户端，支持多协议与订阅。
+      time: 08-31
+    - name: 存好
+      url: https://github.com/xiaobingtech/SaveAny
+      link: https://github.com/xiaobingtech/SaveAny/releases
+      desc: 一款存储社交平台内容的应用。
+      time: 08-30
+    - name: Pica Comic
+      url: https://github.com/nimmi-ai/PicaComic_ohos
+      link: https://github.com/nimmi-ai/PicaComic_ohos/releases
+      desc: 一款使用 Flutter 构建的多源漫画应用。
+      time: 08-29
+    - name: 开源阅读
+      url: https://github.com/mgz0227/legado-Harmony
+      link: https://github.com/mgz0227/legado-Harmony/releases
+      desc: 一款支持自定义书源规则，可抓取任意网页内容进行阅读的开源应用。
+      time: 08-29
+    - name: CalculatorX
+      url: https://github.com/StarHeartY/CalculatorX
+      link: https://github.com/StarHeartY/CalculatorX/releases
+      desc: 一款支持符号计算、微积分、矩阵、方程求解与函数图像的原生科学计算器。
+      time: 08-29
+    - name: FMphoto
+      url: https://github.com/jonas-pi/FMphoto
+      link: https://github.com/jonas-pi/FMphoto/releases
+      desc: 用于在手机上连接飞牛 NAS，使用相册、网页入口及常见图库能力。
+      time: 08-28
+    - name: PixEz
+      url: https://github.com/bgli100/pixez-flutter-ohos
+      link: https://github.com/bgli100/pixez-flutter-ohos/releases
+      desc: 一款支持免代理直连及查看动图的第三方Pixiv flutter客户端
+      time: 08-28
+    - name: ScrcpyForHarmonyOS
+      url: https://github.com/LambdaYH/ScrcpyForHarmonyOS
+      link: https://github.com/LambdaYH/ScrcpyForHarmonyOS/releases
+      desc: 鸿蒙scrcpy客户端，无线连接远程控制Android设备。
+      time: 08-18
+    - name: Hey
+      url: https://github.com/popsiclelmlm/Hey
+      link: https://github.com/xiaoli8571/Hey/releases
+      desc: 基于 Xray/sing-box 内核的鸿蒙原生代理客户端，安装包由第三方 fork 提供。
+      time: 08-17
+    - name: ArkDO
+      url: https://github.com/EnjoySR/ArkDO
+      link: https://github.com/EnjoySR/ArkDO/releases
+      desc: LINUX DO 社区的第三方鸿蒙原生客户端。
+      time: 08-11
+    - name: Next2V
+      url: https://github.com/honjow/Next2V
+      link: https://github.com/honjow/Next2V/releases
+      desc: 一款面向 HarmonyOS 的原生 V2EX 第三方客户端，支持主题浏览、回复发帖、节点发现与搜索。
+      time: 08-09
+    - name: Wake
+      url: https://github.com/azhuge233/Wake-HarmonyOS
+      link: https://github.com/azhuge233/Wake-HarmonyOS/releases
+      desc: 一款运行在鸿蒙Next平台上的网络唤醒（Wake-on-LAN）应用。
+      time: 08-03
+    - name: Karing
+      url: https://github.com/ks-lm-kf/harmony-kslmkf-karing-hap
+      link: https://github.com/ks-lm-kf/harmony-kslmkf-karing-hap/releases
+      desc: 基于Karing/sing-box的鸿蒙代理工具，支持订阅与多协议。
+      time: 08-02
+    - name: immich
+      url: https://github.com/dgh1818/immich_ohos
+      link: https://github.com/dgh1818/immich_ohos/releases
+      desc: 一款连接 Immich 私人照片和视频备份服务器的鸿蒙客户端，用于在鸿蒙设备上浏览和管理个人媒体库。
+      time: 07-28
+    - name: Ohentai
+      url: https://github.com/Ibukitofu/Ohentai
+      link: https://github.com/Ibukitofu/Ohentai/releases
+      desc: 一款专为鸿蒙原生开发的 E-Hentai 浏览工具，支持画廊浏览、阅读与标签翻译。
+      time: 06-13
+    - name: 刷题宝
+      url: https://github.com/xiaomoHM/ShuaTi
+      link: https://github.com/xiaomoHM/ShuaTi/releases
+      desc: 离线刷题应用，支持多套试卷、错题本与随机练习。
+      time: 06-10
+    - name: 轻阅读
+      url: https://github.com/autobcb/read
+      link: https://github.com/autobcb/read/releases
+      desc: 一款可通过自部署服务端，在手机、平板等多种设备上同步阅读进度的开源阅读应用。
+      time: 05-14
+    - name: KeePassHO
+      url: https://github.com/aimilin6688/KeePassHO
+      link: https://github.com/aimilin6688/KeePassHO/releases
+      desc: 兼容KeePass数据库的本地密码管理软件，支持TOTP。
+      time: 03-30
+    - name: Harflix播放器
+      url: https://github.com/Actrlq/Harflix
+      link: https://github.com/Actrlq/Harflix/releases
+      desc: 一款支持Emby协议的播放器
+      time: 03-15
+    - name: niceleep
+      url: https://github.com/qinshah/niceleep
+      link: https://github.com/qinshah/niceleep/releases
+      desc: 一个专注于白噪音播放的应用，帮助你放松、专注和入眠。
+      time: 02-11
+    - name: soc-search
+      url: https://github.com/Amview/soc-search
+      link: https://github.com/Amview/soc-search/releases
+      desc: 查询安兔兔、Geekbench等平台SoC性能跑分排行的工具。
+      time: 2025-09-23
+    - name: 包名解析
+      url: https://github.com/SummerKaze/AppBundleNameForShared
+      link: https://github.com/SummerKaze/AppBundleNameForShared/releases
+      desc: 一款用于从华为应用商城分享链接中提取应用包名的鸿蒙工具。
+      time: 2025-09-14
+    - name: KDAuth
+      url: https://github.com/kdada/Authenticator
+      link: https://github.com/kdada/Authenticator/releases
+      desc: 支持标准与Steam令牌的双因子认证（2FA）生成工具。
+      time: 2025-08-25
+    - name: awesome_blbl
+      url: https://github.com/Luo-A-Chen/AwesomeResume
+      link: https://github.com/Luo-A-Chen/AwesomeResume/releases
+      desc: 使用鸿蒙flutter3.22版本开发的第三方B站
+      time: 2025-08-02
+    - name: Neon
+      url: https://github.com/shokakucarrier/neon-ohos
+      link: https://github.com/shokakucarrier/neon-ohos/releases
+      desc: 鸿蒙版Nextcloud客户端，可连接管理个人云盘。
+      time: 2025-07-01
+    - name: LocalSend
+      url: https://github.com/Aloereed/localsend-ohos
+      link: https://github.com/Aloereed/localsend-ohos/releases
+      desc: LocalSend鸿蒙版，局域网内安全传输文件与消息。
+      time: 2025-04-15
+    - name: 影视猫
+      url: https://github.com/CatPawApp/CatPawOpen
+      link: https://github.com/CatPawApp/CatPawOpen/releases
+      desc: 类似TVBox的聚合影视播放工具，可配置接口拉取视频源。
+      time: 2025-01-17
+    - name: 宝可梦图鉴
+      url: https://github.com/Luxcis/Pokedex_Next
+      link: https://github.com/Luxcis/Pokedex_Next/releases
+      desc: 一款用于查询宝可梦、招式及特性详细信息的图鉴应用。
+      time: 2025-01-07
+  鸿蒙电脑:
+    - name: Servo
+      url: https://github.com/servo/servo
+      link: https://github.com/servo/servo/releases
+      desc: Servo 是一个用 Rust 语言编写的浏览器内核的浏览器
+      time: 08-31
+    - name: VLC播放器
+      url: https://github.com/Aloereed/vlc-qt6-ohos
+      link: https://github.com/Aloereed/vlc-qt6-ohos/releases
+      desc: 基于QT移植的VLC播放器
+      time: 08-02
+    - name: Termony
+      url: https://github.com/jiegec/Termony
+      link: https://github.com/jiegec/Termony/releases
+      desc: 一款为鸿蒙操作系统提供的终端模拟器，允许用户运行常见的Linux命令和程序。
+      time: 07-07
+    - name: OHBittorrent
+      url: https://github.com/HanversionOvO/OHBittorrent
+      link: https://github.com/HanversionOvO/OHBittorrent/releases
+      desc: qBittorrent 鸿蒙原生移植版，基于 Qt 6 的桌面级 BT 下载客户端。
+      time: 06-12
+    - name: aria2
+      url: https://github.com/SwimmingTiger/aria2-ohos
+      link: https://github.com/SwimmingTiger/aria2-ohos/releases
+      desc: 一个能在鸿蒙PC上通过命令行使用的Aria2下载工具。
+      time: 01-20
+    - name: Harmonix
+      url: https://github.com/hackeris/Harmonix
+      link: https://github.com/hackeris/Harmonix/releases
+      desc: 在鸿蒙PC上运行多种架构Linux程序的终端。
+      time: 2025-08-30
