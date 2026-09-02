@@ -111,8 +111,8 @@
 | [CalculatorX](https://github.com/StarHeartY/CalculatorX) | [Link](https://github.com/StarHeartY/CalculatorX/releases) | 一款支持符号计算、微积分、矩阵、方程求解与函数图像的原生科学计算器。 | 08-29 |
 | [FMphoto](https://github.com/jonas-pi/FMphoto) | [Link](https://github.com/jonas-pi/FMphoto/releases) | 用于在手机上连接飞牛 NAS，使用相册、网页入口及常见图库能力。 | 08-28 |
 | [PixEz](https://github.com/bgli100/pixez-flutter-ohos) | [Link](https://github.com/bgli100/pixez-flutter-ohos/releases) | 一款支持免代理直连及查看动图的第三方Pixiv flutter客户端 | 08-28 |
+| [Hey](https://github.com/popsiclelmlm/Hey) | [Link](https://github.com/xiaoli8571/Hey/releases) | 基于 Xray/sing-box 内核的鸿蒙原生代理客户端，安装包由第三方 fork 提供。 | 08-28 |
 | [ScrcpyForHarmonyOS](https://github.com/LambdaYH/ScrcpyForHarmonyOS) | [Link](https://github.com/LambdaYH/ScrcpyForHarmonyOS/releases) | 鸿蒙scrcpy客户端，无线连接远程控制Android设备。 | 08-18 |
-| [Hey](https://github.com/popsiclelmlm/Hey) | [Link](https://github.com/xiaoli8571/Hey/releases) | 基于 Xray/sing-box 内核的鸿蒙原生代理客户端，安装包由第三方 fork 提供。 | 08-17 |
 | [ArkDO](https://github.com/EnjoySR/ArkDO) | [Link](https://github.com/EnjoySR/ArkDO/releases) | LINUX DO 社区的第三方鸿蒙原生客户端。 | 08-11 |
 | [Next2V](https://github.com/honjow/Next2V) | [Link](https://github.com/honjow/Next2V/releases) | 一款面向 HarmonyOS 的原生 V2EX 第三方客户端，支持主题浏览、回复发帖、节点发现与搜索。 | 08-09 |
 | [Wake](https://github.com/azhuge233/Wake-HarmonyOS) | [Link](https://github.com/azhuge233/Wake-HarmonyOS/releases) | 一款运行在鸿蒙Next平台上的网络唤醒（Wake-on-LAN）应用。 | 08-03 |
