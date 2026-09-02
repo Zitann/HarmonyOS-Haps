@@ -3,7 +3,7 @@
 #   "requests",
 # ]
 # ///
-"""add/update/contributers 三个脚本的公共工具：路径、HTTP、时间、README 表格读写。"""
+"""update/contributers/fetch_issues 三个脚本的公共工具：路径、HTTP、时间处理。"""
 import os
 import re
 import base64
@@ -21,14 +21,13 @@ urllib3.disable_warnings(InsecureRequestWarning)
 ROOT_DIR = os.path.dirname(
     os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(__file__))))
 )
-README_PATH = os.path.join(ROOT_DIR, "README.md")
 CONTRIBUTERS_PATH = os.path.join(ROOT_DIR, "CONTRIBUTING.md")
 SVG_PATH = os.path.join(ROOT_DIR, "assets", "contributers.svg")
 
-UA_HEADERS = {"User-Agent": "update-readme-script"}
+UA_HEADERS = {"User-Agent": "harmonyos-haps-script"}
 
-# README 时间列中无需联网查询的特殊状态
-SKIP_STATES = ("已归档",)
+# README 时间列中无需联网查询的特殊状态（沉底显示）
+SKIP_STATES = ("已归档", "闭源", "无release")
 
 
 def http_get(url: str, headers: dict = None, timeout: int = 15, retries: int = 3):
@@ -101,21 +100,6 @@ def format_display_time(dt: datetime) -> str:
     if dt.year == datetime.now().year:
         return dt.strftime("%m-%d")
     return dt.strftime("%Y-%m-%d")
-
-
-def parse_old_time_str(s: str):
-    """解析 README 时间列，特殊状态与无法解析时返回 None。"""
-    s = s.strip()
-    if s in SKIP_STATES:
-        return None
-    try:
-        return datetime.strptime(s, "%Y-%m-%d")
-    except ValueError:
-        pass
-    try:
-        return datetime.strptime(f"{datetime.now().year}-{s}", "%Y-%m-%d")
-    except ValueError:
-        return None
 
 
 def get_remote_time(url: str):
@@ -198,39 +182,3 @@ def get_latest_commit_time(repo_url: str):
             )
         return None
     return None
-
-
-def get_project_time(repo_url: str):
-    """优先取最新 release 时间，无 release 时取默认分支最新 commit 时间。"""
-    t = get_remote_time(f"{repo_url}/releases")
-    if t is not None:
-        return t
-    return get_latest_commit_time(repo_url)
-
-
-def read_table(content: str, section_title: str):
-    """从 README 内容中定位某个分类的表格，返回 (表头行列表, 数据行列表, 原始表格文本)。"""
-    m = re.search(rf"### {re.escape(section_title)}\s*\n((?:\|.*\n)+)", content)
-    if not m:
-        return None
-    table = m.group(1)
-    lines = table.strip().split("\n")
-    return lines[0:2], lines[2:], table
-
-
-def write_table(content: str, old_table: str, header_lines: list, data_lines: list) -> str:
-    """用新的数据行重建表格并替换回 README 内容。"""
-    new_table = "\n".join(header_lines + data_lines) + "\n"
-    return content.replace(old_table, new_table)
-
-
-def split_row(line: str):
-    """拆分表格行为 (名称, 链接, 描述, 时间)。首尾列位置确定，中间部分归并为描述，
-    防止描述中含 | 导致时间列错位。格式非法返回 None。"""
-    cols = line.split("|")
-    if len(cols) < 6:
-        return None
-    name, url = cols[1].strip(), cols[2].strip()
-    desc = "|".join(cols[3:-2]).strip()
-    time = cols[-2].strip()
-    return name, url, desc, time

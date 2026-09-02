@@ -16,15 +16,15 @@ from pathlib import Path
 
 import yaml
 
+from common import ROOT_DIR, SKIP_STATES
+
 # scripts -> add-hap -> skills -> .agents -> 仓库根目录
-ROOT = Path(__file__).resolve().parents[4]
+ROOT = Path(ROOT_DIR)
 APPS_YAML = ROOT / "apps.yaml"
 README = ROOT / "README.md"
 
 # 分类顺序与 README 中的标题一致
 CATEGORIES = ["一次开发，多端部署", "鸿蒙手机/平板", "鸿蒙电脑"]
-
-SKIP_STATES = ("已归档", "闭源", "无release")  # 时间列的特殊状态（沉底）
 
 
 def parse_time_str(s: str):

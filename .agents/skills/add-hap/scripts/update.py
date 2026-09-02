@@ -16,7 +16,6 @@ from common import (
     get_latest_commit_time,
     format_display_time,
     SKIP_STATES,
-    ROOT_DIR,
 )
 from generate_readme import APPS_YAML, README, parse_time_str, generate
 
