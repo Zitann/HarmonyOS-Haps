@@ -3,7 +3,6 @@
 #   "requests",
 # ]
 # ///
-"""拉取本仓库 issue 列表（106 号之后），检查是否有人提供 GitHub 软件仓库链接。"""
 import os
 
 from common import http_get, github_headers

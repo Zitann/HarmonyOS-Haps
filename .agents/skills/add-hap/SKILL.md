@@ -93,3 +93,13 @@ uv run .agents/skills/add-hap/scripts/close_issue.py <issue编号>
 注意：
 - 仅当项目是从 issue 中获取的才需要本步；如果用户直接提供了项目链接、没有对应 issue，则跳过本步。
 - 如果回复或关闭失败（如评论已存在、issue 已被关闭），报告错误并告知用户。
+
+## 第 8 步：广播新收录通知
+
+在项目根目录用终端运行以下命令，向订阅者广播本次新收录的应用（需先设置 `BROADCAST_UNION_ID` 和 `BROADCAST_CHANNEL_ID` 环境变量）：
+
+```sh
+uv run --env-file .env .agents/skills/add-hap/scripts/broadcast.py 新收录应用：<应用名>
+```
+
+脚本会调用 `common.send_broadcast` 向订阅者推送一条纯文本消息。若环境变量未设置或接口失败，脚本会打印提示但**不影响**本次收录结果；本步可选，广播失败无需重试。

@@ -4,11 +4,6 @@
 #   "pyyaml",
 # ]
 # ///
-"""从 apps.yaml 生成 README.md 的三个分类表格区域。
-
-apps.yaml 是唯一应用数据源；README.md 中三个分类表格区由此脚本渲染，
-其它文案区（目录/声明/安装工具/反馈/鸣谢等）保持手工维护不动。
-"""
 import re
 import sys
 from datetime import datetime

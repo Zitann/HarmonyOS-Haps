@@ -3,12 +3,12 @@
 #   "requests",
 # ]
 # ///
-"""update/contributers/fetch_issues 三个脚本的公共工具：路径、HTTP、时间处理。"""
 import os
 import re
 import base64
 from datetime import datetime
 from time import sleep
+from urllib.parse import quote
 
 import requests
 import urllib3
@@ -29,6 +29,7 @@ UA_HEADERS = {"User-Agent": "harmonyos-haps-script"}
 # README 时间列中无需联网查询的特殊状态（沉底显示）
 SKIP_STATES = ("已归档", "闭源", "无release")
 
+REPO_URL = "https://github.com/Zitann/HarmonyOS-Haps"
 
 def http_get(url: str, headers: dict = None, timeout: int = 15, retries: int = 3):
     """带 UA、超时和有限重试的 GET 请求，失败时返回 None。"""
@@ -83,6 +84,38 @@ def fetch_avatar(home_url: str) -> str:
         return ""
     avatar_url = extract(resp.json())
     return image_to_base64(avatar_url) if avatar_url else ""
+
+
+def send_broadcast(text: str) -> bool:
+    """向 REPO_URL 的订阅者广播一条纯文本消息（openBroadcast 接口）。
+    缺失时打印提示并跳过；失败不抛异常，返回是否发送成功。
+    """
+    union_id = os.environ.get("BROADCAST_UNION_ID")
+    channel_id = os.environ.get("BROADCAST_CHANNEL_ID")
+    if not union_id or not channel_id:
+        print("缺少 BROADCAST_UNION_ID / BROADCAST_CHANNEL_ID，跳过广播通知")
+        return False
+
+    encoded_url = quote(quote(REPO_URL, safe=""), safe="")
+    api_url = (
+        "http://api.chuckfang.com:12580/subscribe/openBroadcast"
+        f"?unionId={union_id}&channelId={channel_id}&url={encoded_url}"
+    )
+    try:
+        resp = requests.post(
+            api_url,
+            data=text.encode("utf-8"),
+            headers={"Content-Type": "text/plain"},
+            timeout=5,
+        )
+        data = resp.json()
+        if resp.status_code == 200 and data.get("status") == 200:
+            return True
+        print(f"通知API返回异常: {resp.status_code} {data}")
+        return False
+    except Exception as e:
+        print(f"通知API失败: {e}")
+        return False
 
 
 def normalize_dt(dt: datetime) -> datetime:

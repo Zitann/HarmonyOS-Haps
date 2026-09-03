@@ -3,7 +3,6 @@
 #   "requests",
 # ]
 # ///
-"""回复并关闭 issue：向指定 issue 发送"已收录，感谢分享"并置为 closed。"""
 import os
 import sys
 

@@ -4,22 +4,18 @@
 #   "pyyaml",
 # ]
 # ///
-"""更新 apps.yaml 中各应用的最新 release/commit 时间，并重新生成 README.md。"""
 import os
 import re
 import sys
 
-import requests
-
 from common import (
+    send_broadcast,
     get_remote_time,
     get_latest_commit_time,
     format_display_time,
     SKIP_STATES,
 )
 from generate_readme import APPS_YAML, README, parse_time_str, generate
-
-REPO_URL = "https://github.com/Zitann/HarmonyOS-Haps"
 
 
 def rewrite_times(updates: list) -> bool:
@@ -113,28 +109,11 @@ def collect_updates() -> list:
 
 
 def report(updated_apps: list):
-    """通过 MeoW Push API 推送更新通知，失败不阻断主流程。"""
+    """向订阅者广播更新通知，失败不阻断主流程。"""
     apps_str = ", ".join(updated_apps)
-    msg = f"本次更新 {len(updated_apps)} 个应用：{apps_str}，点击查看详情"
-
-    try:
-        resp = requests.post(
-            "https://api.chuckfang.com/github",
-            json={
-                "title": "HarmonyOS-Haps更新",
-                "msg": msg,
-                "url": REPO_URL,
-                "imgUrl": "https://cdn.nlark.com/yuque/0/2026/svg/39012018/1786611479438-8b896944-d79f-451c-9f90-1d4709b88af8.svg",
-            },
-            timeout=5,
-        )
-        data = resp.json()
-        if resp.status_code == 200 and data.get("status") == 200:
-            print(f"已推送更新通知，更新应用: {apps_str}")
-        else:
-            print(f"通知API返回异常: {resp.status_code} {data}")
-    except Exception as e:
-        print(f"通知API失败: {e}")
+    msg = f"本次更新 {len(updated_apps)} 个应用：{apps_str}"
+    if send_broadcast(msg):
+        print(f"已广播更新通知，更新应用: {apps_str}")
 
 
 def main():

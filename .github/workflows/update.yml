@@ -39,6 +39,8 @@ jobs:
         run: python .agents/skills/add-hap/scripts/update.py
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BROADCAST_UNION_ID: ${{ secrets.BROADCAST_UNION_ID }}
+          BROADCAST_CHANNEL_ID: ${{ secrets.BROADCAST_CHANNEL_ID }}
 
       - name: Get updated apps
         run: |
