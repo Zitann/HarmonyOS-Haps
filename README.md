@@ -105,7 +105,7 @@
 | [NextE](https://github.com/erosTeam/NextE) | [Link](https://github.com/erosTeam/NextE/releases) | 鸿蒙原生E-Hentai/ExHentai客户端，支持画廊浏览与下载。 | 09-01 |
 | [Kelivo](https://github.com/Chevey339/kelivo) | [Link](https://github.com/Chevey339/kelivo/releases) | 一个Flutter LLM聊天客户端。支持Android、iOS和Harmony Next。 | 08-31 |
 | [Petrelgram](https://github.com/miramira8295/Petrelgram) | [Link](https://github.com/miramira8295/Petrelgram/releases) | 第三方✈鸿蒙版，基于 TDLib 的 Telegram 客户端，支持多账号与音视频通话。 | 08-31 |
-| [存好](https://github.com/xiaobingtech/SaveAny) | [Link](https://github.com/xiaobingtech/SaveAny/releases) | 一款存储社交平台内容的应用。 | 08-30 |
+| [存好](https://github.com/xiaobingtech/SaveAny) | [Link](https://appgallery.huawei.com/link/invite-test-wap?taskId=14b001cf48f4af798b231d5c7b65adfb&invitationCode=7OrWxupnK5u) | 一款存储社交平台内容的应用。 | 08-30 |
 | [Pica Comic](https://github.com/nimmi-ai/PicaComic_ohos) | [Link](https://github.com/nimmi-ai/PicaComic_ohos/releases) | 一款使用 Flutter 构建的多源漫画应用。 | 08-29 |
 | [开源阅读](https://github.com/mgz0227/legado-Harmony) | [Link](https://github.com/mgz0227/legado-Harmony/releases) | 一款支持自定义书源规则，可抓取任意网页内容进行阅读的开源应用。 | 08-29 |
 | [CalculatorX](https://github.com/StarHeartY/CalculatorX) | [Link](https://github.com/StarHeartY/CalculatorX/releases) | 一款支持符号计算、微积分、矩阵、方程求解与函数图像的原生科学计算器。 | 08-29 |
