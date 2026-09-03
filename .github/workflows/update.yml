@@ -1,14 +1,7 @@
 name: Update
 on:
-  push:
-    branches:
-      - main
-  pull_request:
-    branches:
-      - main
   schedule:
-    - cron: "0 14 * * *"
-  workflow_dispatch:
+    - cron: "0 4 * * *"
 
 jobs:
   build:
