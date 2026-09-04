@@ -198,7 +198,7 @@ categories:
       url: https://github.com/fe-spark/EcoHub-for-OHOS
       link: https://github.com/fe-spark/EcoHub-for-OHOS/releases
       desc: 自托管影视聚合服务 EcoHub 的鸿蒙客户端，连接自建服务观看影视。
-      time: 09-02
+      time: 09-03
     - name: Homowarden
       url: https://github.com/DreamistW/Homowarden
       link: https://github.com/DreamistW/Homowarden/releases
@@ -218,7 +218,7 @@ categories:
       url: https://github.com/miramira8295/Petrelgram
       link: https://github.com/miramira8295/Petrelgram/releases
       desc: 第三方✈鸿蒙版，基于 TDLib 的 Telegram 客户端，支持多账号与音视频通话。
-      time: 08-31
+      time: 09-04
     - name: NekoBox4Harmony
       url: https://github.com/xiaoli8571/NekoBox4Harmony
       link: https://github.com/xiaoli8571/NekoBox4Harmony/releases
@@ -248,7 +248,7 @@ categories:
       url: https://github.com/jonas-pi/FMphoto
       link: https://github.com/jonas-pi/FMphoto/releases
       desc: 用于在手机上连接飞牛 NAS，使用相册、网页入口及常见图库能力。
-      time: 08-28
+      time: 09-03
     - name: PixEz
       url: https://github.com/bgli100/pixez-flutter-ohos
       link: https://github.com/bgli100/pixez-flutter-ohos/releases
@@ -263,7 +263,7 @@ categories:
       url: https://github.com/popsiclelmlm/Hey
       link: https://github.com/xiaoli8571/Hey/releases
       desc: 基于 Xray/sing-box 内核的鸿蒙原生代理客户端，安装包由第三方 fork 提供。
-      time: 08-28
+      time: 09-04
     - name: ArkDO
       url: https://github.com/EnjoySR/ArkDO
       link: https://github.com/EnjoySR/ArkDO/releases
