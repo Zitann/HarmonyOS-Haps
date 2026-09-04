@@ -13,6 +13,12 @@
 
 </p>
 
+<!-- 订阅通知 -->
+
+> ## 🔔 订阅更新通知
+> **首次订阅后可实时接收本仓库新增/更新应用的广播通知：**
+> 👉 **<a href="https://www.chuckfang.com/MeoW/appLinking?channelId=ab566f6350a849e48e4bd14b5073297a">点击订阅 MeoW 频道</a>**
+
 <!-- PROJECT SHIELDS -->
 
 [![Contributors][contributors-shield]][contributors-url]
