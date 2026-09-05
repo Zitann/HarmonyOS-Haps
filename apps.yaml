@@ -7,7 +7,7 @@ categories:
       url: https://github.com/awaLiny2333/LinysBrowser_NEXT
       link: https://github.com/awaLiny2333/LinysBrowser_NEXT/releases
       desc: 一款为鸿蒙NEXT开发的、轻量化的网页浏览器。
-      time: 09-02
+      time: 09-04
     - name: PiliPlus
       url: https://github.com/dev4harmony/PiliPlus
       link: https://github.com/dev4harmony/PiliPlus/releases
@@ -57,7 +57,7 @@ categories:
       url: https://github.com/Sle2p/AniCh
       link: https://github.com/Sle2p/AniCh/releases
       desc: 多番剧源的在线动漫弹幕应用，支持超分辨率与离线缓存。
-      time: 08-24
+      time: 09-04
     - name: amcl
       url: https://github.com/LZZLHY/amcl
       link: https://github.com/LZZLHY/amcl/releases
@@ -198,7 +198,7 @@ categories:
       url: https://github.com/fe-spark/EcoHub-for-OHOS
       link: https://github.com/fe-spark/EcoHub-for-OHOS/releases
       desc: 自托管影视聚合服务 EcoHub 的鸿蒙客户端，连接自建服务观看影视。
-      time: 09-03
+      time: 09-04
     - name: Homowarden
       url: https://github.com/DreamistW/Homowarden
       link: https://github.com/DreamistW/Homowarden/releases
@@ -263,7 +263,7 @@ categories:
       url: https://github.com/popsiclelmlm/Hey
       link: https://github.com/xiaoli8571/Hey/releases
       desc: 基于 Xray/sing-box 内核的鸿蒙原生代理客户端，安装包由第三方 fork 提供。
-      time: 09-04
+      time: 09-05
     - name: ArkDO
       url: https://github.com/EnjoySR/ArkDO
       link: https://github.com/EnjoySR/ArkDO/releases
