@@ -12,7 +12,7 @@ categories:
       url: https://github.com/dev4harmony/PiliPlus
       link: https://github.com/dev4harmony/PiliPlus/releases
       desc: BiliBili第三方客户端
-      time: 09-02
+      time: 09-06
     - name: NextN
       url: https://github.com/erosTeam/NextN
       link: https://github.com/erosTeam/NextN/releases
@@ -27,7 +27,7 @@ categories:
       url: https://github.com/zhuoyi233/zhihu-plus-plus-HMOS
       link: https://github.com/zhuoyi233/zhihu-plus-plus-HMOS/releases
       desc: Zhihu++ 鸿蒙原生版，注重隐私与去广告的知乎客户端。
-      time: 08-31
+      time: 09-06
     - name: Melotopia
       url: https://github.com/Chenlvin/Melotopia-HMOS
       link: https://github.com/Chenlvin/Melotopia-HMOS/releases
@@ -52,7 +52,7 @@ categories:
       url: https://github.com/Ember5843/YourPipe
       link: https://github.com/Ember5843/YourPipe/releases
       desc: 基于NewPipe Extractor的鸿蒙YouTube客户端
-      time: 09-06
+      time: 09-07
     - name: AniCh
       url: https://github.com/Sle2p/AniCh
       link: https://github.com/Sle2p/AniCh/releases
@@ -67,12 +67,12 @@ categories:
       url: https://github.com/qinshah/PiliPlus
       link: https://github.com/qinshah/PiliPlus/releases
       desc: BiliBili第三方客户端
-      time: 08-03
+      time: 09-06
     - name: S1-Orange
       url: https://github.com/wly5556/S1-Orange
       link: https://github.com/wly5556/S1-Orange/releases
       desc: 一款专为鸿蒙Next平台开发的 stage1st.com 论坛移动客户端。
-      time: 08-03
+      time: 09-06
     - name: OTP Token
       url: https://github.com/SolidFaker/ohtotptoken
       link: https://github.com/SolidFaker/ohtotptoken/releases
@@ -213,7 +213,7 @@ categories:
       url: https://github.com/Chevey339/kelivo
       link: https://github.com/Chevey339/kelivo/releases
       desc: 一个Flutter LLM聊天客户端。支持Android、iOS和Harmony Next。
-      time: 08-31
+      time: 09-06
     - name: Petrelgram
       url: https://github.com/miramira8295/Petrelgram
       link: https://github.com/miramira8295/Petrelgram/releases
@@ -223,7 +223,7 @@ categories:
       url: https://github.com/xiaoli8571/NekoBox4Harmony
       link: https://github.com/xiaoli8571/NekoBox4Harmony/releases
       desc: 基于sing-box内核的鸿蒙VPN客户端，支持多协议与订阅。
-      time: 09-03
+      time: 09-07
     - name: 存好
       url: https://github.com/xiaobingtech/SaveAny
       link: https://appgallery.huawei.com/link/invite-test-wap?taskId=14b001cf48f4af798b231d5c7b65adfb&invitationCode=7OrWxupnK5u
