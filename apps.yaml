@@ -12,7 +12,7 @@ categories:
       url: https://github.com/dev4harmony/PiliPlus
       link: https://github.com/dev4harmony/PiliPlus/releases
       desc: BiliBili第三方客户端
-      time: 08-03
+      time: 09-06
     - name: NextN
       url: https://github.com/erosTeam/NextN
       link: https://github.com/erosTeam/NextN/releases
@@ -22,7 +22,7 @@ categories:
       url: https://github.com/winehua/WineHua
       link: https://github.com/winehua/WineHua/releases
       desc: 在鸿蒙上运行Windows程序的兼容层工具。
-      time: 09-05
+      time: 09-08
     - name: Zhihu++
       url: https://github.com/zhuoyi233/zhihu-plus-plus-HMOS
       link: https://github.com/zhuoyi233/zhihu-plus-plus-HMOS/releases
@@ -67,7 +67,7 @@ categories:
       url: https://github.com/qinshah/PiliPlus
       link: https://github.com/qinshah/PiliPlus/releases
       desc: BiliBili第三方客户端
-      time: 08-03
+      time: 09-06
     - name: S1-Orange
       url: https://github.com/wly5556/S1-Orange
       link: https://github.com/wly5556/S1-Orange/releases
@@ -198,12 +198,12 @@ categories:
       url: https://github.com/fe-spark/EcoHub-for-OHOS
       link: https://github.com/fe-spark/EcoHub-for-OHOS/releases
       desc: 自托管影视聚合服务 EcoHub 的鸿蒙客户端，连接自建服务观看影视。
-      time: 09-04
+      time: 09-08
     - name: Homowarden
       url: https://github.com/DreamistW/Homowarden
       link: https://github.com/DreamistW/Homowarden/releases
       desc: 鸿蒙版Bitwarden密码管理器，支持自托管服务器。
-      time: 09-02
+      time: 09-08
     - name: NextE
       url: https://github.com/erosTeam/NextE
       link: https://github.com/erosTeam/NextE/releases
@@ -238,7 +238,7 @@ categories:
       url: https://github.com/mgz0227/legado-Harmony
       link: https://github.com/mgz0227/legado-Harmony/releases
       desc: 一款支持自定义书源规则，可抓取任意网页内容进行阅读的开源应用。
-      time: 09-07
+      time: 09-08
     - name: CalculatorX
       url: https://github.com/StarHeartY/CalculatorX
       link: https://github.com/StarHeartY/CalculatorX/releases
@@ -248,7 +248,7 @@ categories:
       url: https://github.com/jonas-pi/FMphoto
       link: https://github.com/jonas-pi/FMphoto/releases
       desc: 用于在手机上连接飞牛 NAS，使用相册、网页入口及常见图库能力。
-      time: 09-03
+      time: 09-09
     - name: PixEz
       url: https://github.com/bgli100/pixez-flutter-ohos
       link: https://github.com/bgli100/pixez-flutter-ohos/releases
