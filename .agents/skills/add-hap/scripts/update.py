@@ -70,7 +70,9 @@ def _time_to_str(v):
 
 
 def collect_updates() -> list:
-    """遍历 apps.yaml 查询各应用最新时间，返回 [(分类, 名称, 新时间字符串), ...]。"""
+    """遍历 apps.yaml 查询各应用最新时间。
+    返回 [(分类, 名称, 新时间字符串, 来源 source), ...]，source 取值为 "release" 或 "commit"。
+    """
     import yaml
 
     with open(APPS_YAML, "r", encoding="utf-8") as f:
@@ -102,7 +104,7 @@ def collect_updates() -> list:
             # 仅当日期真正变化时才记录更新
             if old_dt is None or latest.date() != old_dt.date():
                 print(f"  最新{source}时间: {new_time}")
-                updates.append((cat, name, new_time))
+                updates.append((cat, name, new_time, source))
             else:
                 print(f"  时间未变化: {new_time}")
     return updates
@@ -110,6 +112,9 @@ def collect_updates() -> list:
 
 def report(updated_apps: list):
     """向订阅者广播更新通知，失败不阻断主流程。"""
+    if not updated_apps:
+        print("本次无可广播通知的应用（仅 release 更新会广播）")
+        return
     apps_str = ", ".join(updated_apps)
     msg = f"本次更新 {len(updated_apps)} 个应用：{apps_str}"
     if send_broadcast(msg):
@@ -126,16 +131,20 @@ def main():
         print("README 无需更新")
         return
 
-    # 改写 apps.yaml 中的 time 字段
-    rewrite_times(updates)
+    # 改写 apps.yaml 中的 time 字段（不区分 source）
+    updates_for_yaml = [(cat, name, new_time) for cat, name, new_time, _ in updates]
+    rewrite_times(updates_for_yaml)
     # 重新生成 README（内部会按时间倒序排序）
     new_content = generate()
     with open(README, "w", encoding="utf-8") as f:
         f.write(new_content)
 
-    updated_names = [name for _, name, _ in updates]
+    updated_names = [name for _, name, _, _ in updates]
+    release_updated_names = [
+        name for _, name, _, source in updates if source == "release"
+    ]
     print("README 已更新")
-    report(updated_names)
+    report(release_updated_names)
     with open(".apps_str.txt", "w", encoding="utf-8") as f:
         f.write(", ".join(updated_names))
 

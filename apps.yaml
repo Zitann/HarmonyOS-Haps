@@ -12,7 +12,7 @@ categories:
       url: https://github.com/dev4harmony/PiliPlus
       link: https://github.com/dev4harmony/PiliPlus/releases
       desc: BiliBili第三方客户端
-      time: 08-03
+      time: 09-06
     - name: NextN
       url: https://github.com/erosTeam/NextN
       link: https://github.com/erosTeam/NextN/releases
@@ -63,21 +63,11 @@ categories:
       link: https://github.com/LZZLHY/amcl/releases
       desc: 鸿蒙版全量Java版我的世界启动器
       time: 09-02
-    - name: PiliPlus
-      url: https://github.com/qinshah/PiliPlus
-      link: https://github.com/qinshah/PiliPlus/releases
-      desc: BiliBili第三方客户端
-      time: 08-03
     - name: S1-Orange
       url: https://github.com/wly5556/S1-Orange
       link: https://github.com/wly5556/S1-Orange/releases
       desc: 一款专为鸿蒙Next平台开发的 stage1st.com 论坛移动客户端。
       time: 09-06
-    - name: OTP Token
-      url: https://github.com/SolidFaker/ohtotptoken
-      link: https://github.com/SolidFaker/ohtotptoken/releases
-      desc: 开源双因素认证令牌器，支持TOTP、HOTP与Steam令牌。
-      time: 08-02
     - name: Phira
       url: https://github.com/TeamFlos/phira
       link: https://github.com/TeamFlos/phira/releases
@@ -284,11 +274,6 @@ categories:
       link: https://github.com/honjow/Next2V/releases
       desc: 一款面向 HarmonyOS 的原生 V2EX 第三方客户端，支持主题浏览、回复发帖、节点发现与搜索。
       time: 08-09
-    - name: Wake
-      url: https://github.com/azhuge233/Wake-HarmonyOS
-      link: https://github.com/azhuge233/Wake-HarmonyOS/releases
-      desc: 一款运行在鸿蒙Next平台上的网络唤醒（Wake-on-LAN）应用。
-      time: 08-03
     - name: Karing
       url: https://github.com/ks-lm-kf/harmony-kslmkf-karing-hap
       link: https://github.com/ks-lm-kf/harmony-kslmkf-karing-hap/releases
