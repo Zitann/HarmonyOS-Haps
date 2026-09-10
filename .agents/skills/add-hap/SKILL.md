@@ -1,6 +1,6 @@
 ---
 name: add-hap
-description: 向本仓库收录一个新的鸿蒙 HAP 应用。当用户提供一个 GitHub/Gitee 项目链接，要求"添加 Hap"、"收录应用"、"添加新项目"到 README 表格时使用本技能。
+description: 当用户要求向本仓库收录新的鸿蒙 HAP 应用、添加 Hap、收录应用或添加新项目到 README 表格时使用本技能；项目链接可以由用户直接提供，也可以从 GitHub issue 中获取。
 ---
 
 # 添加新 Hap 到合集

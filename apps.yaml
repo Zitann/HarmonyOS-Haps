@@ -189,6 +189,16 @@ categories:
       desc: 在 HarmonyOS Next 上的另一个 Sunshine 客户端实现。
       time: 2025-04-03
   鸿蒙手机/平板:
+    - name: SSRVPN
+      url: https://github.com/xiaoli8571/SSRVPN_Harmony
+      link: https://github.com/xiaoli8571/SSRVPN_Harmony/releases
+      desc: 鸿蒙原生代理客户端，基于 Mihomo 内核。
+      time: 09-10
+    - name: 聚映
+      url: https://github.com/yabi-zzh/livify-ohos
+      link: https://github.com/yabi-zzh/livify-ohos/releases
+      desc: 支持多平台直播观看与弹幕的鸿蒙原生聚合应用。
+      time: 08-22
     - name: TiebaLite
       url: https://github.com/137458/tieba-lite-harmony
       link: https://github.com/137458/tieba-lite-harmony/releases

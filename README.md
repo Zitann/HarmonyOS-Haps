@@ -104,6 +104,7 @@
 
 | 软件     | 下载链接            | 描述                                                         | 更新                                                 |
 | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [SSRVPN](https://github.com/xiaoli8571/SSRVPN_Harmony) | [Link](https://github.com/xiaoli8571/SSRVPN_Harmony/releases) | 鸿蒙原生代理客户端，基于 Mihomo 内核。 | 09-10 |
 | [FMphoto](https://github.com/jonas-pi/FMphoto) | [Link](https://github.com/jonas-pi/FMphoto/releases) | 用于在手机上连接飞牛 NAS，使用相册、网页入口及常见图库能力。 | 09-09 |
 | [EcoHub](https://github.com/fe-spark/EcoHub-for-OHOS) | [Link](https://github.com/fe-spark/EcoHub-for-OHOS/releases) | 自托管影视聚合服务 EcoHub 的鸿蒙客户端，连接自建服务观看影视。 | 09-08 |
 | [Homowarden](https://github.com/DreamistW/Homowarden) | [Link](https://github.com/DreamistW/Homowarden/releases) | 鸿蒙版Bitwarden密码管理器，支持自托管服务器。 | 09-08 |
@@ -119,6 +120,7 @@
 | [NextE](https://github.com/erosTeam/NextE) | [Link](https://github.com/erosTeam/NextE/releases) | 鸿蒙原生E-Hentai/ExHentai客户端，支持画廊浏览与下载。 | 09-01 |
 | [存好](https://github.com/xiaobingtech/SaveAny) | [Link](https://appgallery.huawei.com/link/invite-test-wap?taskId=14b001cf48f4af798b231d5c7b65adfb&invitationCode=7OrWxupnK5u) | 一款存储社交平台内容的应用。 | 08-30 |
 | [Pica Comic](https://github.com/nimmi-ai/PicaComic_ohos) | [Link](https://github.com/nimmi-ai/PicaComic_ohos/releases) | 一款使用 Flutter 构建的多源漫画应用。 | 08-29 |
+| [聚映](https://github.com/yabi-zzh/livify-ohos) | [Link](https://github.com/yabi-zzh/livify-ohos/releases) | 支持多平台直播观看与弹幕的鸿蒙原生聚合应用。 | 08-22 |
 | [ArkDO](https://github.com/EnjoySR/ArkDO) | [Link](https://github.com/EnjoySR/ArkDO/releases) | LINUX DO 社区的第三方鸿蒙原生客户端。 | 08-11 |
 | [Next2V](https://github.com/honjow/Next2V) | [Link](https://github.com/honjow/Next2V/releases) | 一款面向 HarmonyOS 的原生 V2EX 第三方客户端，支持主题浏览、回复发帖、节点发现与搜索。 | 08-09 |
 | [Wake](https://github.com/azhuge233/Wake-HarmonyOS) | [Link](https://github.com/azhuge233/Wake-HarmonyOS/releases) | 一款运行在鸿蒙Next平台上的网络唤醒（Wake-on-LAN）应用。 | 08-03 |
