@@ -22,7 +22,7 @@ categories:
       url: https://github.com/winehua/WineHua
       link: https://github.com/winehua/WineHua/releases
       desc: 在鸿蒙上运行Windows程序的兼容层工具。
-      time: 09-08
+      time: 09-10
     - name: Zhihu++
       url: https://github.com/zhuoyi233/zhihu-plus-plus-HMOS
       link: https://github.com/zhuoyi233/zhihu-plus-plus-HMOS/releases
@@ -198,7 +198,7 @@ categories:
       url: https://github.com/fe-spark/EcoHub-for-OHOS
       link: https://github.com/fe-spark/EcoHub-for-OHOS/releases
       desc: 自托管影视聚合服务 EcoHub 的鸿蒙客户端，连接自建服务观看影视。
-      time: 09-08
+      time: 09-10
     - name: Homowarden
       url: https://github.com/DreamistW/Homowarden
       link: https://github.com/DreamistW/Homowarden/releases
