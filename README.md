@@ -112,14 +112,14 @@
 | [FMphoto](https://github.com/jonas-pi/FMphoto) | [Link](https://github.com/jonas-pi/FMphoto/releases) | 用于在手机上连接飞牛 NAS，使用相册、网页入口及常见图库能力。 | 09-09 |
 | [Homowarden](https://github.com/DreamistW/Homowarden) | [Link](https://github.com/DreamistW/Homowarden/releases) | 鸿蒙版Bitwarden密码管理器，支持自托管服务器。 | 09-08 |
 | [NekoBox4Harmony](https://github.com/xiaoli8571/NekoBox4Harmony) | [Link](https://github.com/xiaoli8571/NekoBox4Harmony/releases) | 基于sing-box内核的鸿蒙VPN客户端，支持多协议与订阅。 | 09-08 |
-| [CalculatorX](https://github.com/StarHeartY/CalculatorX) | [Link](https://github.com/StarHeartY/CalculatorX/releases) | 一款支持符号计算、微积分、矩阵、方程求解与函数图像的原生科学计算器。 | 09-07 |
+| [CalculatorX](https://github.com/StartYR/CalculatorX) | [Link](https://github.com/StartYR/CalculatorX/releases) | 一款支持符号计算、微积分、矩阵、方程求解与函数图像的原生科学计算器。 | 09-07 |
 | [PixEz](https://github.com/bgli100/pixez-flutter-ohos) | [Link](https://github.com/bgli100/pixez-flutter-ohos/releases) | 一款支持免代理直连及查看动图的第三方Pixiv flutter客户端 | 09-07 |
 | [Kelivo](https://github.com/Chevey339/kelivo) | [Link](https://github.com/Chevey339/kelivo/releases) | 一个Flutter LLM聊天客户端。支持Android、iOS和Harmony Next。 | 09-06 |
 | [Hey](https://github.com/popsiclelmlm/Hey) | [Link](https://github.com/xiaoli8571/Hey/releases) | 基于 Xray/sing-box 内核的鸿蒙原生代理客户端，安装包由第三方 fork 提供。 | 09-06 |
 | [ScrcpyForHarmonyOS](https://github.com/LambdaYH/ScrcpyForHarmonyOS) | [Link](https://github.com/LambdaYH/ScrcpyForHarmonyOS/releases) | 鸿蒙scrcpy客户端，无线连接远程控制Android设备。 | 09-05 |
 | [NextE](https://github.com/erosTeam/NextE) | [Link](https://github.com/erosTeam/NextE/releases) | 鸿蒙原生E-Hentai/ExHentai客户端，支持画廊浏览与下载。 | 09-01 |
 | [存好](https://github.com/xiaobingtech/SaveAny) | [Link](https://appgallery.huawei.com/link/invite-test-wap?taskId=14b001cf48f4af798b231d5c7b65adfb&invitationCode=7OrWxupnK5u) | 一款存储社交平台内容的应用。 | 08-30 |
-| [Pica Comic](https://github.com/nimmi-ai/PicaComic_ohos) | [Link](https://github.com/nimmi-ai/PicaComic_ohos/releases) | 一款使用 Flutter 构建的多源漫画应用。 | 08-29 |
+| [Pica Comic](https://github.com/nimmi114514/PicaComic_ohos) | [Link](https://github.com/nimmi114514/PicaComic_ohos/releases) | 一款使用 Flutter 构建的多源漫画应用。 | 08-29 |
 | [聚映](https://github.com/yabi-zzh/livify-ohos) | [Link](https://github.com/yabi-zzh/livify-ohos/releases) | 支持多平台直播观看与弹幕的鸿蒙原生聚合应用。 | 08-22 |
 | [ArkDO](https://github.com/EnjoySR/ArkDO) | [Link](https://github.com/EnjoySR/ArkDO/releases) | LINUX DO 社区的第三方鸿蒙原生客户端。 | 08-11 |
 | [Next2V](https://github.com/honjow/Next2V) | [Link](https://github.com/honjow/Next2V/releases) | 一款面向 HarmonyOS 的原生 V2EX 第三方客户端，支持主题浏览、回复发帖、节点发现与搜索。 | 08-09 |
