@@ -178,6 +178,11 @@ categories:
       link: https://gitee.com/smdsbz/moonlight-ohos/releases
       desc: 在 HarmonyOS Next 上的另一个 Sunshine 客户端实现。
       time: 2025-04-03
+    - name: OpenTwit
+      url: https://github.com/Abhi-Flex1/OpenTwit
+      link: https://github.com/Abhi-Flex1/OpenTwit/blob/main/README.md
+      desc: 鸿蒙原生 X 客户端，含时间线与私信。
+      time: 09-11
   鸿蒙手机/平板:
     - name: SSRVPN
       url: https://github.com/xiaoli8571/SSRVPN_Harmony
@@ -354,6 +359,11 @@ categories:
       link: https://github.com/Luxcis/Pokedex_Next/releases
       desc: 一款用于查询宝可梦、招式及特性详细信息的图鉴应用。
       time: 2025-01-07
+    - name: ListenBook（简·欢）
+      url: https://github.com/end-web/HarmonyOS-book
+      link: https://github.com/end-web/HarmonyOS-book/releases
+      desc: 面向鸿蒙手机的听书与小说阅读 App。
+      time: 09-11
   鸿蒙电脑:
     - name: Servo
       url: https://github.com/servo/servo

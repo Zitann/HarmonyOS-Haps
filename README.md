@@ -64,6 +64,7 @@
 | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [WineHua](https://github.com/winehua/WineHua) | [Link](https://github.com/winehua/WineHua/releases) | 在鸿蒙上运行Windows程序的兼容层工具。 | 09-12 |
 | [S1-Orange](https://github.com/wly5556/S1-Orange) | [Link](https://github.com/wly5556/S1-Orange/releases) | 一款专为鸿蒙Next平台开发的 stage1st.com 论坛移动客户端。 | 09-11 |
+| [OpenTwit](https://github.com/Abhi-Flex1/OpenTwit) | [Link](https://github.com/Abhi-Flex1/OpenTwit/blob/main/README.md) | 鸿蒙原生 X 客户端，含时间线与私信。 | 09-11 |
 | [Kazumi](https://github.com/ErBWs/Kazumi) | [Link](https://github.com/ErBWs/Kazumi/releases) | 基于自定义规则的番剧聚合观看应用，支持Anime4K超分辨率。 | 09-07 |
 | [YourPipe](https://github.com/Ember5843/YourPipe) | [Link](https://github.com/Ember5843/YourPipe/releases) | 基于NewPipe Extractor的鸿蒙YouTube客户端 | 09-07 |
 | [PiliPlus](https://github.com/dev4harmony/PiliPlus) | [Link](https://github.com/dev4harmony/PiliPlus/releases) | BiliBili第三方客户端 | 09-06 |
@@ -105,6 +106,7 @@
 | [SSRVPN](https://github.com/xiaoli8571/SSRVPN_Harmony) | [Link](https://github.com/xiaoli8571/SSRVPN_Harmony/releases) | 鸿蒙原生代理客户端，基于 Mihomo 内核。 | 09-12 |
 | [TiebaLite](https://github.com/137458/tieba-lite-harmony) | [Link](https://github.com/137458/tieba-lite-harmony/releases) | 鸿蒙第三方百度贴吧客户端，支持浏览、搜索与回帖。 | 09-11 |
 | [Petrelgram](https://github.com/miramira8295/Petrelgram) | [Link](https://github.com/miramira8295/Petrelgram/releases) | 第三方✈鸿蒙版，基于 TDLib 的 Telegram 客户端，支持多账号与音视频通话。 | 09-11 |
+| [ListenBook（简·欢）](https://github.com/end-web/HarmonyOS-book) | [Link](https://github.com/end-web/HarmonyOS-book/releases) | 面向鸿蒙手机的听书与小说阅读 App。 | 09-11 |
 | [EcoHub](https://github.com/fe-spark/EcoHub-for-OHOS) | [Link](https://github.com/fe-spark/EcoHub-for-OHOS/releases) | 自托管影视聚合服务 EcoHub 的鸿蒙客户端，连接自建服务观看影视。 | 09-10 |
 | [开源阅读](https://github.com/mgz0227/legado-Harmony) | [Link](https://github.com/mgz0227/legado-Harmony/releases) | 一款支持自定义书源规则，可抓取任意网页内容进行阅读的开源应用。 | 09-09 |
 | [FMphoto](https://github.com/jonas-pi/FMphoto) | [Link](https://github.com/jonas-pi/FMphoto/releases) | 用于在手机上连接飞牛 NAS，使用相册、网页入口及常见图库能力。 | 09-09 |
