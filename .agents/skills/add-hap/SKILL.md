@@ -99,7 +99,7 @@ uv run .agents/skills/add-hap/scripts/close_issue.py <issue编号>
 在项目根目录用终端运行以下命令，向订阅者广播本次新收录的应用（需先设置 `BROADCAST_UNION_ID` 和 `BROADCAST_CHANNEL_ID` 环境变量）：
 
 ```sh
-uv run --env-file .env .agents/skills/add-hap/scripts/broadcast.py 新收录应用：<应用名>
+uv run --env-file .env .agents/skills/add-hap/scripts/broadcast.py 新收录应用：<应用名1>、<应用名2>、<应用名3>
 ```
 
 脚本会调用 `common.send_broadcast` 向订阅者推送一条纯文本消息。若环境变量未设置或接口失败，脚本会打印提示但**不影响**本次收录结果；本步可选，广播失败无需重试。
