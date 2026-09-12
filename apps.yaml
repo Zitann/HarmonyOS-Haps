@@ -354,6 +354,11 @@ categories:
       link: https://github.com/Luxcis/Pokedex_Next/releases
       desc: 一款用于查询宝可梦、招式及特性详细信息的图鉴应用。
       time: 2025-01-07
+    - name: HomenaPod
+      url: https://github.com/TomoeMami/HomenaPod
+      link: https://github.com/TomoeMami/HomenaPod/releases
+      desc: 开源播客应用 AntennaPod 的 HarmonyOS / 鸿蒙 原生移植版。
+      time: 2026-09-12
   鸿蒙电脑:
     - name: Servo
       url: https://github.com/servo/servo
