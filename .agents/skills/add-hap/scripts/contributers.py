@@ -38,9 +38,10 @@ def get_existing_svg_images() -> dict:
     return {url: image for url, image, _ in matches if image.startswith("data:image")}
 
 
-def get_contributer_info(contributers: list) -> list:
-    """组装作者信息与头像；已存在于 SVG 中的用户复用缓存，只下载新增用户。"""
-    cached_images = get_existing_svg_images()
+def get_contributer_info(contributers: list, no_cache: bool = False) -> list:
+    """组装作者信息与头像；已存在于 SVG 中的用户复用缓存，只下载新增用户。
+    no_cache=True 时强制重新下载所有头像。"""
+    cached_images = {} if no_cache else get_existing_svg_images()
     contributers_info = []
     for name, url in contributers:
         contributer = Contributer()
@@ -91,9 +92,12 @@ def add_contributer(name: str, url: str):
 
 
 if __name__ == "__main__":
-    if len(sys.argv) == 3:
+    if len(sys.argv) == 3 and sys.argv[1] != "--no-cache":
         add_contributer(sys.argv[1], sys.argv[2])
         print(f"已添加作者: {sys.argv[1]}, 主页: {sys.argv[2]}")
-    contributers_info = get_contributer_info(get_contributers())
+    no_cache = "--no-cache" in sys.argv
+    if no_cache:
+        print("已启用 --no-cache，强制重新下载所有头像")
+    contributers_info = get_contributer_info(get_contributers(), no_cache=no_cache)
     with open(SVG_PATH, "w", encoding="utf-8") as f:
         f.write(generate_svg(contributers_info))
