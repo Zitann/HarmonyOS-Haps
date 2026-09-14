@@ -17,12 +17,12 @@ categories:
       url: https://github.com/erosTeam/NextN
       link: https://github.com/erosTeam/NextN/releases
       desc: 一款原生 HarmonyOS NEXT 的 nhentai 非官方客户端，支持画廊浏览、搜索、标签翻译与下载。
-      time: 09-01
+      time: 09-13
     - name: WineHua
       url: https://github.com/winehua/WineHua
       link: https://github.com/winehua/WineHua/releases
       desc: 在鸿蒙上运行Windows程序的兼容层工具。
-      time: 09-12
+      time: 09-14
     - name: Zhihu++
       url: https://github.com/zhuoyi233/zhihu-plus-plus-HMOS
       link: https://github.com/zhuoyi233/zhihu-plus-plus-HMOS/releases
@@ -82,7 +82,7 @@ categories:
       url: https://github.com/YuanChu-Tec/JMComic-HarmonyOS
       link: https://github.com/YuanChu-Tec/JMComic-HarmonyOS/releases
       desc: 漫画阅读工具
-      time: 07-09
+      time: 09-13
     - name: Wpixelgram
       url: https://github.com/1055235342/Wpixelgram-for-HarmonyOS
       link: https://github.com/1055235342/Wpixelgram-for-HarmonyOS/releases
@@ -188,7 +188,7 @@ categories:
       url: https://github.com/xiaoli8571/SSRVPN_Harmony
       link: https://github.com/xiaoli8571/SSRVPN_Harmony/releases
       desc: 鸿蒙原生代理客户端，基于 Mihomo 内核。
-      time: 09-12
+      time: 09-13
     - name: 聚映
       url: https://github.com/yabi-zzh/livify-ohos
       link: https://github.com/yabi-zzh/livify-ohos/releases
@@ -213,7 +213,7 @@ categories:
       url: https://github.com/erosTeam/NextE
       link: https://github.com/erosTeam/NextE/releases
       desc: 鸿蒙原生E-Hentai/ExHentai客户端，支持画廊浏览与下载。
-      time: 09-01
+      time: 09-12
     - name: Kelivo
       url: https://github.com/Chevey339/kelivo
       link: https://github.com/Chevey339/kelivo/releases
@@ -248,7 +248,7 @@ categories:
       url: https://github.com/StartYR/CalculatorX
       link: https://github.com/StartYR/CalculatorX/releases
       desc: 一款支持符号计算、微积分、矩阵、方程求解与函数图像的原生科学计算器。
-      time: 09-07
+      time: 09-14
     - name: FMphoto
       url: https://github.com/jonas-pi/FMphoto
       link: https://github.com/jonas-pi/FMphoto/releases
@@ -363,7 +363,7 @@ categories:
       url: https://github.com/end-web/HarmonyOS-book
       link: https://github.com/end-web/HarmonyOS-book/releases
       desc: 面向鸿蒙手机的听书与小说阅读 App。
-      time: 09-11
+      time: 09-14
   鸿蒙电脑:
     - name: Servo
       url: https://github.com/servo/servo
