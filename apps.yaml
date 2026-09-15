@@ -12,7 +12,7 @@ categories:
       url: https://github.com/dev4harmony/PiliPlus
       link: https://github.com/dev4harmony/PiliPlus/releases
       desc: BiliBili第三方客户端
-      time: 09-06
+      time: 09-15
     - name: NextN
       url: https://github.com/erosTeam/NextN
       link: https://github.com/erosTeam/NextN/releases
@@ -188,7 +188,7 @@ categories:
       url: https://github.com/xiaoli8571/SSRVPN_Harmony
       link: https://github.com/xiaoli8571/SSRVPN_Harmony/releases
       desc: 鸿蒙原生代理客户端，基于 Mihomo 内核。
-      time: 09-13
+      time: 09-14
     - name: 聚映
       url: https://github.com/yabi-zzh/livify-ohos
       link: https://github.com/yabi-zzh/livify-ohos/releases
@@ -228,7 +228,7 @@ categories:
       url: https://github.com/xiaoli8571/NekoBox4Harmony
       link: https://github.com/xiaoli8571/NekoBox4Harmony/releases
       desc: 基于sing-box内核的鸿蒙VPN客户端，支持多协议与订阅。
-      time: 09-08
+      time: 09-15
     - name: 存好
       url: https://github.com/xiaobingtech/SaveAny
       link: https://appgallery.huawei.com/link/invite-test-wap?taskId=14b001cf48f4af798b231d5c7b65adfb&invitationCode=7OrWxupnK5u
@@ -363,7 +363,7 @@ categories:
       url: https://github.com/end-web/HarmonyOS-book
       link: https://github.com/end-web/HarmonyOS-book/releases
       desc: 面向鸿蒙手机的听书与小说阅读 App。
-      time: 09-14
+      time: 09-15
   鸿蒙电脑:
     - name: Servo
       url: https://github.com/servo/servo
