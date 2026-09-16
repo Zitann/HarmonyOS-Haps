@@ -110,6 +110,7 @@
 | [NekoBox4Harmony](https://github.com/xiaoli8571/NekoBox4Harmony) | [Link](https://github.com/xiaoli8571/NekoBox4Harmony/releases) | 基于sing-box内核的鸿蒙VPN客户端，支持多协议与订阅。 | 09-16 |
 | [简·欢](https://github.com/end-web/HarmonyOS-book) | [Link](https://github.com/end-web/HarmonyOS-book/releases) | 面向鸿蒙手机的听书与小说阅读 App。 | 09-16 |
 | [CalculatorX](https://github.com/StartYR/CalculatorX) | [Link](https://github.com/StartYR/CalculatorX/releases) | 一款支持符号计算、微积分、矩阵、方程求解与函数图像的原生科学计算器。 | 09-14 |
+| [HomenaPod](https://github.com/TomoeMami/HomenaPod) | [Link](https://github.com/TomoeMami/HomenaPod/releases) | AntennaPod 鸿蒙原生移植版，播客订阅与播放管理器。 | 09-14 |
 | [NextE](https://github.com/erosTeam/NextE) | [Link](https://github.com/erosTeam/NextE/releases) | 鸿蒙原生E-Hentai/ExHentai客户端，支持画廊浏览与下载。 | 09-12 |
 | [TiebaLite](https://github.com/137458/tieba-lite-harmony) | [Link](https://github.com/137458/tieba-lite-harmony/releases) | 鸿蒙第三方百度贴吧客户端，支持浏览、搜索与回帖。 | 09-11 |
 | [Petrelgram](https://github.com/miramira8295/Petrelgram) | [Link](https://github.com/miramira8295/Petrelgram/releases) | 第三方✈鸿蒙版，基于 TDLib 的 Telegram 客户端，支持多账号与音视频通话。 | 09-11 |

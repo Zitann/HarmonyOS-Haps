@@ -28,6 +28,7 @@
 - [SummerKaze](https://github.com/SummerKaze)
 - [SwimmingTiger](https://github.com/SwimmingTiger)
 - [TeamFlos](https://github.com/TeamFlos)
+- [TomoeMami](https://github.com/TomoeMami)
 - [Tlntin](https://github.com/Tlntin)
 - [WineHua](https://github.com/winehua)
 - [XiaobaiStudio](https://github.com/xiaobaigroup)
