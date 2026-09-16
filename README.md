@@ -62,10 +62,13 @@
 
 | 软件     | 下载链接            | 描述                                                         | 更新                                                 |
 | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [轻启](https://github.com/thx853068675-dev/quietstart) | [Link](https://github.com/thx853068675-dev/quietstart/releases) | HarmonyOS 应用侧载签名与安装助手。 | 09-16 |
 | [PiliPlus](https://github.com/dev4harmony/PiliPlus) | [Link](https://github.com/dev4harmony/PiliPlus/releases) | BiliBili第三方客户端 | 09-15 |
 | [WineHua](https://github.com/winehua/WineHua) | [Link](https://github.com/winehua/WineHua/releases) | 在鸿蒙上运行Windows程序的兼容层工具。 | 09-14 |
+| [Aira](https://github.com/mason173/aira-browser) | [Link](https://github.com/mason173/aira-browser/releases) | 开源的鸿蒙 NEXT 浏览器。 | 09-14 |
 | [NextN](https://github.com/erosTeam/NextN) | [Link](https://github.com/erosTeam/NextN/releases) | 一款原生 HarmonyOS NEXT 的 nhentai 非官方客户端，支持画廊浏览、搜索、标签翻译与下载。 | 09-13 |
 | [JMComic](https://github.com/YuanChu-Tec/JMComic-HarmonyOS) | [Link](https://github.com/YuanChu-Tec/JMComic-HarmonyOS/releases) | 漫画阅读工具 | 09-13 |
+| [Harmony X](https://github.com/haohaoai0/HarmonyX) | [Link](https://github.com/haohaoai0/HarmonyX/releases) | 面向 HarmonyOS 的原生 X 客户端。 | 09-13 |
 | [S1-Orange](https://github.com/wly5556/S1-Orange) | [Link](https://github.com/wly5556/S1-Orange/releases) | 一款专为鸿蒙Next平台开发的 stage1st.com 论坛移动客户端。 | 09-11 |
 | [OpenTwit](https://github.com/Abhi-Flex1/OpenTwit) | [Link](https://github.com/Abhi-Flex1/OpenTwit/blob/main/README.md) | 鸿蒙原生 X 客户端，含时间线与私信。 | 09-11 |
 | [Kazumi](https://github.com/ErBWs/Kazumi) | [Link](https://github.com/ErBWs/Kazumi/releases) | 基于自定义规则的番剧聚合观看应用，支持Anime4K超分辨率。 | 09-07 |

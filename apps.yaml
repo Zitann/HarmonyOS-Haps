@@ -183,6 +183,21 @@ categories:
       link: https://github.com/Abhi-Flex1/OpenTwit/blob/main/README.md
       desc: 鸿蒙原生 X 客户端，含时间线与私信。
       time: 09-11
+    - name: 轻启
+      url: https://github.com/thx853068675-dev/quietstart
+      link: https://github.com/thx853068675-dev/quietstart/releases
+      desc: HarmonyOS 应用侧载签名与安装助手。
+      time: 09-16
+    - name: Aira
+      url: https://github.com/mason173/aira-browser
+      link: https://github.com/mason173/aira-browser/releases
+      desc: 开源的鸿蒙 NEXT 浏览器。
+      time: 09-14
+    - name: Harmony X
+      url: https://github.com/haohaoai0/HarmonyX
+      link: https://github.com/haohaoai0/HarmonyX/releases
+      desc: 面向 HarmonyOS 的原生 X 客户端。
+      time: 09-13
   鸿蒙手机/平板:
     - name: SSRVPN
       url: https://github.com/xiaoli8571/SSRVPN_Harmony
