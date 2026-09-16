@@ -49,8 +49,8 @@ def sort_key(app):
 
 def render_table(apps: list) -> str:
     """渲染某个分类的完整 markdown 表格（含标题行、分隔行、数据行）。"""
-    header = "| 软件     | 下载链接            | 描述                                                         | 更新                                                 |"
-    sep = "| ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |"
+    header = "| 软件 | 描述 | 下载链接 | 更新 |"
+    sep = "| --- | --- | --- | --- |"
     lines = [header, sep]
     for app in apps:
         name = app["name"]
@@ -59,7 +59,7 @@ def render_table(apps: list) -> str:
         desc = app["desc"]
         time = app["time"]
         lines.append(
-            f"| [{name}]({url}) | [Link]({link}) | {desc} | {time} |"
+            f"| [{name}]({url}) | {desc} | [Link]({link}) | {time} |"
         )
     return "\n".join(lines) + "\n"
 
