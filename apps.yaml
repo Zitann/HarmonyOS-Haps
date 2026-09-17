@@ -218,7 +218,7 @@ categories:
       url: https://github.com/fe-spark/EcoHub-for-OHOS
       link: https://github.com/fe-spark/EcoHub-for-OHOS/releases
       desc: 自托管影视聚合服务 EcoHub 的鸿蒙客户端，连接自建服务观看影视。
-      time: 09-10
+      time: 09-17
     - name: Homowarden
       url: https://github.com/DreamistW/Homowarden
       link: https://github.com/DreamistW/Homowarden/releases
@@ -268,7 +268,7 @@ categories:
       url: https://github.com/jonas-pi/FMphoto
       link: https://github.com/jonas-pi/FMphoto/releases
       desc: 用于在手机上连接飞牛 NAS，使用相册、网页入口及常见图库能力。
-      time: 09-09
+      time: 09-17
     - name: PixEz
       url: https://github.com/bgli100/pixez-flutter-ohos
       link: https://github.com/bgli100/pixez-flutter-ohos/releases
@@ -378,12 +378,12 @@ categories:
       url: https://github.com/end-web/HarmonyOS-book
       link: https://github.com/end-web/HarmonyOS-book/releases
       desc: 面向鸿蒙手机的听书与小说阅读 App。
-      time: 09-16
+      time: 09-17
     - name: HomenaPod
       url: https://github.com/TomoeMami/HomenaPod
       link: https://github.com/TomoeMami/HomenaPod/releases
       desc: AntennaPod 鸿蒙原生移植版，播客订阅与播放管理器。
-      time: 09-14
+      time: 09-17
   鸿蒙电脑:
     - name: Servo
       url: https://github.com/servo/servo

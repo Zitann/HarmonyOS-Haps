@@ -106,17 +106,17 @@
 
 | 软件 | 描述 | 下载链接 | 更新 |
 | --- | --- | --- | --- |
+| [EcoHub](https://github.com/fe-spark/EcoHub-for-OHOS) | 自托管影视聚合服务 EcoHub 的鸿蒙客户端，连接自建服务观看影视。 | [Link](https://github.com/fe-spark/EcoHub-for-OHOS/releases) | 09-17 |
+| [FMphoto](https://github.com/jonas-pi/FMphoto) | 用于在手机上连接飞牛 NAS，使用相册、网页入口及常见图库能力。 | [Link](https://github.com/jonas-pi/FMphoto/releases) | 09-17 |
+| [简·欢](https://github.com/end-web/HarmonyOS-book) | 面向鸿蒙手机的听书与小说阅读 App。 | [Link](https://github.com/end-web/HarmonyOS-book/releases) | 09-17 |
+| [HomenaPod](https://github.com/TomoeMami/HomenaPod) | AntennaPod 鸿蒙原生移植版，播客订阅与播放管理器。 | [Link](https://github.com/TomoeMami/HomenaPod/releases) | 09-17 |
 | [SSRVPN](https://github.com/xiaoli8571/SSRVPN_Harmony) | 鸿蒙原生代理客户端，基于 Mihomo 内核。 | [Link](https://github.com/xiaoli8571/SSRVPN_Harmony/releases) | 09-16 |
 | [NekoBox4Harmony](https://github.com/xiaoli8571/NekoBox4Harmony) | 基于sing-box内核的鸿蒙VPN客户端，支持多协议与订阅。 | [Link](https://github.com/xiaoli8571/NekoBox4Harmony/releases) | 09-16 |
-| [简·欢](https://github.com/end-web/HarmonyOS-book) | 面向鸿蒙手机的听书与小说阅读 App。 | [Link](https://github.com/end-web/HarmonyOS-book/releases) | 09-16 |
 | [CalculatorX](https://github.com/StartYR/CalculatorX) | 一款支持符号计算、微积分、矩阵、方程求解与函数图像的原生科学计算器。 | [Link](https://github.com/StartYR/CalculatorX/releases) | 09-14 |
-| [HomenaPod](https://github.com/TomoeMami/HomenaPod) | AntennaPod 鸿蒙原生移植版，播客订阅与播放管理器。 | [Link](https://github.com/TomoeMami/HomenaPod/releases) | 09-14 |
 | [NextE](https://github.com/erosTeam/NextE) | 鸿蒙原生E-Hentai/ExHentai客户端，支持画廊浏览与下载。 | [Link](https://github.com/erosTeam/NextE/releases) | 09-12 |
 | [TiebaLite](https://github.com/137458/tieba-lite-harmony) | 鸿蒙第三方百度贴吧客户端，支持浏览、搜索与回帖。 | [Link](https://github.com/137458/tieba-lite-harmony/releases) | 09-11 |
 | [Petrelgram](https://github.com/miramira8295/Petrelgram) | 第三方✈鸿蒙版，基于 TDLib 的 Telegram 客户端，支持多账号与音视频通话。 | [Link](https://github.com/miramira8295/Petrelgram/releases) | 09-11 |
-| [EcoHub](https://github.com/fe-spark/EcoHub-for-OHOS) | 自托管影视聚合服务 EcoHub 的鸿蒙客户端，连接自建服务观看影视。 | [Link](https://github.com/fe-spark/EcoHub-for-OHOS/releases) | 09-10 |
 | [开源阅读](https://github.com/mgz0227/legado-Harmony) | 一款支持自定义书源规则，可抓取任意网页内容进行阅读的开源应用。 | [Link](https://github.com/mgz0227/legado-Harmony/releases) | 09-09 |
-| [FMphoto](https://github.com/jonas-pi/FMphoto) | 用于在手机上连接飞牛 NAS，使用相册、网页入口及常见图库能力。 | [Link](https://github.com/jonas-pi/FMphoto/releases) | 09-09 |
 | [Homowarden](https://github.com/DreamistW/Homowarden) | 鸿蒙版Bitwarden密码管理器，支持自托管服务器。 | [Link](https://github.com/DreamistW/Homowarden/releases) | 09-08 |
 | [PixEz](https://github.com/bgli100/pixez-flutter-ohos) | 一款支持免代理直连及查看动图的第三方Pixiv flutter客户端 | [Link](https://github.com/bgli100/pixez-flutter-ohos/releases) | 09-07 |
 | [Kelivo](https://github.com/Chevey339/kelivo) | 一个Flutter LLM聊天客户端。支持Android、iOS和Harmony Next。 | [Link](https://github.com/Chevey339/kelivo/releases) | 09-06 |
