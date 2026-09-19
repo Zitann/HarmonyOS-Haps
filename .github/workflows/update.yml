@@ -1,7 +1,8 @@
 name: Update
 on:
   schedule:
-    - cron: "0 4 * * *"
+    - cron: "34 12 * * *"
+      timezone: "Asia/Shanghai"
 
 jobs:
   build:
