@@ -198,6 +198,21 @@ categories:
       link: https://github.com/haohaoai0/HarmonyX/releases
       desc: 面向 HarmonyOS 的原生 X 客户端。
       time: 09-13
+    - name: 鸿米家
+      url: https://github.com/MrCashmere/miha_hm
+      link: https://github.com/MrCashmere/miha_hm/releases
+      desc: 基于鸿蒙NEXT原生开发的小米米家设备控制应用。
+      time: 09-14
+    - name: HX360E
+      url: https://github.com/1440196924/HX360E
+      link: https://github.com/1440196924/HX360E/releases
+      desc: 在鸿蒙上运行Xbox 360游戏的模拟器前端。
+      time: 09-18
+    - name: MR
+      url: https://github.com/DandanLLab/mr
+      link: https://github.com/DandanLLab/mr/releases
+      desc: 基于Flutter的跨平台多媒体阅读器，兼容阅读书源规则。
+      time: 09-12
   鸿蒙手机/平板:
     - name: SSRVPN
       url: https://github.com/xiaoli8571/SSRVPN_Harmony

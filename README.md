@@ -63,15 +63,18 @@
 | 软件 | 描述 | 下载链接 | 更新 |
 | --- | --- | --- | --- |
 | [Zhihu++](https://github.com/zhuoyi233/zhihu-plus-plus-HMOS) | Zhihu++ 鸿蒙原生版，注重隐私与去广告的知乎客户端。 | [Link](https://github.com/zhuoyi233/zhihu-plus-plus-HMOS/releases) | 09-18 |
+| [HX360E](https://github.com/1440196924/HX360E) | 在鸿蒙上运行Xbox 360游戏的模拟器前端。 | [Link](https://github.com/1440196924/HX360E/releases) | 09-18 |
 | [Aira](https://github.com/mason173/aira-browser) | 开源的鸿蒙 NEXT 浏览器。 | [Link](https://github.com/mason173/aira-browser/releases) | 09-17 |
 | [轻启](https://github.com/thx853068675-dev/quietstart) | HarmonyOS 应用侧载签名与安装助手。 | [Link](https://github.com/thx853068675-dev/quietstart/releases) | 09-16 |
 | [PiliPlus](https://github.com/dev4harmony/PiliPlus) | BiliBili第三方客户端 | [Link](https://github.com/dev4harmony/PiliPlus/releases) | 09-15 |
 | [WineHua](https://github.com/winehua/WineHua) | 在鸿蒙上运行Windows程序的兼容层工具。 | [Link](https://github.com/winehua/WineHua/releases) | 09-15 |
 | [AniCh](https://github.com/Sle2p/AniCh) | 多番剧源的在线动漫弹幕应用，支持超分辨率与离线缓存。 | [Link](https://github.com/Sle2p/AniCh/releases) | 09-15 |
 | [S1-Orange](https://github.com/wly5556/S1-Orange) | 一款专为鸿蒙Next平台开发的 stage1st.com 论坛移动客户端。 | [Link](https://github.com/wly5556/S1-Orange/releases) | 09-15 |
+| [鸿米家](https://github.com/MrCashmere/miha_hm) | 基于鸿蒙NEXT原生开发的小米米家设备控制应用。 | [Link](https://github.com/MrCashmere/miha_hm/releases) | 09-14 |
 | [NextN](https://github.com/erosTeam/NextN) | 一款原生 HarmonyOS NEXT 的 nhentai 非官方客户端，支持画廊浏览、搜索、标签翻译与下载。 | [Link](https://github.com/erosTeam/NextN/releases) | 09-13 |
 | [JMComic](https://github.com/YuanChu-Tec/JMComic-HarmonyOS) | 漫画阅读工具 | [Link](https://github.com/YuanChu-Tec/JMComic-HarmonyOS/releases) | 09-13 |
 | [Harmony X](https://github.com/haohaoai0/HarmonyX) | 面向 HarmonyOS 的原生 X 客户端。 | [Link](https://github.com/haohaoai0/HarmonyX/releases) | 09-13 |
+| [MR](https://github.com/DandanLLab/mr) | 基于Flutter的跨平台多媒体阅读器，兼容阅读书源规则。 | [Link](https://github.com/DandanLLab/mr/releases) | 09-12 |
 | [OpenTwit](https://github.com/Abhi-Flex1/OpenTwit) | 鸿蒙原生 X 客户端，含时间线与私信。 | [Link](https://github.com/Abhi-Flex1/OpenTwit/blob/main/README.md) | 09-11 |
 | [Kazumi](https://github.com/ErBWs/Kazumi) | 基于自定义规则的番剧聚合观看应用，支持Anime4K超分辨率。 | [Link](https://github.com/ErBWs/Kazumi/releases) | 09-07 |
 | [YourPipe](https://github.com/Ember5843/YourPipe) | 基于NewPipe Extractor的鸿蒙YouTube客户端 | [Link](https://github.com/Ember5843/YourPipe/releases) | 09-07 |
