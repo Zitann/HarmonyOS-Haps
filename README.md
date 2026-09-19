@@ -65,7 +65,7 @@
 | [Zhihu++](https://github.com/zhuoyi233/zhihu-plus-plus-HMOS) | Zhihu++ 鸿蒙原生版，注重隐私与去广告的知乎客户端。 | [Link](https://github.com/zhuoyi233/zhihu-plus-plus-HMOS/releases) | 09-18 |
 | [HX360E](https://github.com/1440196924/HX360E) | 在鸿蒙上运行Xbox 360游戏的模拟器前端。 | [Link](https://github.com/1440196924/HX360E/releases) | 09-18 |
 | [Aira](https://github.com/mason173/aira-browser) | 开源的鸿蒙 NEXT 浏览器。 | [Link](https://github.com/mason173/aira-browser/releases) | 09-17 |
-| [轻启](https://github.com/thx853068675-dev/quietstart) | HarmonyOS 应用侧载签名与安装助手。 | [Link](https://github.com/thx853068675-dev/quietstart/releases) | 09-16 |
+| [轻启](https://github.com/thx853068675-dev/quietstart) | 鸿蒙原生页面控件识别工具，自动跳过广告开屏。 | [Link](https://github.com/thx853068675-dev/quietstart/releases) | 09-16 |
 | [PiliPlus](https://github.com/dev4harmony/PiliPlus) | BiliBili第三方客户端 | [Link](https://github.com/dev4harmony/PiliPlus/releases) | 09-15 |
 | [WineHua](https://github.com/winehua/WineHua) | 在鸿蒙上运行Windows程序的兼容层工具。 | [Link](https://github.com/winehua/WineHua/releases) | 09-15 |
 | [AniCh](https://github.com/Sle2p/AniCh) | 多番剧源的在线动漫弹幕应用，支持超分辨率与离线缓存。 | [Link](https://github.com/Sle2p/AniCh/releases) | 09-15 |

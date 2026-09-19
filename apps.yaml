@@ -186,7 +186,7 @@ categories:
     - name: 轻启
       url: https://github.com/thx853068675-dev/quietstart
       link: https://github.com/thx853068675-dev/quietstart/releases
-      desc: HarmonyOS 应用侧载签名与安装助手。
+      desc: 鸿蒙原生页面控件识别工具，自动跳过广告开屏。
       time: 09-16
     - name: Aira
       url: https://github.com/mason173/aira-browser
