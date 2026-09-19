@@ -42,7 +42,7 @@ categories:
       url: https://github.com/tljk/FlClash-ohos
       link: https://github.com/tljk/FlClash-ohos/releases
       desc: 基于ClashMeta的多平台代理客户端。
-      time: 09-06
+      time: 09-18
     - name: Kazumi
       url: https://github.com/ErBWs/Kazumi
       link: https://github.com/ErBWs/Kazumi/releases
@@ -218,7 +218,7 @@ categories:
       url: https://github.com/xiaoli8571/SSRVPN_Harmony
       link: https://github.com/xiaoli8571/SSRVPN_Harmony/releases
       desc: 鸿蒙原生代理客户端，基于 Mihomo 内核。
-      time: 09-18
+      time: 09-19
     - name: 聚映
       url: https://github.com/yabi-zzh/livify-ohos
       link: https://github.com/yabi-zzh/livify-ohos/releases
@@ -278,7 +278,7 @@ categories:
       url: https://github.com/StartYR/CalculatorX
       link: https://github.com/StartYR/CalculatorX/releases
       desc: 一款支持符号计算、微积分、矩阵、方程求解与函数图像的原生科学计算器。
-      time: 09-14
+      time: 09-18
     - name: 飞马相册
       url: https://github.com/jonas-pi/FMphoto
       link: https://github.com/jonas-pi/FMphoto/releases
@@ -398,7 +398,7 @@ categories:
       url: https://github.com/TomoeMami/HomenaPod
       link: https://github.com/TomoeMami/HomenaPod/releases
       desc: AntennaPod 鸿蒙原生移植版，播客订阅与播放管理器。
-      time: 09-17
+      time: 09-18
     - name: 微博Pura
       url: https://github.com/haohaoai0/WeiboPura
       link: https://github.com/haohaoai0/WeiboPura/releases
