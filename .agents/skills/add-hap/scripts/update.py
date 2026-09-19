@@ -111,14 +111,26 @@ def collect_updates() -> list:
 
 
 def report(updated_apps: list):
-    """向订阅者广播更新通知，失败不阻断主流程。"""
+    """向订阅者广播更新通知，格式 C：emoji 标题 + 列表（名字：描述）。失败不阻断主流程。"""
     if not updated_apps:
         print("本次无可广播通知的应用（仅 release 更新会广播）")
         return
-    apps_str = ", ".join(updated_apps)
-    msg = f"本次更新 {len(updated_apps)} 个应用：{apps_str}"
+    import yaml
+
+    with open(APPS_YAML, "r", encoding="utf-8") as f:
+        data = yaml.safe_load(f)
+    desc_map = {
+        app.get("name", ""): app.get("desc", "")
+        for apps in (data.get("categories") or {}).values()
+        for app in (apps or [])
+    }
+    lines = ["🔄 应用更新"]
+    for name in updated_apps:
+        desc = desc_map.get(name, "")
+        lines.append(f"· {name}：{desc}")
+    msg = "\n".join(lines)
     if send_broadcast(msg):
-        print(f"已广播更新通知，更新应用: {apps_str}")
+        print(f"已广播更新通知，更新应用: {', '.join(updated_apps)}")
 
 
 def main():
