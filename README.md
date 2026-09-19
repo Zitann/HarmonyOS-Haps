@@ -112,6 +112,7 @@
 | [SSRVPN](https://github.com/xiaoli8571/SSRVPN_Harmony) | 鸿蒙原生代理客户端，基于 Mihomo 内核。 | [Link](https://github.com/xiaoli8571/SSRVPN_Harmony/releases) | 09-18 |
 | [NekoBox](https://github.com/xiaoli8571/NekoBox4Harmony) | 基于sing-box内核的鸿蒙VPN客户端，支持多协议与订阅。 | [Link](https://github.com/xiaoli8571/NekoBox4Harmony/releases) | 09-18 |
 | [飞马相册](https://github.com/jonas-pi/FMphoto) | 用于在手机上连接飞牛 NAS，使用相册、网页入口及常见图库能力。 | [Link](https://github.com/jonas-pi/FMphoto/releases) | 09-18 |
+| [微博Pura](https://github.com/haohaoai0/WeiboPura) | 面向 HarmonyOS 的原生微博浏览客户端。 | [Link](https://github.com/haohaoai0/WeiboPura/releases) | 09-18 |
 | [EcoHub](https://github.com/fe-spark/EcoHub-for-OHOS) | 自托管影视聚合服务 EcoHub 的鸿蒙客户端，连接自建服务观看影视。 | [Link](https://github.com/fe-spark/EcoHub-for-OHOS/releases) | 09-17 |
 | [Petrelgram](https://github.com/miramira8295/Petrelgram) | 第三方✈鸿蒙版，基于 TDLib 的 Telegram 客户端，支持多账号与音视频通话。 | [Link](https://github.com/miramira8295/Petrelgram/releases) | 09-17 |
 | [简听](https://github.com/end-web/HarmonyOS-book) | 面向鸿蒙手机的听书与小说阅读 App。 | [Link](https://github.com/end-web/HarmonyOS-book/releases) | 09-17 |

@@ -399,6 +399,11 @@ categories:
       link: https://github.com/TomoeMami/HomenaPod/releases
       desc: AntennaPod 鸿蒙原生移植版，播客订阅与播放管理器。
       time: 09-17
+    - name: 微博Pura
+      url: https://github.com/haohaoai0/WeiboPura
+      link: https://github.com/haohaoai0/WeiboPura/releases
+      desc: 面向 HarmonyOS 的原生微博浏览客户端。
+      time: 09-18
   鸿蒙电脑:
     - name: Servo
       url: https://github.com/servo/servo
