@@ -3,6 +3,16 @@
 # - name: 显示名  url: 项目主页  link: 下载页  desc: 一句话描述  time: 更新时间(MM-DD 或 YYYY-MM-DD)
 categories:
   一次开发，多端部署:
+    - name: LNGA
+      url: https://github.com/apap6628114/lnga_harmony
+      link: https://github.com/apap6628114/lnga_harmony/releases
+      desc: NGA玩家社区鸿蒙原生客户端，支持板块浏览、帖子阅读、发帖回复与私信聊天。
+      time: 09-19
+    - name: MindustryArk
+      url: https://github.com/haohandc/MindustryArk
+      link: https://github.com/haohandc/MindustryArk/releases
+      desc: 在鸿蒙上运行Mindustry游戏的自建启动器，内嵌JDK与SDL3窗口。
+      time: 09-20
     - name: 冲浪喵
       url: https://github.com/awaLiny2333/LinysBrowser_NEXT
       link: https://github.com/awaLiny2333/LinysBrowser_NEXT/releases

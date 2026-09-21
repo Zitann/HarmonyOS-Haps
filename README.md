@@ -62,6 +62,8 @@
 
 | 软件 | 描述 | 下载链接 | 更新 |
 | --- | --- | --- | --- |
+| [MindustryArk](https://github.com/haohandc/MindustryArk) | 在鸿蒙上运行Mindustry游戏的自建启动器，内嵌JDK与SDL3窗口。 | [Link](https://github.com/haohandc/MindustryArk/releases) | 09-20 |
+| [LNGA](https://github.com/apap6628114/lnga_harmony) | NGA玩家社区鸿蒙原生客户端，支持板块浏览、帖子阅读、发帖回复与私信聊天。 | [Link](https://github.com/apap6628114/lnga_harmony/releases) | 09-19 |
 | [Aira](https://github.com/mason173/aira-browser) | 开源的鸿蒙 NEXT 浏览器。 | [Link](https://github.com/mason173/aira-browser/releases) | 09-19 |
 | [知乎++](https://github.com/zhuoyi233/zhihu-plus-plus-HMOS) | 知乎++ 鸿蒙原生版，注重隐私与去广告的知乎客户端。 | [Link](https://github.com/zhuoyi233/zhihu-plus-plus-HMOS/releases) | 09-18 |
 | [FlClash](https://github.com/tljk/FlClash-ohos) | 基于ClashMeta的多平台代理客户端。 | [Link](https://github.com/tljk/FlClash-ohos/releases) | 09-18 |
