@@ -12,7 +12,7 @@ categories:
       url: https://github.com/haohandc/MindustryArk
       link: https://github.com/haohandc/MindustryArk/releases
       desc: 在鸿蒙上运行Mindustry游戏的自建启动器，内嵌JDK与SDL3窗口。
-      time: 09-20
+      time: 09-21
     - name: 冲浪喵
       url: https://github.com/awaLiny2333/LinysBrowser_NEXT
       link: https://github.com/awaLiny2333/LinysBrowser_NEXT/releases
@@ -37,7 +37,7 @@ categories:
       url: https://github.com/zhuoyi233/zhihu-plus-plus-HMOS
       link: https://github.com/zhuoyi233/zhihu-plus-plus-HMOS/releases
       desc: 知乎++ 鸿蒙原生版，注重隐私与去广告的知乎客户端。
-      time: 09-18
+      time: 09-20
     - name: Melotopia
       url: https://github.com/Chenlvin/Melotopia-HMOS
       link: https://github.com/Chenlvin/Melotopia-HMOS/releases
@@ -202,7 +202,7 @@ categories:
       url: https://github.com/mason173/aira-browser
       link: https://github.com/mason173/aira-browser/releases
       desc: 开源的鸿蒙 NEXT 浏览器。
-      time: 09-19
+      time: 09-21
     - name: Harmony X
       url: https://github.com/haohaoai0/HarmonyX
       link: https://github.com/haohaoai0/HarmonyX/releases
@@ -403,12 +403,12 @@ categories:
       url: https://github.com/end-web/HarmonyOS-book
       link: https://github.com/end-web/HarmonyOS-book/releases
       desc: 面向鸿蒙手机的听书与小说阅读 App。
-      time: 09-17
+      time: 09-21
     - name: HomenaPod
       url: https://github.com/TomoeMami/HomenaPod
       link: https://github.com/TomoeMami/HomenaPod/releases
       desc: AntennaPod 鸿蒙原生移植版，播客订阅与播放管理器。
-      time: 09-19
+      time: 09-20
     - name: 微博Pura
       url: https://github.com/haohaoai0/WeiboPura
       link: https://github.com/haohaoai0/WeiboPura/releases

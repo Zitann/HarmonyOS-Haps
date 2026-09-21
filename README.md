@@ -62,10 +62,10 @@
 
 | 软件 | 描述 | 下载链接 | 更新 |
 | --- | --- | --- | --- |
-| [MindustryArk](https://github.com/haohandc/MindustryArk) | 在鸿蒙上运行Mindustry游戏的自建启动器，内嵌JDK与SDL3窗口。 | [Link](https://github.com/haohandc/MindustryArk/releases) | 09-20 |
+| [MindustryArk](https://github.com/haohandc/MindustryArk) | 在鸿蒙上运行Mindustry游戏的自建启动器，内嵌JDK与SDL3窗口。 | [Link](https://github.com/haohandc/MindustryArk/releases) | 09-21 |
+| [Aira](https://github.com/mason173/aira-browser) | 开源的鸿蒙 NEXT 浏览器。 | [Link](https://github.com/mason173/aira-browser/releases) | 09-21 |
+| [知乎++](https://github.com/zhuoyi233/zhihu-plus-plus-HMOS) | 知乎++ 鸿蒙原生版，注重隐私与去广告的知乎客户端。 | [Link](https://github.com/zhuoyi233/zhihu-plus-plus-HMOS/releases) | 09-20 |
 | [LNGA](https://github.com/apap6628114/lnga_harmony) | NGA玩家社区鸿蒙原生客户端，支持板块浏览、帖子阅读、发帖回复与私信聊天。 | [Link](https://github.com/apap6628114/lnga_harmony/releases) | 09-19 |
-| [Aira](https://github.com/mason173/aira-browser) | 开源的鸿蒙 NEXT 浏览器。 | [Link](https://github.com/mason173/aira-browser/releases) | 09-19 |
-| [知乎++](https://github.com/zhuoyi233/zhihu-plus-plus-HMOS) | 知乎++ 鸿蒙原生版，注重隐私与去广告的知乎客户端。 | [Link](https://github.com/zhuoyi233/zhihu-plus-plus-HMOS/releases) | 09-18 |
 | [FlClash](https://github.com/tljk/FlClash-ohos) | 基于ClashMeta的多平台代理客户端。 | [Link](https://github.com/tljk/FlClash-ohos/releases) | 09-18 |
 | [HX360E](https://github.com/1440196924/HX360E) | 在鸿蒙上运行Xbox 360游戏的模拟器前端。 | [Link](https://github.com/1440196924/HX360E/releases) | 09-18 |
 | [轻启](https://github.com/thx853068675-dev/quietstart) | 鸿蒙原生页面控件识别工具，自动跳过广告开屏。 | [Link](https://github.com/thx853068675-dev/quietstart/releases) | 09-16 |
@@ -111,15 +111,15 @@
 
 | 软件 | 描述 | 下载链接 | 更新 |
 | --- | --- | --- | --- |
+| [简听](https://github.com/end-web/HarmonyOS-book) | 面向鸿蒙手机的听书与小说阅读 App。 | [Link](https://github.com/end-web/HarmonyOS-book/releases) | 09-21 |
+| [HomenaPod](https://github.com/TomoeMami/HomenaPod) | AntennaPod 鸿蒙原生移植版，播客订阅与播放管理器。 | [Link](https://github.com/TomoeMami/HomenaPod/releases) | 09-20 |
 | [SSRVPN](https://github.com/xiaoli8571/SSRVPN_Harmony) | 鸿蒙原生代理客户端，基于 Mihomo 内核。 | [Link](https://github.com/xiaoli8571/SSRVPN_Harmony/releases) | 09-19 |
-| [HomenaPod](https://github.com/TomoeMami/HomenaPod) | AntennaPod 鸿蒙原生移植版，播客订阅与播放管理器。 | [Link](https://github.com/TomoeMami/HomenaPod/releases) | 09-19 |
 | [NekoBox](https://github.com/xiaoli8571/NekoBox4Harmony) | 基于sing-box内核的鸿蒙VPN客户端，支持多协议与订阅。 | [Link](https://github.com/xiaoli8571/NekoBox4Harmony/releases) | 09-18 |
 | [CalculatorX](https://github.com/StartYR/CalculatorX) | 一款支持符号计算、微积分、矩阵、方程求解与函数图像的原生科学计算器。 | [Link](https://github.com/StartYR/CalculatorX/releases) | 09-18 |
 | [飞马相册](https://github.com/jonas-pi/FMphoto) | 用于在手机上连接飞牛 NAS，使用相册、网页入口及常见图库能力。 | [Link](https://github.com/jonas-pi/FMphoto/releases) | 09-18 |
 | [微博Pura](https://github.com/haohaoai0/WeiboPura) | 面向 HarmonyOS 的原生微博浏览客户端。 | [Link](https://github.com/haohaoai0/WeiboPura/releases) | 09-18 |
 | [EcoHub](https://github.com/fe-spark/EcoHub-for-OHOS) | 自托管影视聚合服务 EcoHub 的鸿蒙客户端，连接自建服务观看影视。 | [Link](https://github.com/fe-spark/EcoHub-for-OHOS/releases) | 09-17 |
 | [Petrelgram](https://github.com/miramira8295/Petrelgram) | 第三方✈鸿蒙版，基于 TDLib 的 Telegram 客户端，支持多账号与音视频通话。 | [Link](https://github.com/miramira8295/Petrelgram/releases) | 09-17 |
-| [简听](https://github.com/end-web/HarmonyOS-book) | 面向鸿蒙手机的听书与小说阅读 App。 | [Link](https://github.com/end-web/HarmonyOS-book/releases) | 09-17 |
 | [NextE](https://github.com/erosTeam/NextE) | 鸿蒙原生E-Hentai/ExHentai客户端，支持画廊浏览与下载。 | [Link](https://github.com/erosTeam/NextE/releases) | 09-12 |
 | [贴吧 Lite](https://github.com/137458/tieba-lite-harmony) | 鸿蒙第三方百度贴吧客户端，支持浏览、搜索与回帖。 | [Link](https://github.com/137458/tieba-lite-harmony/releases) | 09-11 |
 | [开源阅读](https://github.com/mgz0227/legado-Harmony) | 一款支持自定义书源规则，可抓取任意网页内容进行阅读的开源应用。 | [Link](https://github.com/mgz0227/legado-Harmony/releases) | 09-09 |
