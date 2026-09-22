@@ -62,7 +62,7 @@
 
 | 软件 | 描述 | 下载链接 | 更新 |
 | --- | --- | --- | --- |
-| [MindustryArk](https://github.com/haohandc/MindustryArk) | 在鸿蒙上运行Mindustry游戏的自建启动器，内嵌JDK与SDL3窗口 | [Link](https://github.com/haohandc/MindustryArk/releases) | 09-21 |
+| [MindustryArk](https://github.com/haohandc/MindustryArk) | 在鸿蒙上运行Mindustry游戏的自建启动器，内嵌JDK与SDL3窗口 | [Link](https://github.com/haohandc/MindustryArk/releases) | 09-22 |
 | [Aira](https://github.com/mason173/aira-browser) | 开源的鸿蒙 NEXT 浏览器 | [Link](https://github.com/mason173/aira-browser/releases) | 09-21 |
 | [知乎++](https://github.com/zhuoyi233/zhihu-plus-plus-HMOS) | 知乎++ 鸿蒙原生版，注重隐私与去广告的知乎客户端 | [Link](https://github.com/zhuoyi233/zhihu-plus-plus-HMOS/releases) | 09-20 |
 | [LNGA](https://github.com/apap6628114/lnga_harmony) | NGA玩家社区鸿蒙原生客户端，支持板块浏览、帖子阅读、发帖回复与私信聊天 | [Link](https://github.com/apap6628114/lnga_harmony/releases) | 09-19 |
@@ -111,6 +111,8 @@
 
 | 软件 | 描述 | 下载链接 | 更新 |
 | --- | --- | --- | --- |
+| [Hey](https://github.com/popsiclelmlm/Hey) | 基于 Xray/sing-box 内核的鸿蒙原生代理客户端，安装包由第三方 fork 提供 | [Link](https://github.com/xiaoli8571/Hey/releases) | 09-22 |
+| [Scrcpy](https://github.com/LambdaYH/ScrcpyForHarmonyOS) | 鸿蒙scrcpy客户端，无线连接远程控制Android设备 | [Link](https://github.com/LambdaYH/ScrcpyForHarmonyOS/releases) | 09-21 |
 | [简听](https://github.com/end-web/HarmonyOS-book) | 面向鸿蒙手机的听书与小说阅读 App | [Link](https://github.com/end-web/HarmonyOS-book/releases) | 09-21 |
 | [HomenaPod](https://github.com/TomoeMami/HomenaPod) | AntennaPod 鸿蒙原生移植版，播客订阅与播放管理器 | [Link](https://github.com/TomoeMami/HomenaPod/releases) | 09-20 |
 | [SSRVPN](https://github.com/xiaoli8571/SSRVPN_Harmony) | 鸿蒙原生代理客户端，基于 Mihomo 内核 | [Link](https://github.com/xiaoli8571/SSRVPN_Harmony/releases) | 09-19 |
@@ -126,8 +128,6 @@
 | [Homowarden](https://github.com/DreamistW/Homowarden) | 鸿蒙版Bitwarden密码管理器，支持自托管服务器 | [Link](https://github.com/DreamistW/Homowarden/releases) | 09-08 |
 | [PixEz](https://github.com/bgli100/pixez-flutter-ohos) | 一款支持免代理直连及查看动图的第三方Pixiv flutter客户端 | [Link](https://github.com/bgli100/pixez-flutter-ohos/releases) | 09-07 |
 | [Kelivo](https://github.com/Chevey339/kelivo) | 一个Flutter LLM聊天客户端，支持Android、iOS和Harmony Next | [Link](https://github.com/Chevey339/kelivo/releases) | 09-06 |
-| [Hey](https://github.com/popsiclelmlm/Hey) | 基于 Xray/sing-box 内核的鸿蒙原生代理客户端，安装包由第三方 fork 提供 | [Link](https://github.com/xiaoli8571/Hey/releases) | 09-06 |
-| [Scrcpy](https://github.com/LambdaYH/ScrcpyForHarmonyOS) | 鸿蒙scrcpy客户端，无线连接远程控制Android设备 | [Link](https://github.com/LambdaYH/ScrcpyForHarmonyOS/releases) | 09-05 |
 | [存好](https://github.com/xiaobingtech/SaveAny) | 一款存储社交平台内容的应用 | [Link](https://appgallery.huawei.com/link/invite-test-wap?taskId=14b001cf48f4af798b231d5c7b65adfb&invitationCode=7OrWxupnK5u) | 08-30 |
 | [Pica Comic](https://github.com/nimmi114514/PicaComic_ohos) | 一款使用 Flutter 构建的多源漫画应用 | [Link](https://github.com/nimmi114514/PicaComic_ohos/releases) | 08-29 |
 | [聚映](https://github.com/yabi-zzh/livify-ohos) | 支持多平台直播观看与弹幕的鸿蒙原生聚合应用 | [Link](https://github.com/yabi-zzh/livify-ohos/releases) | 08-22 |
