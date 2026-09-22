@@ -25,7 +25,7 @@ uv run .agents/skills/add-hap/scripts/fetch_issues.py
 访问上一步确定的项目链接（用 `fetch` 工具抓取 GitHub 仓库页面和 README），收集：
 
 - **项目名**：有中文名就用中文名（通常在 README 中，或者在https://raw.githubusercontent.com/<owner>/<repo>/<branch>/AppScope/resources/base/element/string.json中），没有就用仓库英文名。
-- **项目简介**：根据 README 用中文写**一句话**简短描述软件功能（不超过 30 字左右，与表格中现有条目风格一致）。
+- **项目简介**：根据 README 用中文写**一句话**简短描述软件功能（不超过 25 字左右，与apps.yaml中现有条目风格一致）。
 
 ## 第 3 步：判断目标分类表格
 
