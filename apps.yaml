@@ -7,12 +7,12 @@ categories:
       url: https://github.com/apap6628114/lnga_harmony
       link: https://github.com/apap6628114/lnga_harmony/releases
       desc: NGA玩家社区鸿蒙原生客户端，支持板块浏览、帖子阅读、发帖回复与私信聊天
-      time: 09-19
+      time: 09-22
     - name: MindustryArk
       url: https://github.com/haohandc/MindustryArk
       link: https://github.com/haohandc/MindustryArk/releases
       desc: 在鸿蒙上运行Mindustry游戏的自建启动器，内嵌JDK与SDL3窗口
-      time: 09-22
+      time: 09-23
     - name: 冲浪喵
       url: https://github.com/awaLiny2333/LinysBrowser_NEXT
       link: https://github.com/awaLiny2333/LinysBrowser_NEXT/releases
@@ -258,7 +258,7 @@ categories:
       url: https://github.com/Chevey339/kelivo
       link: https://github.com/Chevey339/kelivo/releases
       desc: 一个Flutter LLM聊天客户端，支持Android、iOS和Harmony Next
-      time: 09-06
+      time: 09-22
     - name: Petrelgram
       url: https://github.com/miramira8295/Petrelgram
       link: https://github.com/miramira8295/Petrelgram/releases
