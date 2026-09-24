@@ -72,7 +72,7 @@ categories:
       url: https://github.com/LZZLHY/amcl
       link: https://github.com/LZZLHY/amcl/releases
       desc: 鸿蒙版全量Java版我的世界启动器
-      time: 09-02
+      time: 09-24
     - name: S1 Orange
       url: https://github.com/wly5556/S1-Orange
       link: https://github.com/wly5556/S1-Orange/releases
@@ -228,7 +228,7 @@ categories:
       url: https://github.com/xiaoli8571/SSRVPN_Harmony
       link: https://github.com/xiaoli8571/SSRVPN_Harmony/releases
       desc: 鸿蒙原生代理客户端，基于 Mihomo 内核
-      time: 09-19
+      time: 09-24
     - name: 聚映
       url: https://github.com/yabi-zzh/livify-ohos
       link: https://github.com/yabi-zzh/livify-ohos/releases
@@ -263,7 +263,7 @@ categories:
       url: https://github.com/miramira8295/Petrelgram
       link: https://github.com/miramira8295/Petrelgram/releases
       desc: 第三方✈鸿蒙版，基于 TDLib 的 Telegram 客户端，支持多账号与音视频通话
-      time: 09-17
+      time: 09-24
     - name: NekoBox
       url: https://github.com/xiaoli8571/NekoBox4Harmony
       link: https://github.com/xiaoli8571/NekoBox4Harmony/releases
