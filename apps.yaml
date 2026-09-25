@@ -12,7 +12,7 @@ categories:
       url: https://github.com/haohandc/MindustryArk
       link: https://github.com/haohandc/MindustryArk/releases
       desc: 在鸿蒙上运行Mindustry游戏的自建启动器，内嵌JDK与SDL3窗口
-      time: 09-23
+      time: 09-25
     - name: 冲浪喵
       url: https://github.com/awaLiny2333/LinysBrowser_NEXT
       link: https://github.com/awaLiny2333/LinysBrowser_NEXT/releases
@@ -197,12 +197,12 @@ categories:
       url: https://github.com/thx853068675-dev/quietstart
       link: https://github.com/thx853068675-dev/quietstart/releases
       desc: 鸿蒙原生页面控件识别工具，自动跳过广告开屏
-      time: 09-16
+      time: 09-25
     - name: Aira
       url: https://github.com/mason173/aira-browser
       link: https://github.com/mason173/aira-browser/releases
       desc: 开源的鸿蒙 NEXT 浏览器
-      time: 09-21
+      time: 09-24
     - name: Harmony X
       url: https://github.com/haohaoai0/HarmonyX
       link: https://github.com/haohaoai0/HarmonyX/releases
@@ -243,7 +243,7 @@ categories:
       url: https://github.com/fe-spark/EcoHub-for-OHOS
       link: https://github.com/fe-spark/EcoHub-for-OHOS/releases
       desc: 自托管影视聚合服务 EcoHub 的鸿蒙客户端，连接自建服务观看影视
-      time: 09-17
+      time: 09-24
     - name: Homowarden
       url: https://github.com/DreamistW/Homowarden
       link: https://github.com/DreamistW/Homowarden/releases
@@ -323,7 +323,7 @@ categories:
       url: https://github.com/ks-lm-kf/harmony-kslmkf-karing-hap
       link: https://github.com/ks-lm-kf/harmony-kslmkf-karing-hap/releases
       desc: 基于Karing/sing-box的鸿蒙代理工具，支持订阅与多协议
-      time: 08-02
+      time: 09-24
     - name: immich
       url: https://github.com/dgh1818/immich_ohos
       link: https://github.com/dgh1818/immich_ohos/releases

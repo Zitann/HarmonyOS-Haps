@@ -62,14 +62,14 @@
 
 | 软件 | 描述 | 下载链接 | 更新 |
 | --- | --- | --- | --- |
+| [MindustryArk](https://github.com/haohandc/MindustryArk) | 在鸿蒙上运行Mindustry游戏的自建启动器，内嵌JDK与SDL3窗口 | [Link](https://github.com/haohandc/MindustryArk/releases) | 09-25 |
+| [轻启](https://github.com/thx853068675-dev/quietstart) | 鸿蒙原生页面控件识别工具，自动跳过广告开屏 | [Link](https://github.com/thx853068675-dev/quietstart/releases) | 09-25 |
 | [AMCL](https://github.com/LZZLHY/amcl) | 鸿蒙版全量Java版我的世界启动器 | [Link](https://github.com/LZZLHY/amcl/releases) | 09-24 |
-| [MindustryArk](https://github.com/haohandc/MindustryArk) | 在鸿蒙上运行Mindustry游戏的自建启动器，内嵌JDK与SDL3窗口 | [Link](https://github.com/haohandc/MindustryArk/releases) | 09-23 |
+| [Aira](https://github.com/mason173/aira-browser) | 开源的鸿蒙 NEXT 浏览器 | [Link](https://github.com/mason173/aira-browser/releases) | 09-24 |
 | [LNGA](https://github.com/apap6628114/lnga_harmony) | NGA玩家社区鸿蒙原生客户端，支持板块浏览、帖子阅读、发帖回复与私信聊天 | [Link](https://github.com/apap6628114/lnga_harmony/releases) | 09-22 |
-| [Aira](https://github.com/mason173/aira-browser) | 开源的鸿蒙 NEXT 浏览器 | [Link](https://github.com/mason173/aira-browser/releases) | 09-21 |
 | [知乎++](https://github.com/zhuoyi233/zhihu-plus-plus-HMOS) | 知乎++ 鸿蒙原生版，注重隐私与去广告的知乎客户端 | [Link](https://github.com/zhuoyi233/zhihu-plus-plus-HMOS/releases) | 09-20 |
 | [FlClash](https://github.com/tljk/FlClash-ohos) | 基于ClashMeta的多平台代理客户端 | [Link](https://github.com/tljk/FlClash-ohos/releases) | 09-18 |
 | [HX360E](https://github.com/1440196924/HX360E) | 在鸿蒙上运行Xbox 360游戏的模拟器前端 | [Link](https://github.com/1440196924/HX360E/releases) | 09-18 |
-| [轻启](https://github.com/thx853068675-dev/quietstart) | 鸿蒙原生页面控件识别工具，自动跳过广告开屏 | [Link](https://github.com/thx853068675-dev/quietstart/releases) | 09-16 |
 | [PiliPlus](https://github.com/dev4harmony/PiliPlus) | BiliBili第三方客户端 | [Link](https://github.com/dev4harmony/PiliPlus/releases) | 09-15 |
 | [万花](https://github.com/winehua/WineHua) | 在鸿蒙上运行Windows程序的兼容层工具 | [Link](https://github.com/winehua/WineHua/releases) | 09-15 |
 | [AniCh](https://github.com/Sle2p/AniCh) | 多番剧源的在线动漫弹幕应用，支持超分辨率与离线缓存 | [Link](https://github.com/Sle2p/AniCh/releases) | 09-15 |
@@ -112,7 +112,9 @@
 | 软件 | 描述 | 下载链接 | 更新 |
 | --- | --- | --- | --- |
 | [SSRVPN](https://github.com/xiaoli8571/SSRVPN_Harmony) | 鸿蒙原生代理客户端，基于 Mihomo 内核 | [Link](https://github.com/xiaoli8571/SSRVPN_Harmony/releases) | 09-24 |
+| [EcoHub](https://github.com/fe-spark/EcoHub-for-OHOS) | 自托管影视聚合服务 EcoHub 的鸿蒙客户端，连接自建服务观看影视 | [Link](https://github.com/fe-spark/EcoHub-for-OHOS/releases) | 09-24 |
 | [Petrelgram](https://github.com/miramira8295/Petrelgram) | 第三方✈鸿蒙版，基于 TDLib 的 Telegram 客户端，支持多账号与音视频通话 | [Link](https://github.com/miramira8295/Petrelgram/releases) | 09-24 |
+| [Karing](https://github.com/ks-lm-kf/harmony-kslmkf-karing-hap) | 基于Karing/sing-box的鸿蒙代理工具，支持订阅与多协议 | [Link](https://github.com/ks-lm-kf/harmony-kslmkf-karing-hap/releases) | 09-24 |
 | [Kelivo](https://github.com/Chevey339/kelivo) | 一个Flutter LLM聊天客户端，支持Android、iOS和Harmony Next | [Link](https://github.com/Chevey339/kelivo/releases) | 09-22 |
 | [Hey](https://github.com/popsiclelmlm/Hey) | 基于 Xray/sing-box 内核的鸿蒙原生代理客户端，安装包由第三方 fork 提供 | [Link](https://github.com/xiaoli8571/Hey/releases) | 09-22 |
 | [Scrcpy](https://github.com/LambdaYH/ScrcpyForHarmonyOS) | 鸿蒙scrcpy客户端，无线连接远程控制Android设备 | [Link](https://github.com/LambdaYH/ScrcpyForHarmonyOS/releases) | 09-21 |
@@ -122,7 +124,6 @@
 | [CalculatorX](https://github.com/StartYR/CalculatorX) | 一款支持符号计算、微积分、矩阵、方程求解与函数图像的原生科学计算器 | [Link](https://github.com/StartYR/CalculatorX/releases) | 09-18 |
 | [飞马相册](https://github.com/jonas-pi/FMphoto) | 用于在手机上连接飞牛 NAS，使用相册、网页入口及常见图库能力 | [Link](https://github.com/jonas-pi/FMphoto/releases) | 09-18 |
 | [微博Pura](https://github.com/haohaoai0/WeiboPura) | 面向 HarmonyOS 的原生微博浏览客户端 | [Link](https://github.com/haohaoai0/WeiboPura/releases) | 09-18 |
-| [EcoHub](https://github.com/fe-spark/EcoHub-for-OHOS) | 自托管影视聚合服务 EcoHub 的鸿蒙客户端，连接自建服务观看影视 | [Link](https://github.com/fe-spark/EcoHub-for-OHOS/releases) | 09-17 |
 | [NextE](https://github.com/erosTeam/NextE) | 鸿蒙原生E-Hentai/ExHentai客户端，支持画廊浏览与下载 | [Link](https://github.com/erosTeam/NextE/releases) | 09-12 |
 | [贴吧 Lite](https://github.com/137458/tieba-lite-harmony) | 鸿蒙第三方百度贴吧客户端，支持浏览、搜索与回帖 | [Link](https://github.com/137458/tieba-lite-harmony/releases) | 09-11 |
 | [开源阅读](https://github.com/mgz0227/legado-Harmony) | 一款支持自定义书源规则，可抓取任意网页内容进行阅读的开源应用 | [Link](https://github.com/mgz0227/legado-Harmony/releases) | 09-09 |
@@ -133,7 +134,6 @@
 | [聚映](https://github.com/yabi-zzh/livify-ohos) | 支持多平台直播观看与弹幕的鸿蒙原生聚合应用 | [Link](https://github.com/yabi-zzh/livify-ohos/releases) | 08-22 |
 | [ArkDO](https://github.com/EnjoySR/ArkDO) | LINUX DO 社区的第三方鸿蒙原生客户端 | [Link](https://github.com/EnjoySR/ArkDO/releases) | 08-11 |
 | [Next2V](https://github.com/honjow/Next2V) | 一款面向 HarmonyOS 的原生 V2EX 第三方客户端，支持主题浏览、回复发帖、节点发现与搜索 | [Link](https://github.com/honjow/Next2V/releases) | 08-09 |
-| [Karing](https://github.com/ks-lm-kf/harmony-kslmkf-karing-hap) | 基于Karing/sing-box的鸿蒙代理工具，支持订阅与多协议 | [Link](https://github.com/ks-lm-kf/harmony-kslmkf-karing-hap/releases) | 08-02 |
 | [immich](https://github.com/dgh1818/immich_ohos) | 一款连接 Immich 私人照片和视频备份服务器的鸿蒙客户端，用于在鸿蒙设备上浏览和管理个人媒体库 | [Link](https://github.com/dgh1818/immich_ohos/releases) | 07-28 |
 | [Ohentai](https://github.com/Ibukitofu/Ohentai) | 一款专为鸿蒙原生开发的 E-Hentai 浏览工具，支持画廊浏览、阅读与标签翻译 | [Link](https://github.com/Ibukitofu/Ohentai/releases) | 06-13 |
 | [刷题宝](https://github.com/xiaomoHM/ShuaTi) | 离线刷题应用，支持多套试卷、错题本与随机练习 | [Link](https://github.com/xiaomoHM/ShuaTi/releases) | 06-10 |
