@@ -224,11 +224,11 @@ categories:
       desc: 基于Flutter的跨平台多媒体阅读器，兼容阅读书源规则
       time: 09-12
   鸿蒙手机/平板:
-    - name: SSRVPN
-      url: https://github.com/xiaoli8571/SSRVPN_Harmony
-      link: https://github.com/xiaoli8571/SSRVPN_Harmony/releases
-      desc: 鸿蒙原生代理客户端，基于 Mihomo 内核
-      time: 09-24
+    - name: Nexus
+      url: https://github.com/xiaoli8571/Nexus-VPN-HarmonyOS
+      link: https://github.com/xiaoli8571/Nexus-VPN-HarmonyOS/releases
+      desc: 鸿蒙原生代理客户端，Mihomo 内核进程内嵌 TUN
+      time: 09-26
     - name: 聚映
       url: https://github.com/yabi-zzh/livify-ohos
       link: https://github.com/yabi-zzh/livify-ohos/releases
