@@ -12,7 +12,7 @@ categories:
       url: https://github.com/haohandc/MindustryArk
       link: https://github.com/haohandc/MindustryArk/releases
       desc: 在鸿蒙上运行Mindustry游戏的自建启动器，内嵌JDK与SDL3窗口
-      time: 09-25
+      time: 09-28
     - name: 冲浪喵
       url: https://github.com/awaLiny2333/LinysBrowser_NEXT
       link: https://github.com/awaLiny2333/LinysBrowser_NEXT/releases
@@ -47,7 +47,7 @@ categories:
       url: https://github.com/cnctem/PiliPlusX
       link: https://github.com/cnctem/PiliPlusX/releases
       desc: 基于Flutter开发的B站第三方客户端
-      time: 08-31
+      time: 09-27
     - name: FlClash
       url: https://github.com/tljk/FlClash-ohos
       link: https://github.com/tljk/FlClash-ohos/releases
@@ -202,7 +202,7 @@ categories:
       url: https://github.com/mason173/aira-browser
       link: https://github.com/mason173/aira-browser/releases
       desc: 开源的鸿蒙 NEXT 浏览器
-      time: 09-26
+      time: 09-28
     - name: Harmony X
       url: https://github.com/haohaoai0/HarmonyX
       link: https://github.com/haohaoai0/HarmonyX/releases
@@ -408,7 +408,7 @@ categories:
       url: https://github.com/TomoeMami/HomenaPod
       link: https://github.com/TomoeMami/HomenaPod/releases
       desc: AntennaPod 鸿蒙原生移植版，播客订阅与播放管理器
-      time: 09-26
+      time: 09-27
     - name: 微博Pura
       url: https://github.com/haohaoai0/WeiboPura
       link: https://github.com/haohaoai0/WeiboPura/releases
