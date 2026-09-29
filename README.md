@@ -62,12 +62,12 @@
 
 | 软件 | 描述 | 下载链接 | 更新 |
 | --- | --- | --- | --- |
+| [Aira](https://github.com/mason173/aira-browser) | 开源的鸿蒙 NEXT 浏览器 | [Link](https://github.com/mason173/aira-browser/releases) | 09-29 |
 | [MindustryArk](https://github.com/haohandc/MindustryArk) | 在鸿蒙上运行Mindustry游戏的自建启动器，内嵌JDK与SDL3窗口 | [Link](https://github.com/haohandc/MindustryArk/releases) | 09-28 |
-| [Aira](https://github.com/mason173/aira-browser) | 开源的鸿蒙 NEXT 浏览器 | [Link](https://github.com/mason173/aira-browser/releases) | 09-28 |
+| [知乎++](https://github.com/zhuoyi233/zhihu-plus-plus-HMOS) | 知乎++ 鸿蒙原生版，注重隐私与去广告的知乎客户端 | [Link](https://github.com/zhuoyi233/zhihu-plus-plus-HMOS/releases) | 09-28 |
 | [PiliPlusX](https://github.com/cnctem/PiliPlusX) | 基于Flutter开发的B站第三方客户端 | [Link](https://github.com/cnctem/PiliPlusX/releases) | 09-27 |
 | [LNGA](https://github.com/apap6628114/lnga_harmony) | NGA玩家社区鸿蒙原生客户端，支持板块浏览、帖子阅读、发帖回复与私信聊天 | [Link](https://github.com/apap6628114/lnga_harmony/releases) | 09-26 |
 | [PiliPlus](https://github.com/dev4harmony/PiliPlus) | BiliBili第三方客户端 | [Link](https://github.com/dev4harmony/PiliPlus/releases) | 09-25 |
-| [知乎++](https://github.com/zhuoyi233/zhihu-plus-plus-HMOS) | 知乎++ 鸿蒙原生版，注重隐私与去广告的知乎客户端 | [Link](https://github.com/zhuoyi233/zhihu-plus-plus-HMOS/releases) | 09-25 |
 | [轻启](https://github.com/thx853068675-dev/quietstart) | 鸿蒙原生页面控件识别工具，自动跳过广告开屏 | [Link](https://github.com/thx853068675-dev/quietstart/releases) | 09-25 |
 | [AMCL](https://github.com/LZZLHY/amcl) | 鸿蒙版全量Java版我的世界启动器 | [Link](https://github.com/LZZLHY/amcl/releases) | 09-24 |
 | [FlClash](https://github.com/tljk/FlClash-ohos) | 基于ClashMeta的多平台代理客户端 | [Link](https://github.com/tljk/FlClash-ohos/releases) | 09-18 |
@@ -111,6 +111,7 @@
 
 | 软件 | 描述 | 下载链接 | 更新 |
 | --- | --- | --- | --- |
+| [immich](https://github.com/dgh1818/immich_ohos) | 一款连接 Immich 私人照片和视频备份服务器的鸿蒙客户端，用于在鸿蒙设备上浏览和管理个人媒体库 | [Link](https://github.com/dgh1818/immich_ohos/releases) | 09-29 |
 | [HomenaPod](https://github.com/TomoeMami/HomenaPod) | AntennaPod 鸿蒙原生移植版，播客订阅与播放管理器 | [Link](https://github.com/TomoeMami/HomenaPod/releases) | 09-27 |
 | [Nexus](https://github.com/xiaoli8571/Nexus-VPN-HarmonyOS) | 鸿蒙原生代理客户端，Mihomo 内核进程内嵌 TUN | [Link](https://github.com/xiaoli8571/Nexus-VPN-HarmonyOS/releases) | 09-26 |
 | [EcoHub](https://github.com/fe-spark/EcoHub-for-OHOS) | 自托管影视聚合服务 EcoHub 的鸿蒙客户端，连接自建服务观看影视 | [Link](https://github.com/fe-spark/EcoHub-for-OHOS/releases) | 09-24 |
@@ -134,7 +135,6 @@
 | [聚映](https://github.com/yabi-zzh/livify-ohos) | 支持多平台直播观看与弹幕的鸿蒙原生聚合应用 | [Link](https://github.com/yabi-zzh/livify-ohos/releases) | 08-22 |
 | [ArkDO](https://github.com/EnjoySR/ArkDO) | LINUX DO 社区的第三方鸿蒙原生客户端 | [Link](https://github.com/EnjoySR/ArkDO/releases) | 08-11 |
 | [Next2V](https://github.com/honjow/Next2V) | 一款面向 HarmonyOS 的原生 V2EX 第三方客户端，支持主题浏览、回复发帖、节点发现与搜索 | [Link](https://github.com/honjow/Next2V/releases) | 08-09 |
-| [immich](https://github.com/dgh1818/immich_ohos) | 一款连接 Immich 私人照片和视频备份服务器的鸿蒙客户端，用于在鸿蒙设备上浏览和管理个人媒体库 | [Link](https://github.com/dgh1818/immich_ohos/releases) | 07-28 |
 | [Ohentai](https://github.com/Ibukitofu/Ohentai) | 一款专为鸿蒙原生开发的 E-Hentai 浏览工具，支持画廊浏览、阅读与标签翻译 | [Link](https://github.com/Ibukitofu/Ohentai/releases) | 06-13 |
 | [刷题宝](https://github.com/xiaomoHM/ShuaTi) | 离线刷题应用，支持多套试卷、错题本与随机练习 | [Link](https://github.com/xiaomoHM/ShuaTi/releases) | 06-10 |
 | [轻阅读](https://github.com/autobcb/read) | 一款可通过自部署服务端，在手机、平板等多种设备上同步阅读进度的开源阅读应用 | [Link](https://github.com/autobcb/read/releases) | 05-14 |
