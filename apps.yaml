@@ -47,7 +47,7 @@ categories:
       url: https://github.com/cnctem/PiliPlusX
       link: https://github.com/cnctem/PiliPlusX/releases
       desc: 基于Flutter开发的B站第三方客户端
-      time: 09-27
+      time: 09-30
     - name: FlClash
       url: https://github.com/tljk/FlClash-ohos
       link: https://github.com/tljk/FlClash-ohos/releases
@@ -197,7 +197,7 @@ categories:
       url: https://github.com/thx853068675-dev/quietstart
       link: https://github.com/thx853068675-dev/quietstart/releases
       desc: 鸿蒙原生页面控件识别工具，自动跳过广告开屏
-      time: 09-25
+      time: 09-29
     - name: Aira
       url: https://github.com/mason173/aira-browser
       link: https://github.com/mason173/aira-browser/releases
@@ -263,7 +263,7 @@ categories:
       url: https://github.com/miramira8295/Petrelgram
       link: https://github.com/miramira8295/Petrelgram/releases
       desc: 第三方✈鸿蒙版，基于 TDLib 的 Telegram 客户端，支持多账号与音视频通话
-      time: 09-24
+      time: 09-30
     - name: NekoBox
       url: https://github.com/xiaoli8571/NekoBox4Harmony
       link: https://github.com/xiaoli8571/NekoBox4Harmony/releases
@@ -323,7 +323,7 @@ categories:
       url: https://github.com/ks-lm-kf/harmony-kslmkf-karing-hap
       link: https://github.com/ks-lm-kf/harmony-kslmkf-karing-hap/releases
       desc: 基于Karing/sing-box的鸿蒙代理工具，支持订阅与多协议
-      time: 09-24
+      time: 09-29
     - name: immich
       url: https://github.com/dgh1818/immich_ohos
       link: https://github.com/dgh1818/immich_ohos/releases
@@ -419,7 +419,7 @@ categories:
       url: https://github.com/servo/servo
       link: https://github.com/servo/servo/releases
       desc: Servo 是一个用 Rust 语言编写的浏览器内核的浏览器
-      time: 08-31
+      time: 09-29
     - name: VLC播放器
       url: https://github.com/Aloereed/vlc-qt6-ohos
       link: https://github.com/Aloereed/vlc-qt6-ohos/releases
