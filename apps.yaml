@@ -12,7 +12,7 @@ categories:
       url: https://github.com/haohandc/MindustryArk
       link: https://github.com/haohandc/MindustryArk/releases
       desc: 在鸿蒙上运行Mindustry游戏的自建启动器，内嵌JDK与SDL3窗口
-      time: 09-28
+      time: 09-30
     - name: 冲浪喵
       url: https://github.com/awaLiny2333/LinysBrowser_NEXT
       link: https://github.com/awaLiny2333/LinysBrowser_NEXT/releases
@@ -238,7 +238,7 @@ categories:
       url: https://github.com/137458/tieba-lite-harmony
       link: https://github.com/137458/tieba-lite-harmony/releases
       desc: 鸿蒙第三方百度贴吧客户端，支持浏览、搜索与回帖
-      time: 09-11
+      time: 10-01
     - name: EcoHub
       url: https://github.com/fe-spark/EcoHub-for-OHOS
       link: https://github.com/fe-spark/EcoHub-for-OHOS/releases
