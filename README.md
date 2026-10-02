@@ -62,10 +62,12 @@
 
 | 软件 | 描述 | 下载链接 | 更新 |
 | --- | --- | --- | --- |
-| [MindustryArk](https://github.com/haohandc/MindustryArk) | 在鸿蒙上运行Mindustry游戏的自建启动器，内嵌JDK与SDL3窗口 | [Link](https://github.com/haohandc/MindustryArk/releases) | 09-30 |
+| [MindustryArk](https://github.com/haohandc/MindustryArk) | 在鸿蒙上运行Mindustry游戏的自建启动器，内嵌JDK与SDL3窗口 | [Link](https://github.com/haohandc/MindustryArk/releases) | 10-01 |
+| [AniCh](https://github.com/Sle2p/AniCh) | 多番剧源的在线动漫弹幕应用，支持超分辨率与离线缓存 | [Link](https://github.com/Sle2p/AniCh/releases) | 10-01 |
+| [S1 Orange](https://github.com/wly5556/S1-Orange) | 一款专为鸿蒙Next平台开发的 stage1st.com 论坛移动客户端 | [Link](https://github.com/wly5556/S1-Orange/releases) | 10-01 |
+| [Aira](https://github.com/mason173/aira-browser) | 开源的鸿蒙 NEXT 浏览器 | [Link](https://github.com/mason173/aira-browser/releases) | 10-01 |
 | [PiliPlusX](https://github.com/cnctem/PiliPlusX) | 基于Flutter开发的B站第三方客户端 | [Link](https://github.com/cnctem/PiliPlusX/releases) | 09-30 |
 | [轻启](https://github.com/thx853068675-dev/quietstart) | 鸿蒙原生页面控件识别工具，自动跳过广告开屏 | [Link](https://github.com/thx853068675-dev/quietstart/releases) | 09-29 |
-| [Aira](https://github.com/mason173/aira-browser) | 开源的鸿蒙 NEXT 浏览器 | [Link](https://github.com/mason173/aira-browser/releases) | 09-29 |
 | [知乎++](https://github.com/zhuoyi233/zhihu-plus-plus-HMOS) | 知乎++ 鸿蒙原生版，注重隐私与去广告的知乎客户端 | [Link](https://github.com/zhuoyi233/zhihu-plus-plus-HMOS/releases) | 09-28 |
 | [LNGA](https://github.com/apap6628114/lnga_harmony) | NGA玩家社区鸿蒙原生客户端，支持板块浏览、帖子阅读、发帖回复与私信聊天 | [Link](https://github.com/apap6628114/lnga_harmony/releases) | 09-26 |
 | [PiliPlus](https://github.com/dev4harmony/PiliPlus) | BiliBili第三方客户端 | [Link](https://github.com/dev4harmony/PiliPlus/releases) | 09-25 |
@@ -73,8 +75,6 @@
 | [FlClash](https://github.com/tljk/FlClash-ohos) | 基于ClashMeta的多平台代理客户端 | [Link](https://github.com/tljk/FlClash-ohos/releases) | 09-18 |
 | [HX360E](https://github.com/1440196924/HX360E) | 在鸿蒙上运行Xbox 360游戏的模拟器前端 | [Link](https://github.com/1440196924/HX360E/releases) | 09-18 |
 | [万花](https://github.com/winehua/WineHua) | 在鸿蒙上运行Windows程序的兼容层工具 | [Link](https://github.com/winehua/WineHua/releases) | 09-15 |
-| [AniCh](https://github.com/Sle2p/AniCh) | 多番剧源的在线动漫弹幕应用，支持超分辨率与离线缓存 | [Link](https://github.com/Sle2p/AniCh/releases) | 09-15 |
-| [S1 Orange](https://github.com/wly5556/S1-Orange) | 一款专为鸿蒙Next平台开发的 stage1st.com 论坛移动客户端 | [Link](https://github.com/wly5556/S1-Orange/releases) | 09-15 |
 | [鸿米家](https://github.com/MrCashmere/miha_hm) | 基于鸿蒙NEXT原生开发的小米米家设备控制应用 | [Link](https://github.com/MrCashmere/miha_hm/releases) | 09-14 |
 | [NextN](https://github.com/erosTeam/NextN) | 一款原生 HarmonyOS NEXT 的 nhentai 非官方客户端，支持画廊浏览、搜索、标签翻译与下载 | [Link](https://github.com/erosTeam/NextN/releases) | 09-13 |
 | [JMComic](https://github.com/YuanChu-Tec/JMComic-HarmonyOS) | 漫画阅读工具 | [Link](https://github.com/YuanChu-Tec/JMComic-HarmonyOS/releases) | 09-13 |

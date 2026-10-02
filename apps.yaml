@@ -12,7 +12,7 @@ categories:
       url: https://github.com/haohandc/MindustryArk
       link: https://github.com/haohandc/MindustryArk/releases
       desc: 在鸿蒙上运行Mindustry游戏的自建启动器，内嵌JDK与SDL3窗口
-      time: 09-30
+      time: 10-01
     - name: 冲浪喵
       url: https://github.com/awaLiny2333/LinysBrowser_NEXT
       link: https://github.com/awaLiny2333/LinysBrowser_NEXT/releases
@@ -67,7 +67,7 @@ categories:
       url: https://github.com/Sle2p/AniCh
       link: https://github.com/Sle2p/AniCh/releases
       desc: 多番剧源的在线动漫弹幕应用，支持超分辨率与离线缓存
-      time: 09-15
+      time: 10-01
     - name: AMCL
       url: https://github.com/LZZLHY/amcl
       link: https://github.com/LZZLHY/amcl/releases
@@ -77,7 +77,7 @@ categories:
       url: https://github.com/wly5556/S1-Orange
       link: https://github.com/wly5556/S1-Orange/releases
       desc: 一款专为鸿蒙Next平台开发的 stage1st.com 论坛移动客户端
-      time: 09-15
+      time: 10-01
     - name: Phira
       url: https://github.com/TeamFlos/phira
       link: https://github.com/TeamFlos/phira/releases
@@ -202,7 +202,7 @@ categories:
       url: https://github.com/mason173/aira-browser
       link: https://github.com/mason173/aira-browser/releases
       desc: 开源的鸿蒙 NEXT 浏览器
-      time: 09-29
+      time: 10-01
     - name: Harmony X
       url: https://github.com/haohaoai0/HarmonyX
       link: https://github.com/haohaoai0/HarmonyX/releases
