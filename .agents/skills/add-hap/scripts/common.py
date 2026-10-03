@@ -8,7 +8,7 @@ import re
 import base64
 from datetime import datetime
 from time import sleep
-from urllib.parse import quote
+from urllib.parse import parse_qsl, quote, urlencode, urlsplit, urlunsplit
 
 import requests
 import urllib3
@@ -16,6 +16,10 @@ from urllib3.exceptions import InsecureRequestWarning
 
 # 当前网络环境下 TLS 握手不稳定，统一关闭证书验证
 urllib3.disable_warnings(InsecureRequestWarning)
+
+# 头像下载尺寸。GitHub 返回的 avatar_url 默认指向 460px 原图，直接内嵌会让
+# SVG 膨胀到数 MB；按展示尺寸的 2 倍拉缩略图即可兼顾清晰度与体积。
+AVATAR_SIZE = 120
 
 # scripts -> add-hap -> skills -> .agents -> 仓库根目录
 ROOT_DIR = os.path.dirname(
@@ -51,6 +55,21 @@ def github_headers() -> dict:
     }
 
 
+def cache_key(home_url: str, size: int) -> str:
+    """头像缓存键，带上尺寸，改展示尺寸时自动失效旧缓存。"""
+    return f"{home_url}|{size}"
+
+
+def with_avatar_size(url: str, size: int) -> str:
+    """给头像 URL 追加尺寸参数，GitHub / Gitee 的图片 CDN 均支持 s 参数。"""
+    parts = urlsplit(url)
+    query = [
+        (k, v) for k, v in parse_qsl(parts.query, keep_blank_values=True) if k != "s"
+    ]
+    query.append(("s", str(size)))
+    return urlunsplit(parts._replace(query=urlencode(query)))
+
+
 def image_to_base64(url: str) -> str:
     """下载图片并转为 data URI，失败返回空字符串。"""
     resp = http_get(url)
@@ -59,7 +78,7 @@ def image_to_base64(url: str) -> str:
     return ""
 
 
-def fetch_avatar(home_url: str) -> str:
+def fetch_avatar(home_url: str, size: int = AVATAR_SIZE) -> str:
     """按平台获取用户头像的 data URI，失败返回空字符串。"""
     if "github.com" in home_url:
         api_url = home_url.replace("https://github.com/", "https://api.github.com/users/")
@@ -83,7 +102,7 @@ def fetch_avatar(home_url: str) -> str:
     if resp is None or resp.status_code != 200:
         return ""
     avatar_url = extract(resp.json())
-    return image_to_base64(avatar_url) if avatar_url else ""
+    return image_to_base64(with_avatar_size(avatar_url, size)) if avatar_url else ""
 
 
 def send_broadcast(text: str) -> bool:
