@@ -223,6 +223,26 @@ categories:
       link: https://github.com/DandanLLab/mr/releases
       desc: 基于Flutter的跨平台多媒体阅读器，兼容阅读书源规则
       time: 09-12
+    - name: HapInstaller
+      url: https://github.com/LMV475/hap-installer
+      link: https://github.com/LMV475/hap-installer/releases
+      desc: 鸿蒙端侧签名与安装工具，无需 PC 即可侧载 HAP
+      time: 09-28
+    - name: HapStore
+      url: https://github.com/zhailinlang/hapstore
+      link: https://github.com/zhailinlang/hapstore/releases
+      desc: 未上架 HAP 的聚合目录应用，可浏览、搜索与下载
+      time: 09-30
+    - name: PiliNara
+      url: https://github.com/dev4harmony/PiliNara
+      link: https://github.com/dev4harmony/PiliNara/releases
+      desc: 基于 PiliPlus 魔改的 B 站第三方客户端鸿蒙版
+      time: 10-02
+    - name: 海阅
+      url: https://github.com/LZZLHY/hlib
+      link: https://github.com/LZZLHY/hlib/releases
+      desc: 基于 Z-Library 镜像的电子书客户端，支持搜索、阅读与下载
+      time: 06-27
   鸿蒙手机/平板:
     - name: Nexus
       url: https://github.com/xiaoli8571/Nexus-VPN-HarmonyOS
@@ -414,6 +434,21 @@ categories:
       link: https://github.com/haohaoai0/WeiboPura/releases
       desc: 面向 HarmonyOS 的原生微博浏览客户端
       time: 09-18
+    - name: 酷安
+      url: https://github.com/muleos/c001apk-ohos-releases
+      link: https://github.com/muleos/c001apk-ohos-releases/releases
+      desc: 酷安第三方鸿蒙客户端，支持应用与话题浏览
+      time: 09-30
+    - name: NipaPlay
+      url: https://github.com/AimesSoft/NipaPlay-Reload
+      link: https://github.com/AimesSoft/NipaPlay-Reload/releases
+      desc: 二次元媒体管理器，支持弹幕播放与媒体库集成
+      time: 10-02
+    - name: 阅韵心读
+      url: https://github.com/liluolinder/selineRead
+      link: https://github.com/liluolinder/selineRead/releases
+      desc: Z-Library 第三方客户端，支持搜索下载与书架管理
+      time: 05-23
   鸿蒙电脑:
     - name: Servo
       url: https://github.com/servo/servo
