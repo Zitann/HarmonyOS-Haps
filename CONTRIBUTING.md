@@ -25,6 +25,7 @@
 - [LMV475](https://github.com/LMV475)
 - [Luo-A-Chen](https://github.com/Luo-A-Chen)
 - [Luxcis](https://github.com/Luxcis)
+- [LovelyFlash](https://github.com/LovelyFlash)
 - [MI XmHM](https://github.com/xiaomoHM)
 - [MrCashmere](https://github.com/MrCashmere)
 - [Open Harmony Play Ground](https://github.com/OHPG)

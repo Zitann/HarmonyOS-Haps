@@ -91,7 +91,7 @@ categories:
     - name: JMComic
       url: https://github.com/YuanChu-Tec/JMComic-HarmonyOS
       link: https://github.com/YuanChu-Tec/JMComic-HarmonyOS/releases
-      desc: 漫画阅读工具
+      desc: 漫画阅读工具（作者：YuanChu-Tec）
       time: 09-13
     - name: Wpixelgram
       url: https://github.com/1055235342/Wpixelgram-for-HarmonyOS
@@ -243,6 +243,11 @@ categories:
       link: https://github.com/LZZLHY/hlib/releases
       desc: 基于 Z-Library 镜像的电子书客户端，支持搜索、阅读与下载
       time: 06-27
+    - name: JMComic
+      url: https://github.com/LovelyFlash/JMComic-HarmonyOS
+      link: https://github.com/LovelyFlash/JMComic-HarmonyOS/releases
+      desc: 漫画阅读工具（作者：LovelyFlash）
+      time: 10-02
   鸿蒙手机/平板:
     - name: Nexus
       url: https://github.com/xiaoli8571/Nexus-VPN-HarmonyOS
