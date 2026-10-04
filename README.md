@@ -62,18 +62,18 @@
 
 | 软件 | 描述 | 下载链接 | 更新 |
 | --- | --- | --- | --- |
-| [哔咔](https://github.com/LoMoCatAp/Bika-HarmonyOS) | 哔咔漫画的鸿蒙原生第三方客户端，支持离线下载 | [Link](https://github.com/LoMoCatAp/Bika-HarmonyOS/releases) | 10-03 |
+| [Aira](https://github.com/mason173/aira-browser) | 开源的鸿蒙 NEXT 浏览器 | [Link](https://github.com/mason173/aira-browser/releases) | 10-04 |
+| [哔咔](https://github.com/LoMoCatAp/Bika-HarmonyOS) | 哔咔漫画的鸿蒙原生第三方客户端，支持离线下载 | [Link](https://github.com/LoMoCatAp/Bika-HarmonyOS/releases) | 10-04 |
+| [MindustryArk](https://github.com/haohandc/MindustryArk) | 在鸿蒙上运行Mindustry游戏的自建启动器，内嵌JDK与SDL3窗口 | [Link](https://github.com/haohandc/MindustryArk/releases) | 10-03 |
+| [知乎++](https://github.com/zhuoyi233/zhihu-plus-plus-HMOS) | 知乎++ 鸿蒙原生版，注重隐私与去广告的知乎客户端 | [Link](https://github.com/zhuoyi233/zhihu-plus-plus-HMOS/releases) | 10-03 |
 | [PiliPlus](https://github.com/dev4harmony/PiliPlus) | BiliBili第三方客户端 | [Link](https://github.com/dev4harmony/PiliPlus/releases) | 10-02 |
 | [PiliNara](https://github.com/dev4harmony/PiliNara) | 基于 PiliPlus 魔改的 B 站第三方客户端鸿蒙版 | [Link](https://github.com/dev4harmony/PiliNara/releases) | 10-02 |
 | [JMComic](https://github.com/LovelyFlash/JMComic-HarmonyOS) | 漫画阅读工具（作者：LovelyFlash） | [Link](https://github.com/LovelyFlash/JMComic-HarmonyOS/releases) | 10-02 |
-| [MindustryArk](https://github.com/haohandc/MindustryArk) | 在鸿蒙上运行Mindustry游戏的自建启动器，内嵌JDK与SDL3窗口 | [Link](https://github.com/haohandc/MindustryArk/releases) | 10-01 |
 | [AniCh](https://github.com/Sle2p/AniCh) | 多番剧源的在线动漫弹幕应用，支持超分辨率与离线缓存 | [Link](https://github.com/Sle2p/AniCh/releases) | 10-01 |
 | [S1 Orange](https://github.com/wly5556/S1-Orange) | 一款专为鸿蒙Next平台开发的 stage1st.com 论坛移动客户端 | [Link](https://github.com/wly5556/S1-Orange/releases) | 10-01 |
-| [Aira](https://github.com/mason173/aira-browser) | 开源的鸿蒙 NEXT 浏览器 | [Link](https://github.com/mason173/aira-browser/releases) | 10-01 |
 | [PiliPlusX](https://github.com/cnctem/PiliPlusX) | 基于Flutter开发的B站第三方客户端 | [Link](https://github.com/cnctem/PiliPlusX/releases) | 09-30 |
 | [HapStore](https://github.com/zhailinlang/hapstore) | 未上架 HAP 的聚合目录应用，可浏览、搜索与下载 | [Link](https://github.com/zhailinlang/hapstore/releases) | 09-30 |
 | [轻启](https://github.com/thx853068675-dev/quietstart) | 鸿蒙原生页面控件识别工具，自动跳过广告开屏 | [Link](https://github.com/thx853068675-dev/quietstart/releases) | 09-29 |
-| [知乎++](https://github.com/zhuoyi233/zhihu-plus-plus-HMOS) | 知乎++ 鸿蒙原生版，注重隐私与去广告的知乎客户端 | [Link](https://github.com/zhuoyi233/zhihu-plus-plus-HMOS/releases) | 09-28 |
 | [HapInstaller](https://github.com/LMV475/hap-installer) | 鸿蒙端侧签名与安装工具，无需 PC 即可侧载 HAP | [Link](https://github.com/LMV475/hap-installer/releases) | 09-28 |
 | [LNGA](https://github.com/apap6628114/lnga_harmony) | NGA玩家社区鸿蒙原生客户端，支持板块浏览、帖子阅读、发帖回复与私信聊天 | [Link](https://github.com/apap6628114/lnga_harmony/releases) | 09-26 |
 | [AMCL](https://github.com/LZZLHY/amcl) | 鸿蒙版全量Java版我的世界启动器 | [Link](https://github.com/LZZLHY/amcl/releases) | 09-24 |
@@ -97,13 +97,13 @@
 | [Harmonic](https://github.com/shanyan-wcx/Harmonic) | 连接 Navidrome 音乐服务器的鸿蒙原生客户端 | [Link](https://github.com/shanyan-wcx/Harmonic/releases) | 06-21 |
 | [Harmshelf](https://github.com/shanyan-wcx/Audiobookshelf-HarmonyOS) | 连接 Audiobookshelf 私人有声书服务器的鸿蒙客户端 | [Link](https://github.com/shanyan-wcx/Audiobookshelf-HarmonyOS/releases) | 06-16 |
 | [栖云盾](https://github.com/Tlntin/home-cloud-shield) | 鸿蒙本地DNS过滤应用，支持AdGuard风格规则拦截广告 | [Link](https://github.com/Tlntin/home-cloud-shield/releases) | 06-15 |
-| [Anx Reader](https://github.com/anxcye/anx-reader) | 跨平台电子书阅读器，支持多种格式与 AI 辅助阅读 | [Link](https://github.com/anxcye/anx-reader/releases) | 06-07 |
 | [OHsidian](https://github.com/HanversionOvO/OHSidian) | 鸿蒙Obsidian笔记移植版，通过Electron兼容层运行 | [Link](https://github.com/HanversionOvO/OHSidian/releases) | 05-30 |
 | [影视链](https://github.com/xiaomoHM/videoJX) | 集成多个解析接口，搜索播放全网视频的解析播放器 | [Link](https://github.com/xiaomoHM/videoJX/releases) | 05-28 |
 | [HMTG](https://github.com/YuanChu-Tec/HMTG) | 第三方✈鸿蒙版HMTG | [Link](https://github.com/YuanChu-Tec/HMTG/releases) | 05-25 |
 | [HiSH](https://github.com/harmoninux/HiSH) | 在鸿蒙手机、平板和PC上运行 Linux Shell | [Link](https://github.com/harmoninux/HiSH/releases) | 05-16 |
 | [ClashBox](https://github.com/xiaobaigroup/hapapp) | 基于Mihomo内核的鸿蒙代理软件 | [Link](https://github.com/xiaobaigroup/hapapp/releases) | 04-02 |
 | [Etohos](https://github.com/collaborative-creation/etohos) | 基于Flutter的鸿蒙应用，用于接入EasyTier组网 | [Link](https://github.com/collaborative-creation/etohos/releases) | 03-31 |
+| [Anx Reader](https://github.com/anxcye/anx-reader) | 跨平台电子书阅读器，支持多种格式与 AI 辅助阅读 | [Link](https://github.com/anxcye/anx-reader/releases) | 03-19 |
 | [云享社](https://github.com/Edge-Music/Core) | 可连接多个音乐平台与私有源的音乐播放器 | [Link](https://github.com/Edge-Music/Core/releases) | 03-18 |
 | [HOML启动器](https://github.com/xiaobaigroup/HOML) | 首个鸿蒙原生MCJava版HOML启动器 | [Link](https://github.com/xiaobaigroup/HOML/releases) | 02-27 |
 | [FinVideo](https://github.com/OHPG/FinVideo) | 鸿蒙视频播放器，支持Jellyfin/Emby/Plex多服务器 | [Link](https://github.com/OHPG/FinVideo/releases) | 01-17 |
