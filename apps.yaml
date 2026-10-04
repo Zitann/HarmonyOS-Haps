@@ -248,6 +248,16 @@ categories:
       link: https://github.com/LovelyFlash/JMComic-HarmonyOS/releases
       desc: 漫画阅读工具（作者：LovelyFlash）
       time: 10-02
+    - name: Anx Reader
+      url: https://github.com/anxcye/anx-reader
+      link: https://github.com/anxcye/anx-reader/releases
+      desc: 跨平台电子书阅读器，支持多种格式与 AI 辅助阅读
+      time: 06-07
+    - name: 哔咔
+      url: https://github.com/LoMoCatAp/Bika-HarmonyOS
+      link: https://github.com/LoMoCatAp/Bika-HarmonyOS/releases
+      desc: 哔咔漫画的鸿蒙原生第三方客户端，支持离线下载
+      time: 10-03
   鸿蒙手机/平板:
     - name: Nexus
       url: https://github.com/xiaoli8571/Nexus-VPN-HarmonyOS

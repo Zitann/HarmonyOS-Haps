@@ -62,6 +62,7 @@
 
 | 软件 | 描述 | 下载链接 | 更新 |
 | --- | --- | --- | --- |
+| [哔咔](https://github.com/LoMoCatAp/Bika-HarmonyOS) | 哔咔漫画的鸿蒙原生第三方客户端，支持离线下载 | [Link](https://github.com/LoMoCatAp/Bika-HarmonyOS/releases) | 10-03 |
 | [PiliPlus](https://github.com/dev4harmony/PiliPlus) | BiliBili第三方客户端 | [Link](https://github.com/dev4harmony/PiliPlus/releases) | 10-02 |
 | [PiliNara](https://github.com/dev4harmony/PiliNara) | 基于 PiliPlus 魔改的 B 站第三方客户端鸿蒙版 | [Link](https://github.com/dev4harmony/PiliNara/releases) | 10-02 |
 | [JMComic](https://github.com/LovelyFlash/JMComic-HarmonyOS) | 漫画阅读工具（作者：LovelyFlash） | [Link](https://github.com/LovelyFlash/JMComic-HarmonyOS/releases) | 10-02 |
@@ -96,6 +97,7 @@
 | [Harmonic](https://github.com/shanyan-wcx/Harmonic) | 连接 Navidrome 音乐服务器的鸿蒙原生客户端 | [Link](https://github.com/shanyan-wcx/Harmonic/releases) | 06-21 |
 | [Harmshelf](https://github.com/shanyan-wcx/Audiobookshelf-HarmonyOS) | 连接 Audiobookshelf 私人有声书服务器的鸿蒙客户端 | [Link](https://github.com/shanyan-wcx/Audiobookshelf-HarmonyOS/releases) | 06-16 |
 | [栖云盾](https://github.com/Tlntin/home-cloud-shield) | 鸿蒙本地DNS过滤应用，支持AdGuard风格规则拦截广告 | [Link](https://github.com/Tlntin/home-cloud-shield/releases) | 06-15 |
+| [Anx Reader](https://github.com/anxcye/anx-reader) | 跨平台电子书阅读器，支持多种格式与 AI 辅助阅读 | [Link](https://github.com/anxcye/anx-reader/releases) | 06-07 |
 | [OHsidian](https://github.com/HanversionOvO/OHSidian) | 鸿蒙Obsidian笔记移植版，通过Electron兼容层运行 | [Link](https://github.com/HanversionOvO/OHSidian/releases) | 05-30 |
 | [影视链](https://github.com/xiaomoHM/videoJX) | 集成多个解析接口，搜索播放全网视频的解析播放器 | [Link](https://github.com/xiaomoHM/videoJX/releases) | 05-28 |
 | [HMTG](https://github.com/YuanChu-Tec/HMTG) | 第三方✈鸿蒙版HMTG | [Link](https://github.com/YuanChu-Tec/HMTG/releases) | 05-25 |
