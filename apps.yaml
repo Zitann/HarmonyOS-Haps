@@ -7,7 +7,7 @@ categories:
       url: https://github.com/apap6628114/lnga_harmony
       link: https://github.com/apap6628114/lnga_harmony/releases
       desc: NGA玩家社区鸿蒙原生客户端，支持板块浏览、帖子阅读、发帖回复与私信聊天
-      time: 09-26
+      time: 10-06
     - name: MindustryArk
       url: https://github.com/haohandc/MindustryArk
       link: https://github.com/haohandc/MindustryArk/releases
@@ -27,7 +27,7 @@ categories:
       url: https://github.com/erosTeam/NextN
       link: https://github.com/erosTeam/NextN/releases
       desc: 一款原生 HarmonyOS NEXT 的 nhentai 非官方客户端，支持画廊浏览、搜索、标签翻译与下载
-      time: 09-13
+      time: 10-05
     - name: 万花
       url: https://github.com/winehua/WineHua
       link: https://github.com/winehua/WineHua/releases
@@ -257,7 +257,7 @@ categories:
       url: https://github.com/LoMoCatAp/Bika-HarmonyOS
       link: https://github.com/LoMoCatAp/Bika-HarmonyOS/releases
       desc: 哔咔漫画的鸿蒙原生第三方客户端，支持离线下载
-      time: 10-04
+      time: 10-06
   鸿蒙手机/平板:
     - name: Nexus
       url: https://github.com/xiaoli8571/Nexus-VPN-HarmonyOS
@@ -288,7 +288,7 @@ categories:
       url: https://github.com/erosTeam/NextE
       link: https://github.com/erosTeam/NextE/releases
       desc: 鸿蒙原生E-Hentai/ExHentai客户端，支持画廊浏览与下载
-      time: 09-12
+      time: 10-05
     - name: Kelivo
       url: https://github.com/Chevey339/kelivo
       link: https://github.com/Chevey339/kelivo/releases
@@ -469,7 +469,7 @@ categories:
       url: https://github.com/servo/servo
       link: https://github.com/servo/servo/releases
       desc: Servo 是一个用 Rust 语言编写的浏览器内核的浏览器
-      time: 09-29
+      time: 10-05
     - name: VLC播放器
       url: https://github.com/Aloereed/vlc-qt6-ohos
       link: https://github.com/Aloereed/vlc-qt6-ohos/releases
