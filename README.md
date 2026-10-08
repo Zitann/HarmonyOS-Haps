@@ -62,9 +62,10 @@
 
 | 软件 | 描述 | 下载链接 | 更新 |
 | --- | --- | --- | --- |
-| [JMComic](https://github.com/YuanChu-Tec/JMComic-HarmonyOS) | 漫画阅读工具（作者：YuanChu-Tec） | [Link](https://github.com/YuanChu-Tec/JMComic-HarmonyOS/releases) | 10-07 |
+| [JMComic](https://github.com/YuanChu-Tec/JMComic-HarmonyOS) | 漫画阅读工具（作者：YuanChu-Tec） | [Link](https://github.com/YuanChu-Tec/JMComic-HarmonyOS/releases) | 10-08 |
+| [JMComic](https://github.com/LovelyFlash/JMComic-HarmonyOS) | 漫画阅读工具（作者：LovelyFlash） | [Link](https://github.com/LovelyFlash/JMComic-HarmonyOS/releases) | 10-08 |
+| [栖云盾](https://github.com/Tlntin/home-cloud-shield) | 鸿蒙本地DNS过滤应用，支持AdGuard风格规则拦截广告 | [Link](https://github.com/Tlntin/home-cloud-shield/releases) | 10-07 |
 | [Harmony X](https://github.com/haohaoai0/HarmonyX) | 面向 HarmonyOS 的原生 X 客户端 | [Link](https://github.com/haohaoai0/HarmonyX/releases) | 10-07 |
-| [JMComic](https://github.com/LovelyFlash/JMComic-HarmonyOS) | 漫画阅读工具（作者：LovelyFlash） | [Link](https://github.com/LovelyFlash/JMComic-HarmonyOS/releases) | 10-07 |
 | [哔咔](https://github.com/LoMoCatAp/Bika-HarmonyOS) | 哔咔漫画的鸿蒙原生第三方客户端，支持离线下载 | [Link](https://github.com/LoMoCatAp/Bika-HarmonyOS/releases) | 10-07 |
 | [LNGA](https://github.com/apap6628114/lnga_harmony) | NGA玩家社区鸿蒙原生客户端，支持板块浏览、帖子阅读、发帖回复与私信聊天 | [Link](https://github.com/apap6628114/lnga_harmony/releases) | 10-06 |
 | [Aira](https://github.com/mason173/aira-browser) | 开源的鸿蒙 NEXT 浏览器 | [Link](https://github.com/mason173/aira-browser/releases) | 10-06 |
@@ -96,7 +97,6 @@
 | [海阅](https://github.com/LZZLHY/hlib) | 基于 Z-Library 镜像的电子书客户端，支持搜索、阅读与下载 | [Link](https://github.com/LZZLHY/hlib/releases) | 06-27 |
 | [Harmonic](https://github.com/shanyan-wcx/Harmonic) | 连接 Navidrome 音乐服务器的鸿蒙原生客户端 | [Link](https://github.com/shanyan-wcx/Harmonic/releases) | 06-21 |
 | [Harmshelf](https://github.com/shanyan-wcx/Audiobookshelf-HarmonyOS) | 连接 Audiobookshelf 私人有声书服务器的鸿蒙客户端 | [Link](https://github.com/shanyan-wcx/Audiobookshelf-HarmonyOS/releases) | 06-16 |
-| [栖云盾](https://github.com/Tlntin/home-cloud-shield) | 鸿蒙本地DNS过滤应用，支持AdGuard风格规则拦截广告 | [Link](https://github.com/Tlntin/home-cloud-shield/releases) | 06-15 |
 | [OHsidian](https://github.com/HanversionOvO/OHSidian) | 鸿蒙Obsidian笔记移植版，通过Electron兼容层运行 | [Link](https://github.com/HanversionOvO/OHSidian/releases) | 05-30 |
 | [影视链](https://github.com/xiaomoHM/videoJX) | 集成多个解析接口，搜索播放全网视频的解析播放器 | [Link](https://github.com/xiaomoHM/videoJX/releases) | 05-28 |
 | [HMTG](https://github.com/YuanChu-Tec/HMTG) | 第三方✈鸿蒙版HMTG | [Link](https://github.com/YuanChu-Tec/HMTG/releases) | 05-25 |
@@ -118,6 +118,7 @@
 
 | 软件 | 描述 | 下载链接 | 更新 |
 | --- | --- | --- | --- |
+| [PixEz](https://github.com/bgli100/pixez-flutter-ohos) | 一款支持免代理直连及查看动图的第三方Pixiv flutter客户端 | [Link](https://github.com/bgli100/pixez-flutter-ohos/releases) | 10-08 |
 | [Nexus](https://github.com/xiaoli8571/Nexus-VPN-HarmonyOS) | 鸿蒙原生代理客户端，Mihomo 内核进程内嵌 TUN | [Link](https://github.com/xiaoli8571/Nexus-VPN-HarmonyOS/releases) | 10-07 |
 | [NextE](https://github.com/erosTeam/NextE) | 鸿蒙原生E-Hentai/ExHentai客户端，支持画廊浏览与下载 | [Link](https://github.com/erosTeam/NextE/releases) | 10-05 |
 | [NipaPlay](https://github.com/AimesSoft/NipaPlay-Reload) | 二次元媒体管理器，支持弹幕播放与媒体库集成 | [Link](https://github.com/AimesSoft/NipaPlay-Reload/releases) | 10-02 |
@@ -138,7 +139,6 @@
 | [微博Pura](https://github.com/haohaoai0/WeiboPura) | 面向 HarmonyOS 的原生微博浏览客户端 | [Link](https://github.com/haohaoai0/WeiboPura/releases) | 09-18 |
 | [开源阅读](https://github.com/mgz0227/legado-Harmony) | 一款支持自定义书源规则，可抓取任意网页内容进行阅读的开源应用 | [Link](https://github.com/mgz0227/legado-Harmony/releases) | 09-09 |
 | [Homowarden](https://github.com/DreamistW/Homowarden) | 鸿蒙版Bitwarden密码管理器，支持自托管服务器 | [Link](https://github.com/DreamistW/Homowarden/releases) | 09-08 |
-| [PixEz](https://github.com/bgli100/pixez-flutter-ohos) | 一款支持免代理直连及查看动图的第三方Pixiv flutter客户端 | [Link](https://github.com/bgli100/pixez-flutter-ohos/releases) | 09-07 |
 | [存好](https://github.com/xiaobingtech/SaveAny) | 一款存储社交平台内容的应用 | [Link](https://appgallery.huawei.com/link/invite-test-wap?taskId=14b001cf48f4af798b231d5c7b65adfb&invitationCode=7OrWxupnK5u) | 08-30 |
 | [Pica Comic](https://github.com/nimmi114514/PicaComic_ohos) | 一款使用 Flutter 构建的多源漫画应用 | [Link](https://github.com/nimmi114514/PicaComic_ohos/releases) | 08-29 |
 | [聚映](https://github.com/yabi-zzh/livify-ohos) | 支持多平台直播观看与弹幕的鸿蒙原生聚合应用 | [Link](https://github.com/yabi-zzh/livify-ohos/releases) | 08-22 |
