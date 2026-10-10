@@ -258,6 +258,31 @@ categories:
       link: https://github.com/LoMoCatAp/Bika-HarmonyOS/releases
       desc: 哔咔漫画的鸿蒙原生第三方客户端，支持离线下载
       time: 10-07
+    - name: VHome（vae＋）
+      url: https://github.com/muleos/VHome-release
+      link: https://github.com/muleos/VHome-release/releases
+      desc: 许嵩粉丝社区应用鸿蒙版，支持动态、音乐与互动
+      time: 10-10
+    - name: 收藏
+      url: https://github.com/muleos/collection_ohos
+      link: https://github.com/muleos/collection_ohos/releases
+      desc: 小红书等多平台媒体收藏下载工具，支持图片与视频保存
+      time: 10-04
+    - name: 拷贝漫画
+      url: https://github.com/point258/copyhomo
+      link: https://github.com/point258/copyhomo/releases
+      desc: 原生鸿蒙拷贝漫画客户端，支持手机与平板阅读
+      time: 10-07
+    - name: DiPlay Harmony
+      url: https://github.com/Tedfaraday/DiPlay-Harmony
+      link: https://github.com/Tedfaraday/DiPlay-Harmony/releases
+      desc: 鸿蒙平板无线 CarPlay 显示接收端
+      time: 10-08
+    - name: Bettbox
+      url: https://github.com/htoay/Bettbox
+      link: https://github.com/htoay/Bettbox/releases
+      desc: 基于 Mihomo 的鸿蒙代理客户端，支持 VPN 与后台保活
+      time: 10-09
   鸿蒙手机/平板:
     - name: Nexus
       url: https://github.com/xiaoli8571/Nexus-VPN-HarmonyOS
@@ -495,3 +520,8 @@ categories:
       link: https://github.com/hackeris/Harmonix/releases
       desc: 在鸿蒙PC上运行多种架构Linux程序的终端
       time: 2025-08-30
+    - name: OpenTTD
+      url: https://github.com/TennousuAthena/OH-OpenTTD
+      link: https://github.com/TennousuAthena/OH-OpenTTD/releases
+      desc: 基于运输大亨的鸿蒙交通运输模拟经营游戏
+      time: 10-03
