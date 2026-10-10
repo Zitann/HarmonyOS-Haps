@@ -37,7 +37,7 @@ categories:
       url: https://github.com/zhuoyi233/zhihu-plus-plus-HMOS
       link: https://github.com/zhuoyi233/zhihu-plus-plus-HMOS/releases
       desc: 知乎++ 鸿蒙原生版，注重隐私与去广告的知乎客户端
-      time: 10-03
+      time: 10-10
     - name: Melotopia
       url: https://github.com/Chenlvin/Melotopia-HMOS
       link: https://github.com/Chenlvin/Melotopia-HMOS/releases
@@ -92,7 +92,7 @@ categories:
       url: https://github.com/YuanChu-Tec/JMComic-HarmonyOS
       link: https://github.com/YuanChu-Tec/JMComic-HarmonyOS/releases
       desc: 漫画阅读工具（作者：YuanChu-Tec）
-      time: 10-09
+      time: 10-07
     - name: Wpixelgram
       url: https://github.com/1055235342/Wpixelgram-for-HarmonyOS
       link: https://github.com/1055235342/Wpixelgram-for-HarmonyOS/releases
@@ -207,7 +207,7 @@ categories:
       url: https://github.com/haohaoai0/HarmonyX
       link: https://github.com/haohaoai0/HarmonyX/releases
       desc: 面向 HarmonyOS 的原生 X 客户端
-      time: 10-07
+      time: 10-09
     - name: 鸿米家
       url: https://github.com/MrCashmere/miha_hm
       link: https://github.com/MrCashmere/miha_hm/releases
@@ -247,7 +247,7 @@ categories:
       url: https://github.com/LovelyFlash/JMComic-HarmonyOS
       link: https://github.com/LovelyFlash/JMComic-HarmonyOS/releases
       desc: 漫画阅读工具（作者：LovelyFlash）
-      time: 10-09
+      time: 10-07
     - name: Anx Reader
       url: https://github.com/anxcye/anx-reader
       link: https://github.com/anxcye/anx-reader/releases
@@ -262,7 +262,7 @@ categories:
       url: https://github.com/muleos/VHome-release
       link: https://github.com/muleos/VHome-release/releases
       desc: 许嵩粉丝社区应用鸿蒙版，支持动态、音乐与互动
-      time: 10-10
+      time: 10-04
     - name: 收藏
       url: https://github.com/muleos/collection_ohos
       link: https://github.com/muleos/collection_ohos/releases
@@ -272,7 +272,7 @@ categories:
       url: https://github.com/point258/copyhomo
       link: https://github.com/point258/copyhomo/releases
       desc: 原生鸿蒙拷贝漫画客户端，支持手机与平板阅读
-      time: 10-07
+      time: 10-10
     - name: DiPlay Harmony
       url: https://github.com/Tedfaraday/DiPlay-Harmony
       link: https://github.com/Tedfaraday/DiPlay-Harmony/releases
@@ -288,7 +288,7 @@ categories:
       url: https://github.com/xiaoli8571/Nexus-VPN-HarmonyOS
       link: https://github.com/xiaoli8571/Nexus-VPN-HarmonyOS/releases
       desc: 鸿蒙原生代理客户端，Mihomo 内核进程内嵌 TUN
-      time: 10-08
+      time: 10-10
     - name: 聚映
       url: https://github.com/yabi-zzh/livify-ohos
       link: https://github.com/yabi-zzh/livify-ohos/releases
@@ -323,7 +323,7 @@ categories:
       url: https://github.com/miramira8295/Petrelgram
       link: https://github.com/miramira8295/Petrelgram/releases
       desc: 第三方✈鸿蒙版，基于 TDLib 的 Telegram 客户端，支持多账号与音视频通话
-      time: 09-30
+      time: 10-10
     - name: NekoBox
       url: https://github.com/xiaoli8571/NekoBox4Harmony
       link: https://github.com/xiaoli8571/NekoBox4Harmony/releases
@@ -468,7 +468,7 @@ categories:
       url: https://github.com/TomoeMami/HomenaPod
       link: https://github.com/TomoeMami/HomenaPod/releases
       desc: AntennaPod 鸿蒙原生移植版，播客订阅与播放管理器
-      time: 10-08
+      time: 10-09
     - name: 微博Pura
       url: https://github.com/haohaoai0/WeiboPura
       link: https://github.com/haohaoai0/WeiboPura/releases
