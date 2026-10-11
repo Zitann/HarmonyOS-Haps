@@ -22,7 +22,7 @@ categories:
       url: https://github.com/dev4harmony/PiliPlus
       link: https://github.com/dev4harmony/PiliPlus/releases
       desc: BiliBili第三方客户端
-      time: 10-02
+      time: 10-11
     - name: NextN
       url: https://github.com/erosTeam/NextN
       link: https://github.com/erosTeam/NextN/releases
@@ -92,7 +92,7 @@ categories:
       url: https://github.com/YuanChu-Tec/JMComic-HarmonyOS
       link: https://github.com/YuanChu-Tec/JMComic-HarmonyOS/releases
       desc: 漫画阅读工具（作者：YuanChu-Tec）
-      time: 10-07
+      time: 10-10
     - name: Wpixelgram
       url: https://github.com/1055235342/Wpixelgram-for-HarmonyOS
       link: https://github.com/1055235342/Wpixelgram-for-HarmonyOS/releases
@@ -207,7 +207,7 @@ categories:
       url: https://github.com/haohaoai0/HarmonyX
       link: https://github.com/haohaoai0/HarmonyX/releases
       desc: 面向 HarmonyOS 的原生 X 客户端
-      time: 10-09
+      time: 10-11
     - name: 鸿米家
       url: https://github.com/MrCashmere/miha_hm
       link: https://github.com/MrCashmere/miha_hm/releases
@@ -237,7 +237,7 @@ categories:
       url: https://github.com/dev4harmony/PiliNara
       link: https://github.com/dev4harmony/PiliNara/releases
       desc: 基于 PiliPlus 魔改的 B 站第三方客户端鸿蒙版
-      time: 10-02
+      time: 10-11
     - name: 海阅
       url: https://github.com/LZZLHY/hlib
       link: https://github.com/LZZLHY/hlib/releases
@@ -247,7 +247,7 @@ categories:
       url: https://github.com/LovelyFlash/JMComic-HarmonyOS
       link: https://github.com/LovelyFlash/JMComic-HarmonyOS/releases
       desc: 漫画阅读工具（作者：LovelyFlash）
-      time: 10-07
+      time: 10-10
     - name: Anx Reader
       url: https://github.com/anxcye/anx-reader
       link: https://github.com/anxcye/anx-reader/releases
@@ -272,7 +272,7 @@ categories:
       url: https://github.com/point258/copyhomo
       link: https://github.com/point258/copyhomo/releases
       desc: 原生鸿蒙拷贝漫画客户端，支持手机与平板阅读
-      time: 10-10
+      time: 10-11
     - name: DiPlay Harmony
       url: https://github.com/Tedfaraday/DiPlay-Harmony
       link: https://github.com/Tedfaraday/DiPlay-Harmony/releases
@@ -388,7 +388,7 @@ categories:
       url: https://github.com/dgh1818/immich_ohos
       link: https://github.com/dgh1818/immich_ohos/releases
       desc: 一款连接 Immich 私人照片和视频备份服务器的鸿蒙客户端，用于在鸿蒙设备上浏览和管理个人媒体库
-      time: 09-29
+      time: 10-11
     - name: Ohentai
       url: https://github.com/Ibukitofu/Ohentai
       link: https://github.com/Ibukitofu/Ohentai/releases
@@ -468,7 +468,7 @@ categories:
       url: https://github.com/TomoeMami/HomenaPod
       link: https://github.com/TomoeMami/HomenaPod/releases
       desc: AntennaPod 鸿蒙原生移植版，播客订阅与播放管理器
-      time: 10-09
+      time: 10-11
     - name: 微博Pura
       url: https://github.com/haohaoai0/WeiboPura
       link: https://github.com/haohaoai0/WeiboPura/releases
