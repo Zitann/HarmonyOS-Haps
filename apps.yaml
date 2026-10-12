@@ -92,7 +92,7 @@ categories:
       url: https://github.com/YuanChu-Tec/JMComic-HarmonyOS
       link: https://github.com/YuanChu-Tec/JMComic-HarmonyOS/releases
       desc: 漫画阅读工具（作者：YuanChu-Tec）
-      time: 10-10
+      time: 10-11
     - name: Wpixelgram
       url: https://github.com/1055235342/Wpixelgram-for-HarmonyOS
       link: https://github.com/1055235342/Wpixelgram-for-HarmonyOS/releases
@@ -247,7 +247,7 @@ categories:
       url: https://github.com/LovelyFlash/JMComic-HarmonyOS
       link: https://github.com/LovelyFlash/JMComic-HarmonyOS/releases
       desc: 漫画阅读工具（作者：LovelyFlash）
-      time: 10-10
+      time: 10-11
     - name: Anx Reader
       url: https://github.com/anxcye/anx-reader
       link: https://github.com/anxcye/anx-reader/releases
@@ -262,7 +262,7 @@ categories:
       url: https://github.com/muleos/VHome-release
       link: https://github.com/muleos/VHome-release/releases
       desc: 许嵩粉丝社区应用鸿蒙版，支持动态、音乐与互动
-      time: 10-04
+      time: 10-12
     - name: 收藏
       url: https://github.com/muleos/collection_ohos
       link: https://github.com/muleos/collection_ohos/releases
@@ -272,7 +272,7 @@ categories:
       url: https://github.com/point258/copyhomo
       link: https://github.com/point258/copyhomo/releases
       desc: 原生鸿蒙拷贝漫画客户端，支持手机与平板阅读
-      time: 10-11
+      time: 10-12
     - name: DiPlay Harmony
       url: https://github.com/Tedfaraday/DiPlay-Harmony
       link: https://github.com/Tedfaraday/DiPlay-Harmony/releases
@@ -288,7 +288,7 @@ categories:
       url: https://github.com/xiaoli8571/Nexus-VPN-HarmonyOS
       link: https://github.com/xiaoli8571/Nexus-VPN-HarmonyOS/releases
       desc: 鸿蒙原生代理客户端，Mihomo 内核进程内嵌 TUN
-      time: 10-10
+      time: 10-12
     - name: 聚映
       url: https://github.com/yabi-zzh/livify-ohos
       link: https://github.com/yabi-zzh/livify-ohos/releases
@@ -353,7 +353,7 @@ categories:
       url: https://github.com/jonas-pi/FMphoto
       link: https://github.com/jonas-pi/FMphoto/releases
       desc: 用于在手机上连接飞牛 NAS，使用相册、网页入口及常见图库能力
-      time: 09-18
+      time: 10-12
     - name: PixEz
       url: https://github.com/bgli100/pixez-flutter-ohos
       link: https://github.com/bgli100/pixez-flutter-ohos/releases
@@ -408,7 +408,7 @@ categories:
       url: https://github.com/aimilin6688/KeePassHO
       link: https://github.com/aimilin6688/KeePassHO/releases
       desc: 兼容KeePass数据库的本地密码管理软件，支持TOTP
-      time: 03-30
+      time: 10-12
     - name: Harflix
       url: https://github.com/Actrlq/Harflix
       link: https://github.com/Actrlq/Harflix/releases
@@ -463,7 +463,7 @@ categories:
       url: https://github.com/end-web/HarmonyOS-book
       link: https://github.com/end-web/HarmonyOS-book/releases
       desc: 面向鸿蒙手机的听书与小说阅读 App
-      time: 09-21
+      time: 10-12
     - name: HomenaPod
       url: https://github.com/TomoeMami/HomenaPod
       link: https://github.com/TomoeMami/HomenaPod/releases

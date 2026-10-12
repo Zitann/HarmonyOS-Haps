@@ -63,13 +63,14 @@
 
 | 软件 | 描述 | 下载链接 | 更新 |
 | --- | --- | --- | --- |
+| [VHome（vae＋）](https://github.com/muleos/VHome-release) | 许嵩粉丝社区应用鸿蒙版，支持动态、音乐与互动 | [Link](https://github.com/muleos/VHome-release/releases) | 10-12 |
+| [拷贝漫画](https://github.com/point258/copyhomo) | 原生鸿蒙拷贝漫画客户端，支持手机与平板阅读 | [Link](https://github.com/point258/copyhomo/releases) | 10-12 |
 | [PiliPlus](https://github.com/dev4harmony/PiliPlus) | BiliBili第三方客户端 | [Link](https://github.com/dev4harmony/PiliPlus/releases) | 10-11 |
+| [JMComic](https://github.com/YuanChu-Tec/JMComic-HarmonyOS) | 漫画阅读工具（作者：YuanChu-Tec） | [Link](https://github.com/YuanChu-Tec/JMComic-HarmonyOS/releases) | 10-11 |
 | [Harmony X](https://github.com/haohaoai0/HarmonyX) | 面向 HarmonyOS 的原生 X 客户端 | [Link](https://github.com/haohaoai0/HarmonyX/releases) | 10-11 |
 | [PiliNara](https://github.com/dev4harmony/PiliNara) | 基于 PiliPlus 魔改的 B 站第三方客户端鸿蒙版 | [Link](https://github.com/dev4harmony/PiliNara/releases) | 10-11 |
-| [拷贝漫画](https://github.com/point258/copyhomo) | 原生鸿蒙拷贝漫画客户端，支持手机与平板阅读 | [Link](https://github.com/point258/copyhomo/releases) | 10-11 |
+| [JMComic](https://github.com/LovelyFlash/JMComic-HarmonyOS) | 漫画阅读工具（作者：LovelyFlash） | [Link](https://github.com/LovelyFlash/JMComic-HarmonyOS/releases) | 10-11 |
 | [知乎++](https://github.com/zhuoyi233/zhihu-plus-plus-HMOS) | 知乎++ 鸿蒙原生版，注重隐私与去广告的知乎客户端 | [Link](https://github.com/zhuoyi233/zhihu-plus-plus-HMOS/releases) | 10-10 |
-| [JMComic](https://github.com/YuanChu-Tec/JMComic-HarmonyOS) | 漫画阅读工具（作者：YuanChu-Tec） | [Link](https://github.com/YuanChu-Tec/JMComic-HarmonyOS/releases) | 10-10 |
-| [JMComic](https://github.com/LovelyFlash/JMComic-HarmonyOS) | 漫画阅读工具（作者：LovelyFlash） | [Link](https://github.com/LovelyFlash/JMComic-HarmonyOS/releases) | 10-10 |
 | [Bettbox](https://github.com/htoay/Bettbox) | 基于 Mihomo 的鸿蒙代理客户端，支持 VPN 与后台保活 | [Link](https://github.com/htoay/Bettbox/releases) | 10-09 |
 | [Aira](https://github.com/mason173/aira-browser) | 开源的鸿蒙 NEXT 浏览器 | [Link](https://github.com/mason173/aira-browser/releases) | 10-08 |
 | [DiPlay Harmony](https://github.com/Tedfaraday/DiPlay-Harmony) | 鸿蒙平板无线 CarPlay 显示接收端 | [Link](https://github.com/Tedfaraday/DiPlay-Harmony/releases) | 10-08 |
@@ -81,7 +82,6 @@
 | [AniCh](https://github.com/Sle2p/AniCh) | 多番剧源的在线动漫弹幕应用，支持超分辨率与离线缓存 | [Link](https://github.com/Sle2p/AniCh/releases) | 10-05 |
 | [PiliPlusX](https://github.com/cnctem/PiliPlusX) | 基于Flutter开发的B站第三方客户端 | [Link](https://github.com/cnctem/PiliPlusX/releases) | 10-04 |
 | [鸿米家](https://github.com/MrCashmere/miha_hm) | 基于鸿蒙NEXT原生开发的小米米家设备控制应用 | [Link](https://github.com/MrCashmere/miha_hm/releases) | 10-04 |
-| [VHome（vae＋）](https://github.com/muleos/VHome-release) | 许嵩粉丝社区应用鸿蒙版，支持动态、音乐与互动 | [Link](https://github.com/muleos/VHome-release/releases) | 10-04 |
 | [收藏](https://github.com/muleos/collection_ohos) | 小红书等多平台媒体收藏下载工具，支持图片与视频保存 | [Link](https://github.com/muleos/collection_ohos/releases) | 10-04 |
 | [S1 Orange](https://github.com/wly5556/S1-Orange) | 一款专为鸿蒙Next平台开发的 stage1st.com 论坛移动客户端 | [Link](https://github.com/wly5556/S1-Orange/releases) | 10-01 |
 | [HapStore](https://github.com/zhailinlang/hapstore) | 未上架 HAP 的聚合目录应用，可浏览、搜索与下载 | [Link](https://github.com/zhailinlang/hapstore/releases) | 09-30 |
@@ -124,9 +124,12 @@
 
 | 软件 | 描述 | 下载链接 | 更新 |
 | --- | --- | --- | --- |
+| [Nexus](https://github.com/xiaoli8571/Nexus-VPN-HarmonyOS) | 鸿蒙原生代理客户端，Mihomo 内核进程内嵌 TUN | [Link](https://github.com/xiaoli8571/Nexus-VPN-HarmonyOS/releases) | 10-12 |
+| [飞马相册](https://github.com/jonas-pi/FMphoto) | 用于在手机上连接飞牛 NAS，使用相册、网页入口及常见图库能力 | [Link](https://github.com/jonas-pi/FMphoto/releases) | 10-12 |
+| [KeePassHO](https://github.com/aimilin6688/KeePassHO) | 兼容KeePass数据库的本地密码管理软件，支持TOTP | [Link](https://github.com/aimilin6688/KeePassHO/releases) | 10-12 |
+| [简听](https://github.com/end-web/HarmonyOS-book) | 面向鸿蒙手机的听书与小说阅读 App | [Link](https://github.com/end-web/HarmonyOS-book/releases) | 10-12 |
 | [immich](https://github.com/dgh1818/immich_ohos) | 一款连接 Immich 私人照片和视频备份服务器的鸿蒙客户端，用于在鸿蒙设备上浏览和管理个人媒体库 | [Link](https://github.com/dgh1818/immich_ohos/releases) | 10-11 |
 | [HomenaPod](https://github.com/TomoeMami/HomenaPod) | AntennaPod 鸿蒙原生移植版，播客订阅与播放管理器 | [Link](https://github.com/TomoeMami/HomenaPod/releases) | 10-11 |
-| [Nexus](https://github.com/xiaoli8571/Nexus-VPN-HarmonyOS) | 鸿蒙原生代理客户端，Mihomo 内核进程内嵌 TUN | [Link](https://github.com/xiaoli8571/Nexus-VPN-HarmonyOS/releases) | 10-10 |
 | [Petrelgram](https://github.com/miramira8295/Petrelgram) | 第三方✈鸿蒙版，基于 TDLib 的 Telegram 客户端，支持多账号与音视频通话 | [Link](https://github.com/miramira8295/Petrelgram/releases) | 10-10 |
 | [Kelivo](https://github.com/Chevey339/kelivo) | 一个Flutter LLM聊天客户端，支持Android、iOS和Harmony Next | [Link](https://github.com/Chevey339/kelivo/releases) | 10-09 |
 | [PixEz](https://github.com/bgli100/pixez-flutter-ohos) | 一款支持免代理直连及查看动图的第三方Pixiv flutter客户端 | [Link](https://github.com/bgli100/pixez-flutter-ohos/releases) | 10-08 |
@@ -138,10 +141,8 @@
 | [EcoHub](https://github.com/fe-spark/EcoHub-for-OHOS) | 自托管影视聚合服务 EcoHub 的鸿蒙客户端，连接自建服务观看影视 | [Link](https://github.com/fe-spark/EcoHub-for-OHOS/releases) | 09-24 |
 | [Hey](https://github.com/popsiclelmlm/Hey) | 基于 Xray/sing-box 内核的鸿蒙原生代理客户端，安装包由第三方 fork 提供 | [Link](https://github.com/xiaoli8571/Hey/releases) | 09-22 |
 | [Scrcpy](https://github.com/LambdaYH/ScrcpyForHarmonyOS) | 鸿蒙scrcpy客户端，无线连接远程控制Android设备 | [Link](https://github.com/LambdaYH/ScrcpyForHarmonyOS/releases) | 09-21 |
-| [简听](https://github.com/end-web/HarmonyOS-book) | 面向鸿蒙手机的听书与小说阅读 App | [Link](https://github.com/end-web/HarmonyOS-book/releases) | 09-21 |
 | [NekoBox](https://github.com/xiaoli8571/NekoBox4Harmony) | 基于sing-box内核的鸿蒙VPN客户端，支持多协议与订阅 | [Link](https://github.com/xiaoli8571/NekoBox4Harmony/releases) | 09-18 |
 | [CalculatorX](https://github.com/StartYR/CalculatorX) | 一款支持符号计算、微积分、矩阵、方程求解与函数图像的原生科学计算器 | [Link](https://github.com/StartYR/CalculatorX/releases) | 09-18 |
-| [飞马相册](https://github.com/jonas-pi/FMphoto) | 用于在手机上连接飞牛 NAS，使用相册、网页入口及常见图库能力 | [Link](https://github.com/jonas-pi/FMphoto/releases) | 09-18 |
 | [微博Pura](https://github.com/haohaoai0/WeiboPura) | 面向 HarmonyOS 的原生微博浏览客户端 | [Link](https://github.com/haohaoai0/WeiboPura/releases) | 09-18 |
 | [开源阅读](https://github.com/mgz0227/legado-Harmony) | 一款支持自定义书源规则，可抓取任意网页内容进行阅读的开源应用 | [Link](https://github.com/mgz0227/legado-Harmony/releases) | 09-09 |
 | [Homowarden](https://github.com/DreamistW/Homowarden) | 鸿蒙版Bitwarden密码管理器，支持自托管服务器 | [Link](https://github.com/DreamistW/Homowarden/releases) | 09-08 |
@@ -154,7 +155,6 @@
 | [刷题宝](https://github.com/xiaomoHM/ShuaTi) | 离线刷题应用，支持多套试卷、错题本与随机练习 | [Link](https://github.com/xiaomoHM/ShuaTi/releases) | 06-10 |
 | [阅韵心读](https://github.com/liluolinder/selineRead) | Z-Library 第三方客户端，支持搜索下载与书架管理 | [Link](https://github.com/liluolinder/selineRead/releases) | 05-23 |
 | [轻阅读](https://github.com/autobcb/read) | 一款可通过自部署服务端，在手机、平板等多种设备上同步阅读进度的开源阅读应用 | [Link](https://github.com/autobcb/read/releases) | 05-14 |
-| [KeePassHO](https://github.com/aimilin6688/KeePassHO) | 兼容KeePass数据库的本地密码管理软件，支持TOTP | [Link](https://github.com/aimilin6688/KeePassHO/releases) | 03-30 |
 | [Harflix](https://github.com/Actrlq/Harflix) | 一款支持Emby协议的播放器 | [Link](https://github.com/Actrlq/Harflix/releases) | 03-15 |
 | [响入睡](https://github.com/qinshah/niceleep) | 一个专注于白噪音播放的应用，帮助你放松、专注和入眠 | [Link](https://github.com/qinshah/niceleep/releases) | 02-11 |
 | [soc-search](https://github.com/Amview/soc-search) | 查询安兔兔、Geekbench等平台SoC性能跑分排行的工具 | [Link](https://github.com/Amview/soc-search/releases) | 2025-09-23 |
