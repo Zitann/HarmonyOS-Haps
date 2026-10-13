@@ -92,7 +92,7 @@ categories:
       url: https://github.com/YuanChu-Tec/JMComic-HarmonyOS
       link: https://github.com/YuanChu-Tec/JMComic-HarmonyOS/releases
       desc: 漫画阅读工具（作者：YuanChu-Tec）
-      time: 10-11
+      time: 10-07
     - name: Wpixelgram
       url: https://github.com/1055235342/Wpixelgram-for-HarmonyOS
       link: https://github.com/1055235342/Wpixelgram-for-HarmonyOS/releases
@@ -207,7 +207,7 @@ categories:
       url: https://github.com/haohaoai0/HarmonyX
       link: https://github.com/haohaoai0/HarmonyX/releases
       desc: 面向 HarmonyOS 的原生 X 客户端
-      time: 10-11
+      time: 10-12
     - name: 鸿米家
       url: https://github.com/MrCashmere/miha_hm
       link: https://github.com/MrCashmere/miha_hm/releases
@@ -247,7 +247,7 @@ categories:
       url: https://github.com/LovelyFlash/JMComic-HarmonyOS
       link: https://github.com/LovelyFlash/JMComic-HarmonyOS/releases
       desc: 漫画阅读工具（作者：LovelyFlash）
-      time: 10-11
+      time: 10-07
     - name: Anx Reader
       url: https://github.com/anxcye/anx-reader
       link: https://github.com/anxcye/anx-reader/releases
@@ -463,12 +463,12 @@ categories:
       url: https://github.com/end-web/HarmonyOS-book
       link: https://github.com/end-web/HarmonyOS-book/releases
       desc: 面向鸿蒙手机的听书与小说阅读 App
-      time: 10-12
+      time: 10-13
     - name: HomenaPod
       url: https://github.com/TomoeMami/HomenaPod
       link: https://github.com/TomoeMami/HomenaPod/releases
       desc: AntennaPod 鸿蒙原生移植版，播客订阅与播放管理器
-      time: 10-11
+      time: 10-12
     - name: 微博Pura
       url: https://github.com/haohaoai0/WeiboPura
       link: https://github.com/haohaoai0/WeiboPura/releases
