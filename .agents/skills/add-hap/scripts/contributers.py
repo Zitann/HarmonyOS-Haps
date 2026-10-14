@@ -39,7 +39,7 @@ def get_contributers() -> list:
     with open(CONTRIBUTERS_PATH, "r", encoding="utf-8") as f:
         content = f.read()
     return re.findall(
-        r"- \[([^\]]+)\]\((https?://(?:github|gitee|atomgit)\.com/[^)]+)\)", content
+        r"- \[([^\]]+)\]\((https?://(?:github|gitee|gitcode|atomgit)\.com/[^)]+)\)", content
     )
 
 

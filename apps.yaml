@@ -283,6 +283,21 @@ categories:
       link: https://github.com/htoay/Bettbox/releases
       desc: 基于 Mihomo 的鸿蒙代理客户端，支持 VPN 与后台保活
       time: 10-09
+    - name: Obsidian
+      url: https://github.com/HandwerSTD/ObsidianHM
+      link: https://github.com/HandwerSTD/ObsidianHM/releases
+      desc: 鸿蒙 Obsidian 笔记移植版，支持平板与电脑
+      time: 10-12
+    - name: 音理音理!
+      url: https://github.com/suyunxing/NeriPlayer-HarmonyOS
+      link: https://github.com/suyunxing/NeriPlayer-HarmonyOS/releases
+      desc: 鸿蒙多源音乐播放器，支持网易云与 B 站音频
+      time: 10-13
+    - name: 洛雪音乐
+      url: https://github.com/k-brother/lx-music-harmony
+      link: https://github.com/k-brother/lx-music-harmony/releases
+      desc: 洛雪音乐鸿蒙原生版，支持多音源与本地播放
+      time: 10-13
   鸿蒙手机/平板:
     - name: Nexus
       url: https://github.com/xiaoli8571/Nexus-VPN-HarmonyOS
@@ -489,6 +504,11 @@ categories:
       link: https://github.com/liluolinder/selineRead/releases
       desc: Z-Library 第三方客户端，支持搜索下载与书架管理
       time: 05-23
+    - name: FreshRSS
+      url: https://github.com/wtronfi/FreshRSS-Harmony
+      link: https://github.com/wtronfi/FreshRSS-Harmony/releases
+      desc: 自托管 FreshRSS 鸿蒙客户端，支持离线阅读
+      time: 09-22
   鸿蒙电脑:
     - name: Servo
       url: https://github.com/servo/servo
@@ -525,3 +545,8 @@ categories:
       link: https://github.com/TennousuAthena/OH-OpenTTD/releases
       desc: 基于运输大亨的鸿蒙交通运输模拟经营游戏
       time: 10-03
+    - name: BrewLibrary
+      url: https://gitcode.com/handwer/HarmonyBrewLibrary
+      link: https://gitcode.com/handwer/HarmonyBrewLibrary/releases
+      desc: 鸿蒙电脑 Homebrew 软件包浏览与搜索工具
+      time: 10-09

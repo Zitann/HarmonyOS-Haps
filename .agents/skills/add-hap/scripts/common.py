@@ -88,6 +88,10 @@ def fetch_avatar(home_url: str, size: int = AVATAR_SIZE) -> str:
         api_url = home_url.replace("https://gitee.com/", "https://gitee.com/api/v5/users/")
         headers = {}
         extract = lambda data: data.get("avatar_url", "")
+    elif "gitcode.com" in home_url:
+        api_url = home_url.replace("https://gitcode.com/", "https://gitcode.com/api/v5/users/")
+        headers = {}
+        extract = lambda data: data.get("avatar_url", "")
     elif "atomgit.com" in home_url:
         api_url = home_url.replace(
             "https://atomgit.com/", "https://atomgit.com/api/user/v1/un/detail?path="
