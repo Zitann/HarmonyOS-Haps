@@ -92,7 +92,7 @@ categories:
       url: https://github.com/YuanChu-Tec/JMComic-HarmonyOS
       link: https://github.com/YuanChu-Tec/JMComic-HarmonyOS/releases
       desc: 漫画阅读工具（作者：YuanChu-Tec）
-      time: 10-07
+      time: 10-11
     - name: Wpixelgram
       url: https://github.com/1055235342/Wpixelgram-for-HarmonyOS
       link: https://github.com/1055235342/Wpixelgram-for-HarmonyOS/releases
@@ -197,12 +197,12 @@ categories:
       url: https://github.com/thx853068675-dev/quietstart
       link: https://github.com/thx853068675-dev/quietstart/releases
       desc: 鸿蒙原生页面控件识别工具，自动跳过广告开屏
-      time: 09-29
+      time: 10-14
     - name: Aira
       url: https://github.com/mason173/aira-browser
       link: https://github.com/mason173/aira-browser/releases
       desc: 开源的鸿蒙 NEXT 浏览器
-      time: 10-08
+      time: 10-14
     - name: Harmony X
       url: https://github.com/haohaoai0/HarmonyX
       link: https://github.com/haohaoai0/HarmonyX/releases
@@ -247,7 +247,7 @@ categories:
       url: https://github.com/LovelyFlash/JMComic-HarmonyOS
       link: https://github.com/LovelyFlash/JMComic-HarmonyOS/releases
       desc: 漫画阅读工具（作者：LovelyFlash）
-      time: 10-07
+      time: 10-11
     - name: Anx Reader
       url: https://github.com/anxcye/anx-reader
       link: https://github.com/anxcye/anx-reader/releases
@@ -287,12 +287,12 @@ categories:
       url: https://github.com/HandwerSTD/ObsidianHM
       link: https://github.com/HandwerSTD/ObsidianHM/releases
       desc: 鸿蒙 Obsidian 笔记移植版，支持平板与电脑
-      time: 10-12
+      time: 10-14
     - name: 音理音理!
       url: https://github.com/suyunxing/NeriPlayer-HarmonyOS
       link: https://github.com/suyunxing/NeriPlayer-HarmonyOS/releases
       desc: 鸿蒙多源音乐播放器，支持网易云与 B 站音频
-      time: 10-13
+      time: 10-05
     - name: 洛雪音乐
       url: https://github.com/k-brother/lx-music-harmony
       link: https://github.com/k-brother/lx-music-harmony/releases
@@ -478,7 +478,7 @@ categories:
       url: https://github.com/end-web/HarmonyOS-book
       link: https://github.com/end-web/HarmonyOS-book/releases
       desc: 面向鸿蒙手机的听书与小说阅读 App
-      time: 10-13
+      time: 10-14
     - name: HomenaPod
       url: https://github.com/TomoeMami/HomenaPod
       link: https://github.com/TomoeMami/HomenaPod/releases
