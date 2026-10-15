@@ -27,7 +27,7 @@ categories:
       url: https://github.com/erosTeam/NextN
       link: https://github.com/erosTeam/NextN/releases
       desc: 一款原生 HarmonyOS NEXT 的 nhentai 非官方客户端，支持画廊浏览、搜索、标签翻译与下载
-      time: 10-05
+      time: 10-15
     - name: 万花
       url: https://github.com/winehua/WineHua
       link: https://github.com/winehua/WineHua/releases
@@ -92,7 +92,7 @@ categories:
       url: https://github.com/YuanChu-Tec/JMComic-HarmonyOS
       link: https://github.com/YuanChu-Tec/JMComic-HarmonyOS/releases
       desc: 漫画阅读工具（作者：YuanChu-Tec）
-      time: 10-11
+      time: 10-07
     - name: Wpixelgram
       url: https://github.com/1055235342/Wpixelgram-for-HarmonyOS
       link: https://github.com/1055235342/Wpixelgram-for-HarmonyOS/releases
@@ -207,7 +207,7 @@ categories:
       url: https://github.com/haohaoai0/HarmonyX
       link: https://github.com/haohaoai0/HarmonyX/releases
       desc: 面向 HarmonyOS 的原生 X 客户端
-      time: 10-12
+      time: 10-14
     - name: 鸿米家
       url: https://github.com/MrCashmere/miha_hm
       link: https://github.com/MrCashmere/miha_hm/releases
@@ -247,7 +247,7 @@ categories:
       url: https://github.com/LovelyFlash/JMComic-HarmonyOS
       link: https://github.com/LovelyFlash/JMComic-HarmonyOS/releases
       desc: 漫画阅读工具（作者：LovelyFlash）
-      time: 10-11
+      time: 10-07
     - name: Anx Reader
       url: https://github.com/anxcye/anx-reader
       link: https://github.com/anxcye/anx-reader/releases
@@ -257,7 +257,7 @@ categories:
       url: https://github.com/LoMoCatAp/Bika-HarmonyOS
       link: https://github.com/LoMoCatAp/Bika-HarmonyOS/releases
       desc: 哔咔漫画的鸿蒙原生第三方客户端，支持离线下载
-      time: 10-07
+      time: 10-14
     - name: VHome（vae＋）
       url: https://github.com/muleos/VHome-release
       link: https://github.com/muleos/VHome-release/releases
@@ -272,7 +272,7 @@ categories:
       url: https://github.com/point258/copyhomo
       link: https://github.com/point258/copyhomo/releases
       desc: 原生鸿蒙拷贝漫画客户端，支持手机与平板阅读
-      time: 10-12
+      time: 10-15
     - name: DiPlay Harmony
       url: https://github.com/Tedfaraday/DiPlay-Harmony
       link: https://github.com/Tedfaraday/DiPlay-Harmony/releases
@@ -328,7 +328,7 @@ categories:
       url: https://github.com/erosTeam/NextE
       link: https://github.com/erosTeam/NextE/releases
       desc: 鸿蒙原生E-Hentai/ExHentai客户端，支持画廊浏览与下载
-      time: 10-05
+      time: 10-15
     - name: Kelivo
       url: https://github.com/Chevey339/kelivo
       link: https://github.com/Chevey339/kelivo/releases
@@ -478,7 +478,7 @@ categories:
       url: https://github.com/end-web/HarmonyOS-book
       link: https://github.com/end-web/HarmonyOS-book/releases
       desc: 面向鸿蒙手机的听书与小说阅读 App
-      time: 10-14
+      time: 10-15
     - name: HomenaPod
       url: https://github.com/TomoeMami/HomenaPod
       link: https://github.com/TomoeMami/HomenaPod/releases
@@ -508,7 +508,7 @@ categories:
       url: https://github.com/wtronfi/FreshRSS-Harmony
       link: https://github.com/wtronfi/FreshRSS-Harmony/releases
       desc: 自托管 FreshRSS 鸿蒙客户端，支持离线阅读
-      time: 09-22
+      time: 10-14
   鸿蒙电脑:
     - name: Servo
       url: https://github.com/servo/servo
