@@ -57,6 +57,7 @@
 - [dgh1818](https://github.com/dgh1818)
 - [erosTeam](https://github.com/erosTeam)
 - [fe-spark](https://github.com/fe-spark)
+- [fhf2022](https://github.com/fhf2022)
 - [hackeris](https://github.com/hackeris)
 - [handwer](https://gitcode.com/handwer)
 - [haohaoai0](https://github.com/haohaoai0)

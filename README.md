@@ -65,6 +65,7 @@
 | --- | --- | --- | --- |
 | [NextN](https://github.com/erosTeam/NextN) | 一款原生 HarmonyOS NEXT 的 nhentai 非官方客户端，支持画廊浏览、搜索、标签翻译与下载 | [Link](https://github.com/erosTeam/NextN/releases) | 10-15 |
 | [拷贝漫画](https://github.com/point258/copyhomo) | 原生鸿蒙拷贝漫画客户端，支持手机与平板阅读 | [Link](https://github.com/point258/copyhomo/releases) | 10-15 |
+| [联文件](https://github.com/fhf2022/lvlian-view-hm) | 绿联 NAS 鸿蒙文件管理器，支持图片浏览与文件传输 | [Link](https://github.com/fhf2022/lvlian-view-hm/releases) | 10-15 |
 | [轻启](https://github.com/thx853068675-dev/quietstart) | 鸿蒙原生页面控件识别工具，自动跳过广告开屏 | [Link](https://github.com/thx853068675-dev/quietstart/releases) | 10-14 |
 | [Aira](https://github.com/mason173/aira-browser) | 开源的鸿蒙 NEXT 浏览器 | [Link](https://github.com/mason173/aira-browser/releases) | 10-14 |
 | [Harmony X](https://github.com/haohaoai0/HarmonyX) | 面向 HarmonyOS 的原生 X 客户端 | [Link](https://github.com/haohaoai0/HarmonyX/releases) | 10-14 |

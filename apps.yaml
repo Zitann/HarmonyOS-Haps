@@ -298,6 +298,11 @@ categories:
       link: https://github.com/k-brother/lx-music-harmony/releases
       desc: 洛雪音乐鸿蒙原生版，支持多音源与本地播放
       time: 10-13
+    - name: 联文件
+      url: https://github.com/fhf2022/lvlian-view-hm
+      link: https://github.com/fhf2022/lvlian-view-hm/releases
+      desc: 绿联 NAS 鸿蒙文件管理器，支持图片浏览与文件传输
+      time: 10-15
   鸿蒙手机/平板:
     - name: Nexus
       url: https://github.com/xiaoli8571/Nexus-VPN-HarmonyOS
