@@ -92,7 +92,7 @@ categories:
       url: https://github.com/YuanChu-Tec/JMComic-HarmonyOS
       link: https://github.com/YuanChu-Tec/JMComic-HarmonyOS/releases
       desc: 漫画阅读工具（作者：YuanChu-Tec）
-      time: 10-11
+      time: 10-16
     - name: Wpixelgram
       url: https://github.com/1055235342/Wpixelgram-for-HarmonyOS
       link: https://github.com/1055235342/Wpixelgram-for-HarmonyOS/releases
@@ -247,7 +247,7 @@ categories:
       url: https://github.com/LovelyFlash/JMComic-HarmonyOS
       link: https://github.com/LovelyFlash/JMComic-HarmonyOS/releases
       desc: 漫画阅读工具（作者：LovelyFlash）
-      time: 10-11
+      time: 10-16
     - name: Anx Reader
       url: https://github.com/anxcye/anx-reader
       link: https://github.com/anxcye/anx-reader/releases
@@ -343,12 +343,12 @@ categories:
       url: https://github.com/miramira8295/Petrelgram
       link: https://github.com/miramira8295/Petrelgram/releases
       desc: 第三方✈鸿蒙版，基于 TDLib 的 Telegram 客户端，支持多账号与音视频通话
-      time: 10-10
+      time: 10-16
     - name: NekoBox
       url: https://github.com/xiaoli8571/NekoBox4Harmony
       link: https://github.com/xiaoli8571/NekoBox4Harmony/releases
       desc: 基于sing-box内核的鸿蒙VPN客户端，支持多协议与订阅
-      time: 09-18
+      time: 10-17
     - name: 存好
       url: https://github.com/xiaobingtech/SaveAny
       link: https://appgallery.huawei.com/link/invite-test-wap?taskId=14b001cf48f4af798b231d5c7b65adfb&invitationCode=7OrWxupnK5u
