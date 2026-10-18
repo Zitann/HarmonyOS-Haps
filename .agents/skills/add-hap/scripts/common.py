@@ -159,7 +159,7 @@ def format_display_time(dt: datetime) -> str:
 
 
 def get_remote_time(url: str):
-    """获取仓库最新 release 的发布时间。GitHub/Gitee 走官方 API，AtomGit 抓页面兜底。"""
+    """获取仓库最新 release 的发布时间。GitHub/Gitee/GitCode 走官方 API，AtomGit 抓页面兜底。"""
     if "github.com" in url:
         m = re.search(r"github\.com/([^/]+/[^/]+)", url)
         if not m:
@@ -176,6 +176,19 @@ def get_remote_time(url: str):
         if not m:
             return None
         api_url = f"https://gitee.com/api/v5/repos/{m.group(1)}/releases/latest"
+        resp = http_get(api_url)
+        if resp is not None and resp.status_code == 200:
+            created = resp.json().get("created_at")
+            if created:
+                return normalize_dt(
+                    datetime.strptime(created, "%Y-%m-%dT%H:%M:%S%z")
+                )
+        return None
+    if "gitcode.com" in url:
+        m = re.search(r"gitcode\.com/([^/]+/[^/]+)", url)
+        if not m:
+            return None
+        api_url = f"https://gitcode.com/api/v5/repos/{m.group(1)}/releases/latest"
         resp = http_get(api_url)
         if resp is not None and resp.status_code == 200:
             created = resp.json().get("created_at")
@@ -226,6 +239,22 @@ def get_latest_commit_time(repo_url: str):
         if not m:
             return None
         api = f"https://gitee.com/api/v5/repos/{m.group(1)}/commits?per_page=1"
+        resp = http_get(api)
+        if resp is None or resp.status_code != 200:
+            return None
+        data = resp.json()
+        if data:
+            return normalize_dt(
+                datetime.strptime(
+                    data[0]["commit"]["committer"]["date"], "%Y-%m-%dT%H:%M:%S%z"
+                )
+            )
+        return None
+    if "gitcode.com" in repo_url:
+        m = re.search(r"gitcode\.com/([^/]+/[^/]+)", repo_url)
+        if not m:
+            return None
+        api = f"https://gitcode.com/api/v5/repos/{m.group(1)}/commits?per_page=1"
         resp = http_get(api)
         if resp is None or resp.status_code != 200:
             return None

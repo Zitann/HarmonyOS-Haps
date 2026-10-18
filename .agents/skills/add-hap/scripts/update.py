@@ -19,32 +19,40 @@ from generate_readme import APPS_YAML, README, parse_time_str, generate
 
 
 def rewrite_times(updates: list) -> bool:
-    """按 (分类, 名称, 新时间) 列表改写 apps.yaml 中对应 time 行，返回是否有改动。"""
+    """按 (分类, URL, 新时间) 列表改写 apps.yaml 中对应 time 行，返回是否有改动。"""
     content = APPS_YAML.read_text(encoding="utf-8")
     lines = content.splitlines()
-    targets = {(cat, name): new_time for cat, name, new_time in updates}
+    targets = {(cat, url): new_time for cat, url, new_time in updates}
     changed = False
     out = []
     cur_cat = None
-    cur_name = None
+    cur_url = None
+    item_url = None
     for line in lines:
         # 分类行：恰好 2 空格缩进，如 "  一次开发，多端部署:"
         m = re.match(r"^ {2}([^ ].*?):\s*$", line)
         if m:
             cur_cat = m.group(1).strip()
-            cur_name = None
+            cur_url = None
             out.append(line)
             continue
         # 列表项行：恰好 4 空格 + "- name: xxx"
         m = re.match(r"^ {4}- name: (.*)$", line)
         if m:
-            cur_name = m.group(1).strip()
+            item_url = None
+            out.append(line)
+            continue
+        # url 字段行：恰好 6 空格，如 "      url: https://..."
+        m = re.match(r"^ {6}url: (.*)$", line)
+        if m:
+            item_url = m.group(1).strip()
+            cur_url = item_url
             out.append(line)
             continue
         # time 字段行：恰好 6 空格，如 "      time: 09-02"
         m = re.match(r"^ {6}time: (.*)$", line)
-        if m and cur_cat is not None and cur_name is not None:
-            key = (cur_cat, cur_name)
+        if m and cur_cat is not None and cur_url is not None:
+            key = (cur_cat, cur_url)
             if key in targets and targets[key] != m.group(1).strip():
                 out.append(f"      time: {targets[key]}")
                 changed = True
@@ -71,7 +79,7 @@ def _time_to_str(v):
 
 def collect_updates() -> list:
     """遍历 apps.yaml 查询各应用最新时间。
-    返回 [(分类, 名称, 新时间字符串, 来源 source), ...]，source 取值为 "release" 或 "commit"。
+    返回 [(分类, 名称, URL, 新时间字符串, 来源 source), ...]，source 取值为 "release" 或 "commit"。
     """
     import yaml
 
@@ -104,7 +112,7 @@ def collect_updates() -> list:
             # 仅当日期真正变化时才记录更新
             if old_dt is None or latest.date() != old_dt.date():
                 print(f"  最新{source}时间: {new_time}")
-                updates.append((cat, name, new_time, source))
+                updates.append((cat, name, url, new_time, source))
             else:
                 print(f"  时间未变化: {new_time}")
     return updates
@@ -115,22 +123,13 @@ def report(updated_apps: list):
     if not updated_apps:
         print("本次无可广播通知的应用（仅 release 更新会广播）")
         return
-    import yaml
-
-    with open(APPS_YAML, "r", encoding="utf-8") as f:
-        data = yaml.safe_load(f)
-    desc_map = {
-        app.get("name", ""): app.get("desc", "")
-        for apps in (data.get("categories") or {}).values()
-        for app in (apps or [])
-    }
     lines = ["🔄 应用更新"]
-    for name in updated_apps:
-        desc = desc_map.get(name, "")
+    for name, desc in updated_apps:
         lines.append(f"· {name}：{desc}")
     msg = "\n".join(lines)
+    names = [name for name, _ in updated_apps]
     if send_broadcast(msg):
-        print(f"已广播更新通知，更新应用: {', '.join(updated_apps)}")
+        print(f"已广播更新通知，更新应用: {', '.join(names)}")
 
 
 def main():
@@ -144,19 +143,29 @@ def main():
         return
 
     # 改写 apps.yaml 中的 time 字段（不区分 source）
-    updates_for_yaml = [(cat, name, new_time) for cat, name, new_time, _ in updates]
+    updates_for_yaml = [(cat, url, new_time) for cat, _, url, new_time, _ in updates]
     rewrite_times(updates_for_yaml)
     # 重新生成 README（内部会按时间倒序排序）
     new_content = generate()
     with open(README, "w", encoding="utf-8") as f:
         f.write(new_content)
 
-    updated_names = [name for _, name, _, _ in updates]
-    release_updated_names = [
-        name for _, name, _, source in updates if source == "release"
-    ]
+    updated_names = [name for _, name, _, _, _ in updates]
+    import yaml
+
+    with open(APPS_YAML, "r", encoding="utf-8") as f:
+        data = yaml.safe_load(f)
+    cats = data.get("categories") or {}
+    release_updated_apps = []
+    for cat, name, url, _, source in updates:
+        if source != "release":
+            continue
+        for app in cats.get(cat, []) or []:
+            if app.get("url") == url:
+                release_updated_apps.append((name, app.get("desc", "")))
+                break
     print("README 已更新")
-    report(release_updated_names)
+    report(release_updated_apps)
     with open(".apps_str.txt", "w", encoding="utf-8") as f:
         f.write(", ".join(updated_names))
 
