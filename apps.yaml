@@ -92,7 +92,7 @@ categories:
       url: https://github.com/YuanChu-Tec/JMComic-HarmonyOS
       link: https://github.com/YuanChu-Tec/JMComic-HarmonyOS/releases
       desc: 漫画阅读工具（作者：YuanChu-Tec）
-      time: 10-16
+      time: 10-17
     - name: Wpixelgram
       url: https://github.com/1055235342/Wpixelgram-for-HarmonyOS
       link: https://github.com/1055235342/Wpixelgram-for-HarmonyOS/releases
@@ -197,7 +197,7 @@ categories:
       url: https://github.com/thx853068675-dev/quietstart
       link: https://github.com/thx853068675-dev/quietstart/releases
       desc: 鸿蒙原生页面控件识别工具，自动跳过广告开屏
-      time: 10-16
+      time: 10-18
     - name: Aira
       url: https://github.com/mason173/aira-browser
       link: https://github.com/mason173/aira-browser/releases
@@ -247,7 +247,7 @@ categories:
       url: https://github.com/LovelyFlash/JMComic-HarmonyOS
       link: https://github.com/LovelyFlash/JMComic-HarmonyOS/releases
       desc: 漫画阅读工具（作者：LovelyFlash）
-      time: 10-16
+      time: 10-17
     - name: Anx Reader
       url: https://github.com/anxcye/anx-reader
       link: https://github.com/anxcye/anx-reader/releases
@@ -282,12 +282,12 @@ categories:
       url: https://github.com/htoay/Bettbox
       link: https://github.com/htoay/Bettbox/releases
       desc: 基于 Mihomo 的鸿蒙代理客户端，支持 VPN 与后台保活
-      time: 10-15
+      time: 10-17
     - name: Obsidian
       url: https://github.com/HandwerSTD/ObsidianHM
       link: https://github.com/HandwerSTD/ObsidianHM/releases
       desc: 鸿蒙 Obsidian 笔记移植版，支持平板与电脑
-      time: 10-14
+      time: 10-17
     - name: 音理音理!
       url: https://github.com/suyunxing/NeriPlayer-HarmonyOS
       link: https://github.com/suyunxing/NeriPlayer-HarmonyOS/releases
@@ -308,7 +308,7 @@ categories:
       url: https://github.com/xiaoli8571/Nexus-VPN-HarmonyOS
       link: https://github.com/xiaoli8571/Nexus-VPN-HarmonyOS/releases
       desc: 鸿蒙原生代理客户端，Mihomo 内核进程内嵌 TUN
-      time: 10-12
+      time: 10-18
     - name: 聚映
       url: https://github.com/yabi-zzh/livify-ohos
       link: https://github.com/yabi-zzh/livify-ohos/releases
@@ -358,7 +358,7 @@ categories:
       url: https://github.com/nimmi114514/PicaComic_ohos
       link: https://github.com/nimmi114514/PicaComic_ohos/releases
       desc: 一款使用 Flutter 构建的多源漫画应用
-      time: 08-29
+      time: 10-17
     - name: 开源阅读
       url: https://github.com/mgz0227/legado-Harmony
       link: https://github.com/mgz0227/legado-Harmony/releases
@@ -398,7 +398,7 @@ categories:
       url: https://github.com/honjow/Next2V
       link: https://github.com/honjow/Next2V/releases
       desc: 一款面向 HarmonyOS 的原生 V2EX 第三方客户端，支持主题浏览、回复发帖、节点发现与搜索
-      time: 08-09
+      time: 10-17
     - name: Karing
       url: https://github.com/ks-lm-kf/harmony-kslmkf-karing-hap
       link: https://github.com/ks-lm-kf/harmony-kslmkf-karing-hap/releases
