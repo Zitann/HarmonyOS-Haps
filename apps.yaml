@@ -207,7 +207,7 @@ categories:
       url: https://github.com/haohaoai0/HarmonyX
       link: https://github.com/haohaoai0/HarmonyX/releases
       desc: 面向 HarmonyOS 的原生 X 客户端
-      time: 10-18
+      time: 10-19
     - name: 鸿米家
       url: https://github.com/MrCashmere/miha_hm
       link: https://github.com/MrCashmere/miha_hm/releases
@@ -308,7 +308,7 @@ categories:
       url: https://github.com/xiaoli8571/Nexus-VPN-HarmonyOS
       link: https://github.com/xiaoli8571/Nexus-VPN-HarmonyOS/releases
       desc: 鸿蒙原生代理客户端，Mihomo 内核进程内嵌 TUN
-      time: 10-18
+      time: 10-19
     - name: 聚映
       url: https://github.com/yabi-zzh/livify-ohos
       link: https://github.com/yabi-zzh/livify-ohos/releases
@@ -373,12 +373,12 @@ categories:
       url: https://github.com/jonas-pi/FMphoto
       link: https://github.com/jonas-pi/FMphoto/releases
       desc: 用于在手机上连接飞牛 NAS，使用相册、网页入口及常见图库能力
-      time: 10-12
+      time: 10-19
     - name: PixEz
       url: https://github.com/bgli100/pixez-flutter-ohos
       link: https://github.com/bgli100/pixez-flutter-ohos/releases
       desc: 一款支持免代理直连及查看动图的第三方Pixiv flutter客户端
-      time: 10-08
+      time: 10-20
     - name: Scrcpy
       url: https://github.com/LambdaYH/ScrcpyForHarmonyOS
       link: https://github.com/LambdaYH/ScrcpyForHarmonyOS/releases
@@ -483,7 +483,7 @@ categories:
       url: https://github.com/end-web/HarmonyOS-book
       link: https://github.com/end-web/HarmonyOS-book/releases
       desc: 面向鸿蒙手机的听书与小说阅读 App
-      time: 10-19
+      time: 10-20
     - name: HomenaPod
       url: https://github.com/TomoeMami/HomenaPod
       link: https://github.com/TomoeMami/HomenaPod/releases
