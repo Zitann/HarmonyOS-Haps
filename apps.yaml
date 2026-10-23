@@ -57,7 +57,7 @@ categories:
       url: https://github.com/ErBWs/Kazumi
       link: https://github.com/ErBWs/Kazumi/releases
       desc: 基于自定义规则的番剧聚合观看应用，支持Anime4K超分辨率
-      time: 10-18
+      time: 10-23
     - name: YourPipe
       url: https://github.com/Ember5843/YourPipe
       link: https://github.com/Ember5843/YourPipe/releases
@@ -77,7 +77,7 @@ categories:
       url: https://github.com/wly5556/S1-Orange
       link: https://github.com/wly5556/S1-Orange/releases
       desc: 一款专为鸿蒙Next平台开发的 stage1st.com 论坛移动客户端
-      time: 10-01
+      time: 10-22
     - name: Phira
       url: https://github.com/TeamFlos/phira
       link: https://github.com/TeamFlos/phira/releases
@@ -197,7 +197,7 @@ categories:
       url: https://github.com/thx853068675-dev/quietstart
       link: https://github.com/thx853068675-dev/quietstart/releases
       desc: 鸿蒙原生页面控件识别工具，自动跳过广告开屏
-      time: 10-18
+      time: 10-23
     - name: Aira
       url: https://github.com/mason173/aira-browser
       link: https://github.com/mason173/aira-browser/releases
@@ -272,7 +272,7 @@ categories:
       url: https://github.com/point258/copyhomo
       link: https://github.com/point258/copyhomo/releases
       desc: 原生鸿蒙拷贝漫画客户端，支持手机与平板阅读
-      time: 10-15
+      time: 10-22
     - name: DiPlay Harmony
       url: https://github.com/Tedfaraday/DiPlay-Harmony
       link: https://github.com/Tedfaraday/DiPlay-Harmony/releases
@@ -308,7 +308,7 @@ categories:
       url: https://github.com/xiaoli8571/Nexus-VPN-HarmonyOS
       link: https://github.com/xiaoli8571/Nexus-VPN-HarmonyOS/releases
       desc: 鸿蒙原生代理客户端，Mihomo 内核进程内嵌 TUN
-      time: 10-21
+      time: 10-23
     - name: 聚映
       url: https://github.com/yabi-zzh/livify-ohos
       link: https://github.com/yabi-zzh/livify-ohos/releases
@@ -318,7 +318,7 @@ categories:
       url: https://github.com/137458/tieba-lite-harmony
       link: https://github.com/137458/tieba-lite-harmony/releases
       desc: 鸿蒙第三方百度贴吧客户端，支持浏览、搜索与回帖
-      time: 10-01
+      time: 10-22
     - name: EcoHub
       url: https://github.com/fe-spark/EcoHub-for-OHOS
       link: https://github.com/fe-spark/EcoHub-for-OHOS/releases
@@ -328,7 +328,7 @@ categories:
       url: https://github.com/DreamistW/Homowarden
       link: https://github.com/DreamistW/Homowarden/releases
       desc: 鸿蒙版Bitwarden密码管理器，支持自托管服务器
-      time: 09-08
+      time: 10-23
     - name: NextE
       url: https://github.com/erosTeam/NextE
       link: https://github.com/erosTeam/NextE/releases
@@ -363,7 +363,7 @@ categories:
       url: https://github.com/mgz0227/legado-Harmony
       link: https://github.com/mgz0227/legado-Harmony/releases
       desc: 一款支持自定义书源规则，可抓取任意网页内容进行阅读的开源应用
-      time: 09-09
+      time: 10-22
     - name: CalculatorX
       url: https://github.com/StartYR/CalculatorX
       link: https://github.com/StartYR/CalculatorX/releases
@@ -373,7 +373,7 @@ categories:
       url: https://github.com/jonas-pi/FMphoto
       link: https://github.com/jonas-pi/FMphoto/releases
       desc: 用于在手机上连接飞牛 NAS，使用相册、网页入口及常见图库能力
-      time: 10-19
+      time: 10-22
     - name: PixEz
       url: https://github.com/bgli100/pixez-flutter-ohos
       link: https://github.com/bgli100/pixez-flutter-ohos/releases
@@ -483,7 +483,7 @@ categories:
       url: https://github.com/end-web/HarmonyOS-book
       link: https://github.com/end-web/HarmonyOS-book/releases
       desc: 面向鸿蒙手机的听书与小说阅读 App
-      time: 10-21
+      time: 10-23
     - name: HomenaPod
       url: https://github.com/TomoeMami/HomenaPod
       link: https://github.com/TomoeMami/HomenaPod/releases
@@ -503,7 +503,7 @@ categories:
       url: https://github.com/AimesSoft/NipaPlay-Reload
       link: https://github.com/AimesSoft/NipaPlay-Reload/releases
       desc: 二次元媒体管理器，支持弹幕播放与媒体库集成
-      time: 10-02
+      time: 10-23
     - name: 阅韵心读
       url: https://github.com/liluolinder/selineRead
       link: https://github.com/liluolinder/selineRead/releases
