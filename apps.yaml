@@ -37,7 +37,7 @@ categories:
       url: https://github.com/zhuoyi233/zhihu-plus-plus-HMOS
       link: https://github.com/zhuoyi233/zhihu-plus-plus-HMOS/releases
       desc: 知乎++ 鸿蒙原生版，注重隐私与去广告的知乎客户端
-      time: 10-21
+      time: 10-24
     - name: Melotopia
       url: https://github.com/Chenlvin/Melotopia-HMOS
       link: https://github.com/Chenlvin/Melotopia-HMOS/releases
@@ -72,7 +72,7 @@ categories:
       url: https://github.com/LZZLHY/amcl
       link: https://github.com/LZZLHY/amcl/releases
       desc: 鸿蒙版全量Java版我的世界启动器
-      time: 09-24
+      time: 10-23
     - name: S1 Orange
       url: https://github.com/wly5556/S1-Orange
       link: https://github.com/wly5556/S1-Orange/releases
@@ -247,7 +247,7 @@ categories:
       url: https://github.com/LovelyFlash/JMComic-HarmonyOS
       link: https://github.com/LovelyFlash/JMComic-HarmonyOS/releases
       desc: 漫画阅读工具（作者：LovelyFlash）
-      time: 10-17
+      time: 10-24
     - name: Anx Reader
       url: https://github.com/anxcye/anx-reader
       link: https://github.com/anxcye/anx-reader/releases
@@ -282,7 +282,7 @@ categories:
       url: https://github.com/htoay/Bettbox
       link: https://github.com/htoay/Bettbox/releases
       desc: 基于 Mihomo 的鸿蒙代理客户端，支持 VPN 与后台保活
-      time: 10-17
+      time: 10-23
     - name: Obsidian
       url: https://github.com/HandwerSTD/ObsidianHM
       link: https://github.com/HandwerSTD/ObsidianHM/releases
@@ -302,7 +302,7 @@ categories:
       url: https://github.com/fhf2022/lvlian-view-hm
       link: https://github.com/fhf2022/lvlian-view-hm/releases
       desc: 绿联 NAS 鸿蒙文件管理器，支持图片浏览与文件传输
-      time: 10-15
+      time: 10-24
   鸿蒙手机/平板:
     - name: Nexus
       url: https://github.com/xiaoli8571/Nexus-VPN-HarmonyOS
@@ -483,7 +483,7 @@ categories:
       url: https://github.com/end-web/HarmonyOS-book
       link: https://github.com/end-web/HarmonyOS-book/releases
       desc: 面向鸿蒙手机的听书与小说阅读 App
-      time: 10-23
+      time: 10-24
     - name: HomenaPod
       url: https://github.com/TomoeMami/HomenaPod
       link: https://github.com/TomoeMami/HomenaPod/releases

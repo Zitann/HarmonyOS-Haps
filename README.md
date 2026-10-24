@@ -63,24 +63,25 @@
 
 | 软件 | 描述 | 下载链接 | 更新 |
 | --- | --- | --- | --- |
+| [知乎++](https://github.com/zhuoyi233/zhihu-plus-plus-HMOS) | 知乎++ 鸿蒙原生版，注重隐私与去广告的知乎客户端 | [Link](https://github.com/zhuoyi233/zhihu-plus-plus-HMOS/releases) | 10-24 |
+| [JMComic](https://github.com/LovelyFlash/JMComic-HarmonyOS) | 漫画阅读工具（作者：LovelyFlash） | [Link](https://github.com/LovelyFlash/JMComic-HarmonyOS/releases) | 10-24 |
+| [联文件](https://github.com/fhf2022/lvlian-view-hm) | 绿联 NAS 鸿蒙文件管理器，支持图片浏览与文件传输 | [Link](https://github.com/fhf2022/lvlian-view-hm/releases) | 10-24 |
 | [Kazumi](https://github.com/ErBWs/Kazumi) | 基于自定义规则的番剧聚合观看应用，支持Anime4K超分辨率 | [Link](https://github.com/ErBWs/Kazumi/releases) | 10-23 |
+| [AMCL](https://github.com/LZZLHY/amcl) | 鸿蒙版全量Java版我的世界启动器 | [Link](https://github.com/LZZLHY/amcl/releases) | 10-23 |
 | [轻启](https://github.com/thx853068675-dev/quietstart) | 鸿蒙原生页面控件识别工具，自动跳过广告开屏 | [Link](https://github.com/thx853068675-dev/quietstart/releases) | 10-23 |
+| [Bettbox](https://github.com/htoay/Bettbox) | 基于 Mihomo 的鸿蒙代理客户端，支持 VPN 与后台保活 | [Link](https://github.com/htoay/Bettbox/releases) | 10-23 |
 | [YourPipe](https://github.com/Ember5843/YourPipe) | 基于NewPipe Extractor的鸿蒙YouTube客户端 | [Link](https://github.com/Ember5843/YourPipe/releases) | 10-22 |
 | [S1 Orange](https://github.com/wly5556/S1-Orange) | 一款专为鸿蒙Next平台开发的 stage1st.com 论坛移动客户端 | [Link](https://github.com/wly5556/S1-Orange/releases) | 10-22 |
 | [拷贝漫画](https://github.com/point258/copyhomo) | 原生鸿蒙拷贝漫画客户端，支持手机与平板阅读 | [Link](https://github.com/point258/copyhomo/releases) | 10-22 |
 | [冲浪喵](https://github.com/awaLiny2333/LinysBrowser_NEXT) | 一款为鸿蒙NEXT开发的、轻量化的网页浏览器 | [Link](https://github.com/awaLiny2333/LinysBrowser_NEXT/releases) | 10-21 |
-| [知乎++](https://github.com/zhuoyi233/zhihu-plus-plus-HMOS) | 知乎++ 鸿蒙原生版，注重隐私与去广告的知乎客户端 | [Link](https://github.com/zhuoyi233/zhihu-plus-plus-HMOS/releases) | 10-21 |
 | [FlClash](https://github.com/tljk/FlClash-ohos) | 基于ClashMeta的多平台代理客户端 | [Link](https://github.com/tljk/FlClash-ohos/releases) | 10-21 |
 | [Harmony X](https://github.com/haohaoai0/HarmonyX) | 面向 HarmonyOS 的原生 X 客户端 | [Link](https://github.com/haohaoai0/HarmonyX/releases) | 10-21 |
 | [鸿米家](https://github.com/MrCashmere/miha_hm) | 基于鸿蒙NEXT原生开发的小米米家设备控制应用 | [Link](https://github.com/MrCashmere/miha_hm/releases) | 10-19 |
 | [PiliPlus](https://github.com/dev4harmony/PiliPlus) | BiliBili第三方客户端 | [Link](https://github.com/dev4harmony/PiliPlus/releases) | 10-18 |
 | [PiliNara](https://github.com/dev4harmony/PiliNara) | 基于 PiliPlus 魔改的 B 站第三方客户端鸿蒙版 | [Link](https://github.com/dev4harmony/PiliNara/releases) | 10-18 |
-| [JMComic](https://github.com/LovelyFlash/JMComic-HarmonyOS) | 漫画阅读工具（作者：LovelyFlash） | [Link](https://github.com/LovelyFlash/JMComic-HarmonyOS/releases) | 10-17 |
-| [Bettbox](https://github.com/htoay/Bettbox) | 基于 Mihomo 的鸿蒙代理客户端，支持 VPN 与后台保活 | [Link](https://github.com/htoay/Bettbox/releases) | 10-17 |
 | [Obsidian](https://github.com/HandwerSTD/ObsidianHM) | 鸿蒙 Obsidian 笔记移植版，支持平板与电脑 | [Link](https://github.com/HandwerSTD/ObsidianHM/releases) | 10-17 |
 | [哔咔](https://github.com/LoMoCatAp/Bika-HarmonyOS) | 哔咔漫画的鸿蒙原生第三方客户端，支持离线下载 | [Link](https://github.com/LoMoCatAp/Bika-HarmonyOS/releases) | 10-16 |
 | [NextN](https://github.com/erosTeam/NextN) | 一款原生 HarmonyOS NEXT 的 nhentai 非官方客户端，支持画廊浏览、搜索、标签翻译与下载 | [Link](https://github.com/erosTeam/NextN/releases) | 10-15 |
-| [联文件](https://github.com/fhf2022/lvlian-view-hm) | 绿联 NAS 鸿蒙文件管理器，支持图片浏览与文件传输 | [Link](https://github.com/fhf2022/lvlian-view-hm/releases) | 10-15 |
 | [Aira](https://github.com/mason173/aira-browser) | 开源的鸿蒙 NEXT 浏览器 | [Link](https://github.com/mason173/aira-browser/releases) | 10-14 |
 | [洛雪音乐](https://github.com/k-brother/lx-music-harmony) | 洛雪音乐鸿蒙原生版，支持多音源与本地播放 | [Link](https://github.com/k-brother/lx-music-harmony/releases) | 10-13 |
 | [VHome（vae＋）](https://github.com/muleos/VHome-release) | 许嵩粉丝社区应用鸿蒙版，支持动态、音乐与互动 | [Link](https://github.com/muleos/VHome-release/releases) | 10-12 |
@@ -95,7 +96,6 @@
 | [收藏](https://github.com/muleos/collection_ohos) | 小红书等多平台媒体收藏下载工具，支持图片与视频保存 | [Link](https://github.com/muleos/collection_ohos/releases) | 10-04 |
 | [HapStore](https://github.com/zhailinlang/hapstore) | 未上架 HAP 的聚合目录应用，可浏览、搜索与下载 | [Link](https://github.com/zhailinlang/hapstore/releases) | 09-30 |
 | [HapInstaller](https://github.com/LMV475/hap-installer) | 鸿蒙端侧签名与安装工具，无需 PC 即可侧载 HAP | [Link](https://github.com/LMV475/hap-installer/releases) | 09-28 |
-| [AMCL](https://github.com/LZZLHY/amcl) | 鸿蒙版全量Java版我的世界启动器 | [Link](https://github.com/LZZLHY/amcl/releases) | 09-24 |
 | [HX360E](https://github.com/1440196924/HX360E) | 在鸿蒙上运行Xbox 360游戏的模拟器前端 | [Link](https://github.com/1440196924/HX360E/releases) | 09-18 |
 | [万花](https://github.com/winehua/WineHua) | 在鸿蒙上运行Windows程序的兼容层工具 | [Link](https://github.com/winehua/WineHua/releases) | 09-15 |
 | [MR](https://github.com/DandanLLab/mr) | 基于Flutter的跨平台多媒体阅读器，兼容阅读书源规则 | [Link](https://github.com/DandanLLab/mr/releases) | 09-12 |
@@ -128,9 +128,9 @@
 
 | 软件 | 描述 | 下载链接 | 更新 |
 | --- | --- | --- | --- |
+| [简听](https://github.com/end-web/HarmonyOS-book) | 面向鸿蒙手机的听书与小说阅读 App | [Link](https://github.com/end-web/HarmonyOS-book/releases) | 10-24 |
 | [Nexus](https://github.com/xiaoli8571/Nexus-VPN-HarmonyOS) | 鸿蒙原生代理客户端，Mihomo 内核进程内嵌 TUN | [Link](https://github.com/xiaoli8571/Nexus-VPN-HarmonyOS/releases) | 10-23 |
 | [Homowarden](https://github.com/DreamistW/Homowarden) | 鸿蒙版Bitwarden密码管理器，支持自托管服务器 | [Link](https://github.com/DreamistW/Homowarden/releases) | 10-23 |
-| [简听](https://github.com/end-web/HarmonyOS-book) | 面向鸿蒙手机的听书与小说阅读 App | [Link](https://github.com/end-web/HarmonyOS-book/releases) | 10-23 |
 | [NipaPlay](https://github.com/AimesSoft/NipaPlay-Reload) | 二次元媒体管理器，支持弹幕播放与媒体库集成 | [Link](https://github.com/AimesSoft/NipaPlay-Reload/releases) | 10-23 |
 | [贴吧 Lite](https://github.com/137458/tieba-lite-harmony) | 鸿蒙第三方百度贴吧客户端，支持浏览、搜索与回帖 | [Link](https://github.com/137458/tieba-lite-harmony/releases) | 10-22 |
 | [开源阅读](https://github.com/mgz0227/legado-Harmony) | 一款支持自定义书源规则，可抓取任意网页内容进行阅读的开源应用 | [Link](https://github.com/mgz0227/legado-Harmony/releases) | 10-22 |
