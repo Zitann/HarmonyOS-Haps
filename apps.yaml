@@ -202,12 +202,12 @@ categories:
       url: https://github.com/mason173/aira-browser
       link: https://github.com/mason173/aira-browser/releases
       desc: 开源的鸿蒙 NEXT 浏览器
-      time: 10-14
+      time: 10-24
     - name: Harmony X
       url: https://github.com/haohaoai0/HarmonyX
       link: https://github.com/haohaoai0/HarmonyX/releases
       desc: 面向 HarmonyOS 的原生 X 客户端
-      time: 10-21
+      time: 10-24
     - name: 鸿米家
       url: https://github.com/MrCashmere/miha_hm
       link: https://github.com/MrCashmere/miha_hm/releases
@@ -232,7 +232,7 @@ categories:
       url: https://github.com/zhailinlang/hapstore
       link: https://github.com/zhailinlang/hapstore/releases
       desc: 未上架 HAP 的聚合目录应用，可浏览、搜索与下载
-      time: 09-30
+      time: 10-24
     - name: PiliNara
       url: https://github.com/dev4harmony/PiliNara
       link: https://github.com/dev4harmony/PiliNara/releases
@@ -277,7 +277,7 @@ categories:
       url: https://github.com/Tedfaraday/DiPlay-Harmony
       link: https://github.com/Tedfaraday/DiPlay-Harmony/releases
       desc: 鸿蒙平板无线 CarPlay 显示接收端
-      time: 10-08
+      time: 10-25
     - name: Bettbox
       url: https://github.com/htoay/Bettbox
       link: https://github.com/htoay/Bettbox/releases
@@ -292,7 +292,7 @@ categories:
       url: https://github.com/suyunxing/NeriPlayer-HarmonyOS
       link: https://github.com/suyunxing/NeriPlayer-HarmonyOS/releases
       desc: 鸿蒙多源音乐播放器，支持网易云与 B 站音频
-      time: 10-05
+      time: 10-24
     - name: 洛雪音乐
       url: https://github.com/k-brother/lx-music-harmony
       link: https://github.com/k-brother/lx-music-harmony/releases
@@ -348,7 +348,7 @@ categories:
       url: https://github.com/xiaoli8571/NekoBox4Harmony
       link: https://github.com/xiaoli8571/NekoBox4Harmony/releases
       desc: 基于sing-box内核的鸿蒙VPN客户端，支持多协议与订阅
-      time: 10-17
+      time: 10-24
     - name: 存好
       url: https://github.com/xiaobingtech/SaveAny
       link: https://appgallery.huawei.com/link/invite-test-wap?taskId=14b001cf48f4af798b231d5c7b65adfb&invitationCode=7OrWxupnK5u
@@ -483,7 +483,7 @@ categories:
       url: https://github.com/end-web/HarmonyOS-book
       link: https://github.com/end-web/HarmonyOS-book/releases
       desc: 面向鸿蒙手机的听书与小说阅读 App
-      time: 10-24
+      time: 10-25
     - name: HomenaPod
       url: https://github.com/TomoeMami/HomenaPod
       link: https://github.com/TomoeMami/HomenaPod/releases
