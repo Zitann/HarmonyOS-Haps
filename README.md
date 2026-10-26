@@ -63,12 +63,12 @@
 
 | 软件 | 描述 | 下载链接 | 更新 |
 | --- | --- | --- | --- |
+| [JMComic](https://github.com/LovelyFlash/JMComic-HarmonyOS) | 漫画阅读工具（作者：LovelyFlash） | [Link](https://github.com/LovelyFlash/JMComic-HarmonyOS/releases) | 10-25 |
 | [DiPlay Harmony](https://github.com/Tedfaraday/DiPlay-Harmony) | 鸿蒙平板无线 CarPlay 显示接收端 | [Link](https://github.com/Tedfaraday/DiPlay-Harmony/releases) | 10-25 |
 | [知乎++](https://github.com/zhuoyi233/zhihu-plus-plus-HMOS) | 知乎++ 鸿蒙原生版，注重隐私与去广告的知乎客户端 | [Link](https://github.com/zhuoyi233/zhihu-plus-plus-HMOS/releases) | 10-24 |
 | [Aira](https://github.com/mason173/aira-browser) | 开源的鸿蒙 NEXT 浏览器 | [Link](https://github.com/mason173/aira-browser/releases) | 10-24 |
 | [Harmony X](https://github.com/haohaoai0/HarmonyX) | 面向 HarmonyOS 的原生 X 客户端 | [Link](https://github.com/haohaoai0/HarmonyX/releases) | 10-24 |
 | [HapStore](https://github.com/zhailinlang/hapstore) | 未上架 HAP 的聚合目录应用，可浏览、搜索与下载 | [Link](https://github.com/zhailinlang/hapstore/releases) | 10-24 |
-| [JMComic](https://github.com/LovelyFlash/JMComic-HarmonyOS) | 漫画阅读工具（作者：LovelyFlash） | [Link](https://github.com/LovelyFlash/JMComic-HarmonyOS/releases) | 10-24 |
 | [音理音理!](https://github.com/suyunxing/NeriPlayer-HarmonyOS) | 鸿蒙多源音乐播放器，支持网易云与 B 站音频 | [Link](https://github.com/suyunxing/NeriPlayer-HarmonyOS/releases) | 10-24 |
 | [联文件](https://github.com/fhf2022/lvlian-view-hm) | 绿联 NAS 鸿蒙文件管理器，支持图片浏览与文件传输 | [Link](https://github.com/fhf2022/lvlian-view-hm/releases) | 10-24 |
 | [Kazumi](https://github.com/ErBWs/Kazumi) | 基于自定义规则的番剧聚合观看应用，支持Anime4K超分辨率 | [Link](https://github.com/ErBWs/Kazumi/releases) | 10-23 |
@@ -128,13 +128,13 @@
 
 | 软件 | 描述 | 下载链接 | 更新 |
 | --- | --- | --- | --- |
+| [Nexus](https://github.com/xiaoli8571/Nexus-VPN-HarmonyOS) | 鸿蒙原生代理客户端，Mihomo 内核进程内嵌 TUN | [Link](https://github.com/xiaoli8571/Nexus-VPN-HarmonyOS/releases) | 10-26 |
+| [开源阅读](https://github.com/mgz0227/legado-Harmony) | 一款支持自定义书源规则，可抓取任意网页内容进行阅读的开源应用 | [Link](https://github.com/mgz0227/legado-Harmony/releases) | 10-26 |
 | [简听](https://github.com/end-web/HarmonyOS-book) | 面向鸿蒙手机的听书与小说阅读 App | [Link](https://github.com/end-web/HarmonyOS-book/releases) | 10-25 |
 | [NekoBox](https://github.com/xiaoli8571/NekoBox4Harmony) | 基于sing-box内核的鸿蒙VPN客户端，支持多协议与订阅 | [Link](https://github.com/xiaoli8571/NekoBox4Harmony/releases) | 10-24 |
-| [Nexus](https://github.com/xiaoli8571/Nexus-VPN-HarmonyOS) | 鸿蒙原生代理客户端，Mihomo 内核进程内嵌 TUN | [Link](https://github.com/xiaoli8571/Nexus-VPN-HarmonyOS/releases) | 10-23 |
 | [Homowarden](https://github.com/DreamistW/Homowarden) | 鸿蒙版Bitwarden密码管理器，支持自托管服务器 | [Link](https://github.com/DreamistW/Homowarden/releases) | 10-23 |
 | [NipaPlay](https://github.com/AimesSoft/NipaPlay-Reload) | 二次元媒体管理器，支持弹幕播放与媒体库集成 | [Link](https://github.com/AimesSoft/NipaPlay-Reload/releases) | 10-23 |
 | [贴吧 Lite](https://github.com/137458/tieba-lite-harmony) | 鸿蒙第三方百度贴吧客户端，支持浏览、搜索与回帖 | [Link](https://github.com/137458/tieba-lite-harmony/releases) | 10-22 |
-| [开源阅读](https://github.com/mgz0227/legado-Harmony) | 一款支持自定义书源规则，可抓取任意网页内容进行阅读的开源应用 | [Link](https://github.com/mgz0227/legado-Harmony/releases) | 10-22 |
 | [飞马相册](https://github.com/jonas-pi/FMphoto) | 用于在手机上连接飞牛 NAS，使用相册、网页入口及常见图库能力 | [Link](https://github.com/jonas-pi/FMphoto/releases) | 10-22 |
 | [Next2V](https://github.com/honjow/Next2V) | 一款面向 HarmonyOS 的原生 V2EX 第三方客户端，支持主题浏览、回复发帖、节点发现与搜索 | [Link](https://github.com/honjow/Next2V/releases) | 10-21 |
 | [PixEz](https://github.com/bgli100/pixez-flutter-ohos) | 一款支持免代理直连及查看动图的第三方Pixiv flutter客户端 | [Link](https://github.com/bgli100/pixez-flutter-ohos/releases) | 10-20 |
