@@ -63,7 +63,9 @@
 
 | 软件 | 描述 | 下载链接 | 更新 |
 | --- | --- | --- | --- |
+| [LibreTV](https://github.com/panhaichen-creator/LibreTV-for-HarmonyOS) | 鸿蒙原生影视聚合客户端，支持多源搜索与直播播放 | [Link](https://github.com/panhaichen-creator/LibreTV-for-HarmonyOS/releases) | 10-27 |
 | [Aira](https://github.com/mason173/aira-browser) | 开源的鸿蒙 NEXT 浏览器 | [Link](https://github.com/mason173/aira-browser/releases) | 10-27 |
+| [NexHub](https://github.com/nexhub-app/NexHub) | 聚合动漫、漫画、小说与影视的跨平台客户端 | [Link](https://github.com/nexhub-app/NexHub/releases) | 10-26 |
 | [Harmony X](https://github.com/haohaoai0/HarmonyX) | 面向 HarmonyOS 的原生 X 客户端 | [Link](https://github.com/haohaoai0/HarmonyX/releases) | 10-26 |
 | [JMComic](https://github.com/LovelyFlash/JMComic-HarmonyOS) | 漫画阅读工具（作者：LovelyFlash） | [Link](https://github.com/LovelyFlash/JMComic-HarmonyOS/releases) | 10-25 |
 | [DiPlay Harmony](https://github.com/Tedfaraday/DiPlay-Harmony) | 鸿蒙平板无线 CarPlay 显示接收端 | [Link](https://github.com/Tedfaraday/DiPlay-Harmony/releases) | 10-25 |
@@ -84,6 +86,7 @@
 | [PiliPlus](https://github.com/dev4harmony/PiliPlus) | BiliBili第三方客户端 | [Link](https://github.com/dev4harmony/PiliPlus/releases) | 10-18 |
 | [PiliNara](https://github.com/dev4harmony/PiliNara) | 基于 PiliPlus 魔改的 B 站第三方客户端鸿蒙版 | [Link](https://github.com/dev4harmony/PiliNara/releases) | 10-18 |
 | [Obsidian](https://github.com/HandwerSTD/ObsidianHM) | 鸿蒙 Obsidian 笔记移植版，支持平板与电脑 | [Link](https://github.com/HandwerSTD/ObsidianHM/releases) | 10-17 |
+| [隧舟 TunnelArk](https://github.com/RockyMtnWolf/TunnelArk) | 鸿蒙 Tailscale 客户端，支持 FRP 与代理共存 | [Link](https://github.com/RockyMtnWolf/TunnelArk/releases) | 10-16 |
 | [哔咔](https://github.com/LoMoCatAp/Bika-HarmonyOS) | 哔咔漫画的鸿蒙原生第三方客户端，支持离线下载 | [Link](https://github.com/LoMoCatAp/Bika-HarmonyOS/releases) | 10-16 |
 | [NextN](https://github.com/erosTeam/NextN) | 一款原生 HarmonyOS NEXT 的 nhentai 非官方客户端，支持画廊浏览、搜索、标签翻译与下载 | [Link](https://github.com/erosTeam/NextN/releases) | 10-15 |
 | [洛雪音乐](https://github.com/k-brother/lx-music-harmony) | 洛雪音乐鸿蒙原生版，支持多音源与本地播放 | [Link](https://github.com/k-brother/lx-music-harmony/releases) | 10-13 |
@@ -175,6 +178,7 @@
 
 | 软件 | 描述 | 下载链接 | 更新 |
 | --- | --- | --- | --- |
+| [USBArc](https://github.com/RockyMtnWolf/USBArc) | 鸿蒙电脑 USB/IP 服务端，支持共享 USB 设备 | [Link](https://github.com/RockyMtnWolf/USBArc/releases) | 10-23 |
 | [BrewLibrary](https://gitcode.com/handwer/HarmonyBrewLibrary) | 鸿蒙电脑 Homebrew 软件包浏览与搜索工具 | [Link](https://gitcode.com/handwer/HarmonyBrewLibrary/releases) | 10-09 |
 | [Servo](https://github.com/servo/servo) | Servo 是一个用 Rust 语言编写的浏览器内核的浏览器 | [Link](https://github.com/servo/servo/releases) | 10-05 |
 | [OpenTTD](https://github.com/TennousuAthena/OH-OpenTTD) | 基于运输大亨的鸿蒙交通运输模拟经营游戏 | [Link](https://github.com/TennousuAthena/OH-OpenTTD/releases) | 10-03 |
@@ -183,6 +187,7 @@
 | [OHBittorrent](https://github.com/HanversionOvO/OHBittorrent) | qBittorrent 鸿蒙原生移植版，基于 Qt 6 的桌面级 BT 下载客户端 | [Link](https://github.com/HanversionOvO/OHBittorrent/releases) | 06-12 |
 | [aria2](https://github.com/SwimmingTiger/aria2-ohos) | 一个能在鸿蒙PC上通过命令行使用的Aria2下载工具 | [Link](https://github.com/SwimmingTiger/aria2-ohos/releases) | 01-20 |
 | [Harmonix](https://github.com/hackeris/Harmonix) | 在鸿蒙PC上运行多种架构Linux程序的终端 | [Link](https://github.com/hackeris/Harmonix/releases) | 2025-08-30 |
+| [鸿蒙调试助手（HDA）](https://gitcode.com/autoend/hdassistant) | 鸿蒙电脑设备调试工具，支持应用管理与日志查看 | [Link](https://gitcode.com/autoend/hdassistant/blob/main/README.md) | 无release |
 
 ### 反馈
 
