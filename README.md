@@ -63,11 +63,11 @@
 
 | 软件 | 描述 | 下载链接 | 更新 |
 | --- | --- | --- | --- |
+| [Aira](https://github.com/mason173/aira-browser) | 开源的鸿蒙 NEXT 浏览器 | [Link](https://github.com/mason173/aira-browser/releases) | 10-27 |
+| [Harmony X](https://github.com/haohaoai0/HarmonyX) | 面向 HarmonyOS 的原生 X 客户端 | [Link](https://github.com/haohaoai0/HarmonyX/releases) | 10-26 |
 | [JMComic](https://github.com/LovelyFlash/JMComic-HarmonyOS) | 漫画阅读工具（作者：LovelyFlash） | [Link](https://github.com/LovelyFlash/JMComic-HarmonyOS/releases) | 10-25 |
 | [DiPlay Harmony](https://github.com/Tedfaraday/DiPlay-Harmony) | 鸿蒙平板无线 CarPlay 显示接收端 | [Link](https://github.com/Tedfaraday/DiPlay-Harmony/releases) | 10-25 |
 | [知乎++](https://github.com/zhuoyi233/zhihu-plus-plus-HMOS) | 知乎++ 鸿蒙原生版，注重隐私与去广告的知乎客户端 | [Link](https://github.com/zhuoyi233/zhihu-plus-plus-HMOS/releases) | 10-24 |
-| [Aira](https://github.com/mason173/aira-browser) | 开源的鸿蒙 NEXT 浏览器 | [Link](https://github.com/mason173/aira-browser/releases) | 10-24 |
-| [Harmony X](https://github.com/haohaoai0/HarmonyX) | 面向 HarmonyOS 的原生 X 客户端 | [Link](https://github.com/haohaoai0/HarmonyX/releases) | 10-24 |
 | [HapStore](https://github.com/zhailinlang/hapstore) | 未上架 HAP 的聚合目录应用，可浏览、搜索与下载 | [Link](https://github.com/zhailinlang/hapstore/releases) | 10-24 |
 | [音理音理!](https://github.com/suyunxing/NeriPlayer-HarmonyOS) | 鸿蒙多源音乐播放器，支持网易云与 B 站音频 | [Link](https://github.com/suyunxing/NeriPlayer-HarmonyOS/releases) | 10-24 |
 | [联文件](https://github.com/fhf2022/lvlian-view-hm) | 绿联 NAS 鸿蒙文件管理器，支持图片浏览与文件传输 | [Link](https://github.com/fhf2022/lvlian-view-hm/releases) | 10-24 |
@@ -128,9 +128,11 @@
 
 | 软件 | 描述 | 下载链接 | 更新 |
 | --- | --- | --- | --- |
+| [immich](https://github.com/dgh1818/immich_ohos) | 一款连接 Immich 私人照片和视频备份服务器的鸿蒙客户端，用于在鸿蒙设备上浏览和管理个人媒体库 | [Link](https://github.com/dgh1818/immich_ohos/releases) | 10-27 |
 | [Nexus](https://github.com/xiaoli8571/Nexus-VPN-HarmonyOS) | 鸿蒙原生代理客户端，Mihomo 内核进程内嵌 TUN | [Link](https://github.com/xiaoli8571/Nexus-VPN-HarmonyOS/releases) | 10-26 |
+| [Kelivo](https://github.com/Chevey339/kelivo) | 一个Flutter LLM聊天客户端，支持Android、iOS和Harmony Next | [Link](https://github.com/Chevey339/kelivo/releases) | 10-26 |
 | [开源阅读](https://github.com/mgz0227/legado-Harmony) | 一款支持自定义书源规则，可抓取任意网页内容进行阅读的开源应用 | [Link](https://github.com/mgz0227/legado-Harmony/releases) | 10-26 |
-| [简听](https://github.com/end-web/HarmonyOS-book) | 面向鸿蒙手机的听书与小说阅读 App | [Link](https://github.com/end-web/HarmonyOS-book/releases) | 10-25 |
+| [简听](https://github.com/end-web/HarmonyOS-book) | 面向鸿蒙手机的听书与小说阅读 App | [Link](https://github.com/end-web/HarmonyOS-book/releases) | 10-26 |
 | [NekoBox](https://github.com/xiaoli8571/NekoBox4Harmony) | 基于sing-box内核的鸿蒙VPN客户端，支持多协议与订阅 | [Link](https://github.com/xiaoli8571/NekoBox4Harmony/releases) | 10-24 |
 | [Homowarden](https://github.com/DreamistW/Homowarden) | 鸿蒙版Bitwarden密码管理器，支持自托管服务器 | [Link](https://github.com/DreamistW/Homowarden/releases) | 10-23 |
 | [NipaPlay](https://github.com/AimesSoft/NipaPlay-Reload) | 二次元媒体管理器，支持弹幕播放与媒体库集成 | [Link](https://github.com/AimesSoft/NipaPlay-Reload/releases) | 10-23 |
@@ -144,8 +146,6 @@
 | [FreshRSS](https://github.com/wtronfi/FreshRSS-Harmony) | 自托管 FreshRSS 鸿蒙客户端，支持离线阅读 | [Link](https://github.com/wtronfi/FreshRSS-Harmony/releases) | 10-15 |
 | [KeePassHO](https://github.com/aimilin6688/KeePassHO) | 兼容KeePass数据库的本地密码管理软件，支持TOTP | [Link](https://github.com/aimilin6688/KeePassHO/releases) | 10-12 |
 | [HomenaPod](https://github.com/TomoeMami/HomenaPod) | AntennaPod 鸿蒙原生移植版，播客订阅与播放管理器 | [Link](https://github.com/TomoeMami/HomenaPod/releases) | 10-12 |
-| [immich](https://github.com/dgh1818/immich_ohos) | 一款连接 Immich 私人照片和视频备份服务器的鸿蒙客户端，用于在鸿蒙设备上浏览和管理个人媒体库 | [Link](https://github.com/dgh1818/immich_ohos/releases) | 10-11 |
-| [Kelivo](https://github.com/Chevey339/kelivo) | 一个Flutter LLM聊天客户端，支持Android、iOS和Harmony Next | [Link](https://github.com/Chevey339/kelivo/releases) | 10-09 |
 | [酷安](https://github.com/muleos/c001apk-ohos-releases) | 酷安第三方鸿蒙客户端，支持应用与话题浏览 | [Link](https://github.com/muleos/c001apk-ohos-releases/releases) | 09-30 |
 | [Karing](https://github.com/ks-lm-kf/harmony-kslmkf-karing-hap) | 基于Karing/sing-box的鸿蒙代理工具，支持订阅与多协议 | [Link](https://github.com/ks-lm-kf/harmony-kslmkf-karing-hap/releases) | 09-29 |
 | [EcoHub](https://github.com/fe-spark/EcoHub-for-OHOS) | 自托管影视聚合服务 EcoHub 的鸿蒙客户端，连接自建服务观看影视 | [Link](https://github.com/fe-spark/EcoHub-for-OHOS/releases) | 09-24 |

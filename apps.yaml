@@ -202,12 +202,12 @@ categories:
       url: https://github.com/mason173/aira-browser
       link: https://github.com/mason173/aira-browser/releases
       desc: 开源的鸿蒙 NEXT 浏览器
-      time: 10-24
+      time: 10-27
     - name: Harmony X
       url: https://github.com/haohaoai0/HarmonyX
       link: https://github.com/haohaoai0/HarmonyX/releases
       desc: 面向 HarmonyOS 的原生 X 客户端
-      time: 10-24
+      time: 10-26
     - name: 鸿米家
       url: https://github.com/MrCashmere/miha_hm
       link: https://github.com/MrCashmere/miha_hm/releases
@@ -338,7 +338,7 @@ categories:
       url: https://github.com/Chevey339/kelivo
       link: https://github.com/Chevey339/kelivo/releases
       desc: 一个Flutter LLM聊天客户端，支持Android、iOS和Harmony Next
-      time: 10-09
+      time: 10-26
     - name: Petrelgram
       url: https://github.com/miramira8295/Petrelgram
       link: https://github.com/miramira8295/Petrelgram/releases
@@ -408,7 +408,7 @@ categories:
       url: https://github.com/dgh1818/immich_ohos
       link: https://github.com/dgh1818/immich_ohos/releases
       desc: 一款连接 Immich 私人照片和视频备份服务器的鸿蒙客户端，用于在鸿蒙设备上浏览和管理个人媒体库
-      time: 10-11
+      time: 10-27
     - name: Ohentai
       url: https://github.com/Ibukitofu/Ohentai
       link: https://github.com/Ibukitofu/Ohentai/releases
@@ -483,7 +483,7 @@ categories:
       url: https://github.com/end-web/HarmonyOS-book
       link: https://github.com/end-web/HarmonyOS-book/releases
       desc: 面向鸿蒙手机的听书与小说阅读 App
-      time: 10-25
+      time: 10-26
     - name: HomenaPod
       url: https://github.com/TomoeMami/HomenaPod
       link: https://github.com/TomoeMami/HomenaPod/releases
