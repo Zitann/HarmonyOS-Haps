@@ -42,7 +42,7 @@ categories:
       url: https://github.com/erosTeam/NextN
       link: https://github.com/erosTeam/NextN/releases
       desc: 一款原生 HarmonyOS NEXT 的 nhentai 非官方客户端，支持画廊浏览、搜索、标签翻译与下载
-      time: 10-15
+      time: 10-27
     - name: 万花
       url: https://github.com/winehua/WineHua
       link: https://github.com/winehua/WineHua/releases
@@ -348,7 +348,7 @@ categories:
       url: https://github.com/erosTeam/NextE
       link: https://github.com/erosTeam/NextE/releases
       desc: 鸿蒙原生E-Hentai/ExHentai客户端，支持画廊浏览与下载
-      time: 10-15
+      time: 10-27
     - name: Kelivo
       url: https://github.com/Chevey339/kelivo
       link: https://github.com/Chevey339/kelivo/releases
@@ -413,7 +413,7 @@ categories:
       url: https://github.com/honjow/Next2V
       link: https://github.com/honjow/Next2V/releases
       desc: 一款面向 HarmonyOS 的原生 V2EX 第三方客户端，支持主题浏览、回复发帖、节点发现与搜索
-      time: 10-21
+      time: 10-27
     - name: Karing
       url: https://github.com/ks-lm-kf/harmony-kslmkf-karing-hap
       link: https://github.com/ks-lm-kf/harmony-kslmkf-karing-hap/releases
@@ -498,7 +498,7 @@ categories:
       url: https://github.com/end-web/HarmonyOS-book
       link: https://github.com/end-web/HarmonyOS-book/releases
       desc: 面向鸿蒙手机的听书与小说阅读 App
-      time: 10-26
+      time: 10-27
     - name: HomenaPod
       url: https://github.com/TomoeMami/HomenaPod
       link: https://github.com/TomoeMami/HomenaPod/releases
