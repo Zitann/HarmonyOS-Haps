@@ -92,7 +92,7 @@ categories:
       url: https://github.com/wly5556/S1-Orange
       link: https://github.com/wly5556/S1-Orange/releases
       desc: 一款专为鸿蒙Next平台开发的 stage1st.com 论坛移动客户端
-      time: 10-22
+      time: 10-29
     - name: Phira
       url: https://github.com/TeamFlos/phira
       link: https://github.com/TeamFlos/phira/releases
@@ -317,13 +317,13 @@ categories:
       url: https://github.com/fhf2022/lvlian-view-hm
       link: https://github.com/fhf2022/lvlian-view-hm/releases
       desc: 绿联 NAS 鸿蒙文件管理器，支持图片浏览与文件传输
-      time: 10-29
+      time: 10-30
   鸿蒙手机/平板:
     - name: Nexus
       url: https://github.com/xiaoli8571/Nexus-VPN-HarmonyOS
       link: https://github.com/xiaoli8571/Nexus-VPN-HarmonyOS/releases
       desc: 鸿蒙原生代理客户端，Mihomo 内核进程内嵌 TUN
-      time: 10-29
+      time: 10-30
     - name: 聚映
       url: https://github.com/yabi-zzh/livify-ohos
       link: https://github.com/yabi-zzh/livify-ohos/releases
@@ -358,7 +358,7 @@ categories:
       url: https://github.com/miramira8295/Petrelgram
       link: https://github.com/miramira8295/Petrelgram/releases
       desc: 第三方✈鸿蒙版，基于 TDLib 的 Telegram 客户端，支持多账号与音视频通话
-      time: 10-16
+      time: 10-30
     - name: NekoBox
       url: https://github.com/xiaoli8571/NekoBox4Harmony
       link: https://github.com/xiaoli8571/NekoBox4Harmony/releases
@@ -498,7 +498,7 @@ categories:
       url: https://github.com/end-web/HarmonyOS-book
       link: https://github.com/end-web/HarmonyOS-book/releases
       desc: 面向鸿蒙手机的听书与小说阅读 App
-      time: 10-28
+      time: 10-29
     - name: HomenaPod
       url: https://github.com/TomoeMami/HomenaPod
       link: https://github.com/TomoeMami/HomenaPod/releases
