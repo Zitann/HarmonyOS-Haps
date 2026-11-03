@@ -262,7 +262,7 @@ categories:
       url: https://github.com/LovelyFlash/JMComic-HarmonyOS
       link: https://github.com/LovelyFlash/JMComic-HarmonyOS/releases
       desc: 漫画阅读工具（作者：LovelyFlash）
-      time: 10-25
+      time: 11-03
     - name: Anx Reader
       url: https://github.com/anxcye/anx-reader
       link: https://github.com/anxcye/anx-reader/releases
@@ -317,7 +317,7 @@ categories:
       url: https://github.com/fhf2022/lvlian-view-hm
       link: https://github.com/fhf2022/lvlian-view-hm/releases
       desc: 绿联 NAS 鸿蒙文件管理器，支持图片浏览与文件传输
-      time: 11-02
+      time: 11-03
   鸿蒙手机/平板:
     - name: Nexus
       url: https://github.com/xiaoli8571/Nexus-VPN-HarmonyOS
@@ -393,7 +393,7 @@ categories:
       url: https://github.com/bgli100/pixez-flutter-ohos
       link: https://github.com/bgli100/pixez-flutter-ohos/releases
       desc: 一款支持免代理直连及查看动图的第三方Pixiv flutter客户端
-      time: 11-01
+      time: 11-03
     - name: Scrcpy
       url: https://github.com/LambdaYH/ScrcpyForHarmonyOS
       link: https://github.com/LambdaYH/ScrcpyForHarmonyOS/releases
@@ -498,7 +498,7 @@ categories:
       url: https://github.com/end-web/HarmonyOS-book
       link: https://github.com/end-web/HarmonyOS-book/releases
       desc: 面向鸿蒙手机的听书与小说阅读 App
-      time: 11-02
+      time: 11-03
     - name: HomenaPod
       url: https://github.com/TomoeMami/HomenaPod
       link: https://github.com/TomoeMami/HomenaPod/releases

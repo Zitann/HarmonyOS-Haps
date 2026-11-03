@@ -63,8 +63,9 @@
 
 | 软件 | 描述 | 下载链接 | 更新 |
 | --- | --- | --- | --- |
+| [JMComic](https://github.com/LovelyFlash/JMComic-HarmonyOS) | 漫画阅读工具（作者：LovelyFlash） | [Link](https://github.com/LovelyFlash/JMComic-HarmonyOS/releases) | 11-03 |
+| [联文件](https://github.com/fhf2022/lvlian-view-hm) | 绿联 NAS 鸿蒙文件管理器，支持图片浏览与文件传输 | [Link](https://github.com/fhf2022/lvlian-view-hm/releases) | 11-03 |
 | [FlClash](https://github.com/tljk/FlClash-ohos) | 基于ClashMeta的多平台代理客户端 | [Link](https://github.com/tljk/FlClash-ohos/releases) | 11-02 |
-| [联文件](https://github.com/fhf2022/lvlian-view-hm) | 绿联 NAS 鸿蒙文件管理器，支持图片浏览与文件传输 | [Link](https://github.com/fhf2022/lvlian-view-hm/releases) | 11-02 |
 | [PiliPlus](https://github.com/dev4harmony/PiliPlus) | BiliBili第三方客户端 | [Link](https://github.com/dev4harmony/PiliPlus/releases) | 11-01 |
 | [NexHub](https://github.com/nexhub-app/NexHub) | 聚合动漫、漫画、小说与影视的跨平台客户端 | [Link](https://github.com/nexhub-app/NexHub/releases) | 10-31 |
 | [Harmony X](https://github.com/haohaoai0/HarmonyX) | 面向 HarmonyOS 的原生 X 客户端 | [Link](https://github.com/haohaoai0/HarmonyX/releases) | 10-31 |
@@ -74,7 +75,6 @@
 | [LibreTV](https://github.com/panhaichen-creator/LibreTV-for-HarmonyOS) | 鸿蒙原生影视聚合客户端，支持多源搜索与直播播放 | [Link](https://github.com/panhaichen-creator/LibreTV-for-HarmonyOS/releases) | 10-27 |
 | [NextN](https://github.com/erosTeam/NextN) | 一款原生 HarmonyOS NEXT 的 nhentai 非官方客户端，支持画廊浏览、搜索、标签翻译与下载 | [Link](https://github.com/erosTeam/NextN/releases) | 10-27 |
 | [Aira](https://github.com/mason173/aira-browser) | 开源的鸿蒙 NEXT 浏览器 | [Link](https://github.com/mason173/aira-browser/releases) | 10-27 |
-| [JMComic](https://github.com/LovelyFlash/JMComic-HarmonyOS) | 漫画阅读工具（作者：LovelyFlash） | [Link](https://github.com/LovelyFlash/JMComic-HarmonyOS/releases) | 10-25 |
 | [DiPlay Harmony](https://github.com/Tedfaraday/DiPlay-Harmony) | 鸿蒙平板无线 CarPlay 显示接收端 | [Link](https://github.com/Tedfaraday/DiPlay-Harmony/releases) | 10-25 |
 | [知乎++](https://github.com/zhuoyi233/zhihu-plus-plus-HMOS) | 知乎++ 鸿蒙原生版，注重隐私与去广告的知乎客户端 | [Link](https://github.com/zhuoyi233/zhihu-plus-plus-HMOS/releases) | 10-24 |
 | [音理音理!](https://github.com/suyunxing/NeriPlayer-HarmonyOS) | 鸿蒙多源音乐播放器，支持网易云与 B 站音频 | [Link](https://github.com/suyunxing/NeriPlayer-HarmonyOS/releases) | 10-24 |
@@ -131,12 +131,12 @@
 
 | 软件 | 描述 | 下载链接 | 更新 |
 | --- | --- | --- | --- |
+| [PixEz](https://github.com/bgli100/pixez-flutter-ohos) | 一款支持免代理直连及查看动图的第三方Pixiv flutter客户端 | [Link](https://github.com/bgli100/pixez-flutter-ohos/releases) | 11-03 |
+| [简听](https://github.com/end-web/HarmonyOS-book) | 面向鸿蒙手机的听书与小说阅读 App | [Link](https://github.com/end-web/HarmonyOS-book/releases) | 11-03 |
 | [Kelivo](https://github.com/Chevey339/kelivo) | 一个Flutter LLM聊天客户端，支持Android、iOS和Harmony Next | [Link](https://github.com/Chevey339/kelivo/releases) | 11-02 |
-| [简听](https://github.com/end-web/HarmonyOS-book) | 面向鸿蒙手机的听书与小说阅读 App | [Link](https://github.com/end-web/HarmonyOS-book/releases) | 11-02 |
 | [Nexus](https://github.com/xiaoli8571/Nexus-VPN-HarmonyOS) | 鸿蒙原生代理客户端，Mihomo 内核进程内嵌 TUN | [Link](https://github.com/xiaoli8571/Nexus-VPN-HarmonyOS/releases) | 11-01 |
 | [EcoHub](https://github.com/fe-spark/EcoHub-for-OHOS) | 自托管影视聚合服务 EcoHub 的鸿蒙客户端，连接自建服务观看影视 | [Link](https://github.com/fe-spark/EcoHub-for-OHOS/releases) | 11-01 |
 | [NekoBox](https://github.com/xiaoli8571/NekoBox4Harmony) | 基于sing-box内核的鸿蒙VPN客户端，支持多协议与订阅 | [Link](https://github.com/xiaoli8571/NekoBox4Harmony/releases) | 11-01 |
-| [PixEz](https://github.com/bgli100/pixez-flutter-ohos) | 一款支持免代理直连及查看动图的第三方Pixiv flutter客户端 | [Link](https://github.com/bgli100/pixez-flutter-ohos/releases) | 11-01 |
 | [NipaPlay](https://github.com/AimesSoft/NipaPlay-Reload) | 二次元媒体管理器，支持弹幕播放与媒体库集成 | [Link](https://github.com/AimesSoft/NipaPlay-Reload/releases) | 11-01 |
 | [Petrelgram](https://github.com/miramira8295/Petrelgram) | 第三方✈鸿蒙版，基于 TDLib 的 Telegram 客户端，支持多账号与音视频通话 | [Link](https://github.com/miramira8295/Petrelgram/releases) | 10-30 |
 | [immich](https://github.com/dgh1818/immich_ohos) | 一款连接 Immich 私人照片和视频备份服务器的鸿蒙客户端，用于在鸿蒙设备上浏览和管理个人媒体库 | [Link](https://github.com/dgh1818/immich_ohos/releases) | 10-28 |
