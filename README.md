@@ -63,6 +63,7 @@
 
 | 软件 | 描述 | 下载链接 | 更新 |
 | --- | --- | --- | --- |
+| [Phira](https://github.com/TeamFlos/phira) | Phira 是一款基于社区的音乐游戏 | [Link](https://github.com/TeamFlos/phira/releases) | 11-04 |
 | [JMComic](https://github.com/LovelyFlash/JMComic-HarmonyOS) | 漫画阅读工具（作者：LovelyFlash） | [Link](https://github.com/LovelyFlash/JMComic-HarmonyOS/releases) | 11-03 |
 | [联文件](https://github.com/fhf2022/lvlian-view-hm) | 绿联 NAS 鸿蒙文件管理器，支持图片浏览与文件传输 | [Link](https://github.com/fhf2022/lvlian-view-hm/releases) | 11-03 |
 | [FlClash](https://github.com/tljk/FlClash-ohos) | 基于ClashMeta的多平台代理客户端 | [Link](https://github.com/tljk/FlClash-ohos/releases) | 11-02 |
@@ -104,7 +105,6 @@
 | [MR](https://github.com/DandanLLab/mr) | 基于Flutter的跨平台多媒体阅读器，兼容阅读书源规则 | [Link](https://github.com/DandanLLab/mr/releases) | 09-12 |
 | [OpenTwit](https://github.com/Abhi-Flex1/OpenTwit) | 鸿蒙原生 X 客户端，含时间线与私信 | [Link](https://github.com/Abhi-Flex1/OpenTwit/blob/main/README.md) | 09-11 |
 | [Melotopia](https://github.com/Chenlvin/Melotopia-HMOS) | 鸿蒙原生音乐播放器，支持本地曲库与在线播放 | [Link](https://github.com/Chenlvin/Melotopia-HMOS/releases) | 08-31 |
-| [Phira](https://github.com/TeamFlos/phira) | Phira 是一款基于社区的音乐游戏 | [Link](https://github.com/TeamFlos/phira/releases) | 07-30 |
 | [Tailscale](https://github.com/flypigJ/Tailscale-OHOS) | 一款零配置的组网工具，让你的设备安全地互联 | [Link](https://github.com/flypigJ/Tailscale-OHOS/releases) | 07-16 |
 | [Wpixelgram](https://github.com/1055235342/Wpixelgram-for-HarmonyOS) | 第三方✈鸿蒙版Wpixelgram | [Link](https://github.com/1055235342/Wpixelgram-for-HarmonyOS/releases) | 07-03 |
 | [海阅](https://github.com/LZZLHY/hlib) | 基于 Z-Library 镜像的电子书客户端，支持搜索、阅读与下载 | [Link](https://github.com/LZZLHY/hlib/releases) | 06-27 |
@@ -131,10 +131,12 @@
 
 | 软件 | 描述 | 下载链接 | 更新 |
 | --- | --- | --- | --- |
+| [Nexus](https://github.com/xiaoli8571/Nexus-VPN-HarmonyOS) | 鸿蒙原生代理客户端，Mihomo 内核进程内嵌 TUN | [Link](https://github.com/xiaoli8571/Nexus-VPN-HarmonyOS/releases) | 11-04 |
+| [Pica Comic](https://github.com/nimmi114514/PicaComic_ohos) | 一款使用 Flutter 构建的多源漫画应用 | [Link](https://github.com/nimmi114514/PicaComic_ohos/releases) | 11-04 |
+| [Next2V](https://github.com/honjow/Next2V) | 一款面向 HarmonyOS 的原生 V2EX 第三方客户端，支持主题浏览、回复发帖、节点发现与搜索 | [Link](https://github.com/honjow/Next2V/releases) | 11-04 |
+| [简听](https://github.com/end-web/HarmonyOS-book) | 面向鸿蒙手机的听书与小说阅读 App | [Link](https://github.com/end-web/HarmonyOS-book/releases) | 11-04 |
 | [PixEz](https://github.com/bgli100/pixez-flutter-ohos) | 一款支持免代理直连及查看动图的第三方Pixiv flutter客户端 | [Link](https://github.com/bgli100/pixez-flutter-ohos/releases) | 11-03 |
-| [简听](https://github.com/end-web/HarmonyOS-book) | 面向鸿蒙手机的听书与小说阅读 App | [Link](https://github.com/end-web/HarmonyOS-book/releases) | 11-03 |
 | [Kelivo](https://github.com/Chevey339/kelivo) | 一个Flutter LLM聊天客户端，支持Android、iOS和Harmony Next | [Link](https://github.com/Chevey339/kelivo/releases) | 11-02 |
-| [Nexus](https://github.com/xiaoli8571/Nexus-VPN-HarmonyOS) | 鸿蒙原生代理客户端，Mihomo 内核进程内嵌 TUN | [Link](https://github.com/xiaoli8571/Nexus-VPN-HarmonyOS/releases) | 11-01 |
 | [EcoHub](https://github.com/fe-spark/EcoHub-for-OHOS) | 自托管影视聚合服务 EcoHub 的鸿蒙客户端，连接自建服务观看影视 | [Link](https://github.com/fe-spark/EcoHub-for-OHOS/releases) | 11-01 |
 | [NekoBox](https://github.com/xiaoli8571/NekoBox4Harmony) | 基于sing-box内核的鸿蒙VPN客户端，支持多协议与订阅 | [Link](https://github.com/xiaoli8571/NekoBox4Harmony/releases) | 11-01 |
 | [NipaPlay](https://github.com/AimesSoft/NipaPlay-Reload) | 二次元媒体管理器，支持弹幕播放与媒体库集成 | [Link](https://github.com/AimesSoft/NipaPlay-Reload/releases) | 11-01 |
@@ -142,12 +144,10 @@
 | [immich](https://github.com/dgh1818/immich_ohos) | 一款连接 Immich 私人照片和视频备份服务器的鸿蒙客户端，用于在鸿蒙设备上浏览和管理个人媒体库 | [Link](https://github.com/dgh1818/immich_ohos/releases) | 10-28 |
 | [HomenaPod](https://github.com/TomoeMami/HomenaPod) | AntennaPod 鸿蒙原生移植版，播客订阅与播放管理器 | [Link](https://github.com/TomoeMami/HomenaPod/releases) | 10-28 |
 | [NextE](https://github.com/erosTeam/NextE) | 鸿蒙原生E-Hentai/ExHentai客户端，支持画廊浏览与下载 | [Link](https://github.com/erosTeam/NextE/releases) | 10-27 |
-| [Next2V](https://github.com/honjow/Next2V) | 一款面向 HarmonyOS 的原生 V2EX 第三方客户端，支持主题浏览、回复发帖、节点发现与搜索 | [Link](https://github.com/honjow/Next2V/releases) | 10-27 |
 | [开源阅读](https://github.com/mgz0227/legado-Harmony) | 一款支持自定义书源规则，可抓取任意网页内容进行阅读的开源应用 | [Link](https://github.com/mgz0227/legado-Harmony/releases) | 10-26 |
 | [Homowarden](https://github.com/DreamistW/Homowarden) | 鸿蒙版Bitwarden密码管理器，支持自托管服务器 | [Link](https://github.com/DreamistW/Homowarden/releases) | 10-23 |
 | [贴吧 Lite](https://github.com/137458/tieba-lite-harmony) | 鸿蒙第三方百度贴吧客户端，支持浏览、搜索与回帖 | [Link](https://github.com/137458/tieba-lite-harmony/releases) | 10-22 |
 | [飞马相册](https://github.com/jonas-pi/FMphoto) | 用于在手机上连接飞牛 NAS，使用相册、网页入口及常见图库能力 | [Link](https://github.com/jonas-pi/FMphoto/releases) | 10-22 |
-| [Pica Comic](https://github.com/nimmi114514/PicaComic_ohos) | 一款使用 Flutter 构建的多源漫画应用 | [Link](https://github.com/nimmi114514/PicaComic_ohos/releases) | 10-17 |
 | [FreshRSS](https://github.com/wtronfi/FreshRSS-Harmony) | 自托管 FreshRSS 鸿蒙客户端，支持离线阅读 | [Link](https://github.com/wtronfi/FreshRSS-Harmony/releases) | 10-15 |
 | [KeePassHO](https://github.com/aimilin6688/KeePassHO) | 兼容KeePass数据库的本地密码管理软件，支持TOTP | [Link](https://github.com/aimilin6688/KeePassHO/releases) | 10-12 |
 | [酷安](https://github.com/muleos/c001apk-ohos-releases) | 酷安第三方鸿蒙客户端，支持应用与话题浏览 | [Link](https://github.com/muleos/c001apk-ohos-releases/releases) | 09-30 |

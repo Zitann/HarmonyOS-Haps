@@ -97,7 +97,7 @@ categories:
       url: https://github.com/TeamFlos/phira
       link: https://github.com/TeamFlos/phira/releases
       desc: Phira 是一款基于社区的音乐游戏
-      time: 07-30
+      time: 11-04
     - name: Tailscale
       url: https://github.com/flypigJ/Tailscale-OHOS
       link: https://github.com/flypigJ/Tailscale-OHOS/releases
@@ -323,7 +323,7 @@ categories:
       url: https://github.com/xiaoli8571/Nexus-VPN-HarmonyOS
       link: https://github.com/xiaoli8571/Nexus-VPN-HarmonyOS/releases
       desc: 鸿蒙原生代理客户端，Mihomo 内核进程内嵌 TUN
-      time: 11-01
+      time: 11-04
     - name: 聚映
       url: https://github.com/yabi-zzh/livify-ohos
       link: https://github.com/yabi-zzh/livify-ohos/releases
@@ -373,7 +373,7 @@ categories:
       url: https://github.com/nimmi114514/PicaComic_ohos
       link: https://github.com/nimmi114514/PicaComic_ohos/releases
       desc: 一款使用 Flutter 构建的多源漫画应用
-      time: 10-17
+      time: 11-04
     - name: 开源阅读
       url: https://github.com/mgz0227/legado-Harmony
       link: https://github.com/mgz0227/legado-Harmony/releases
@@ -413,7 +413,7 @@ categories:
       url: https://github.com/honjow/Next2V
       link: https://github.com/honjow/Next2V/releases
       desc: 一款面向 HarmonyOS 的原生 V2EX 第三方客户端，支持主题浏览、回复发帖、节点发现与搜索
-      time: 10-27
+      time: 11-04
     - name: Karing
       url: https://github.com/ks-lm-kf/harmony-kslmkf-karing-hap
       link: https://github.com/ks-lm-kf/harmony-kslmkf-karing-hap/releases
@@ -498,7 +498,7 @@ categories:
       url: https://github.com/end-web/HarmonyOS-book
       link: https://github.com/end-web/HarmonyOS-book/releases
       desc: 面向鸿蒙手机的听书与小说阅读 App
-      time: 11-03
+      time: 11-04
     - name: HomenaPod
       url: https://github.com/TomoeMami/HomenaPod
       link: https://github.com/TomoeMami/HomenaPod/releases
