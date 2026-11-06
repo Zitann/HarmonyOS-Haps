@@ -22,7 +22,7 @@ categories:
       url: https://github.com/apap6628114/lnga_harmony
       link: https://github.com/apap6628114/lnga_harmony/releases
       desc: NGA玩家社区鸿蒙原生客户端，支持板块浏览、帖子阅读、发帖回复与私信聊天
-      time: 11-04
+      time: 11-05
     - name: MindustryArk
       url: https://github.com/haohandc/MindustryArk
       link: https://github.com/haohandc/MindustryArk/releases
@@ -398,7 +398,7 @@ categories:
       url: https://github.com/LambdaYH/ScrcpyForHarmonyOS
       link: https://github.com/LambdaYH/ScrcpyForHarmonyOS/releases
       desc: 鸿蒙scrcpy客户端，无线连接远程控制Android设备
-      time: 09-21
+      time: 11-05
     - name: Hey
       url: https://github.com/popsiclelmlm/Hey
       link: https://github.com/xiaoli8571/Hey/releases
