@@ -343,7 +343,7 @@ categories:
       url: https://github.com/DreamistW/Homowarden
       link: https://github.com/DreamistW/Homowarden/releases
       desc: 鸿蒙版Bitwarden密码管理器，支持自托管服务器
-      time: 10-23
+      time: 11-06
     - name: NextE
       url: https://github.com/erosTeam/NextE
       link: https://github.com/erosTeam/NextE/releases
@@ -393,7 +393,7 @@ categories:
       url: https://github.com/bgli100/pixez-flutter-ohos
       link: https://github.com/bgli100/pixez-flutter-ohos/releases
       desc: 一款支持免代理直连及查看动图的第三方Pixiv flutter客户端
-      time: 11-03
+      time: 11-07
     - name: Scrcpy
       url: https://github.com/LambdaYH/ScrcpyForHarmonyOS
       link: https://github.com/LambdaYH/ScrcpyForHarmonyOS/releases
@@ -498,7 +498,7 @@ categories:
       url: https://github.com/end-web/HarmonyOS-book
       link: https://github.com/end-web/HarmonyOS-book/releases
       desc: 面向鸿蒙手机的听书与小说阅读 App
-      time: 11-05
+      time: 11-06
     - name: HomenaPod
       url: https://github.com/TomoeMami/HomenaPod
       link: https://github.com/TomoeMami/HomenaPod/releases
