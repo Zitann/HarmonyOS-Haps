@@ -314,8 +314,8 @@ categories:
       desc: 基于 Mihomo 的鸿蒙代理客户端，支持 VPN 与后台保活
       time: 10-23
     - name: Obsidian
-      url: https://github.com/HandwerSTD/ObsidianHM
-      link: https://github.com/HandwerSTD/ObsidianHM/releases
+      url: https://gitcode.com/handwer/ObsidianHM
+      link: https://gitcode.com/handwer/ObsidianHM/releases
       desc: 鸿蒙 Obsidian 笔记移植版，支持平板与电脑
       time: 10-17
     - name: 音理音理!
