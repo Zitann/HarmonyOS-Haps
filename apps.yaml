@@ -3,6 +3,21 @@
 # - name: 显示名  url: 项目主页  link: 下载页  desc: 一句话描述  time: 更新时间(MM-DD 或 YYYY-MM-DD)
 categories:
   一次开发，多端部署:
+    - name: VenHM
+      url: https://github.com/CangShui/VenHM
+      link: https://github.com/CangShui/VenHM/releases
+      desc: 支持多源换源的鸿蒙原生漫画阅读器
+      time: 11-07
+    - name: ArkClash
+      url: https://github.com/VOD-Studio/ArkClash
+      link: https://github.com/VOD-Studio/ArkClash/releases
+      desc: 基于 Mihomo 内核的鸿蒙代理客户端
+      time: 11-07
+    - name: Koma
+      url: https://github.com/honjow/Koma
+      link: https://github.com/honjow/Koma/releases
+      desc: 鸿蒙原生多源漫画书架与阅读器
+      time: 11-08
     - name: LibreTV
       url: https://github.com/panhaichen-creator/LibreTV-for-HarmonyOS
       link: https://github.com/panhaichen-creator/LibreTV-for-HarmonyOS/releases
@@ -319,6 +334,16 @@ categories:
       desc: 绿联 NAS 鸿蒙文件管理器，支持图片浏览与文件传输
       time: 11-05
   鸿蒙手机/平板:
+    - name: Chromium Desktop
+      url: https://github.com/nimmi114514/chromium-desktop-ohos
+      link: https://github.com/nimmi114514/chromium-desktop-ohos/releases
+      desc: 鸿蒙平板与电脑上的 Chromium 桌面浏览器
+      time: 10-30
+    - name: v2rayH
+      url: https://github.com/JuckyLee668/v2rayH
+      link: https://github.com/JuckyLee668/v2rayH/releases
+      desc: 鸿蒙原生代理客户端，支持 Xray 与 Mihomo 内核
+      time: 11-03
     - name: Nexus
       url: https://github.com/xiaoli8571/Nexus-VPN-HarmonyOS
       link: https://github.com/xiaoli8571/Nexus-VPN-HarmonyOS/releases
