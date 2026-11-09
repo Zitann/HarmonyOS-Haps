@@ -17,7 +17,7 @@ categories:
       url: https://github.com/honjow/Koma
       link: https://github.com/honjow/Koma/releases
       desc: 鸿蒙原生多源漫画书架与阅读器
-      time: 11-08
+      time: 11-09
     - name: LibreTV
       url: https://github.com/panhaichen-creator/LibreTV-for-HarmonyOS
       link: https://github.com/panhaichen-creator/LibreTV-for-HarmonyOS/releases
@@ -37,7 +37,7 @@ categories:
       url: https://github.com/apap6628114/lnga_harmony
       link: https://github.com/apap6628114/lnga_harmony/releases
       desc: NGA玩家社区鸿蒙原生客户端，支持板块浏览、帖子阅读、发帖回复与私信聊天
-      time: 11-05
+      time: 11-08
     - name: MindustryArk
       url: https://github.com/haohandc/MindustryArk
       link: https://github.com/haohandc/MindustryArk/releases
@@ -52,7 +52,7 @@ categories:
       url: https://github.com/dev4harmony/PiliPlus
       link: https://github.com/dev4harmony/PiliPlus/releases
       desc: BiliBili第三方客户端
-      time: 11-01
+      time: 11-08
     - name: NextN
       url: https://github.com/erosTeam/NextN
       link: https://github.com/erosTeam/NextN/releases
@@ -267,7 +267,7 @@ categories:
       url: https://github.com/dev4harmony/PiliNara
       link: https://github.com/dev4harmony/PiliNara/releases
       desc: 基于 PiliPlus 魔改的 B 站第三方客户端鸿蒙版
-      time: 10-18
+      time: 11-08
     - name: 海阅
       url: https://github.com/LZZLHY/hlib
       link: https://github.com/LZZLHY/hlib/releases
@@ -378,7 +378,7 @@ categories:
       url: https://github.com/Chevey339/kelivo
       link: https://github.com/Chevey339/kelivo/releases
       desc: 一个Flutter LLM聊天客户端，支持Android、iOS和Harmony Next
-      time: 11-02
+      time: 11-08
     - name: Petrelgram
       url: https://github.com/miramira8295/Petrelgram
       link: https://github.com/miramira8295/Petrelgram/releases
@@ -418,7 +418,7 @@ categories:
       url: https://github.com/bgli100/pixez-flutter-ohos
       link: https://github.com/bgli100/pixez-flutter-ohos/releases
       desc: 一款支持免代理直连及查看动图的第三方Pixiv flutter客户端
-      time: 11-07
+      time: 11-08
     - name: Scrcpy
       url: https://github.com/LambdaYH/ScrcpyForHarmonyOS
       link: https://github.com/LambdaYH/ScrcpyForHarmonyOS/releases
@@ -523,7 +523,7 @@ categories:
       url: https://github.com/end-web/HarmonyOS-book
       link: https://github.com/end-web/HarmonyOS-book/releases
       desc: 面向鸿蒙手机的听书与小说阅读 App
-      time: 11-08
+      time: 11-09
     - name: HomenaPod
       url: https://github.com/TomoeMami/HomenaPod
       link: https://github.com/TomoeMami/HomenaPod/releases
@@ -569,7 +569,7 @@ categories:
       url: https://github.com/servo/servo
       link: https://github.com/servo/servo/releases
       desc: Servo 是一个用 Rust 语言编写的浏览器内核的浏览器
-      time: 10-05
+      time: 11-09
     - name: VLC播放器
       url: https://github.com/Aloereed/vlc-qt6-ohos
       link: https://github.com/Aloereed/vlc-qt6-ohos/releases

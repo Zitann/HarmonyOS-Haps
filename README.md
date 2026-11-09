@@ -63,17 +63,18 @@
 
 | 软件 | 描述 | 下载链接 | 更新 |
 | --- | --- | --- | --- |
+| [Koma](https://github.com/honjow/Koma) | 鸿蒙原生多源漫画书架与阅读器 | [Link](https://github.com/honjow/Koma/releases) | 11-09 |
 | [ArkClash](https://github.com/VOD-Studio/ArkClash) | 基于 Mihomo 内核的鸿蒙代理客户端 | [Link](https://github.com/VOD-Studio/ArkClash/releases) | 11-08 |
-| [Koma](https://github.com/honjow/Koma) | 鸿蒙原生多源漫画书架与阅读器 | [Link](https://github.com/honjow/Koma/releases) | 11-08 |
 | [NexHub](https://github.com/nexhub-app/NexHub) | 聚合动漫、漫画、小说与影视的跨平台客户端 | [Link](https://github.com/nexhub-app/NexHub/releases) | 11-08 |
+| [LNGA](https://github.com/apap6628114/lnga_harmony) | NGA玩家社区鸿蒙原生客户端，支持板块浏览、帖子阅读、发帖回复与私信聊天 | [Link](https://github.com/apap6628114/lnga_harmony/releases) | 11-08 |
+| [PiliPlus](https://github.com/dev4harmony/PiliPlus) | BiliBili第三方客户端 | [Link](https://github.com/dev4harmony/PiliPlus/releases) | 11-08 |
+| [PiliNara](https://github.com/dev4harmony/PiliNara) | 基于 PiliPlus 魔改的 B 站第三方客户端鸿蒙版 | [Link](https://github.com/dev4harmony/PiliNara/releases) | 11-08 |
 | [VenHM](https://github.com/CangShui/VenHM) | 支持多源换源的鸿蒙原生漫画阅读器 | [Link](https://github.com/CangShui/VenHM/releases) | 11-07 |
-| [LNGA](https://github.com/apap6628114/lnga_harmony) | NGA玩家社区鸿蒙原生客户端，支持板块浏览、帖子阅读、发帖回复与私信聊天 | [Link](https://github.com/apap6628114/lnga_harmony/releases) | 11-05 |
 | [联文件](https://github.com/fhf2022/lvlian-view-hm) | 绿联 NAS 鸿蒙文件管理器，支持图片浏览与文件传输 | [Link](https://github.com/fhf2022/lvlian-view-hm/releases) | 11-05 |
 | [NextN](https://github.com/erosTeam/NextN) | 一款原生 HarmonyOS NEXT 的 nhentai 非官方客户端，支持画廊浏览、搜索、标签翻译与下载 | [Link](https://github.com/erosTeam/NextN/releases) | 11-04 |
 | [Phira](https://github.com/TeamFlos/phira) | Phira 是一款基于社区的音乐游戏 | [Link](https://github.com/TeamFlos/phira/releases) | 11-04 |
 | [JMComic](https://github.com/LovelyFlash/JMComic-HarmonyOS) | 漫画阅读工具（作者：LovelyFlash） | [Link](https://github.com/LovelyFlash/JMComic-HarmonyOS/releases) | 11-03 |
 | [FlClash](https://github.com/tljk/FlClash-ohos) | 基于ClashMeta的多平台代理客户端 | [Link](https://github.com/tljk/FlClash-ohos/releases) | 11-02 |
-| [PiliPlus](https://github.com/dev4harmony/PiliPlus) | BiliBili第三方客户端 | [Link](https://github.com/dev4harmony/PiliPlus/releases) | 11-01 |
 | [Harmony X](https://github.com/haohaoai0/HarmonyX) | 面向 HarmonyOS 的原生 X 客户端 | [Link](https://github.com/haohaoai0/HarmonyX/releases) | 10-31 |
 | [哔咔](https://github.com/LoMoCatAp/Bika-HarmonyOS) | 哔咔漫画的鸿蒙原生第三方客户端，支持离线下载 | [Link](https://github.com/LoMoCatAp/Bika-HarmonyOS/releases) | 10-31 |
 | [S1 Orange](https://github.com/wly5556/S1-Orange) | 一款专为鸿蒙Next平台开发的 stage1st.com 论坛移动客户端 | [Link](https://github.com/wly5556/S1-Orange/releases) | 10-29 |
@@ -91,7 +92,6 @@
 | [拷贝漫画](https://github.com/point258/copyhomo) | 原生鸿蒙拷贝漫画客户端，支持手机与平板阅读 | [Link](https://github.com/point258/copyhomo/releases) | 10-22 |
 | [冲浪喵](https://github.com/awaLiny2333/LinysBrowser_NEXT) | 一款为鸿蒙NEXT开发的、轻量化的网页浏览器 | [Link](https://github.com/awaLiny2333/LinysBrowser_NEXT/releases) | 10-21 |
 | [鸿米家](https://github.com/MrCashmere/miha_hm) | 基于鸿蒙NEXT原生开发的小米米家设备控制应用 | [Link](https://github.com/MrCashmere/miha_hm/releases) | 10-19 |
-| [PiliNara](https://github.com/dev4harmony/PiliNara) | 基于 PiliPlus 魔改的 B 站第三方客户端鸿蒙版 | [Link](https://github.com/dev4harmony/PiliNara/releases) | 10-18 |
 | [Obsidian](https://gitcode.com/handwer/ObsidianHM) | 鸿蒙 Obsidian 笔记移植版，支持平板与电脑 | [Link](https://gitcode.com/handwer/ObsidianHM/releases) | 10-17 |
 | [隧舟 TunnelArk](https://github.com/RockyMtnWolf/TunnelArk) | 鸿蒙 Tailscale 客户端，支持 FRP 与代理共存 | [Link](https://github.com/RockyMtnWolf/TunnelArk/releases) | 10-16 |
 | [洛雪音乐](https://github.com/k-brother/lx-music-harmony) | 洛雪音乐鸿蒙原生版，支持多音源与本地播放 | [Link](https://github.com/k-brother/lx-music-harmony/releases) | 10-13 |
@@ -134,9 +134,10 @@
 
 | 软件 | 描述 | 下载链接 | 更新 |
 | --- | --- | --- | --- |
+| [简听](https://github.com/end-web/HarmonyOS-book) | 面向鸿蒙手机的听书与小说阅读 App | [Link](https://github.com/end-web/HarmonyOS-book/releases) | 11-09 |
 | [EcoHub](https://github.com/fe-spark/EcoHub-for-OHOS) | 自托管影视聚合服务 EcoHub 的鸿蒙客户端，连接自建服务观看影视 | [Link](https://github.com/fe-spark/EcoHub-for-OHOS/releases) | 11-08 |
-| [简听](https://github.com/end-web/HarmonyOS-book) | 面向鸿蒙手机的听书与小说阅读 App | [Link](https://github.com/end-web/HarmonyOS-book/releases) | 11-08 |
-| [PixEz](https://github.com/bgli100/pixez-flutter-ohos) | 一款支持免代理直连及查看动图的第三方Pixiv flutter客户端 | [Link](https://github.com/bgli100/pixez-flutter-ohos/releases) | 11-07 |
+| [Kelivo](https://github.com/Chevey339/kelivo) | 一个Flutter LLM聊天客户端，支持Android、iOS和Harmony Next | [Link](https://github.com/Chevey339/kelivo/releases) | 11-08 |
+| [PixEz](https://github.com/bgli100/pixez-flutter-ohos) | 一款支持免代理直连及查看动图的第三方Pixiv flutter客户端 | [Link](https://github.com/bgli100/pixez-flutter-ohos/releases) | 11-08 |
 | [Homowarden](https://github.com/DreamistW/Homowarden) | 鸿蒙版Bitwarden密码管理器，支持自托管服务器 | [Link](https://github.com/DreamistW/Homowarden/releases) | 11-06 |
 | [Nexus](https://github.com/xiaoli8571/Nexus-VPN-HarmonyOS) | 鸿蒙原生代理客户端，Mihomo 内核进程内嵌 TUN | [Link](https://github.com/xiaoli8571/Nexus-VPN-HarmonyOS/releases) | 11-05 |
 | [Scrcpy](https://github.com/LambdaYH/ScrcpyForHarmonyOS) | 鸿蒙scrcpy客户端，无线连接远程控制Android设备 | [Link](https://github.com/LambdaYH/ScrcpyForHarmonyOS/releases) | 11-05 |
@@ -145,7 +146,6 @@
 | [Pica Comic](https://github.com/nimmi114514/PicaComic_ohos) | 一款使用 Flutter 构建的多源漫画应用 | [Link](https://github.com/nimmi114514/PicaComic_ohos/releases) | 11-04 |
 | [Next2V](https://github.com/honjow/Next2V) | 一款面向 HarmonyOS 的原生 V2EX 第三方客户端，支持主题浏览、回复发帖、节点发现与搜索 | [Link](https://github.com/honjow/Next2V/releases) | 11-04 |
 | [v2rayH](https://github.com/JuckyLee668/v2rayH) | 鸿蒙原生代理客户端，支持 Xray 与 Mihomo 内核 | [Link](https://github.com/JuckyLee668/v2rayH/releases) | 11-03 |
-| [Kelivo](https://github.com/Chevey339/kelivo) | 一个Flutter LLM聊天客户端，支持Android、iOS和Harmony Next | [Link](https://github.com/Chevey339/kelivo/releases) | 11-02 |
 | [NekoBox](https://github.com/xiaoli8571/NekoBox4Harmony) | 基于sing-box内核的鸿蒙VPN客户端，支持多协议与订阅 | [Link](https://github.com/xiaoli8571/NekoBox4Harmony/releases) | 11-01 |
 | [NipaPlay](https://github.com/AimesSoft/NipaPlay-Reload) | 二次元媒体管理器，支持弹幕播放与媒体库集成 | [Link](https://github.com/AimesSoft/NipaPlay-Reload/releases) | 11-01 |
 | [Chromium Desktop](https://github.com/nimmi114514/chromium-desktop-ohos) | 鸿蒙平板与电脑上的 Chromium 桌面浏览器 | [Link](https://github.com/nimmi114514/chromium-desktop-ohos/releases) | 10-30 |
@@ -183,9 +183,9 @@
 
 | 软件 | 描述 | 下载链接 | 更新 |
 | --- | --- | --- | --- |
+| [Servo](https://github.com/servo/servo) | Servo 是一个用 Rust 语言编写的浏览器内核的浏览器 | [Link](https://github.com/servo/servo/releases) | 11-09 |
 | [USBArc](https://github.com/RockyMtnWolf/USBArc) | 鸿蒙电脑 USB/IP 服务端，支持共享 USB 设备 | [Link](https://github.com/RockyMtnWolf/USBArc/releases) | 10-23 |
 | [BrewLibrary](https://gitcode.com/handwer/HarmonyBrewLibrary) | 鸿蒙电脑 Homebrew 软件包浏览与搜索工具 | [Link](https://gitcode.com/handwer/HarmonyBrewLibrary/releases) | 10-09 |
-| [Servo](https://github.com/servo/servo) | Servo 是一个用 Rust 语言编写的浏览器内核的浏览器 | [Link](https://github.com/servo/servo/releases) | 10-05 |
 | [OpenTTD](https://github.com/TennousuAthena/OH-OpenTTD) | 基于运输大亨的鸿蒙交通运输模拟经营游戏 | [Link](https://github.com/TennousuAthena/OH-OpenTTD/releases) | 10-03 |
 | [VLC播放器](https://github.com/Aloereed/vlc-qt6-ohos) | 基于QT移植的VLC播放器 | [Link](https://github.com/Aloereed/vlc-qt6-ohos/releases) | 08-02 |
 | [Termony](https://github.com/jiegec/Termony) | 一款为鸿蒙操作系统提供的终端模拟器，允许用户运行常见的Linux命令和程序 | [Link](https://github.com/jiegec/Termony/releases) | 07-07 |
