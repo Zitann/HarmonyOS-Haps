@@ -3,6 +3,16 @@
 # - name: 显示名  url: 项目主页  link: 下载页  desc: 一句话描述  time: 更新时间(MM-DD 或 YYYY-MM-DD)
 categories:
   一次开发，多端部署:
+    - name: TikToh
+      url: https://github.com/DUDUXXR2/tiktoh
+      link: https://github.com/DUDUXXR2/tiktoh/releases
+      desc: 鸿蒙短视频客户端，支持 TikTok 与抖音浏览
+      time: 11-14
+    - name: Qwitter
+      url: https://github.com/llnode/hmos-qwitter
+      link: https://github.com/llnode/hmos-qwitter/releases
+      desc: 鸿蒙版 X 客户端，支持时间线、通知与聊天
+      time: 11-14
     - name: VenHM
       url: https://github.com/CangShui/VenHM
       link: https://github.com/CangShui/VenHM/releases
@@ -334,6 +344,11 @@ categories:
       desc: 绿联 NAS 鸿蒙文件管理器，支持图片浏览与文件传输
       time: 11-05
   鸿蒙手机/平板:
+    - name: Pinmony
+      url: https://github.com/Torotar/Pinmony
+      link: https://github.com/Torotar/Pinmony/releases
+      desc: 鸿蒙原生 Pinterest 客户端，支持浏览、搜索与互动
+      time: 11-14
     - name: Chromium Desktop
       url: https://github.com/nimmi114514/chromium-desktop-ohos
       link: https://github.com/nimmi114514/chromium-desktop-ohos/releases

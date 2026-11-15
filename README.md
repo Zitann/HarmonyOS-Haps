@@ -63,6 +63,8 @@
 
 | 软件 | 描述 | 下载链接 | 更新 |
 | --- | --- | --- | --- |
+| [TikToh](https://github.com/DUDUXXR2/tiktoh) | 鸿蒙短视频客户端，支持 TikTok 与抖音浏览 | [Link](https://github.com/DUDUXXR2/tiktoh/releases) | 11-14 |
+| [Qwitter](https://github.com/llnode/hmos-qwitter) | 鸿蒙版 X 客户端，支持时间线、通知与聊天 | [Link](https://github.com/llnode/hmos-qwitter/releases) | 11-14 |
 | [Koma](https://github.com/honjow/Koma) | 鸿蒙原生多源漫画书架与阅读器 | [Link](https://github.com/honjow/Koma/releases) | 11-09 |
 | [ArkClash](https://github.com/VOD-Studio/ArkClash) | 基于 Mihomo 内核的鸿蒙代理客户端 | [Link](https://github.com/VOD-Studio/ArkClash/releases) | 11-08 |
 | [NexHub](https://github.com/nexhub-app/NexHub) | 聚合动漫、漫画、小说与影视的跨平台客户端 | [Link](https://github.com/nexhub-app/NexHub/releases) | 11-08 |
@@ -134,6 +136,7 @@
 
 | 软件 | 描述 | 下载链接 | 更新 |
 | --- | --- | --- | --- |
+| [Pinmony](https://github.com/Torotar/Pinmony) | 鸿蒙原生 Pinterest 客户端，支持浏览、搜索与互动 | [Link](https://github.com/Torotar/Pinmony/releases) | 11-14 |
 | [Petrelgram](https://github.com/miramira8295/Petrelgram) | 第三方✈鸿蒙版，基于 TDLib 的 Telegram 客户端，支持多账号与音视频通话 | [Link](https://github.com/miramira8295/Petrelgram/releases) | 11-10 |
 | [简听](https://github.com/end-web/HarmonyOS-book) | 面向鸿蒙手机的听书与小说阅读 App | [Link](https://github.com/end-web/HarmonyOS-book/releases) | 11-10 |
 | [EcoHub](https://github.com/fe-spark/EcoHub-for-OHOS) | 自托管影视聚合服务 EcoHub 的鸿蒙客户端，连接自建服务观看影视 | [Link](https://github.com/fe-spark/EcoHub-for-OHOS/releases) | 11-08 |

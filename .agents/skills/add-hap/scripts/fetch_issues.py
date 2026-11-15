@@ -8,11 +8,11 @@ import os
 from common import http_get, github_headers
 
 REPO = "Zitann/HarmonyOS-Haps"
-MIN_NUMBER = 107  # 只看 106 号之后（从 107 号开始）的 issue
+MIN_NUMBER = 161
 
 
 def fetch_issues() -> list:
-    """翻页拉取 open 状态的 issue，返回编号 >= 107 的列表（按编号升序）。"""
+    """翻页拉取 open 状态的 issue，返回编号 >= 161 的列表（按编号升序）。"""
     page = 1
     issues = []
     while True:
