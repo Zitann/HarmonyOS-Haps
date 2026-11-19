@@ -3,6 +3,31 @@
 # - name: 显示名  url: 项目主页  link: 下载页  desc: 一句话描述  time: 更新时间(MM-DD 或 YYYY-MM-DD)
 categories:
   一次开发，多端部署:
+    - name: 微博
+      url: https://github.com/wuqiangroy/view-public
+      link: https://github.com/wuqiangroy/view-public/releases
+      desc: 鸿蒙第三方微博客户端
+      time: 11-16
+    - name: BiliMusic
+      url: https://github.com/chai2shi-spec/BiliMusic
+      link: https://github.com/chai2shi-spec/BiliMusic/releases
+      desc: 鸿蒙 B 站第三方音乐播放器
+      time: 11-18
+    - name: Pilink
+      url: https://github.com/chai2shi-spec/pilink
+      link: https://github.com/chai2shi-spec/pilink/releases
+      desc: 鸿蒙 B 站第三方视频播放器
+      time: 11-17
+    - name: NoyACG
+      url: https://github.com/Oearawa/NoyACG
+      link: https://github.com/Oearawa/NoyACG/releases
+      desc: 鸿蒙原生漫画阅读客户端
+      time: 11-18
+    - name: PiliPro
+      url: https://github.com/Oearawa/PiliPro
+      link: https://github.com/Oearawa/PiliPro/releases
+      desc: 基于 PiliPlus 的鸿蒙 B 站客户端
+      time: 11-18
     - name: TikToh
       url: https://github.com/DUDUXXR2/tiktoh
       link: https://github.com/DUDUXXR2/tiktoh/releases
@@ -344,6 +369,16 @@ categories:
       desc: 绿联 NAS 鸿蒙文件管理器，支持图片浏览与文件传输
       time: 11-05
   鸿蒙手机/平板:
+    - name: DS-Bot-HarmonyOS
+      url: https://github.com/DingXiaoWu0512/DS-Bot-HarmonyOS
+      link: https://github.com/DingXiaoWu0512/DS-Bot-HarmonyOS/releases
+      desc: 鸿蒙原生 DS Bot 对话客户端
+      time: 11-16
+    - name: HarmonyOS WireGuard Client
+      url: https://github.com/volcano911/harmony-OS-wireguard-client
+      link: https://github.com/volcano911/harmony-OS-wireguard-client/releases
+      desc: 鸿蒙原生 WireGuard VPN 客户端
+      time: 11-18
     - name: Pinmony
       url: https://github.com/Torotar/Pinmony
       link: https://github.com/Torotar/Pinmony/releases
