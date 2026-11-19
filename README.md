@@ -63,15 +63,15 @@
 
 | 软件 | 描述 | 下载链接 | 更新 |
 | --- | --- | --- | --- |
+| [Pilink](https://github.com/chai2shi-spec/pilink) | 鸿蒙 B 站第三方视频播放器 | [Link](https://github.com/chai2shi-spec/pilink/releases) | 11-19 |
+| [TikToh](https://github.com/DUDUXXR2/tiktoh) | 鸿蒙短视频客户端，支持 TikTok 与抖音浏览 | [Link](https://github.com/DUDUXXR2/tiktoh/releases) | 11-19 |
+| [Koma](https://github.com/honjow/Koma) | 鸿蒙原生多源漫画书架与阅读器 | [Link](https://github.com/honjow/Koma/releases) | 11-19 |
 | [BiliMusic](https://github.com/chai2shi-spec/BiliMusic) | 鸿蒙 B 站第三方音乐播放器 | [Link](https://github.com/chai2shi-spec/BiliMusic/releases) | 11-18 |
 | [NoyACG](https://github.com/Oearawa/NoyACG) | 鸿蒙原生漫画阅读客户端 | [Link](https://github.com/Oearawa/NoyACG/releases) | 11-18 |
 | [PiliPro](https://github.com/Oearawa/PiliPro) | 基于 PiliPlus 的鸿蒙 B 站客户端 | [Link](https://github.com/Oearawa/PiliPro/releases) | 11-18 |
-| [TikToh](https://github.com/DUDUXXR2/tiktoh) | 鸿蒙短视频客户端，支持 TikTok 与抖音浏览 | [Link](https://github.com/DUDUXXR2/tiktoh/releases) | 11-18 |
-| [Koma](https://github.com/honjow/Koma) | 鸿蒙原生多源漫画书架与阅读器 | [Link](https://github.com/honjow/Koma/releases) | 11-18 |
 | [PiliPlus](https://github.com/dev4harmony/PiliPlus) | BiliBili第三方客户端 | [Link](https://github.com/dev4harmony/PiliPlus/releases) | 11-18 |
 | [万花](https://github.com/winehua/WineHua) | 在鸿蒙上运行Windows程序的兼容层工具 | [Link](https://github.com/winehua/WineHua/releases) | 11-18 |
 | [Harmony X](https://github.com/haohaoai0/HarmonyX) | 面向 HarmonyOS 的原生 X 客户端 | [Link](https://github.com/haohaoai0/HarmonyX/releases) | 11-18 |
-| [Pilink](https://github.com/chai2shi-spec/pilink) | 鸿蒙 B 站第三方视频播放器 | [Link](https://github.com/chai2shi-spec/pilink/releases) | 11-17 |
 | [Qwitter](https://github.com/llnode/hmos-qwitter) | 鸿蒙版 X 客户端，支持时间线、通知与聊天 | [Link](https://github.com/llnode/hmos-qwitter/releases) | 11-17 |
 | [JMComic](https://github.com/LovelyFlash/JMComic-HarmonyOS) | 漫画阅读工具（作者：LovelyFlash） | [Link](https://github.com/LovelyFlash/JMComic-HarmonyOS/releases) | 11-17 |
 | [微博](https://github.com/wuqiangroy/view-public) | 鸿蒙第三方微博客户端 | [Link](https://github.com/wuqiangroy/view-public/releases) | 11-16 |
