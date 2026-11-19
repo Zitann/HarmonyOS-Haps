@@ -45,15 +45,28 @@ def main():
     if not os.environ.get("GITHUB_TOKEN"):
         print("请先设置环境变量 GITHUB_TOKEN")
         sys.exit(1)
-    if len(sys.argv) != 2:
-        print("用法: uv run close_issue.py <issue编号>")
+    if len(sys.argv) < 2:
+        print("用法: uv run close_issue.py <issue编号> [issue编号 ...]")
         sys.exit(1)
     try:
-        number = int(sys.argv[1])
+        numbers = list(dict.fromkeys(int(arg) for arg in sys.argv[1:]))
+        if any(number <= 0 for number in numbers):
+            raise ValueError
     except ValueError:
-        print("issue 编号必须是数字")
+        print("issue 编号必须是正整数")
         sys.exit(1)
-    sys.exit(0 if close_issue(number) else 1)
+
+    failed = []
+    for number in numbers:
+        try:
+            if not close_issue(number):
+                failed.append(number)
+        except requests.RequestException as exc:
+            print(f"处理 issue #{number} 失败: {exc}")
+            failed.append(number)
+    if failed:
+        print(f"处理失败的 issue: {', '.join(f'#{number}' for number in failed)}")
+    sys.exit(1 if failed else 0)
 
 
 if __name__ == "__main__":

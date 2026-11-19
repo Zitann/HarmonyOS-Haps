@@ -1,5 +1,6 @@
 name: Update
 on:
+  workflow_dispatch:
   schedule:
     - cron: "34 12 * * *"
       timezone: "Asia/Shanghai"

@@ -82,13 +82,13 @@ uv run .agents/skills/add-hap/scripts/contributers.py
 
 ## 第 7 步：回复并关闭 issue
 
-确认 `apps.yaml`、`README.md`（及 `CONTRIBUTING.md`/SVG）的变更已提交后，如果本次收录的项目来自第 1 步发现的某个 issue，用终端运行以下命令回复该 issue 并关闭它（需设置 `GITHUB_TOKEN` 环境变量）：
+确认 `apps.yaml`、`README.md`（及 `CONTRIBUTING.md`/SVG）的变更已提交后，如果本次收录的项目来自第 1 步发现的 issue，用终端运行以下命令回复并关闭对应 issue（需设置 `GITHUB_TOKEN` 环境变量）：
 
 ```sh
-uv run .agents/skills/add-hap/scripts/close_issue.py <issue编号>
+uv run .agents/skills/add-hap/scripts/close_issue.py <issue编号> [其他issue编号 ...]
 ```
 
-脚本会向该 issue 发表评论「已收录，感谢分享」并将其置为 closed。
+多个编号用空格分隔，例如 `uv run .agents/skills/add-hap/scripts/close_issue.py 167 168 169`。脚本会逐个发表评论「已收录，感谢分享」并关闭 issue；单个 issue 处理失败时会继续处理其余编号，最后汇总失败编号并返回非零退出码。
 
 注意：
 - 仅当项目是从 issue 中获取的才需要本步；如果用户直接提供了项目链接、没有对应 issue，则跳过本步。
