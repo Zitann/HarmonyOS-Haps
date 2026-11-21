@@ -7,17 +7,17 @@ categories:
       url: https://github.com/wuqiangroy/view-public
       link: https://github.com/wuqiangroy/view-public/releases
       desc: 鸿蒙第三方微博客户端
-      time: 11-20
+      time: 11-21
     - name: BiliMusic
       url: https://github.com/chai2shi-spec/BiliMusic
       link: https://github.com/chai2shi-spec/BiliMusic/releases
       desc: 鸿蒙 B 站第三方音乐播放器
-      time: 11-18
+      time: 11-21
     - name: Pilink
       url: https://github.com/chai2shi-spec/pilink
       link: https://github.com/chai2shi-spec/pilink/releases
       desc: 鸿蒙 B 站第三方视频播放器
-      time: 11-19
+      time: 11-21
     - name: NoyACG
       url: https://github.com/Oearawa/NoyACG
       link: https://github.com/Oearawa/NoyACG/releases
@@ -47,7 +47,7 @@ categories:
       url: https://github.com/VOD-Studio/ArkClash
       link: https://github.com/VOD-Studio/ArkClash/releases
       desc: 基于 Mihomo 内核的鸿蒙代理客户端
-      time: 11-15
+      time: 11-21
     - name: Koma
       url: https://github.com/honjow/Koma
       link: https://github.com/honjow/Koma/releases
@@ -122,7 +122,7 @@ categories:
       url: https://github.com/ErBWs/Kazumi
       link: https://github.com/ErBWs/Kazumi/releases
       desc: 基于自定义规则的番剧聚合观看应用，支持Anime4K超分辨率
-      time: 10-23
+      time: 11-21
     - name: YourPipe
       url: https://github.com/Ember5843/YourPipe
       link: https://github.com/Ember5843/YourPipe/releases
@@ -388,7 +388,7 @@ categories:
       url: https://github.com/nimmi114514/chromium-desktop-ohos
       link: https://github.com/nimmi114514/chromium-desktop-ohos/releases
       desc: 鸿蒙平板与电脑上的 Chromium 桌面浏览器
-      time: 11-18
+      time: 11-20
     - name: v2rayH
       url: https://github.com/JuckyLee668/v2rayH
       link: https://github.com/JuckyLee668/v2rayH/releases
