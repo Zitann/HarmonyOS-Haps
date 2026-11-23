@@ -17,7 +17,7 @@ categories:
       url: https://github.com/chai2shi-spec/pilink
       link: https://github.com/chai2shi-spec/pilink/releases
       desc: 鸿蒙 B 站第三方视频播放器
-      time: 11-21
+      time: 11-23
     - name: NoyACG
       url: https://github.com/Oearawa/NoyACG
       link: https://github.com/Oearawa/NoyACG/releases
@@ -27,7 +27,7 @@ categories:
       url: https://github.com/Oearawa/PiliPro
       link: https://github.com/Oearawa/PiliPro/releases
       desc: 基于 PiliPlus 的鸿蒙 B 站客户端
-      time: 11-18
+      time: 11-23
     - name: TikToh
       url: https://github.com/DUDUXXR2/tiktoh
       link: https://github.com/DUDUXXR2/tiktoh/releases
@@ -52,7 +52,7 @@ categories:
       url: https://github.com/honjow/Koma
       link: https://github.com/honjow/Koma/releases
       desc: 鸿蒙原生多源漫画书架与阅读器
-      time: 11-20
+      time: 11-22
     - name: LibreTV
       url: https://github.com/panhaichen-creator/LibreTV-for-HarmonyOS
       link: https://github.com/panhaichen-creator/LibreTV-for-HarmonyOS/releases
@@ -102,7 +102,7 @@ categories:
       url: https://github.com/zhuoyi233/zhihu-plus-plus-HMOS
       link: https://github.com/zhuoyi233/zhihu-plus-plus-HMOS/releases
       desc: 知乎++ 鸿蒙原生版，注重隐私与去广告的知乎客户端
-      time: 10-24
+      time: 11-23
     - name: Melotopia
       url: https://github.com/Chenlvin/Melotopia-HMOS
       link: https://github.com/Chenlvin/Melotopia-HMOS/releases
@@ -122,7 +122,7 @@ categories:
       url: https://github.com/ErBWs/Kazumi
       link: https://github.com/ErBWs/Kazumi/releases
       desc: 基于自定义规则的番剧聚合观看应用，支持Anime4K超分辨率
-      time: 11-21
+      time: 11-22
     - name: YourPipe
       url: https://github.com/Ember5843/YourPipe
       link: https://github.com/Ember5843/YourPipe/releases
@@ -157,7 +157,7 @@ categories:
       url: https://github.com/YuanChu-Tec/JMComic-HarmonyOS
       link: https://github.com/YuanChu-Tec/JMComic-HarmonyOS/releases
       desc: 漫画阅读工具（作者：YuanChu-Tec）
-      time: 10-07
+      time: 11-23
     - name: Wpixelgram
       url: https://github.com/1055235342/Wpixelgram-for-HarmonyOS
       link: https://github.com/1055235342/Wpixelgram-for-HarmonyOS/releases
@@ -322,7 +322,7 @@ categories:
       url: https://github.com/LoMoCatAp/Bika-HarmonyOS
       link: https://github.com/LoMoCatAp/Bika-HarmonyOS/releases
       desc: 哔咔漫画的鸿蒙原生第三方客户端，支持离线下载
-      time: 11-16
+      time: 11-23
     - name: VHome（vae＋）
       url: https://github.com/muleos/VHome-release
       link: https://github.com/muleos/VHome-release/releases
@@ -383,7 +383,7 @@ categories:
       url: https://github.com/Torotar/Pinmony
       link: https://github.com/Torotar/Pinmony/releases
       desc: 鸿蒙原生 Pinterest 客户端，支持浏览、搜索与互动
-      time: 11-14
+      time: 11-22
     - name: Chromium Desktop
       url: https://github.com/nimmi114514/chromium-desktop-ohos
       link: https://github.com/nimmi114514/chromium-desktop-ohos/releases
@@ -428,7 +428,7 @@ categories:
       url: https://github.com/Chevey339/kelivo
       link: https://github.com/Chevey339/kelivo/releases
       desc: 一个Flutter LLM聊天客户端，支持Android、iOS和Harmony Next
-      time: 11-15
+      time: 11-22
     - name: Petrelgram
       url: https://github.com/miramira8295/Petrelgram
       link: https://github.com/miramira8295/Petrelgram/releases
