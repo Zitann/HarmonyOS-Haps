@@ -63,19 +63,19 @@
 
 | 软件 | 描述 | 下载链接 | 更新 |
 | --- | --- | --- | --- |
-| [Pilink](https://github.com/chai2shi-spec/pilink) | 鸿蒙 B 站第三方视频播放器 | [Link](https://github.com/chai2shi-spec/pilink/releases) | 11-23 |
+| [Pilink](https://github.com/chai2shi-spec/pilink) | 鸿蒙 B 站第三方视频播放器 | [Link](https://github.com/chai2shi-spec/pilink/releases) | 11-24 |
+| [ArkClash](https://github.com/VOD-Studio/ArkClash) | 基于 Mihomo 内核的鸿蒙代理客户端 | [Link](https://github.com/VOD-Studio/ArkClash/releases) | 11-24 |
+| [Koma](https://github.com/honjow/Koma) | 鸿蒙原生多源漫画书架与阅读器 | [Link](https://github.com/honjow/Koma/releases) | 11-24 |
 | [PiliPro](https://github.com/Oearawa/PiliPro) | 基于 PiliPlus 的鸿蒙 B 站客户端 | [Link](https://github.com/Oearawa/PiliPro/releases) | 11-23 |
 | [知乎++](https://github.com/zhuoyi233/zhihu-plus-plus-HMOS) | 知乎++ 鸿蒙原生版，注重隐私与去广告的知乎客户端 | [Link](https://github.com/zhuoyi233/zhihu-plus-plus-HMOS/releases) | 11-23 |
 | [JMComic](https://github.com/YuanChu-Tec/JMComic-HarmonyOS) | 漫画阅读工具（作者：YuanChu-Tec） | [Link](https://github.com/YuanChu-Tec/JMComic-HarmonyOS/releases) | 11-23 |
 | [哔咔](https://github.com/LoMoCatAp/Bika-HarmonyOS) | 哔咔漫画的鸿蒙原生第三方客户端，支持离线下载 | [Link](https://github.com/LoMoCatAp/Bika-HarmonyOS/releases) | 11-23 |
 | [TikToh](https://github.com/DUDUXXR2/tiktoh) | 鸿蒙短视频客户端，支持 TikTok 与抖音浏览 | [Link](https://github.com/DUDUXXR2/tiktoh/releases) | 11-22 |
-| [Koma](https://github.com/honjow/Koma) | 鸿蒙原生多源漫画书架与阅读器 | [Link](https://github.com/honjow/Koma/releases) | 11-22 |
 | [PiliPlus](https://github.com/dev4harmony/PiliPlus) | BiliBili第三方客户端 | [Link](https://github.com/dev4harmony/PiliPlus/releases) | 11-22 |
 | [Kazumi](https://github.com/ErBWs/Kazumi) | 基于自定义规则的番剧聚合观看应用，支持Anime4K超分辨率 | [Link](https://github.com/ErBWs/Kazumi/releases) | 11-22 |
 | [PiliNara](https://github.com/dev4harmony/PiliNara) | 基于 PiliPlus 魔改的 B 站第三方客户端鸿蒙版 | [Link](https://github.com/dev4harmony/PiliNara/releases) | 11-22 |
 | [微博](https://github.com/wuqiangroy/view-public) | 鸿蒙第三方微博客户端 | [Link](https://github.com/wuqiangroy/view-public/releases) | 11-21 |
 | [BiliMusic](https://github.com/chai2shi-spec/BiliMusic) | 鸿蒙 B 站第三方音乐播放器 | [Link](https://github.com/chai2shi-spec/BiliMusic/releases) | 11-21 |
-| [ArkClash](https://github.com/VOD-Studio/ArkClash) | 基于 Mihomo 内核的鸿蒙代理客户端 | [Link](https://github.com/VOD-Studio/ArkClash/releases) | 11-21 |
 | [栖云盾](https://github.com/Tlntin/home-cloud-shield) | 鸿蒙本地DNS过滤应用，支持AdGuard风格规则拦截广告 | [Link](https://github.com/Tlntin/home-cloud-shield/releases) | 11-21 |
 | [Qwitter](https://github.com/llnode/hmos-qwitter) | 鸿蒙版 X 客户端，支持时间线、通知与聊天 | [Link](https://github.com/llnode/hmos-qwitter/releases) | 11-20 |
 | [FlClash](https://github.com/tljk/FlClash-ohos) | 基于ClashMeta的多平台代理客户端 | [Link](https://github.com/tljk/FlClash-ohos/releases) | 11-20 |
@@ -141,6 +141,7 @@
 
 | 软件 | 描述 | 下载链接 | 更新 |
 | --- | --- | --- | --- |
+| [Petrelgram](https://github.com/miramira8295/Petrelgram) | 第三方✈鸿蒙版，基于 TDLib 的 Telegram 客户端，支持多账号与音视频通话 | [Link](https://github.com/miramira8295/Petrelgram/releases) | 11-24 |
 | [Pinmony](https://github.com/Torotar/Pinmony) | 鸿蒙原生 Pinterest 客户端，支持浏览、搜索与互动 | [Link](https://github.com/Torotar/Pinmony/releases) | 11-22 |
 | [Chromium Desktop](https://github.com/nimmi114514/chromium-desktop-ohos) | 鸿蒙平板与电脑上的 Chromium 桌面浏览器 | [Link](https://github.com/nimmi114514/chromium-desktop-ohos/releases) | 11-22 |
 | [Kelivo](https://github.com/Chevey339/kelivo) | 一个Flutter LLM聊天客户端，支持Android、iOS和Harmony Next | [Link](https://github.com/Chevey339/kelivo/releases) | 11-22 |
@@ -155,7 +156,6 @@
 | [v2rayH](https://github.com/JuckyLee668/v2rayH) | 鸿蒙原生代理客户端，支持 Xray 与 Mihomo 内核 | [Link](https://github.com/JuckyLee668/v2rayH/releases) | 11-14 |
 | [简听](https://github.com/end-web/HarmonyOS-book) | 面向鸿蒙手机的听书与小说阅读 App | [Link](https://github.com/end-web/HarmonyOS-book/releases) | 11-13 |
 | [EcoHub](https://github.com/fe-spark/EcoHub-for-OHOS) | 自托管影视聚合服务 EcoHub 的鸿蒙客户端，连接自建服务观看影视 | [Link](https://github.com/fe-spark/EcoHub-for-OHOS/releases) | 11-11 |
-| [Petrelgram](https://github.com/miramira8295/Petrelgram) | 第三方✈鸿蒙版，基于 TDLib 的 Telegram 客户端，支持多账号与音视频通话 | [Link](https://github.com/miramira8295/Petrelgram/releases) | 11-10 |
 | [immich](https://github.com/dgh1818/immich_ohos) | 一款连接 Immich 私人照片和视频备份服务器的鸿蒙客户端，用于在鸿蒙设备上浏览和管理个人媒体库 | [Link](https://github.com/dgh1818/immich_ohos/releases) | 11-10 |
 | [PixEz](https://github.com/bgli100/pixez-flutter-ohos) | 一款支持免代理直连及查看动图的第三方Pixiv flutter客户端 | [Link](https://github.com/bgli100/pixez-flutter-ohos/releases) | 11-08 |
 | [Scrcpy](https://github.com/LambdaYH/ScrcpyForHarmonyOS) | 鸿蒙scrcpy客户端，无线连接远程控制Android设备 | [Link](https://github.com/LambdaYH/ScrcpyForHarmonyOS/releases) | 11-05 |

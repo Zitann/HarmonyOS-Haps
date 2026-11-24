@@ -17,7 +17,7 @@ categories:
       url: https://github.com/chai2shi-spec/pilink
       link: https://github.com/chai2shi-spec/pilink/releases
       desc: 鸿蒙 B 站第三方视频播放器
-      time: 11-23
+      time: 11-24
     - name: NoyACG
       url: https://github.com/Oearawa/NoyACG
       link: https://github.com/Oearawa/NoyACG/releases
@@ -47,12 +47,12 @@ categories:
       url: https://github.com/VOD-Studio/ArkClash
       link: https://github.com/VOD-Studio/ArkClash/releases
       desc: 基于 Mihomo 内核的鸿蒙代理客户端
-      time: 11-21
+      time: 11-24
     - name: Koma
       url: https://github.com/honjow/Koma
       link: https://github.com/honjow/Koma/releases
       desc: 鸿蒙原生多源漫画书架与阅读器
-      time: 11-22
+      time: 11-24
     - name: LibreTV
       url: https://github.com/panhaichen-creator/LibreTV-for-HarmonyOS
       link: https://github.com/panhaichen-creator/LibreTV-for-HarmonyOS/releases
@@ -433,7 +433,7 @@ categories:
       url: https://github.com/miramira8295/Petrelgram
       link: https://github.com/miramira8295/Petrelgram/releases
       desc: 第三方✈鸿蒙版，基于 TDLib 的 Telegram 客户端，支持多账号与音视频通话
-      time: 11-10
+      time: 11-24
     - name: NekoBox
       url: https://github.com/xiaoli8571/NekoBox4Harmony
       link: https://github.com/xiaoli8571/NekoBox4Harmony/releases
