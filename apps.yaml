@@ -17,7 +17,7 @@ categories:
       url: https://github.com/chai2shi-spec/pilink
       link: https://github.com/chai2shi-spec/pilink/releases
       desc: 鸿蒙 B 站第三方视频播放器
-      time: 11-24
+      time: 11-25
     - name: NoyACG
       url: https://github.com/Oearawa/NoyACG
       link: https://github.com/Oearawa/NoyACG/releases
@@ -32,7 +32,7 @@ categories:
       url: https://github.com/DUDUXXR2/tiktoh
       link: https://github.com/DUDUXXR2/tiktoh/releases
       desc: 鸿蒙短视频客户端，支持 TikTok 与抖音浏览
-      time: 11-22
+      time: 11-24
     - name: Qwitter
       url: https://github.com/llnode/hmos-qwitter
       link: https://github.com/llnode/hmos-qwitter/releases
@@ -47,12 +47,12 @@ categories:
       url: https://github.com/VOD-Studio/ArkClash
       link: https://github.com/VOD-Studio/ArkClash/releases
       desc: 基于 Mihomo 内核的鸿蒙代理客户端
-      time: 11-24
+      time: 11-25
     - name: Koma
       url: https://github.com/honjow/Koma
       link: https://github.com/honjow/Koma/releases
       desc: 鸿蒙原生多源漫画书架与阅读器
-      time: 11-24
+      time: 11-25
     - name: LibreTV
       url: https://github.com/panhaichen-creator/LibreTV-for-HarmonyOS
       link: https://github.com/panhaichen-creator/LibreTV-for-HarmonyOS/releases
@@ -367,13 +367,13 @@ categories:
       url: https://github.com/fhf2022/lvlian-view-hm
       link: https://github.com/fhf2022/lvlian-view-hm/releases
       desc: 绿联 NAS 鸿蒙文件管理器，支持图片浏览与文件传输
-      time: 11-16
+      time: 11-25
   鸿蒙手机/平板:
     - name: DS-Bot-HarmonyOS
       url: https://github.com/DingXiaoWu0512/DS-Bot-HarmonyOS
       link: https://github.com/DingXiaoWu0512/DS-Bot-HarmonyOS/releases
       desc: 鸿蒙原生 DS Bot 对话客户端
-      time: 11-16
+      time: 11-24
     - name: HarmonyOS WireGuard Client
       url: https://github.com/volcano911/harmony-OS-wireguard-client
       link: https://github.com/volcano911/harmony-OS-wireguard-client/releases
@@ -433,7 +433,7 @@ categories:
       url: https://github.com/miramira8295/Petrelgram
       link: https://github.com/miramira8295/Petrelgram/releases
       desc: 第三方✈鸿蒙版，基于 TDLib 的 Telegram 客户端，支持多账号与音视频通话
-      time: 11-24
+      time: 11-25
     - name: NekoBox
       url: https://github.com/xiaoli8571/NekoBox4Harmony
       link: https://github.com/xiaoli8571/NekoBox4Harmony/releases

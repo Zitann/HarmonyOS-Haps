@@ -63,14 +63,15 @@
 
 | 软件 | 描述 | 下载链接 | 更新 |
 | --- | --- | --- | --- |
-| [Pilink](https://github.com/chai2shi-spec/pilink) | 鸿蒙 B 站第三方视频播放器 | [Link](https://github.com/chai2shi-spec/pilink/releases) | 11-24 |
-| [ArkClash](https://github.com/VOD-Studio/ArkClash) | 基于 Mihomo 内核的鸿蒙代理客户端 | [Link](https://github.com/VOD-Studio/ArkClash/releases) | 11-24 |
-| [Koma](https://github.com/honjow/Koma) | 鸿蒙原生多源漫画书架与阅读器 | [Link](https://github.com/honjow/Koma/releases) | 11-24 |
+| [Pilink](https://github.com/chai2shi-spec/pilink) | 鸿蒙 B 站第三方视频播放器 | [Link](https://github.com/chai2shi-spec/pilink/releases) | 11-25 |
+| [ArkClash](https://github.com/VOD-Studio/ArkClash) | 基于 Mihomo 内核的鸿蒙代理客户端 | [Link](https://github.com/VOD-Studio/ArkClash/releases) | 11-25 |
+| [Koma](https://github.com/honjow/Koma) | 鸿蒙原生多源漫画书架与阅读器 | [Link](https://github.com/honjow/Koma/releases) | 11-25 |
+| [联文件](https://github.com/fhf2022/lvlian-view-hm) | 绿联 NAS 鸿蒙文件管理器，支持图片浏览与文件传输 | [Link](https://github.com/fhf2022/lvlian-view-hm/releases) | 11-25 |
+| [TikToh](https://github.com/DUDUXXR2/tiktoh) | 鸿蒙短视频客户端，支持 TikTok 与抖音浏览 | [Link](https://github.com/DUDUXXR2/tiktoh/releases) | 11-24 |
 | [PiliPro](https://github.com/Oearawa/PiliPro) | 基于 PiliPlus 的鸿蒙 B 站客户端 | [Link](https://github.com/Oearawa/PiliPro/releases) | 11-23 |
 | [知乎++](https://github.com/zhuoyi233/zhihu-plus-plus-HMOS) | 知乎++ 鸿蒙原生版，注重隐私与去广告的知乎客户端 | [Link](https://github.com/zhuoyi233/zhihu-plus-plus-HMOS/releases) | 11-23 |
 | [JMComic](https://github.com/YuanChu-Tec/JMComic-HarmonyOS) | 漫画阅读工具（作者：YuanChu-Tec） | [Link](https://github.com/YuanChu-Tec/JMComic-HarmonyOS/releases) | 11-23 |
 | [哔咔](https://github.com/LoMoCatAp/Bika-HarmonyOS) | 哔咔漫画的鸿蒙原生第三方客户端，支持离线下载 | [Link](https://github.com/LoMoCatAp/Bika-HarmonyOS/releases) | 11-23 |
-| [TikToh](https://github.com/DUDUXXR2/tiktoh) | 鸿蒙短视频客户端，支持 TikTok 与抖音浏览 | [Link](https://github.com/DUDUXXR2/tiktoh/releases) | 11-22 |
 | [PiliPlus](https://github.com/dev4harmony/PiliPlus) | BiliBili第三方客户端 | [Link](https://github.com/dev4harmony/PiliPlus/releases) | 11-22 |
 | [Kazumi](https://github.com/ErBWs/Kazumi) | 基于自定义规则的番剧聚合观看应用，支持Anime4K超分辨率 | [Link](https://github.com/ErBWs/Kazumi/releases) | 11-22 |
 | [PiliNara](https://github.com/dev4harmony/PiliNara) | 基于 PiliPlus 魔改的 B 站第三方客户端鸿蒙版 | [Link](https://github.com/dev4harmony/PiliNara/releases) | 11-22 |
@@ -83,7 +84,6 @@
 | [NoyACG](https://github.com/Oearawa/NoyACG) | 鸿蒙原生漫画阅读客户端 | [Link](https://github.com/Oearawa/NoyACG/releases) | 11-18 |
 | [万花](https://github.com/winehua/WineHua) | 在鸿蒙上运行Windows程序的兼容层工具 | [Link](https://github.com/winehua/WineHua/releases) | 11-18 |
 | [JMComic](https://github.com/LovelyFlash/JMComic-HarmonyOS) | 漫画阅读工具（作者：LovelyFlash） | [Link](https://github.com/LovelyFlash/JMComic-HarmonyOS/releases) | 11-17 |
-| [联文件](https://github.com/fhf2022/lvlian-view-hm) | 绿联 NAS 鸿蒙文件管理器，支持图片浏览与文件传输 | [Link](https://github.com/fhf2022/lvlian-view-hm/releases) | 11-16 |
 | [NexHub](https://github.com/nexhub-app/NexHub) | 聚合动漫、漫画、小说与影视的跨平台客户端 | [Link](https://github.com/nexhub-app/NexHub/releases) | 11-14 |
 | [AMCL](https://github.com/LZZLHY/amcl) | 鸿蒙版全量Java版我的世界启动器 | [Link](https://github.com/LZZLHY/amcl/releases) | 11-14 |
 | [Bettbox](https://github.com/htoay/Bettbox) | 基于 Mihomo 的鸿蒙代理客户端，支持 VPN 与后台保活 | [Link](https://github.com/htoay/Bettbox/releases) | 11-14 |
@@ -141,7 +141,8 @@
 
 | 软件 | 描述 | 下载链接 | 更新 |
 | --- | --- | --- | --- |
-| [Petrelgram](https://github.com/miramira8295/Petrelgram) | 第三方✈鸿蒙版，基于 TDLib 的 Telegram 客户端，支持多账号与音视频通话 | [Link](https://github.com/miramira8295/Petrelgram/releases) | 11-24 |
+| [Petrelgram](https://github.com/miramira8295/Petrelgram) | 第三方✈鸿蒙版，基于 TDLib 的 Telegram 客户端，支持多账号与音视频通话 | [Link](https://github.com/miramira8295/Petrelgram/releases) | 11-25 |
+| [DS-Bot-HarmonyOS](https://github.com/DingXiaoWu0512/DS-Bot-HarmonyOS) | 鸿蒙原生 DS Bot 对话客户端 | [Link](https://github.com/DingXiaoWu0512/DS-Bot-HarmonyOS/releases) | 11-24 |
 | [Pinmony](https://github.com/Torotar/Pinmony) | 鸿蒙原生 Pinterest 客户端，支持浏览、搜索与互动 | [Link](https://github.com/Torotar/Pinmony/releases) | 11-22 |
 | [Chromium Desktop](https://github.com/nimmi114514/chromium-desktop-ohos) | 鸿蒙平板与电脑上的 Chromium 桌面浏览器 | [Link](https://github.com/nimmi114514/chromium-desktop-ohos/releases) | 11-22 |
 | [Kelivo](https://github.com/Chevey339/kelivo) | 一个Flutter LLM聊天客户端，支持Android、iOS和Harmony Next | [Link](https://github.com/Chevey339/kelivo/releases) | 11-22 |
@@ -150,7 +151,6 @@
 | [HarmonyOS WireGuard Client](https://github.com/volcano911/harmony-OS-wireguard-client) | 鸿蒙原生 WireGuard VPN 客户端 | [Link](https://github.com/volcano911/harmony-OS-wireguard-client/releases) | 11-18 |
 | [Pica Comic](https://github.com/nimmi114514/PicaComic_ohos) | 一款使用 Flutter 构建的多源漫画应用 | [Link](https://github.com/nimmi114514/PicaComic_ohos/releases) | 11-18 |
 | [NextE](https://github.com/erosTeam/NextE) | 鸿蒙原生E-Hentai/ExHentai客户端，支持画廊浏览与下载 | [Link](https://github.com/erosTeam/NextE/releases) | 11-17 |
-| [DS-Bot-HarmonyOS](https://github.com/DingXiaoWu0512/DS-Bot-HarmonyOS) | 鸿蒙原生 DS Bot 对话客户端 | [Link](https://github.com/DingXiaoWu0512/DS-Bot-HarmonyOS/releases) | 11-16 |
 | [Homowarden](https://github.com/DreamistW/Homowarden) | 鸿蒙版Bitwarden密码管理器，支持自托管服务器 | [Link](https://github.com/DreamistW/Homowarden/releases) | 11-16 |
 | [FreshRSS](https://github.com/wtronfi/FreshRSS-Harmony) | 自托管 FreshRSS 鸿蒙客户端，支持离线阅读 | [Link](https://github.com/wtronfi/FreshRSS-Harmony/releases) | 11-15 |
 | [v2rayH](https://github.com/JuckyLee668/v2rayH) | 鸿蒙原生代理客户端，支持 Xray 与 Mihomo 内核 | [Link](https://github.com/JuckyLee668/v2rayH/releases) | 11-14 |
