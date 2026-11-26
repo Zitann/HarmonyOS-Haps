@@ -32,12 +32,12 @@ categories:
       url: https://github.com/DUDUXXR2/tiktoh
       link: https://github.com/DUDUXXR2/tiktoh/releases
       desc: 鸿蒙短视频客户端，支持 TikTok 与抖音浏览
-      time: 11-24
+      time: 11-26
     - name: Qwitter
       url: https://github.com/llnode/hmos-qwitter
       link: https://github.com/llnode/hmos-qwitter/releases
       desc: 鸿蒙版 X 客户端，支持时间线、通知与聊天
-      time: 11-20
+      time: 11-26
     - name: VenHM
       url: https://github.com/CangShui/VenHM
       link: https://github.com/CangShui/VenHM/releases
@@ -52,7 +52,7 @@ categories:
       url: https://github.com/honjow/Koma
       link: https://github.com/honjow/Koma/releases
       desc: 鸿蒙原生多源漫画书架与阅读器
-      time: 11-25
+      time: 11-26
     - name: LibreTV
       url: https://github.com/panhaichen-creator/LibreTV-for-HarmonyOS
       link: https://github.com/panhaichen-creator/LibreTV-for-HarmonyOS/releases
@@ -127,7 +127,7 @@ categories:
       url: https://github.com/Ember5843/YourPipe
       link: https://github.com/Ember5843/YourPipe/releases
       desc: 基于NewPipe Extractor的鸿蒙YouTube客户端
-      time: 10-22
+      time: 11-26
     - name: AniCh
       url: https://github.com/Sle2p/AniCh
       link: https://github.com/Sle2p/AniCh/releases
@@ -312,7 +312,7 @@ categories:
       url: https://github.com/LovelyFlash/JMComic-HarmonyOS
       link: https://github.com/LovelyFlash/JMComic-HarmonyOS/releases
       desc: 漫画阅读工具（作者：LovelyFlash）
-      time: 11-17
+      time: 11-26
     - name: Anx Reader
       url: https://github.com/anxcye/anx-reader
       link: https://github.com/anxcye/anx-reader/releases
@@ -433,7 +433,7 @@ categories:
       url: https://github.com/miramira8295/Petrelgram
       link: https://github.com/miramira8295/Petrelgram/releases
       desc: 第三方✈鸿蒙版，基于 TDLib 的 Telegram 客户端，支持多账号与音视频通话
-      time: 11-25
+      time: 11-26
     - name: NekoBox
       url: https://github.com/xiaoli8571/NekoBox4Harmony
       link: https://github.com/xiaoli8571/NekoBox4Harmony/releases
@@ -493,7 +493,7 @@ categories:
       url: https://github.com/ks-lm-kf/harmony-kslmkf-karing-hap
       link: https://github.com/ks-lm-kf/harmony-kslmkf-karing-hap/releases
       desc: 基于Karing/sing-box的鸿蒙代理工具，支持订阅与多协议
-      time: 09-29
+      time: 11-26
     - name: immich
       url: https://github.com/dgh1818/immich_ohos
       link: https://github.com/dgh1818/immich_ohos/releases

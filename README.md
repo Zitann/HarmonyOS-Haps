@@ -63,11 +63,14 @@
 
 | 软件 | 描述 | 下载链接 | 更新 |
 | --- | --- | --- | --- |
+| [TikToh](https://github.com/DUDUXXR2/tiktoh) | 鸿蒙短视频客户端，支持 TikTok 与抖音浏览 | [Link](https://github.com/DUDUXXR2/tiktoh/releases) | 11-26 |
+| [Qwitter](https://github.com/llnode/hmos-qwitter) | 鸿蒙版 X 客户端，支持时间线、通知与聊天 | [Link](https://github.com/llnode/hmos-qwitter/releases) | 11-26 |
+| [Koma](https://github.com/honjow/Koma) | 鸿蒙原生多源漫画书架与阅读器 | [Link](https://github.com/honjow/Koma/releases) | 11-26 |
+| [YourPipe](https://github.com/Ember5843/YourPipe) | 基于NewPipe Extractor的鸿蒙YouTube客户端 | [Link](https://github.com/Ember5843/YourPipe/releases) | 11-26 |
+| [JMComic](https://github.com/LovelyFlash/JMComic-HarmonyOS) | 漫画阅读工具（作者：LovelyFlash） | [Link](https://github.com/LovelyFlash/JMComic-HarmonyOS/releases) | 11-26 |
 | [Pilink](https://github.com/chai2shi-spec/pilink) | 鸿蒙 B 站第三方视频播放器 | [Link](https://github.com/chai2shi-spec/pilink/releases) | 11-25 |
 | [ArkClash](https://github.com/VOD-Studio/ArkClash) | 基于 Mihomo 内核的鸿蒙代理客户端 | [Link](https://github.com/VOD-Studio/ArkClash/releases) | 11-25 |
-| [Koma](https://github.com/honjow/Koma) | 鸿蒙原生多源漫画书架与阅读器 | [Link](https://github.com/honjow/Koma/releases) | 11-25 |
 | [联文件](https://github.com/fhf2022/lvlian-view-hm) | 绿联 NAS 鸿蒙文件管理器，支持图片浏览与文件传输 | [Link](https://github.com/fhf2022/lvlian-view-hm/releases) | 11-25 |
-| [TikToh](https://github.com/DUDUXXR2/tiktoh) | 鸿蒙短视频客户端，支持 TikTok 与抖音浏览 | [Link](https://github.com/DUDUXXR2/tiktoh/releases) | 11-24 |
 | [PiliPro](https://github.com/Oearawa/PiliPro) | 基于 PiliPlus 的鸿蒙 B 站客户端 | [Link](https://github.com/Oearawa/PiliPro/releases) | 11-23 |
 | [知乎++](https://github.com/zhuoyi233/zhihu-plus-plus-HMOS) | 知乎++ 鸿蒙原生版，注重隐私与去广告的知乎客户端 | [Link](https://github.com/zhuoyi233/zhihu-plus-plus-HMOS/releases) | 11-23 |
 | [JMComic](https://github.com/YuanChu-Tec/JMComic-HarmonyOS) | 漫画阅读工具（作者：YuanChu-Tec） | [Link](https://github.com/YuanChu-Tec/JMComic-HarmonyOS/releases) | 11-23 |
@@ -78,12 +81,10 @@
 | [微博](https://github.com/wuqiangroy/view-public) | 鸿蒙第三方微博客户端 | [Link](https://github.com/wuqiangroy/view-public/releases) | 11-21 |
 | [BiliMusic](https://github.com/chai2shi-spec/BiliMusic) | 鸿蒙 B 站第三方音乐播放器 | [Link](https://github.com/chai2shi-spec/BiliMusic/releases) | 11-21 |
 | [栖云盾](https://github.com/Tlntin/home-cloud-shield) | 鸿蒙本地DNS过滤应用，支持AdGuard风格规则拦截广告 | [Link](https://github.com/Tlntin/home-cloud-shield/releases) | 11-21 |
-| [Qwitter](https://github.com/llnode/hmos-qwitter) | 鸿蒙版 X 客户端，支持时间线、通知与聊天 | [Link](https://github.com/llnode/hmos-qwitter/releases) | 11-20 |
 | [FlClash](https://github.com/tljk/FlClash-ohos) | 基于ClashMeta的多平台代理客户端 | [Link](https://github.com/tljk/FlClash-ohos/releases) | 11-20 |
 | [Harmony X](https://github.com/haohaoai0/HarmonyX) | 面向 HarmonyOS 的原生 X 客户端 | [Link](https://github.com/haohaoai0/HarmonyX/releases) | 11-19 |
 | [NoyACG](https://github.com/Oearawa/NoyACG) | 鸿蒙原生漫画阅读客户端 | [Link](https://github.com/Oearawa/NoyACG/releases) | 11-18 |
 | [万花](https://github.com/winehua/WineHua) | 在鸿蒙上运行Windows程序的兼容层工具 | [Link](https://github.com/winehua/WineHua/releases) | 11-18 |
-| [JMComic](https://github.com/LovelyFlash/JMComic-HarmonyOS) | 漫画阅读工具（作者：LovelyFlash） | [Link](https://github.com/LovelyFlash/JMComic-HarmonyOS/releases) | 11-17 |
 | [NexHub](https://github.com/nexhub-app/NexHub) | 聚合动漫、漫画、小说与影视的跨平台客户端 | [Link](https://github.com/nexhub-app/NexHub/releases) | 11-14 |
 | [AMCL](https://github.com/LZZLHY/amcl) | 鸿蒙版全量Java版我的世界启动器 | [Link](https://github.com/LZZLHY/amcl/releases) | 11-14 |
 | [Bettbox](https://github.com/htoay/Bettbox) | 基于 Mihomo 的鸿蒙代理客户端，支持 VPN 与后台保活 | [Link](https://github.com/htoay/Bettbox/releases) | 11-14 |
@@ -99,7 +100,6 @@
 | [DiPlay Harmony](https://github.com/Tedfaraday/DiPlay-Harmony) | 鸿蒙平板无线 CarPlay 显示接收端 | [Link](https://github.com/Tedfaraday/DiPlay-Harmony/releases) | 10-25 |
 | [音理音理!](https://github.com/suyunxing/NeriPlayer-HarmonyOS) | 鸿蒙多源音乐播放器，支持网易云与 B 站音频 | [Link](https://github.com/suyunxing/NeriPlayer-HarmonyOS/releases) | 10-24 |
 | [轻启](https://github.com/thx853068675-dev/quietstart) | 鸿蒙原生页面控件识别工具，自动跳过广告开屏 | [Link](https://github.com/thx853068675-dev/quietstart/releases) | 10-23 |
-| [YourPipe](https://github.com/Ember5843/YourPipe) | 基于NewPipe Extractor的鸿蒙YouTube客户端 | [Link](https://github.com/Ember5843/YourPipe/releases) | 10-22 |
 | [拷贝漫画](https://github.com/point258/copyhomo) | 原生鸿蒙拷贝漫画客户端，支持手机与平板阅读 | [Link](https://github.com/point258/copyhomo/releases) | 10-22 |
 | [冲浪喵](https://github.com/awaLiny2333/LinysBrowser_NEXT) | 一款为鸿蒙NEXT开发的、轻量化的网页浏览器 | [Link](https://github.com/awaLiny2333/LinysBrowser_NEXT/releases) | 10-21 |
 | [鸿米家](https://github.com/MrCashmere/miha_hm) | 基于鸿蒙NEXT原生开发的小米米家设备控制应用 | [Link](https://github.com/MrCashmere/miha_hm/releases) | 10-19 |
@@ -141,7 +141,8 @@
 
 | 软件 | 描述 | 下载链接 | 更新 |
 | --- | --- | --- | --- |
-| [Petrelgram](https://github.com/miramira8295/Petrelgram) | 第三方✈鸿蒙版，基于 TDLib 的 Telegram 客户端，支持多账号与音视频通话 | [Link](https://github.com/miramira8295/Petrelgram/releases) | 11-25 |
+| [Petrelgram](https://github.com/miramira8295/Petrelgram) | 第三方✈鸿蒙版，基于 TDLib 的 Telegram 客户端，支持多账号与音视频通话 | [Link](https://github.com/miramira8295/Petrelgram/releases) | 11-26 |
+| [Karing](https://github.com/ks-lm-kf/harmony-kslmkf-karing-hap) | 基于Karing/sing-box的鸿蒙代理工具，支持订阅与多协议 | [Link](https://github.com/ks-lm-kf/harmony-kslmkf-karing-hap/releases) | 11-26 |
 | [DS-Bot-HarmonyOS](https://github.com/DingXiaoWu0512/DS-Bot-HarmonyOS) | 鸿蒙原生 DS Bot 对话客户端 | [Link](https://github.com/DingXiaoWu0512/DS-Bot-HarmonyOS/releases) | 11-24 |
 | [Pinmony](https://github.com/Torotar/Pinmony) | 鸿蒙原生 Pinterest 客户端，支持浏览、搜索与互动 | [Link](https://github.com/Torotar/Pinmony/releases) | 11-22 |
 | [Chromium Desktop](https://github.com/nimmi114514/chromium-desktop-ohos) | 鸿蒙平板与电脑上的 Chromium 桌面浏览器 | [Link](https://github.com/nimmi114514/chromium-desktop-ohos/releases) | 11-22 |
@@ -167,7 +168,6 @@
 | [飞马相册](https://github.com/jonas-pi/FMphoto) | 用于在手机上连接飞牛 NAS，使用相册、网页入口及常见图库能力 | [Link](https://github.com/jonas-pi/FMphoto/releases) | 10-22 |
 | [KeePassHO](https://github.com/aimilin6688/KeePassHO) | 兼容KeePass数据库的本地密码管理软件，支持TOTP | [Link](https://github.com/aimilin6688/KeePassHO/releases) | 10-12 |
 | [酷安](https://github.com/muleos/c001apk-ohos-releases) | 酷安第三方鸿蒙客户端，支持应用与话题浏览 | [Link](https://github.com/muleos/c001apk-ohos-releases/releases) | 09-30 |
-| [Karing](https://github.com/ks-lm-kf/harmony-kslmkf-karing-hap) | 基于Karing/sing-box的鸿蒙代理工具，支持订阅与多协议 | [Link](https://github.com/ks-lm-kf/harmony-kslmkf-karing-hap/releases) | 09-29 |
 | [Hey](https://github.com/popsiclelmlm/Hey) | 基于 Xray/sing-box 内核的鸿蒙原生代理客户端，安装包由第三方 fork 提供 | [Link](https://github.com/xiaoli8571/Hey/releases) | 09-22 |
 | [CalculatorX](https://github.com/StartYR/CalculatorX) | 一款支持符号计算、微积分、矩阵、方程求解与函数图像的原生科学计算器 | [Link](https://github.com/StartYR/CalculatorX/releases) | 09-18 |
 | [微博Pura](https://github.com/haohaoai0/WeiboPura) | 面向 HarmonyOS 的原生微博浏览客户端 | [Link](https://github.com/haohaoai0/WeiboPura/releases) | 09-18 |
