@@ -47,7 +47,7 @@ categories:
       url: https://github.com/VOD-Studio/ArkClash
       link: https://github.com/VOD-Studio/ArkClash/releases
       desc: 基于 Mihomo 内核的鸿蒙代理客户端
-      time: 11-25
+      time: 11-26
     - name: Koma
       url: https://github.com/honjow/Koma
       link: https://github.com/honjow/Koma/releases
@@ -132,12 +132,12 @@ categories:
       url: https://github.com/Sle2p/AniCh
       link: https://github.com/Sle2p/AniCh/releases
       desc: 多番剧源的在线动漫弹幕应用，支持超分辨率与离线缓存
-      time: 10-05
+      time: 11-27
     - name: AMCL
       url: https://github.com/LZZLHY/amcl
       link: https://github.com/LZZLHY/amcl/releases
       desc: 鸿蒙版全量Java版我的世界启动器
-      time: 11-14
+      time: 11-26
     - name: S1 Orange
       url: https://github.com/wly5556/S1-Orange
       link: https://github.com/wly5556/S1-Orange/releases
@@ -177,7 +177,7 @@ categories:
       url: https://github.com/Tlntin/home-cloud-shield
       link: https://github.com/Tlntin/home-cloud-shield/releases
       desc: 鸿蒙本地DNS过滤应用，支持AdGuard风格规则拦截广告
-      time: 11-21
+      time: 11-26
     - name: OHsidian
       url: https://github.com/HanversionOvO/OHSidian
       link: https://github.com/HanversionOvO/OHSidian/releases
@@ -312,7 +312,7 @@ categories:
       url: https://github.com/LovelyFlash/JMComic-HarmonyOS
       link: https://github.com/LovelyFlash/JMComic-HarmonyOS/releases
       desc: 漫画阅读工具（作者：LovelyFlash）
-      time: 11-26
+      time: 11-27
     - name: Anx Reader
       url: https://github.com/anxcye/anx-reader
       link: https://github.com/anxcye/anx-reader/releases
@@ -413,7 +413,7 @@ categories:
       url: https://github.com/fe-spark/EcoHub-for-OHOS
       link: https://github.com/fe-spark/EcoHub-for-OHOS/releases
       desc: 自托管影视聚合服务 EcoHub 的鸿蒙客户端，连接自建服务观看影视
-      time: 11-11
+      time: 11-27
     - name: Homowarden
       url: https://github.com/DreamistW/Homowarden
       link: https://github.com/DreamistW/Homowarden/releases
@@ -423,7 +423,7 @@ categories:
       url: https://github.com/erosTeam/NextE
       link: https://github.com/erosTeam/NextE/releases
       desc: 鸿蒙原生E-Hentai/ExHentai客户端，支持画廊浏览与下载
-      time: 11-17
+      time: 11-27
     - name: Kelivo
       url: https://github.com/Chevey339/kelivo
       link: https://github.com/Chevey339/kelivo/releases
@@ -433,7 +433,7 @@ categories:
       url: https://github.com/miramira8295/Petrelgram
       link: https://github.com/miramira8295/Petrelgram/releases
       desc: 第三方✈鸿蒙版，基于 TDLib 的 Telegram 客户端，支持多账号与音视频通话
-      time: 11-26
+      time: 11-27
     - name: NekoBox
       url: https://github.com/xiaoli8571/NekoBox4Harmony
       link: https://github.com/xiaoli8571/NekoBox4Harmony/releases
