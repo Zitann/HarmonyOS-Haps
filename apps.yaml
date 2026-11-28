@@ -17,7 +17,7 @@ categories:
       url: https://github.com/chai2shi-spec/pilink
       link: https://github.com/chai2shi-spec/pilink/releases
       desc: 鸿蒙 B 站第三方视频播放器
-      time: 11-25
+      time: 11-28
     - name: NoyACG
       url: https://github.com/Oearawa/NoyACG
       link: https://github.com/Oearawa/NoyACG/releases
@@ -52,7 +52,7 @@ categories:
       url: https://github.com/honjow/Koma
       link: https://github.com/honjow/Koma/releases
       desc: 鸿蒙原生多源漫画书架与阅读器
-      time: 11-26
+      time: 11-27
     - name: LibreTV
       url: https://github.com/panhaichen-creator/LibreTV-for-HarmonyOS
       link: https://github.com/panhaichen-creator/LibreTV-for-HarmonyOS/releases
@@ -177,7 +177,7 @@ categories:
       url: https://github.com/Tlntin/home-cloud-shield
       link: https://github.com/Tlntin/home-cloud-shield/releases
       desc: 鸿蒙本地DNS过滤应用，支持AdGuard风格规则拦截广告
-      time: 11-26
+      time: 11-28
     - name: OHsidian
       url: https://github.com/HanversionOvO/OHSidian
       link: https://github.com/HanversionOvO/OHSidian/releases

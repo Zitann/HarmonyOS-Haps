@@ -63,16 +63,16 @@
 
 | 软件 | 描述 | 下载链接 | 更新 |
 | --- | --- | --- | --- |
+| [Pilink](https://github.com/chai2shi-spec/pilink) | 鸿蒙 B 站第三方视频播放器 | [Link](https://github.com/chai2shi-spec/pilink/releases) | 11-28 |
+| [栖云盾](https://github.com/Tlntin/home-cloud-shield) | 鸿蒙本地DNS过滤应用，支持AdGuard风格规则拦截广告 | [Link](https://github.com/Tlntin/home-cloud-shield/releases) | 11-28 |
+| [Koma](https://github.com/honjow/Koma) | 鸿蒙原生多源漫画书架与阅读器 | [Link](https://github.com/honjow/Koma/releases) | 11-27 |
 | [AniCh](https://github.com/Sle2p/AniCh) | 多番剧源的在线动漫弹幕应用，支持超分辨率与离线缓存 | [Link](https://github.com/Sle2p/AniCh/releases) | 11-27 |
 | [JMComic](https://github.com/LovelyFlash/JMComic-HarmonyOS) | 漫画阅读工具（作者：LovelyFlash） | [Link](https://github.com/LovelyFlash/JMComic-HarmonyOS/releases) | 11-27 |
 | [TikToh](https://github.com/DUDUXXR2/tiktoh) | 鸿蒙短视频客户端，支持 TikTok 与抖音浏览 | [Link](https://github.com/DUDUXXR2/tiktoh/releases) | 11-26 |
 | [Qwitter](https://github.com/llnode/hmos-qwitter) | 鸿蒙版 X 客户端，支持时间线、通知与聊天 | [Link](https://github.com/llnode/hmos-qwitter/releases) | 11-26 |
 | [ArkClash](https://github.com/VOD-Studio/ArkClash) | 基于 Mihomo 内核的鸿蒙代理客户端 | [Link](https://github.com/VOD-Studio/ArkClash/releases) | 11-26 |
-| [Koma](https://github.com/honjow/Koma) | 鸿蒙原生多源漫画书架与阅读器 | [Link](https://github.com/honjow/Koma/releases) | 11-26 |
 | [YourPipe](https://github.com/Ember5843/YourPipe) | 基于NewPipe Extractor的鸿蒙YouTube客户端 | [Link](https://github.com/Ember5843/YourPipe/releases) | 11-26 |
 | [AMCL](https://github.com/LZZLHY/amcl) | 鸿蒙版全量Java版我的世界启动器 | [Link](https://github.com/LZZLHY/amcl/releases) | 11-26 |
-| [栖云盾](https://github.com/Tlntin/home-cloud-shield) | 鸿蒙本地DNS过滤应用，支持AdGuard风格规则拦截广告 | [Link](https://github.com/Tlntin/home-cloud-shield/releases) | 11-26 |
-| [Pilink](https://github.com/chai2shi-spec/pilink) | 鸿蒙 B 站第三方视频播放器 | [Link](https://github.com/chai2shi-spec/pilink/releases) | 11-25 |
 | [联文件](https://github.com/fhf2022/lvlian-view-hm) | 绿联 NAS 鸿蒙文件管理器，支持图片浏览与文件传输 | [Link](https://github.com/fhf2022/lvlian-view-hm/releases) | 11-25 |
 | [PiliPro](https://github.com/Oearawa/PiliPro) | 基于 PiliPlus 的鸿蒙 B 站客户端 | [Link](https://github.com/Oearawa/PiliPro/releases) | 11-23 |
 | [知乎++](https://github.com/zhuoyi233/zhihu-plus-plus-HMOS) | 知乎++ 鸿蒙原生版，注重隐私与去广告的知乎客户端 | [Link](https://github.com/zhuoyi233/zhihu-plus-plus-HMOS/releases) | 11-23 |
